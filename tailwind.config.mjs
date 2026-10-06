@@ -1,0 +1,55 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ['./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}'],
+  darkMode: 'class',
+  theme: {
+    extend: {
+      colors: {
+        saffron: {
+          50: '#fffbf5',
+          100: '#fff4e5',
+          200: '#ffe3c2',
+          300: '#ffd094',
+          400: '#ffab47',
+          500: '#f58216',
+          600: '#d96208',
+          700: '#b34707',
+          800: '#8e380e',
+          900: '#73300f',
+          950: '#3e1605',
+        },
+        parchment: {
+          50: '#fdfbf7',
+          100: '#fbf7ee',
+          200: '#f5edd9',
+          300: '#ebdcb8',
+          400: '#dec491',
+          500: '#cfaa6c',
+          600: '#bd9152',
+          700: '#9d7442',
+          800: '#805d39',
+          900: '#694c32',
+          950: '#382618',
+        },
+        sand: {
+          50: '#f9f9f8',
+          100: '#f2f2ef',
+          200: '#e2e2dc',
+          300: '#cccccc',
+          400: '#b0b0a4',
+          500: '#949485',
+          600: '#777768',
+          700: '#5e5e52',
+          800: '#48483f',
+          900: '#33332d',
+          950: '#1c1c18',
+        },
+      },
+      fontFamily: {
+        serif: ['Georgia', 'Cambria', '"Times New Roman"', 'serif'],
+        sans: ['system-ui', '-apple-system', 'BlinkMacSystemFont', '"Segoe UI"', 'Roboto', 'sans-serif'],
+      },
+    },
+  },
+  plugins: [],
+};

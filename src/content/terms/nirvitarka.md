@@ -1,0 +1,26 @@
+---
+title: "Nirvitarkā (निर्वितर्का)"
+devanagari: "निर्वितर्का"
+iast: "Nirvitarkā"
+aliases:
+  - "Nirvitarka"
+  - "निर्वितर्का"
+---
+
+**Nirvitarkā**
+Meaning: “without reasoning”
+ 
+**A Concise Dictionary of Indian Philosophy**
+Definition: A concentration on objects without any notion of their names and qualities. According to the Yoga school, it is a state of concentration.
+
+**The Science of Yoga (I. K. Taimni)**
+Definition: "a state of Samādhi characterized by absence of Vitarka"
+Commentary: "The confused state of the mind in which different kinds of knowledge were mixed up has been gradually replaced by a clarified state in which the three kinds of knowledge are seen separate and clearly distinguishable. This clarification is called Smṛti-Pariśuddhau in the present Sutra. Why is this resolution of knowledge present in the mind of the Yogi called ‘clearing up of memory’? To understand the reason for the use of the word Smṛti in this connection the student should recall Part 1, Sutra 6 in which the Vṛtti or modifications of the mind are classified under five heads and Smṛti or memory is one of these. If he has understood the basis of this classification, he will see at once that the modification of the mind in Savitarkā Samādhi comes under Smṛti or memory. As the Yogi’s mind is cut off completely from the external world, the modification cannot come under ‘right knowledge’ or ‘wrong knowledge.’ As he is not asleep but fully conscious, it cannot come under ‘sleep.’ As he is performing Saṃyama not on any imaginary thing but on a definite thing of which the reality is to be known, the modification cannot come under ‘imagination.’ The modification is really of the nature of memory because it is a reproduction in the mind of a thing which has been experienced before. That is why Patañjali calls the process of clearing up as ‘clarification of memory.’
+
+When the memory has become clarified, the mind is ready for the next step, viz. reducing the self-awareness to the utmost limit. This mental process which is called Svarūpa-Sunya has been explained in dealing with Part 3, Sutra 3 and it is not necessary to go into this question here, but two facts may be pointed out in this connection. The first point we should note is that the dissolution of the mental self-awareness can come only after the resolution of the composite and complex knowledge with regard to the object into its three clearly defined constituents. This is clear from the word Pari-Śuddhau which means ‘on the clearing up of.’ The second point to which attention may be drawn is the significance of the word Iva after Sunya. The word Iva means ‘as if’ and it is used to signify that though the mind seems to disappear, it is still there. The very fact that the ‘object’ is ‘shining’ in it points to the presence of the mind. It is only its subjective nature which has disappeared in the object, as it were, thus bringing about a fusion of the subjective and objective which is necessary for attaining the Samādhi state. It is this fusion which brings about the disappearance of the other two constituents Śabda and Jñāna leaving the pure knowledge or Svarūpa of the object alone to fill the mind. The object is then seen in its naked reality. The use of the word Nirbhāsā which means ‘shining’ for describing the filling of the mind with the Svarūpa or real knowledge of the ‘object’ follows naturally from the simile used in Part 1, Sutra 41 for illustrating the fusion of subjective and objective. The mind though itself imperceptible like the transparent jewel yet shines with the light of true knowledge of the object. The use of the word Nirvitarkā for a state of Samādhi in which there is no Vitarka also requires some explanation. One can understand the use of the word Savitarkā in the previous Sutra because the state of Samādhi is accompanied by Vitarka. But why use the word Nirvitarkā for a state in which there is no Vitarka? Simply to indicate the nature of the state which has gone before. When one says that his mind is unburdened, it means not only that there is no burden on it now but also that it was burdened before. The use of the word Nirvitarkā in this Sutra means, therefore, that the state indicated is arrived at after passing through the Savitarkā state and is merely the consummation or culmination of the previous state. The consciousness is still functioning at the same level and in the same vehicle though it has reached the utmost limit as far as knowledge with regard to that object on that plane is concerned. Any further change in this state can only be a repetition of itself as explained in connection with Part 3, Sutra 12. It is only by the practice of Nirodha that consciousness can pass on into the next vehicle and a new series of changes at a higher level can begin." (p. 103-104)
+
+References:
+1. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press 
+2. Taimni, I. K. (1975). The Science of Yoga: The Yoga-Sūtras of Patañjali in Sanskrit with Transliteration in Roman, Translation in English and Commentary: Theosophical Publishing House. p. 103-104.
+
+ 

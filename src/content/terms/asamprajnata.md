@@ -1,0 +1,40 @@
+---
+title: "Asamprajñāta (असम्प्रज्ञातः)"
+devanagari: "असम्प्रज्ञातः"
+iast: "Asamprajñāta"
+aliases:
+  - "असम्प्रज्ञातः"
+  - "Asamprajnata"
+---
+
+**Asamprajñāta**
+Meaning: “not the Samādhi with Prajñā”
+ 
+**The Yoga Darśana (Gangānātha Jhā)**
+Translation: "Abstract or Unconscious Meditation"
+From the PREFACE: "Abstract or Unconscious Meditation is of two kinds—the Upāyapratyaya and the Bhavapratyaya. The Upāyapratyaya meditation is that which is accomplished by practice, during present life, of the various means prescribed in the Sutra. Such means are faith, energetic concentration of the mind, constant contemplation, meditation and discernment born of Conscious Meditation. These five lead to Unconscious Meditation through Absolute Dispassion; and when all this is employed with great energy, there then comes about Unconscious Meditation. But even though the agent is not sufficiently energetic, if he is devoted to God, he obtains the same results. ‘Devotion to God’ is a very potent factor in this, in as much as it puts an effective end to all evils that impede the progress of meditation. The Bhavapratyaya meditation is that which is accomplished during present life, but by force of practices carried on during preceding lives. This belongs to such persons as are either ‘Videhas’—i.e., Bodiless Beings, such as Hiraṇyagarbha and the like, who carry on all their functions by means of the subtle body, and do not need the gross body—or ‘Prakṛtilayas,’ or those who have attained to the position of the godhead after having worked up their way through the several ‘coverings’ or ‘obstacles’ to their upward progress, in the shape of Nature and its modifications. As this passage upward cannot be completed in only one life, it is not possible in the case of Conscious Meditation, which must come about as soon as its details have been fulfilled—after which there is nothing to delay the accomplishment of the meditation; all this, therefore, being finished in a single life. It is for this reason that Conscious Meditation has not been divided into Upāyapratyaya and Bhavapratyaya: it is always Upāyapratyaya. 
+
+> "Though Unconscious Meditation is of the form of Inhibition, yet, while being practised, it develops in due course fresh powers and faculties at each step; and through these, the Meditation develops itself in due time; as each faculty appears, it reduces the force of opposing faculties tending to retard the required Inhibition of Mind, until true knowledge is finally attained. Thus, it is that in the final stage of Unconscious Meditation, all contending forces and faculties are laid at rest, and all evils having ceased, there remains no force in the opposing Prārabdha Karma of the aspirant. The mind thus having all its functions duly performed and inhibited, melts away along with all its products, into its source. This absolute sleep of the mind constitutes the Isolation (Release) of the Self."  
+
+**The Science of Yoga (I. K. Taimni)**
+Commentary: "The prefix A in Sanskrit means ‘not’ and therefore Asamprajñāta Samādhi means ‘not the Samādhi with Prajñā’. Asamprajñāta Samādhi is therefore not the Samādhi without Prajñā, which would be the opposite of Samprajñāta Samādhi. It is a state of Samādhi which, though associated with Prajñā, is yet different from Samprajñāta Samādhi. It may therefore be considered a correlative of Samprajñāta Samādhi.
+
+[...] If both Samprajñāta and Asamprajñāta Samādhi are associated with Prajñā (Samprajñā), where lays the difference between the two? The difference lies in the presence or absence of a Pratyaya in the field of consciousness."  (p. 37.)
+
+Figure 1
+
+"There are two other interesting points which may be discussed briefly before we leave the subject of Asamprajñāta Samādhi. One is the nature of the point O (Figure No. 1) through which consciousness passes from one plane to another. This point which has been called the Laya centre is the common centre in which all the vehicles of the Jīvātman may be said to be centred. It is only through such a centre, which is called a Bindu in Sanskrit, that transference of consciousness from one plane to another can take place.
+
+As a matter of fact there is only the centre of Reality surrounded by a number of concentric vehicles and whichever vehicle is illuminated by consciousness derives its illumination from that centre. But the concentration of consciousness in a particular vehicle makes it appear as if the consciousness is moving up and down along the line or point which connects all the vehicles. An Adept, whose consciousness is permanently centred on the Atmic plane, focuses his attention temporarily in any particular vehicle and for the time being the objects connected with that vehicle come within the field of his consciousness. The centre of his consciousness thus appears to have moved into one vehicle or another but in reality it has not moved at all. Consciousness which is all the time centred in Reality has merely been focussed in one vehicle or another. It is in this particular sense that the transference of consciousness from one vehicle to another in Samādhi must be understood if we are not to become involved in the philosophical absurdity of imagining consciousness which transcends Time and Space moving from one place to another.
+
+The second point which the student may note in this connection is that the common centre of all vehicles being the meeting point of all the planes, consciousness must always be withdrawn to this before it can be transferred to another vehicle, just as a person going along one road must return to the crossing before he can take to another road. Asamprajñāta Samādhi will be thus seen to be nothing but this withdrawal of consciousness to its Laya centre before it can begin to function on another plane. If the consciousness remains permanently established in the centre of Reality, as it is in the case of a highly advanced Adept, the question of withdrawing it to the centre does not arise. From this vantage-ground he commands an all-embracing view of all the lower planes and can instantaneously begin to function on any plane he likes.
+
+The question may be asked: “Why, if this common centre of all vehicles is also the centre of Reality within each Yogi, does he not get a glimpse of Reality in passing through it from one plane to another? The possibility of such a glimpse certainly exists on account of the unique nature of this point. What then prevents the Yogi from touching Reality every time he practises Asamprajñāta Samādhi? The answer to this question is contained in some of the Sutras occurring in the latter portion of Section IV. It is the Saṃskāra still burdening the Yogi's mind which obscure his vision and prevent him from obtaining a glimpse of Reality. These Saṃskāra must be destroyed completely before he is free to pass into the realm of Reality from whatever point he wills. But though the Yogi, still burdened with Saṃskāra, cannot gain a clear glimpse of Reality, he can sense, as it were, the Reality more and more as he makes progress towards his goal and the burden of his Saṃskāra becomes lighter. Viewed in this manner, every successive Asamprajñāta Samādhi is a precursor of Nirbīja Samādhi which alone gives an unobstructed vision of Reality." (p. 45-46)
+
+"Asamprajñāta Samādhi is nothing but the state of the mind in which the Pratyaya or ‘seed’ has been made to disappear by the practice of Nirodha. This condition of Nirodha is not a state of ordinary mental vacuum, but a state of Samādhi in which the Yogi is in complete control of the mind." (p. 262)
+
+References:
+1. Jhā, Gangānātha (1907). The Yoga Darśana: The Sūtra of Patañjali with the Bhāṣya of Vyasa. Bombay: Rajaram Tukaram Tatya 
+2. Taimni, I. K. (1975). The Science of Yoga: The Yoga-Sūtras of Patañjali in Sanskrit with Transliteration in Roman, Translation in English and Commentary: Theosophical Publishing House. p. 37, 45-46, 262.
+ 
+ 

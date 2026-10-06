@@ -1,0 +1,56 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+interface Props {
+  title?: string;
+  description?: string;
+  devanagari?: string;
+}
+
+const {
+  title = 'Indian Philosophy KB',
+  description = 'Comprehensive Knowledge Base for Indian Philosophy, Sanskrit terms, IAST transliteration, and Darśana systems.',
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <!-- Theme Initialization Script to prevent FOUC -->
+    <script is:inline>
+      const savedTheme = localStorage.getItem('theme');
+      const systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if (savedTheme === 'dark' || (!savedTheme && systemDark)) {
+        document.documentElement.classList.add('dark');
+      } else {
+        document.documentElement.classList.remove('dark');
+      }
+    </script>
+  </head>
+  <body class="min-h-screen flex flex-col antialiased">
+    <Header />
+
+    <div class="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+      <slot />
+    </div>
+
+    <Footer />
+
+    <!-- Internal Link Hover Preview Popover Card -->
+    <div id="term-popover" aria-hidden="true">
+      <h4 id="popover-title" class="font-serif font-bold text-amber-700 dark:text-amber-400 text-sm"></h4>
+      <p id="popover-summary" class="text-xs text-stone-600 dark:text-stone-300 mt-1 line-clamp-3"></p>
+    </div>
+  </body>
+</html>

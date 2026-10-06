@@ -1,17 +1,89 @@
 ---
+import HomeLayout from '../layouts/HomeLayout.astro';
+import { getEntry, render } from 'astro:content';
 
+const kbEntry = await getEntry('kb', 'indianphilosophykb');
+const { Content } = kbEntry ? await render(kbEntry) : { Content: null };
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link rel="icon" href="/favicon.ico" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<HomeLayout
+  title="Indian Philosophy Knowledge Base - Overview & Index"
+  description="Master index and classical philosophical architecture of Indian Philosophy, covering Epistemology, Ontology, Cosmology, Psychology, Embodiment, Practical Discipline, and Traditions."
+>
+  <div class="prose max-w-none">
+    <div id="homepage-content" class="space-y-6">
+      {Content ? <Content /> : <p class="text-stone-500 italic">Loading knowledge base index...</p>}
+    </div>
+  </div>
+</HomeLayout>
+
+<script>
+  function setupBiDirectionalSync() {
+    const sidebarSubLinks = document.querySelectorAll<HTMLAnchorElement>('[data-subcategory-hash]');
+    const calloutSections = document.querySelectorAll<HTMLDetailsElement>('details.kb-section, section, [id]');
+
+    // 1. Sidebar -> Homepage: Listen for hash changes / clicks
+    function handleHashChange() {
+      const hash = window.location.hash.replace('#', '');
+      if (!hash) return;
+
+      const targetEl = document.getElementById(hash);
+      if (targetEl) {
+        // If target is inside a details, open parent details
+        let current: HTMLElement | null = targetEl;
+        while (current) {
+          if (current.tagName === 'DETAILS') {
+            (current as HTMLDetailsElement).open = true;
+          }
+          current = current.parentElement;
+        }
+
+        targetEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        highlightSidebarLink(hash);
+      }
+    }
+
+    function highlightSidebarLink(hash: string) {
+      sidebarSubLinks.forEach((link) => {
+        const linkHash = link.getAttribute('data-subcategory-hash');
+        if (linkHash === hash) {
+          link.classList.add('text-amber-600', 'dark:text-amber-400', 'font-bold', 'underline');
+          // Ensure parent details in sidebar is open
+          let p: HTMLElement | null = link.parentElement;
+          while (p) {
+            if (p.tagName === 'DETAILS') {
+              (p as HTMLDetailsElement).open = true;
+            }
+            p = p.parentElement;
+          }
+        } else {
+          link.classList.remove('text-amber-600', 'dark:text-amber-400', 'font-bold', 'underline');
+        }
+      });
+    }
+
+    // 2. Homepage -> Sidebar: IntersectionObserver to update active sidebar item on scroll
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting && entry.target.id) {
+            highlightSidebarLink(entry.target.id);
+          }
+        });
+      },
+      { rootMargin: '-100px 0px -60% 0px' }
+    );
+
+    document.querySelectorAll<HTMLElement>('h2[id], h3[id], section[id], details[id]').forEach((el) => {
+      observer.observe(el);
+    });
+
+    window.addEventListener('hashchange', handleHashChange);
+    if (window.location.hash) {
+      setTimeout(handleHashChange, 100);
+    }
+  }
+
+  setupBiDirectionalSync();
+  document.addEventListener('astro:after-swap', setupBiDirectionalSync);
+</script>

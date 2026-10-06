@@ -1,0 +1,26 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import LeftSidebar from '../components/LeftSidebar.astro';
+import BackToTop from '../components/BackToTop.astro';
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="flex flex-col lg:flex-row gap-8 min-h-[calc(100vh-12rem)]">
+    <!-- Left Persistent Sidebar -->
+    <LeftSidebar />
+
+    <!-- Main Content Area -->
+    <main class="flex-1 min-w-0 py-2">
+      <slot />
+    </main>
+  </div>
+
+  <BackToTop />
+</BaseLayout>

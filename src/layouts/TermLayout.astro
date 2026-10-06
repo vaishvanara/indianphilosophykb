@@ -1,0 +1,161 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import LeftSidebar from '../components/LeftSidebar.astro';
+import RightSidebar from '../components/RightSidebar.astro';
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import PageNav from '../components/PageNav.astro';
+import BackToTop from '../components/BackToTop.astro';
+
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  title: string;
+  devanagari?: string;
+  iast?: string;
+  lastUpdated?: Date | string;
+  headings?: Heading[];
+  partTitle?: string;
+  subCategoryTitle?: string;
+  slug: string;
+}
+
+const { title, devanagari, iast, lastUpdated, headings = [], partTitle, subCategoryTitle, slug } = Astro.props;
+
+const formattedDate = lastUpdated
+  ? new Date(lastUpdated).toLocaleDateString('en-US', {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric',
+    })
+  : 'Oct 5, 2026';
+---
+
+<BaseLayout title={`${title} - Indian Philosophy KB`} description={`Definition, etymology, and philosophical analysis of ${title} in Indian Philosophy.`}>
+  <div class="flex flex-col lg:flex-row gap-8">
+    <!-- Left Sidebar -->
+    <LeftSidebar currentSlug={slug} />
+
+    <!-- Main Article Column -->
+    <main class="flex-1 min-w-0 py-2">
+      <Breadcrumbs partTitle={partTitle} subCategoryTitle={subCategoryTitle} termTitle={title} />
+
+      <article class="prose max-w-none">
+        <header class="mb-6 pb-4 border-b border-stone-200 dark:border-stone-800">
+          <h1 class="text-3xl sm:text-4xl font-serif font-bold text-stone-900 dark:text-stone-100 tracking-tight mb-2">
+            {title}
+          </h1>
+
+          <div class="flex flex-wrap items-center gap-4 text-xs text-stone-500 dark:text-stone-400 font-sans">
+            {
+              devanagari && (
+                <span class="px-2 py-0.5 rounded bg-amber-100 dark:bg-amber-950/80 text-amber-900 dark:text-amber-300 font-serif font-semibold text-sm">
+                  {devanagari}
+                </span>
+              )
+            }
+            {iast && <span class="italic font-serif">{iast}</span>}
+            <span class="text-stone-300 dark:text-stone-700">•</span>
+            <span>Last updated: {formattedDate}</span>
+          </div>
+        </header>
+
+        <!-- Article Markdown Content -->
+        <div class="term-content">
+          <slot />
+        </div>
+      </article>
+
+      <!-- Sequential Prev/Next Navigation -->
+      <PageNav currentSlug={slug} />
+    </main>
+
+    <!-- Right TOC Sidebar -->
+    <RightSidebar headings={headings} />
+  </div>
+
+  <BackToTop />
+</BaseLayout>
+
+<!-- Link Preview Hover Popover Script -->
+<script>
+  function setupLinkPreviews() {
+    const popover = document.getElementById('term-popover');
+    const popTitle = document.getElementById('popover-title');
+    const popSummary = document.getElementById('popover-summary');
+    if (!popover || !popTitle || !popSummary) return;
+
+    // Cache term summaries to prevent repeated fetches
+    const previewCache = new Map<string, { title: string; summary: string }>();
+
+    const termLinks = document.querySelectorAll('a[href^="/terms/"]');
+
+    termLinks.forEach((link) => {
+      const href = link.getAttribute('href');
+      if (!href) return;
+      const slug = href.replace('/terms/', '').split('#')[0];
+      if (!slug) return;
+
+      link.addEventListener('mouseenter', async (e) => {
+        const mouseEvent = e as MouseEvent;
+
+        if (previewCache.has(slug)) {
+          const data = previewCache.get(slug)!;
+          showPopover(data.title, data.summary, mouseEvent);
+          return;
+        }
+
+        try {
+          const res = await fetch(`/terms/${slug}`);
+          if (!res.ok) return;
+          const html = await res.text();
+          const doc = new DOMParser().parseFromString(html, 'text/html');
+
+          const pageTitle = doc.querySelector('h1')?.textContent?.trim() || slug;
+          const summaryText = doc.querySelector('article p')?.textContent?.trim() || 'View detailed article for this philosophical term.';
+
+          previewCache.set(slug, { title: pageTitle, summary: summaryText });
+          showPopover(pageTitle, summaryText, mouseEvent);
+        } catch {
+          // Ignore fetch errors for popover
+        }
+      });
+
+      link.addEventListener('mouseleave', () => {
+        hidePopover();
+      });
+
+      link.addEventListener('mousemove', (e) => {
+        const mouseEvent = e as MouseEvent;
+        movePopover(mouseEvent);
+      });
+    });
+
+    function showPopover(title: string, summary: string, e: MouseEvent) {
+      if (!popTitle || !popSummary || !popover) return;
+      popTitle.textContent = title;
+      popSummary.textContent = summary;
+      movePopover(e);
+      popover.classList.add('visible');
+    }
+
+    function movePopover(e: MouseEvent) {
+      if (!popover) return;
+      const x = Math.min(e.clientX + 15, window.innerWidth - 360);
+      const y = Math.min(e.clientY + 15, window.innerHeight - 180);
+      popover.style.left = `${x}px`;
+      popover.style.top = `${y}px`;
+    }
+
+    function hidePopover() {
+      if (!popover) return;
+      popover.classList.remove('visible');
+    }
+  }
+
+  setupLinkPreviews();
+  document.addEventListener('astro:after-swap', setupLinkPreviews);
+</script>

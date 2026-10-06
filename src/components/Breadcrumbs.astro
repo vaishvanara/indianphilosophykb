@@ -1,0 +1,50 @@
+---
+interface Props {
+  partTitle?: string;
+  subCategoryTitle?: string;
+  termTitle?: string;
+}
+
+const { partTitle, subCategoryTitle, termTitle } = Astro.props;
+---
+
+<nav aria-label="Breadcrumb" class="flex items-center text-xs text-stone-500 dark:text-stone-400 font-sans mb-4 overflow-x-auto whitespace-nowrap py-1">
+  <ol class="flex items-center space-x-1.5">
+    <li>
+      <a href="/" class="hover:text-amber-600 dark:hover:text-amber-400 transition-colors flex items-center gap-1 font-serif">
+        <span>Home</span>
+      </a>
+    </li>
+
+    {
+      partTitle && (
+        <>
+          <li class="text-stone-300 dark:text-stone-600">/</li>
+          <li>
+            <span class="hover:text-amber-600 dark:hover:text-amber-400 cursor-default">{partTitle}</span>
+          </li>
+        </>
+      )
+    }
+
+    {
+      subCategoryTitle && (
+        <>
+          <li class="text-stone-300 dark:text-stone-600">/</li>
+          <li>
+            <span class="hover:text-amber-600 dark:hover:text-amber-400 cursor-default">{subCategoryTitle}</span>
+          </li>
+        </>
+      )
+    }
+
+    {
+      termTitle && (
+        <>
+          <li class="text-stone-300 dark:text-stone-600">/</li>
+          <li class="font-semibold text-amber-700 dark:text-amber-400 font-serif">{termTitle}</li>
+        </>
+      )
+    }
+  </ol>
+</nav>

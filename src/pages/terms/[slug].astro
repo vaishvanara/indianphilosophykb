@@ -1,0 +1,33 @@
+---
+import { getCollection, render } from 'astro:content';
+import TermLayout from '../../layouts/TermLayout.astro';
+import { getCategoryForTerm } from '../../data/categoryMap';
+
+export async function getStaticPaths() {
+  const terms = await getCollection('terms');
+  return terms.map((entry) => ({
+    params: { slug: entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content, headings } = await render(entry);
+
+const categoryInfo = getCategoryForTerm(entry.id);
+const partTitle = categoryInfo?.part.title;
+const subCategoryTitle = categoryInfo?.subcategory.title;
+---
+
+<TermLayout
+  title={entry.data.title}
+  devanagari={entry.data.devanagari}
+  iast={entry.data.iast}
+  lastUpdated={entry.data.lastUpdated}
+  headings={headings}
+  partTitle={partTitle}
+  subCategoryTitle={subCategoryTitle}
+  slug={entry.id}
+>
+  <Content />
+</TermLayout>
