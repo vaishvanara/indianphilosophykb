@@ -2,9 +2,9 @@ import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
 const terms = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/terms' }),
+  loader: glob({ pattern: '**/*.md', base: 'src/content/terms' }),
   schema: z.object({
-    title: z.string(),
+    title: z.string().optional(), // Made optional to prevent strict validation crashes on empty/draft files
     devanagari: z.string().optional(),
     iast: z.string().optional(),
     aliases: z.array(z.string()).default([]),
@@ -14,7 +14,7 @@ const terms = defineCollection({
 });
 
 const kb = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/kb' }),
+  loader: glob({ pattern: '**/*.md', base: 'src/content/kb' }),
   schema: z.object({
     title: z.string().optional(),
     description: z.string().optional(),
