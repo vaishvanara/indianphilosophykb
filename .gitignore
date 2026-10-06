@@ -6,4 +6,5 @@ coverage/
 *.log
 .env*
 !.env.example
-.astro/dev.json
+dev.json
+.astro/
