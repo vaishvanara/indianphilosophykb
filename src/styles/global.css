@@ -199,3 +199,9 @@ details.kb-section .kb-section-body {
 .dark .toc-link.is-active {
   color: var(--accent-hover);
 }
+
+.prose img {
+  max-width: 100%;
+  height: auto;
+  margin-inline: auto;
+}
