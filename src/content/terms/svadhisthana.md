@@ -4,6 +4,7 @@ devanagari: "स्वाधिष्ठान"
 iast: "Svadhiṣṭhāna"
 aliases:
   - "Svadhisthana"
+  - "Swadhisthana"
   - "स्वाधिष्ठान"
 ---
 
