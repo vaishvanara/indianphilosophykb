@@ -11,31 +11,70 @@ const searchIndex = allTerms.map((term) => ({
   aliases: term.data.aliases || [],
   summary: term.data.summary || '',
 }));
+
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
 ---
 
-<div class="relative w-full max-w-md">
+<div data-search-root class="relative w-full max-w-md">
   <button
     id="search-trigger"
     type="button"
     class="w-full flex items-center justify-between px-3.5 py-1.5 text-sm rounded-lg border border-stone-300 dark:border-stone-700 bg-stone-100/80 dark:bg-stone-800/80 text-stone-600 dark:text-stone-300 hover:border-amber-500/60 transition-colors shadow-sm focus:outline-none"
   >
     <div class="flex items-center gap-2">
-      <svg class="w-4 h-4 text-stone-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+      <svg
+        class="w-4 h-4 text-stone-400"
+        fill="none"
+        stroke="currentColor"
+        viewBox="0 0 24 24"
+      >
+        <path
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          stroke-width="2"
+          d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+        />
       </svg>
-      <span>Search terms (Devanagari, IAST, English)...</span>
+
+      <span>
+        Search terms (Devanagari, IAST, English)...
+      </span>
     </div>
-    <kbd class="hidden sm:inline-block px-1.5 py-0.5 text-xs font-mono font-semibold text-stone-400 bg-stone-200 dark:bg-stone-700 rounded"> / </kbd>
+
+    <kbd
+      class="hidden sm:inline-block px-1.5 py-0.5 text-xs font-mono font-semibold text-stone-400 bg-stone-200 dark:bg-stone-700 rounded"
+    >
+      /
+    </kbd>
   </button>
 
   <!-- Search Modal -->
-  <div id="search-modal" class="fixed inset-0 z-50 hidden bg-stone-900/60 backdrop-blur-xs flex items-start justify-center pt-16 px-4">
-    <div class="relative w-full max-w-2xl bg-stone-50 dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-2xl overflow-hidden flex flex-col max-h-[80vh]">
+  <div
+    id="search-modal"
+    class="fixed inset-0 z-50 hidden bg-stone-900/60 backdrop-blur-xs flex items-start justify-center pt-16 px-4"
+  >
+    <div
+      id="search-dialog"
+      class="relative w-full max-w-2xl bg-stone-50 dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-2xl overflow-hidden flex flex-col max-h-[80vh]"
+    >
       <!-- Header / Input -->
-      <div class="p-4 border-b border-stone-200 dark:border-stone-800 flex items-center gap-3">
-        <svg class="w-5 h-5 text-amber-600 dark:text-amber-400 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+      <div
+        class="p-4 border-b border-stone-200 dark:border-stone-800 flex items-center gap-3"
+      >
+        <svg
+          class="w-5 h-5 text-amber-600 dark:text-amber-400 shrink-0"
+          fill="none"
+          stroke="currentColor"
+          viewBox="0 0 24 24"
+        >
+          <path
+            stroke-linecap="round"
+            stroke-linejoin="round"
+            stroke-width="2"
+            d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+          />
         </svg>
+
         <input
           id="search-input"
           type="search"
@@ -43,12 +82,25 @@ const searchIndex = allTerms.map((term) => ({
           class="w-full bg-transparent text-stone-900 dark:text-stone-100 text-base focus:outline-none placeholder:text-stone-400"
           autocomplete="off"
         />
-        <button id="search-close" class="text-xs font-semibold px-2 py-1 rounded bg-stone-200 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-300">ESC</button>
+
+        <button
+          id="search-close"
+          type="button"
+          class="text-xs font-semibold px-2 py-1 rounded bg-stone-200 dark:bg-stone-800 text-stone-600 dark:text-stone-300 hover:bg-stone-300 dark:hover:bg-stone-700"
+        >
+          ESC
+        </button>
       </div>
 
       <!-- Results list -->
-      <div id="search-results" class="p-2 overflow-y-auto flex-1 divide-y divide-stone-200/60 dark:divide-stone-800/60">
-        <p id="search-empty" class="p-8 text-center text-stone-500 dark:text-stone-400 text-sm">
+      <div
+        id="search-results"
+        class="p-2 overflow-y-auto flex-1 divide-y divide-stone-200/60 dark:divide-stone-800/60"
+      >
+        <p
+          id="search-empty"
+          class="p-8 text-center text-stone-500 dark:text-stone-400 text-sm"
+        >
           Type above to search across 500+ Indian Philosophy terms.
         </p>
       </div>
@@ -56,83 +108,244 @@ const searchIndex = allTerms.map((term) => ({
   </div>
 </div>
 
-<script is:inline define:vars={{ searchIndex }}>
-  window.__SEARCH_INDEX__ = searchIndex;
+<script is:inline define:vars={{ searchIndex, baseUrl }}>
+  (() => {
+    function initSearch(root) {
+      if (!root || root.dataset.searchInitialized === 'true') {
+        return;
+      }
 
-  function initSearch() {
-    const trigger = document.getElementById('search-trigger');
-    const modal = document.getElementById('search-modal');
-    const input = document.getElementById('search-input');
-    const closeBtn = document.getElementById('search-close');
-    const resultsContainer = document.getElementById('search-results');
+      const trigger = root.querySelector('#search-trigger');
+      const modal = root.querySelector('#search-modal');
+      const dialog = root.querySelector('#search-dialog');
+      const input = root.querySelector('#search-input');
+      const closeBtn = root.querySelector('#search-close');
+      const resultsContainer = root.querySelector('#search-results');
 
-    if (!trigger || !modal || !input) return;
+      if (
+        !trigger ||
+        !modal ||
+        !dialog ||
+        !input ||
+        !resultsContainer
+      ) {
+        return;
+      }
 
-    function openSearch() {
-      modal.classList.remove('hidden');
-      input.focus();
-    }
+      root.dataset.searchInitialized = 'true';
 
-    function closeSearch() {
-      modal.classList.add('hidden');
-      input.value = '';
-    }
+      function openSearch() {
+        modal.classList.remove('hidden');
+        input.focus();
+      }
 
-    trigger.addEventListener('click', openSearch);
-    closeBtn?.addEventListener('click', closeSearch);
+      function closeSearch() {
+        modal.classList.add('hidden');
+        input.value = '';
 
-    modal.addEventListener('click', (e) => {
-      if (e.target === modal) closeSearch();
-    });
+        resultsContainer.innerHTML = `
+          <p
+            id="search-empty"
+            class="p-8 text-center text-stone-500 dark:text-stone-400 text-sm"
+          >
+            Type above to search across 500+ Indian Philosophy terms.
+          </p>
+        `;
+      }
 
-    document.addEventListener('keydown', (e) => {
-      if (e.key === '/' && document.activeElement?.tagName !== 'INPUT' && document.activeElement?.tagName !== 'TEXTAREA') {
-        e.preventDefault();
+      function handleTriggerClick() {
         openSearch();
       }
-      if (e.key === 'Escape' && !modal.classList.contains('hidden')) {
+
+      function handleCloseClick() {
         closeSearch();
       }
-    });
 
-    input.addEventListener('input', () => {
-      const query = input.value.trim().toLowerCase();
-      if (!query) {
-        resultsContainer.innerHTML = '<p class="p-8 text-center text-stone-500 dark:text-stone-400 text-sm">Type above to search across Indian Philosophy terms.</p>';
-        return;
+      /*
+       * Listen at the document level rather than on the modal itself.
+       *
+       * This means the search will close even if some other element
+       * happens to receive the pointer event instead of the backdrop.
+       */
+      function handleDocumentPointerDown(event) {
+        if (modal.classList.contains('hidden')) {
+          return;
+        }
+
+        const target = event.target;
+
+        if (
+          target instanceof Node &&
+          !dialog.contains(target)
+        ) {
+          closeSearch();
+        }
       }
 
-      const matches = window.__SEARCH_INDEX__.filter((item) => {
-        const titleMatch = item.title.toLowerCase().includes(query);
-        const devMatch = item.devanagari.toLowerCase().includes(query);
-        const iastMatch = item.iast.toLowerCase().includes(query);
-        const slugMatch = item.slug.toLowerCase().includes(query);
-        const aliasMatch = item.aliases.some((alias) => alias.toLowerCase().includes(query));
+      function handleKeydown(event) {
+        if (
+          event.key === '/' &&
+          document.activeElement?.tagName !== 'INPUT' &&
+          document.activeElement?.tagName !== 'TEXTAREA'
+        ) {
+          event.preventDefault();
+          openSearch();
+        }
 
-        return titleMatch || devMatch || iastMatch || slugMatch || aliasMatch;
-      }).slice(0, 20);
-
-      if (matches.length === 0) {
-        resultsContainer.innerHTML = `<p class="p-8 text-center text-stone-500 text-sm">No terms found matching "${query}".</p>`;
-        return;
+        if (
+          event.key === 'Escape' &&
+          !modal.classList.contains('hidden')
+        ) {
+          closeSearch();
+        }
       }
 
-      resultsContainer.innerHTML = matches
-        .map(
-          (m) => `
-        <a href="/terms/${m.slug}" class="block p-3 rounded-lg hover:bg-amber-500/10 transition-colors group">
-          <div class="flex items-center justify-between">
-            <span class="font-serif font-semibold text-amber-700 dark:text-amber-400 group-hover:underline">${m.title}</span>
-            <span class="text-xs px-2 py-0.5 rounded bg-amber-100 dark:bg-amber-950/60 text-amber-800 dark:text-amber-300 font-mono">${m.slug}</span>
-          </div>
-          ${m.summary ? `<p class="text-xs text-stone-600 dark:text-stone-400 mt-1 line-clamp-1">${m.summary}</p>` : ''}
-        </a>
-      `
-        )
-        .join('');
-    });
-  }
+      function handleInput() {
+        const query = input.value.trim().toLowerCase();
 
-  initSearch();
-  document.addEventListener('astro:after-swap', initSearch);
+        if (!query) {
+          resultsContainer.innerHTML = `
+            <p
+              id="search-empty"
+              class="p-8 text-center text-stone-500 dark:text-stone-400 text-sm"
+            >
+              Type above to search across 500+ Indian Philosophy terms.
+            </p>
+          `;
+
+          return;
+        }
+
+        const matches = searchIndex
+          .filter((item) => {
+            const titleMatch = item.title
+              .toLowerCase()
+              .includes(query);
+
+            const devMatch = item.devanagari
+              .toLowerCase()
+              .includes(query);
+
+            const iastMatch = item.iast
+              .toLowerCase()
+              .includes(query);
+
+            const slugMatch = item.slug
+              .toLowerCase()
+              .includes(query);
+
+            const aliasMatch = item.aliases.some((alias) =>
+              alias.toLowerCase().includes(query)
+            );
+
+            return (
+              titleMatch ||
+              devMatch ||
+              iastMatch ||
+              slugMatch ||
+              aliasMatch
+            );
+          })
+          .slice(0, 20);
+
+        if (matches.length === 0) {
+          resultsContainer.innerHTML = `
+            <p
+              class="p-8 text-center text-stone-500 dark:text-stone-400 text-sm"
+            >
+              No terms found matching "${query}".
+            </p>
+          `;
+
+          return;
+        }
+
+        resultsContainer.innerHTML = matches
+          .map(
+            (m) => `
+              <a
+                href="${baseUrl}/terms/${encodeURIComponent(m.slug)}"
+                class="block p-3 rounded-lg hover:bg-amber-500/10 transition-colors group"
+              >
+                <div class="flex items-center justify-between">
+                  <span
+                    class="font-serif font-semibold text-amber-700 dark:text-amber-400 group-hover:underline"
+                  >
+                    ${m.title}
+                  </span>
+
+                  <span
+                    class="text-xs px-2 py-0.5 rounded bg-amber-100 dark:bg-amber-950/60 text-amber-800 dark:text-amber-300 font-mono"
+                  >
+                    ${m.slug}
+                  </span>
+                </div>
+
+                ${
+                  m.summary
+                    ? `
+                      <p
+                        class="text-xs text-stone-600 dark:text-stone-400 mt-1 line-clamp-1"
+                      >
+                        ${m.summary}
+                      </p>
+                    `
+                    : ''
+                }
+              </a>
+            `
+          )
+          .join('');
+      }
+
+      trigger.addEventListener(
+        'click',
+        handleTriggerClick
+      );
+
+      closeBtn?.addEventListener(
+        'click',
+        handleCloseClick
+      );
+
+      /*
+       * Capture pointer events before they reach their target.
+       * If the search is open and the pointer is outside the
+       * search dialog, close it.
+       */
+      document.addEventListener(
+        'pointerdown',
+        handleDocumentPointerDown,
+        true
+      );
+
+      document.addEventListener(
+        'keydown',
+        handleKeydown
+      );
+
+      input.addEventListener(
+        'input',
+        handleInput
+      );
+    }
+
+    function initializeAllSearchInstances() {
+      const searchRoots =
+        document.querySelectorAll(
+          '[data-search-root]'
+        );
+
+      searchRoots.forEach((root) => {
+        initSearch(root);
+      });
+    }
+
+    initializeAllSearchInstances();
+
+    document.addEventListener(
+      'astro:after-swap',
+      initializeAllSearchInstances
+    );
+  })();
 </script>
