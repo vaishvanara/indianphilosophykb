@@ -182,6 +182,14 @@ details.kb-section .kb-section-body {
   transition: opacity 0.2s ease, transform 0.2s ease;
 }
 
+#popover-summary {
+  color: #1c1917; /* Dark stone color for high contrast in light mode */
+}
+
+.dark #popover-summary {
+  color: #d6d3d1; /* Preserves light stone color for dark mode */
+}
+
 #term-popover.visible {
   opacity: 1;
   transform: translateY(0);
