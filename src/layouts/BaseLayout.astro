@@ -41,7 +41,7 @@ const {
   <body class="min-h-screen flex flex-col antialiased">
     <Header />
 
-    <div class="flex-1 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+    <div class="flex-1 w-full max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-8 py-6">
       <slot />
     </div>
 
@@ -52,5 +52,258 @@ const {
       <h4 id="popover-title" class="font-serif font-bold text-amber-700 dark:text-amber-400 text-sm"></h4>
       <p id="popover-summary" class="text-xs text-stone-600 dark:text-stone-300 mt-1 line-clamp-3"></p>
     </div>
+    <script>
+        let cleanupLinkPreviews = () => {};
+
+        function setupLinkPreviews() {
+            cleanupLinkPreviews();
+
+            const popover = document.getElementById('term-popover');
+            const popTitle = document.getElementById('popover-title');
+            const popSummary = document.getElementById('popover-summary');
+
+            if (!popover || !popTitle || !popSummary) return;
+
+            const previewCache = new Map<
+                string,
+                { title: string; summary: string }
+            >();
+
+            let activeLink: HTMLAnchorElement | null = null;
+
+            const termLinks = Array.from(
+                document.querySelectorAll<HTMLAnchorElement>('a[href]')
+            );
+
+            const linksWithSlugs = termLinks
+                .map((link) => {
+                    const href = link.getAttribute('href');
+
+                    if (!href || href.startsWith('#')) {
+                        return null;
+                    }
+
+                    try {
+                        const url = new URL(href, window.location.href);
+
+                        // Only preview links on this site.
+                        if (url.origin !== window.location.origin) {
+                            return null;
+                        }
+
+                        // Works with both:
+                        // /terms/foo
+                        // /indianphilosophykb/terms/foo
+                        const match = url.pathname.match(/\/terms\/([^/]+)\/?$/);
+
+                        if (!match) {
+                            return null;
+                        }
+
+                        return {
+                            link,
+                            url,
+                            slug: decodeURIComponent(match[1]),
+                        };
+                    } catch {
+                        return null;
+                    }
+                })
+                .filter(
+                    (
+                        item
+                    ): item is {
+                        link: HTMLAnchorElement;
+                        url: URL;
+                        slug: string;
+                    } => item !== null
+                );
+
+            const movePopover = (event: MouseEvent) => {
+                const width = 340;
+                const height = 180;
+                const margin = 15;
+
+                let x = event.clientX + margin;
+                let y = event.clientY + margin;
+
+                if (x + width > window.innerWidth) {
+                    x = event.clientX - width - margin;
+                }
+
+                if (y + height > window.innerHeight) {
+                    y = event.clientY - height - margin;
+                }
+
+                popover.style.left = `${Math.max(8, x)}px`;
+                popover.style.top = `${Math.max(8, y)}px`;
+            };
+
+            const showPopover = (
+                title: string,
+                summary: string,
+                event: MouseEvent
+            ) => {
+                popTitle.textContent = title;
+                popSummary.textContent = summary;
+
+                movePopover(event);
+
+                popover.classList.add('visible');
+                popover.setAttribute('aria-hidden', 'false');
+            };
+
+            const hidePopover = () => {
+                activeLink = null;
+
+                popover.classList.remove('visible');
+                popover.setAttribute('aria-hidden', 'true');
+            };
+
+            const handlers: Array<{
+                link: HTMLAnchorElement;
+                mouseEnter: (event: MouseEvent) => void;
+                mouseLeave: () => void;
+                mouseMove: (event: MouseEvent) => void;
+            }> = [];
+
+            linksWithSlugs.forEach(({ link, url, slug }) => {
+                const mouseEnter = async (event: MouseEvent) => {
+                    activeLink = link;
+
+                    if (previewCache.has(slug)) {
+                        const data = previewCache.get(slug)!;
+
+                        showPopover(
+                            data.title,
+                            data.summary,
+                            event
+                        );
+
+                        return;
+                    }
+
+                    try {
+                        const previewUrl = new URL(url.href);
+                        previewUrl.hash = '';
+
+                        const response = await fetch(previewUrl.href);
+
+                        if (!response.ok || activeLink !== link) {
+                            return;
+                        }
+
+                        const html = await response.text();
+
+                        const doc = new DOMParser().parseFromString(
+                            html,
+                            'text/html'
+                        );
+
+                        const title =
+                            doc
+                                .querySelector('h1')
+                                ?.textContent
+                                ?.trim() || slug;
+
+                        const summary =
+                            doc
+                                .querySelector('article p')
+                                ?.textContent
+                                ?.trim() ||
+                            'View detailed article for this philosophical term.';
+
+                        const data = {
+                            title,
+                            summary,
+                        };
+
+                        previewCache.set(slug, data);
+
+                        if (activeLink === link) {
+                            showPopover(
+                                title,
+                                summary,
+                                event
+                            );
+                        }
+                    } catch {
+                        // Ignore preview fetch errors.
+                    }
+                };
+
+                const mouseLeave = () => {
+                    if (activeLink === link) {
+                        hidePopover();
+                    }
+                };
+
+                const mouseMove = (event: MouseEvent) => {
+                    if (activeLink === link) {
+                        movePopover(event);
+                    }
+                };
+
+                link.addEventListener(
+                    'mouseenter',
+                    mouseEnter
+                );
+
+                link.addEventListener(
+                    'mouseleave',
+                    mouseLeave
+                );
+
+                link.addEventListener(
+                    'mousemove',
+                    mouseMove
+                );
+
+                handlers.push({
+                    link,
+                    mouseEnter,
+                    mouseLeave,
+                    mouseMove,
+                });
+            });
+
+            cleanupLinkPreviews = () => {
+                handlers.forEach(
+                    ({
+                        link,
+                        mouseEnter,
+                        mouseLeave,
+                        mouseMove,
+                    }) => {
+                        link.removeEventListener(
+                            'mouseenter',
+                            mouseEnter
+                        );
+
+                        link.removeEventListener(
+                            'mouseleave',
+                            mouseLeave
+                        );
+
+                        link.removeEventListener(
+                            'mousemove',
+                            mouseMove
+                        );
+                    }
+                );
+
+                hidePopover();
+
+                cleanupLinkPreviews = () => {};
+            };
+        }
+
+        setupLinkPreviews();
+
+        document.addEventListener(
+            'astro:after-swap',
+            setupLinkPreviews
+        );
+    </script>
   </body>
 </html>

@@ -40,7 +40,7 @@ const formattedDate = lastUpdated
     <LeftSidebar currentSlug={slug} />
 
     <!-- Main Article Column -->
-    <main class="flex-1 min-w-0 py-2">
+    <main class="flex-[1_1_750px] max-w-[750px] min-w-0 py-2">
       <Breadcrumbs partTitle={partTitle} subCategoryTitle={subCategoryTitle} termTitle={title} />
 
       <article class="prose max-w-none">
@@ -79,83 +79,3 @@ const formattedDate = lastUpdated
 
   <BackToTop />
 </BaseLayout>
-
-<!-- Link Preview Hover Popover Script -->
-<script>
-  function setupLinkPreviews() {
-    const popover = document.getElementById('term-popover');
-    const popTitle = document.getElementById('popover-title');
-    const popSummary = document.getElementById('popover-summary');
-    if (!popover || !popTitle || !popSummary) return;
-
-    // Cache term summaries to prevent repeated fetches
-    const previewCache = new Map<string, { title: string; summary: string }>();
-
-    const termLinks = document.querySelectorAll('a[href^="/terms/"]');
-
-    termLinks.forEach((link) => {
-      const href = link.getAttribute('href');
-      if (!href) return;
-      const slug = href.replace('/terms/', '').split('#')[0];
-      if (!slug) return;
-
-      link.addEventListener('mouseenter', async (e) => {
-        const mouseEvent = e as MouseEvent;
-
-        if (previewCache.has(slug)) {
-          const data = previewCache.get(slug)!;
-          showPopover(data.title, data.summary, mouseEvent);
-          return;
-        }
-
-        try {
-          const res = await fetch(`/terms/${slug}`);
-          if (!res.ok) return;
-          const html = await res.text();
-          const doc = new DOMParser().parseFromString(html, 'text/html');
-
-          const pageTitle = doc.querySelector('h1')?.textContent?.trim() || slug;
-          const summaryText = doc.querySelector('article p')?.textContent?.trim() || 'View detailed article for this philosophical term.';
-
-          previewCache.set(slug, { title: pageTitle, summary: summaryText });
-          showPopover(pageTitle, summaryText, mouseEvent);
-        } catch {
-          // Ignore fetch errors for popover
-        }
-      });
-
-      link.addEventListener('mouseleave', () => {
-        hidePopover();
-      });
-
-      link.addEventListener('mousemove', (e) => {
-        const mouseEvent = e as MouseEvent;
-        movePopover(mouseEvent);
-      });
-    });
-
-    function showPopover(title: string, summary: string, e: MouseEvent) {
-      if (!popTitle || !popSummary || !popover) return;
-      popTitle.textContent = title;
-      popSummary.textContent = summary;
-      movePopover(e);
-      popover.classList.add('visible');
-    }
-
-    function movePopover(e: MouseEvent) {
-      if (!popover) return;
-      const x = Math.min(e.clientX + 15, window.innerWidth - 360);
-      const y = Math.min(e.clientY + 15, window.innerHeight - 180);
-      popover.style.left = `${x}px`;
-      popover.style.top = `${y}px`;
-    }
-
-    function hidePopover() {
-      if (!popover) return;
-      popover.classList.remove('visible');
-    }
-  }
-
-  setupLinkPreviews();
-  document.addEventListener('astro:after-swap', setupLinkPreviews);
-</script>

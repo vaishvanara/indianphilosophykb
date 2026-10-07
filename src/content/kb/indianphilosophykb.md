@@ -1,6 +1,6 @@
 ---
 title: Indian Philosophy KB
-description: "to follow"
+description: "Master index and classical philosophical architecture of Indian Philosophy, covering Epistemology, Ontology, Cosmology, Psychology, Embodiment, Practical Discipline, and Traditions."
 ---
 
 # Indian Philosophy KB

@@ -186,3 +186,16 @@ details.kb-section .kb-section-body {
   opacity: 1;
   transform: translateY(0);
 }
+
+/* Active "On This Page" entry */
+.toc-link.is-active {
+  color: var(--accent-saffron);
+  font-weight: 700;
+  background-color: var(--bg-tertiary);
+  border-left: 2px solid var(--accent-saffron);
+  padding-left: 0.5rem;
+}
+
+.dark .toc-link.is-active {
+  color: var(--accent-hover);
+}

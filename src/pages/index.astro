@@ -1,18 +1,16 @@
 ---
 import HomeLayout from '../layouts/HomeLayout.astro';
-import { getEntry, render } from 'astro:content';
-
-const kbEntry = await getEntry('kb', 'indianphilosophykb');
-const { Content } = kbEntry ? await render(kbEntry) : { Content: null };
+// Direct Markdown import — bypasses content collection loaders completely
+import { Content } from '../content/kb/indianphilosophykb.md';
 ---
 
 <HomeLayout
   title="Indian Philosophy Knowledge Base - Overview & Index"
   description="Master index and classical philosophical architecture of Indian Philosophy, covering Epistemology, Ontology, Cosmology, Psychology, Embodiment, Practical Discipline, and Traditions."
 >
-  <div class="prose max-w-none">
+  <div class="prose max-w-none dark:prose-invert">
     <div id="homepage-content" class="space-y-6">
-      {Content ? <Content /> : <p class="text-stone-500 italic">Loading knowledge base index...</p>}
+      <Content />
     </div>
   </div>
 </HomeLayout>
@@ -20,16 +18,13 @@ const { Content } = kbEntry ? await render(kbEntry) : { Content: null };
 <script>
   function setupBiDirectionalSync() {
     const sidebarSubLinks = document.querySelectorAll<HTMLAnchorElement>('[data-subcategory-hash]');
-    const calloutSections = document.querySelectorAll<HTMLDetailsElement>('details.kb-section, section, [id]');
 
-    // 1. Sidebar -> Homepage: Listen for hash changes / clicks
     function handleHashChange() {
       const hash = window.location.hash.replace('#', '');
       if (!hash) return;
 
       const targetEl = document.getElementById(hash);
       if (targetEl) {
-        // If target is inside a details, open parent details
         let current: HTMLElement | null = targetEl;
         while (current) {
           if (current.tagName === 'DETAILS') {
@@ -48,7 +43,6 @@ const { Content } = kbEntry ? await render(kbEntry) : { Content: null };
         const linkHash = link.getAttribute('data-subcategory-hash');
         if (linkHash === hash) {
           link.classList.add('text-amber-600', 'dark:text-amber-400', 'font-bold', 'underline');
-          // Ensure parent details in sidebar is open
           let p: HTMLElement | null = link.parentElement;
           while (p) {
             if (p.tagName === 'DETAILS') {
@@ -62,7 +56,6 @@ const { Content } = kbEntry ? await render(kbEntry) : { Content: null };
       });
     }
 
-    // 2. Homepage -> Sidebar: IntersectionObserver to update active sidebar item on scroll
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {

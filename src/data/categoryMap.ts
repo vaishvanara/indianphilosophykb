@@ -37,7 +37,7 @@ export const CATEGORY_MAP: PartCategory[] = [
           'bhagavad-anubhava', 'bhakti-rupapanna-jnana', 'brahma-jnana', 'indriya-anapeksa',
           'mahatmya-jnana', 'pratibha', 'saksatkara', 'svanubhava', 'tattva-darsana',
           'asamprajnata', 'jnana', 'jnana-sakti', 'jnana-svarupa', 'kevala-jnana', 'para-vidya',
-          'prajna', 'pratibana-jnana', 'sadvidya', 'suddha-vidya', 'svarupa-jnana', 'svayam-siddha',
+          'prajna', 'pratibhana-jnana', 'sadvidya', 'suddha-vidya', 'svarupa-jnana', 'svayam-siddha',
           'tattva-jnana', 'tattvavabodha', 'vidya', 'vijnana'
         ]
       },
