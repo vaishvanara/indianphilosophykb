@@ -7,7 +7,9 @@ description: "Master index and classical philosophical architecture of Indian Ph
 
 ## Overview
 
-This sequence follows a classical philosophical architecture: **Foundation & Authority $\rightarrow$ Ultimate Reality $\rightarrow$ Cosmology $\rightarrow$ Mind & Consciousness $\rightarrow$ Embodiment $\rightarrow$ Method & Practice $\rightarrow$ Specific Texts & Systems**
+Indian Philosophy KB is a structured digital knowledge base designed to map the classical architecture of Indian thought. Serving as an open access technical index, the site organizes complex philosophical systems into distinct domains including epistemology, ontology, cosmology, psychology, and practical discipline. 
+
+Each entry integrates primary terminology, Sanskrit concepts, and cross-referenced analytical breakdowns. By standardizing relationships between foundational texts, traditional schools, and core doctrines, this repository provides a clear framework for researchers, students, and practitioners seeking to navigate the interconnected landscape of classical Indian philosophy.
 
 ## Part 1: Epistemology and epistemic foundations
 
