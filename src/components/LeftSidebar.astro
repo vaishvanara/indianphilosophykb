@@ -76,7 +76,9 @@ function subcategoryUrl(title: string, fallbackId: string) {
           return (
             <details class="group sidebar-part" open={isPartActive || !currentSlug}>
               <summary class="flex items-center justify-between px-2.5 py-1.5 rounded-lg cursor-pointer font-serif font-medium text-[var(--text-primary)] hover:bg-stone-200/50 dark:hover:bg-stone-800/50 transition-colors select-none">
-                <span class="line-clamp-1">{part.title}</span>
+                <span class="min-w-0 whitespace-normal break-words leading-snug">
+                  {part.title}
+                </span>
                 <svg
                   class="w-4 h-4 text-stone-400 group-open:rotate-90 transition-transform shrink-0 ml-1"
                   fill="none"
