@@ -20,416 +20,593 @@ export interface PartCategory {
   subcategories: SubCategory[];
 }
 
-export const CATEGORY_MAP: PartCategory[] = [
+/*
+ * Load the knowledge-base Markdown as raw text.
+ *
+ * This makes indianphilosophykb.md the source of truth for the
+ * Part/category/term hierarchy.
+ */
+const kbSource = import.meta.glob(
+  '../content/kb/indianphilosophykb.md',
   {
-    id: 'part-1-epistemology',
-    number: 1,
-    title: 'Part 1: Epistemology and epistemic foundations',
-    description: 'The sources, means, methods, and validity of philosophical knowledge',
-    subcategories: [
-      {
-        id: 'jnana',
-        title: 'Jñāna (Knowledge)',
-        description: 'Self-realization, higher knowledge, direct experience, and intuition',
-        termSlugs: [
-          'abheda-darsana', 'akhandakara-vrtti-jnana', 'alaukika', 'anubhava', 'aparoksa-jnana',
-          'atma-jnana', 'atma-saksatkara', 'atma-vidya', 'atmanubhava', 'avadhi',
-          'bhagavad-anubhava', 'bhakti-rupapanna-jnana', 'brahma-jnana', 'indriya-anapeksa',
-          'mahatmya-jnana', 'pratibha', 'saksatkara', 'svanubhava', 'tattva-darsana',
-          'asamprajnata', 'jnana', 'jnana-sakti', 'jnana-svarupa', 'kevala-jnana', 'para-vidya',
-          'prajna', 'pratibhana-jnana', 'sadvidya', 'suddha-vidya', 'svarupa-jnana', 'svayam-siddha',
-          'tattva-jnana', 'tattvavabodha', 'vidya', 'vijnana'
-        ]
-      },
-      {
-        id: 'pramana',
-        title: 'Pramāṇa (Means of valid knowledge)',
-        description: 'Valid means of knowledge',
-        termSlugs: [
-          'anumana', 'anupalabdhi', 'arthapatti', 'caksu-darsana', 'prama',
-          'pramana', 'pratyaksa', 'samvadi-bhrama', 'yukti'
-        ]
-      },
-      {
-        id: 'sastra',
-        title: 'Śāstra (Scriptures and sacred dialogues)',
-        description: 'Authoritative sources',
-        termSlugs: [
-          'akhandartha-vakya', 'darsana', 'devanagari', 'sanskrita', 'sastra',
-          'siddhartha-vakya', 'sruti', 'srsti-vakya', 'vedanta', 'prasthana-traya',
-          'upanisad', 'bhagavad-gita', 'brahma-sutra', 'mandukyopanisat'
-        ]
-      },
-      {
-        id: 'vada',
-        title: 'Vāda (Philosophical discussion)',
-        description: 'Theories of causality, error, non-origination, and dialectical debate',
-        termSlugs: [
-          'abhasa-vada', 'adhyaropapavada', 'ajati', 'ajativada', 'anirvacaniya-khyati',
-          'atma-vada', 'avaccheda-vada', 'bimba-pratibimba-vada', 'drishti-srishti-vada',
-          'eka-jiva-vada', 'khyati', 'samsarga-abheda', 'satkarana-vada', 'vivarta-vada'
-        ]
-      },
-      {
-        id: 'sabda',
-        title: 'Śabda (Sound)',
-        description: 'Metaphysical and linguistic aspects of sound, sacred speech, and vibration',
-        termSlugs: [
-          'avakyartha', 'omkara', 'padartha', 'sabda', 'vakyartha', 'para',
-          'pasyanti', 'madhyama', 'vaikhari', 'akara', 'makara', 'ukara'
-        ]
-      }
-    ]
-  },
-  {
-    id: 'part-2-ontology',
-    number: 2,
-    title: 'Part 2: Ontology and ultimate reality',
-    description: 'Core metaphysical truths and the nature of non-dual reality',
-    subcategories: [
-      {
-        id: 'brahma-svarupa',
-        title: 'Brahma-Svarūpa (The nature of the Absolute)',
-        description: 'Ontological reality, core entities, transcendental attributes, and cosmic pervasiveness',
-        termSlugs: [
-          'adhistana', 'advaita', 'advayam-ajatam', 'asat', 'atman', 'brahman', 'parabrahman',
-          'paramartha', 'paramatman', 'pratyaktva', 'pratyagatman', 'purusottama', 'saccidananda',
-          'sat', 'satta', 'svabhava', 'amala', 'anadi', 'ananta', 'kevala', 'niranjana',
-          'nirapeksa', 'nirguna', 'santa', 'sasvata', 'bhati', 'sarvagata', 'sarva-kartrtva',
-          'sarvajna', 'svayambhu', 'svayam-jyoti', 'vibhu', 'visvadhika'
-        ]
-      },
-      {
-        id: 'moksa-and-vibhuti',
-        title: 'Mokṣa and Vibhūti (Liberation and divine powers)',
-        description: 'States of liberation, unitive absorption, and spiritual or divine glory',
-        termSlugs: [
-          'aisvarya', 'brahma-bhava', 'ekibhava', 'jivanmukta', 'kaivalya', 'moksa',
-          'niravadhikaisvarya', 'sadyomukti', 'sayujya', 'sthitaprajna', 'vibhuti'
-        ]
-      },
-      {
-        id: 'tattva',
-        title: 'Tattva (Principle)',
-        description: 'Fundamental principles in Advaita Vedānta and Sāṅkhya',
-        termSlugs: [
-          'tattva', 'tat', 'tvam', 'tanmatra', 'mahabhuta', 'karmendriya', 'jnanendriya', 'manah', 'purusa'
-        ]
-      },
-      {
-        id: 'guna',
-        title: 'Guṇa (Qualities)',
-        description: 'The three foundational qualities of nature',
-        termSlugs: ['guna', 'sattva', 'rajas', 'tamas']
-      }
-    ]
-  },
-  {
-    id: 'part-3-cosmology',
-    number: 3,
-    title: 'Part 3: Cosmology and metaphysical mechanics',
-    description: 'How the universe manifests, transforms, and dissolves',
-    subcategories: [
-      {
-        id: 'brahmapada',
-        title: 'Brahmapada (The abode of Brahman)',
-        description: 'Macrocosmic and microcosmic planes of Brahman',
-        termSlugs: [
-          'brahmapada', 'virat', 'hiranyagarbha', 'isvara', 'turiya', 'vaisvanara', 'taijasa', 'prajna'
-        ]
-      },
-      {
-        id: 'srshti',
-        title: 'Sṛṣṭi (Creation and cosmic emanation)',
-        description: 'Origin, structures, and primordial states of the manifested universe',
-        termSlugs: [
-          'abhinnanimittopadana', 'bindu', 'brahmanda', 'jagat', 'nama', 'namarupa',
-          'parinama', 'prakrti', 'srsti', 'yonih'
-        ]
-      },
-      {
-        id: 'pralaya-and-vinasa',
-        title: 'Pralaya and Vināśa (Dissolution, decay, and destruction)',
-        description: 'Cosmic dissolution, decay, and return into latency',
-        termSlugs: [
-          'atyantika-pralaya', 'mahapralaya', 'mahasunya', 'pralaya', 'prapancanasana', 'samhara', 'vinasa'
-        ]
-      },
-      {
-        id: 'sakti-kala-and-maya',
-        title: 'Śakti, Kāla, and Māyā (Cosmic dynamics, time, and universal potencies)',
-        description: 'Fundamental forces, divine powers, and temporal dimensions',
-        termSlugs: [
-          'ananda-sakti', 'anandamaya', 'avarana', 'kala', 'mahamaya', 'maya', 'maya-sakti',
-          'mulavidya', 'samsara', 'trikala'
-        ]
-      }
-    ]
-  },
-  {
-    id: 'part-4-psychology',
-    number: 4,
-    title: 'Part 4: Psychology and subjective consciousness',
-    description: 'The inner architecture of individual consciousness',
-    subcategories: [
-      {
-        id: 'catur-avastha',
-        title: 'Catur-Avasthā (Primary states of consciousness and beyond)',
-        description: 'Foundational planes of experience from waking to transcendental',
-        termSlugs: [
-          'jagrat', 'jagarita-sthana', 'svapna', 'svapna-sthana', 'susupti', 'susupta-sthana',
-          'turiyatita', 'gunatita'
-        ]
-      },
-      {
-        id: 'saksin',
-        title: 'Sākṣin (Subjective witness and higher attributes)',
-        description: 'Unchanging witness-consciousness and its luminous characteristics',
-        termSlugs: [
-          'alinga', 'cid-abhasa', 'cidakasa', 'cit', 'jyotismati', 'prasanta-vahita', 'prakasa',
-          'saksi-caitanyah', 'saksin'
-        ]
-      },
-      {
-        id: 'antah-karana',
-        title: 'Antaḥ-Karaṇa (Internal instruments)',
-        description: 'The fourfold internal mind complex',
-        termSlugs: ['antah-karana', 'ahankara', 'buddhi', 'citta', 'hrdaya', 'karana-citta', 'sankalpa']
-      },
-      {
-        id: 'citta-vrtti',
-        title: 'Citta-Vṛtti (Modifications of the mind)',
-        description: 'Mental fluctuations, cognitive processes, and latent impressions',
-        termSlugs: [
-          'agrahana', 'avidya-vrtti', 'citta-vrtti', 'nidra', 'phala-vyapyatva', 'pratyaya',
-          'saksi-bhasya', 'samskara', 'smrti', 'vasana', 'vikalpa', 'viksepa', 'viparyaya',
-          'vrtti', 'vrtti-jnana'
-        ]
-      },
-      {
-        id: 'samadhi-and-samapatti',
-        title: 'Samādhi and Samāpatti (States of meditative absorption)',
-        description: 'Refinement of awareness and unitive meditative absorption',
-        termSlugs: [
-          'ekagrata', 'samapatti', 'sabija', 'savitarka', 'nirvitarka', 'savicara', 'nirvicara',
-          'dharma-megha-samadhi', 'niralambana', 'samadhi', 'nirbija'
-        ]
-      },
-      {
-        id: 'klesa',
-        title: 'Kleśa (Affliction)',
-        description: 'The five root mental afflictions causing suffering',
-        termSlugs: ['klesa', 'avidya', 'ajnana', 'asmita', 'ragah', 'dvesah', 'abhinivesah']
-      },
-      {
-        id: 'iccha-sakti',
-        title: 'Icchā-Śakti (Will power)',
-        description: 'Volition, spiritual effort, resolve, and sense mastery',
-        termSlugs: [
-          'dhrti', 'iccha', 'iccha-sakti', 'indriya-nigraha', 'manonigraha', 'pratipaksa-bhavana',
-          'sama-and-dama', 'tapas', 'vairagya', 'virya', 'viveka'
-        ]
-      }
-    ]
-  },
-  {
-    id: 'part-5-embodiment',
-    number: 5,
-    title: 'Part 5: Embodiment, energetics, and physiology',
-    description: 'The nature and condition of the individual embodied soul in Saṃsāra',
-    subcategories: [
-      {
-        id: 'jiva',
-        title: 'Jīva (Empirical self)',
-        description: 'Individual living soul and empirical self',
-        termSlugs: ['jiva', 'jivatman']
-      },
-      {
-        id: 'sarira',
-        title: 'Śarīra (Bodies of the Jīva)',
-        description: 'Causal, subtle, and gross bodies of the soul',
-        termSlugs: ['sarira', 'karana-sarira', 'suksma-sarira', 'linga-sarira', 'sthula-sarira']
-      },
-      {
-        id: 'kosa',
-        title: 'Kośa (Sheath)',
-        description: 'The five concentric sheaths enveloping pure consciousness',
-        termSlugs: ['kosa', 'anandamaya-kosa', 'pranamaya-kosa', 'manomaya-kosa', 'vijnanamaya-kosa', 'annamaya-kosa']
-      },
-      {
-        id: 'bahya-karana',
-        title: 'Bahya-Kāraṇa (External instruments)',
-        description: 'Organs of knowledge, organs of action, subtle essences, and great elements',
-        termSlugs: [
-          'bahya-karana', 'srotra', 'tvak', 'caksuh', 'jihva', 'ghrana', 'vak', 'pani', 'pada',
-          'payu', 'upastha', 'sparsa', 'rupa', 'rasa', 'gandha', 'akasa', 'vayu', 'tejas', 'apas', 'prthvi'
-        ]
-      },
-      {
-        id: 'prana',
-        title: 'Prāṇa (Breath)',
-        description: 'The five vital life currents sustaining the physical and subtle body',
-        termSlugs: ['prana', 'apana', 'samana', 'vyana', 'udana']
-      },
-      {
-        id: 'kundalini',
-        title: 'Kuṇḍalinī (Subtle energy and chakras)',
-        description: 'Coiled subtle energy and the seven energetic centers',
-        termSlugs: ['kundalini', 'muladhara', 'svadhisthana', 'manipura', 'anahata', 'visuddhi', 'ajna', 'sahasrara']
-      }
-    ]
-  },
-  {
-    id: 'part-6-practical-discipline',
-    number: 6,
-    title: 'Part 6: Practical discipline and methodology',
-    description: 'Ethical, mental, and meditative practices to achieve liberation',
-    subcategories: [
-      {
-        id: 'sadhana',
-        title: 'Sādhana (Core frameworks and major paths)',
-        description: 'Essential disciplines, foundational spiritual paths, and methods of inquiry',
-        termSlugs: [
-          'mukhya-antaranga-sadhana', 'abhyasa', 'astanga-yoga', 'bhakti-yoga', 'jnana-yoga',
-          'manana', 'mantra', 'mantra-yoga', 'mauna', 'nididhyasana', 'nididhyasitavya',
-          'nirgunopasana', 'sadhana', 'sadhana-catustaya', 'samyama', 'sravana', 'svadhyaya'
-        ]
-      },
-      {
-        id: 'vicara-and-viveka',
-        title: 'Vicāra and Viveka (Inquiry and discrimination)',
-        description: 'Methods of spiritual inquiry, analytical discernment, and cognitive negation',
-        termSlugs: [
-          'atma-vicara', 'avastha-traya-vicara', 'brahma-vicara', 'neti-neti',
-          'panca-kosa-viveka', 'panca-bhuta-viveka', 'vicara'
-        ]
-      },
-      {
-        id: 'bhakti',
-        title: 'Bhakti (Devotion, surrender, and divine grace)',
-        description: 'Loving devotion, single-minded surrender, and reception of divine grace',
-        termSlugs: [
-          'bhakti', 'isvara-pranidhana', 'aradhana', 'goptrtva-varana', 'anugraha',
-          'prasada', 'asirvadam', 'svastu'
-        ]
-      },
-      {
-        id: 'suddhi',
-        title: 'Śuddhi (Purification, sense restraint, and mental control)',
-        description: 'Cleansing the mind, subduing the senses, and cultivating detachment',
-        termSlugs: [
-          'citta-suddhi', 'manah-suddhi', 'manogupti', 'suddhi', 'vasikara',
-          'sat-sampat', 'sattva-suddhi'
-        ]
-      },
-      {
-        id: 'dharma-bhava',
-        title: 'Dharma Bhāva (Moral virtues and refined states)',
-        description: 'Ethical virtues, noble mental dispositions, and spiritual attitudes',
-        termSlugs: [
-          'abhaya', 'abhimukti', 'akusidasya', 'anuraga', 'daya', 'dharma-bhava',
-          'karuna', 'kalyana', 'ksama', 'ksanti', 'maitri', 'mardava', 'mudita',
-          'mumuksutva', 'samarpana', 'saumanasya', 'sukha', 'sraddha', 'sreyas', 'upeksa'
-        ]
-      },
-      {
-        id: 'astanga-yoga',
-        title: 'Aṣṭāṅga-Yoga (Eight limbs of Yoga)',
-        description: 'The classical eightfold path of Raja Yoga',
-        termSlugs: ['asana', 'pranayama', 'pratyahara', 'dharana', 'dhyana']
-      },
-      {
-        id: 'yama',
-        title: 'Yama (Abstentions)',
-        description: 'Ethical restraints and universal vows',
-        termSlugs: ['yama', 'ahimsa', 'satya', 'asteya', 'brahmacarya', 'aparigraha']
-      },
-      {
-        id: 'niyama',
-        title: 'Niyama (Observances)',
-        description: 'Internal purifications and spiritual disciplines',
-        termSlugs: ['niyama', 'sauca', 'santosa']
-      },
-      {
-        id: 'karma',
-        title: 'Karma (Action)',
-        description: 'Principles, classifications, and cosmic effects of volitional action',
-        termSlugs: [
-          'karma', 'naiskarmya', 'prarabdha-karma', 'sancita-karma', 'agami-karma',
-          'sukla', 'krsna', 'sukla-krsna', 'asukla-krsna'
-        ]
-      }
-    ]
-  },
-  {
-    id: 'part-7-traditions-and-texts',
-    number: 7,
-    title: 'Part 7: Specific traditions, texts, and auxiliary figures',
-    description: 'Text-specific terms, sayings, divine entities, and non-orthodox systems',
-    subcategories: [
-      {
-        id: 'vedanta-and-advaita',
-        title: 'Vedānta and Advaita (Philosophical concepts)',
-        description: 'Core non-dual principles, analytical distinctions, and levels of reality',
-        termSlugs: [
-          'adhyasa', 'alata-santi', 'badhayam-samanadhikaranya', 'jiva-brahma-aikya',
-          'mithya', 'pratibhasika', 'svarupa-abheda', 'svarupa-laksana', 'tatastha-laksana',
-          'vyavaharika'
-        ]
-      },
-      {
-        id: 'mahavakya',
-        title: 'Mahāvākya (Great saying)',
-        description: 'The core contemplative statements of identity in Upanishads',
-        termSlugs: [
-          'mahavakya', 'aham-brahmasmi', 'ayam-atma-brahma', 'ekam-eva-advitiyam',
-          'prajnanam-brahma', 'sarvam-khalvidam-brahma', 'tat-tvam-asi', 'so-ham'
-        ]
-      },
-      {
-        id: 'devata',
-        title: 'Devatā (Deities and sacred figures)',
-        description: 'Divine aspects, celestial beings, holy titles, and revered spiritual figures',
-        termSlugs: [
-          'achala', 'adinatha', 'amitabha', 'avatara', 'bhagavan', 'bhuvana-sundara',
-          'bodhisattva', 'cakravartin', 'devata', 'devatma-sakti', 'divya', 'harih',
-          'mahadeva', 'mahan', 'mahesvara', 'mauni', 'namaskara', 'narayana', 'paramesvara',
-          'pasupati', 'radha', 'sadasiva', 'sarasvati', 'sarvesvarah', 'sadhu', 'siddha',
-          'sakti', 'siva', 'tathagata', 'vasudeva', 'visnu'
-        ]
-      },
-      {
-        id: 'buddhist-and-jain',
-        title: 'Buddhist and Jain concepts',
-        description: 'Key doctrines, ethical perfections, and terms from Śramaṇa traditions',
-        termSlugs: [
-          'anuttara', 'aryasatya', 'avaktavya', 'bodhi', 'brahma-vihara',
-          'catvari-arya-satyani', 'dana-paramita', 'divya-caksuh', 'nirvana', 'sadhumati', 'sudurjaya'
-        ]
-      }
-    ]
+    eager: true,
+    query: '?raw',
+    import: 'default',
   }
-];
+);
 
-// Helper lookup mapping slug -> category hierarchy details
-export function getCategoryForTerm(slug: string): { part: PartCategory; subcategory: SubCategory } | undefined {
-  for (const part of CATEGORY_MAP) {
-    for (const subcategory of part.subcategories) {
-      if (subcategory.termSlugs.includes(slug)) {
-        return { part, subcategory };
+const kbMarkdown = Object.values(kbSource)[0];
+
+if (typeof kbMarkdown !== 'string') {
+  throw new Error(
+    'Unable to load src/content/kb/indianphilosophykb.md'
+  );
+}
+
+/*
+ * Preserve the IDs already used by the current site.
+ *
+ * New Parts/categories will receive automatically generated IDs.
+ */
+const LEGACY_PART_IDS = new Map<number, string>([
+  [1, 'part-1-epistemology'],
+  [2, 'part-2-ontology'],
+  [3, 'part-3-cosmology'],
+  [4, 'part-4-psychology'],
+  [5, 'part-5-embodiment'],
+  [6, 'part-6-practical-discipline'],
+  [7, 'part-7-traditions-and-texts'],
+]);
+
+const LEGACY_SUBCATEGORY_IDS = new Map<string, string>([
+  [
+    'Sṛṣṭi (Creation and cosmic emanation)',
+    'srshti',
+  ],
+  [
+    'Buddhist and Jain concepts',
+    'buddhist-and-jain',
+  ],
+]);
+
+/**
+ * Extract an optional explicit ID from a heading.
+ *
+ * Example:
+ *
+ *   ### Jñāna (Knowledge) {#jnana}
+ *
+ * becomes:
+ *
+ *   title = "Jñāna (Knowledge)"
+ *   id    = "jnana"
+ *
+ * This is useful when you want to rename a heading later without
+ * changing the URL/hash ID used by breadcrumbs or navigation.
+ */
+function extractExplicitId(value: string): {
+  title: string;
+  id?: string;
+} {
+  const match = value.match(
+    /\s+\{#([A-Za-z0-9][A-Za-z0-9_-]*)\}\s*$/
+  );
+
+  if (!match) {
+    return {
+      title: value.trim(),
+    };
+  }
+
+  return {
+    title: value.slice(0, match.index).trim(),
+    id: match[1],
+  };
+}
+
+/**
+ * Convert a heading into a URL/hash-friendly ID.
+ *
+ * Examples:
+ *
+ *   Jñāna (Knowledge)
+ *     → jnana
+ *
+ *   Śakti, Kāla, and Māyā
+ *     → sakti-kala-and-maya
+ *
+ *   Part 8: Consciousness and cognition
+ *     → consciousness-and-cognition
+ */
+function slugify(value: string): string {
+  return value
+    .replace(/\([^)]*\)/g, '')
+    .normalize('NFKD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/&/g, ' and ')
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
+
+/**
+ * Generate a unique ID if two future headings happen to produce
+ * the same slug.
+ */
+function makeUniqueId(
+  baseId: string,
+  usedIds: Set<string>
+): string {
+  if (!usedIds.has(baseId)) {
+    usedIds.add(baseId);
+    return baseId;
+  }
+
+  let counter = 2;
+  let candidate = `${baseId}-${counter}`;
+
+  while (usedIds.has(candidate)) {
+    counter += 1;
+    candidate = `${baseId}-${counter}`;
+  }
+
+  usedIds.add(candidate);
+
+  return candidate;
+}
+
+function getPartId(
+  number: number,
+  title: string,
+  explicitId: string | undefined,
+  usedIds: Set<string>
+): string {
+  if (explicitId) {
+    return makeUniqueId(explicitId, usedIds);
+  }
+
+  const legacyId = LEGACY_PART_IDS.get(number);
+
+  if (legacyId) {
+    usedIds.add(legacyId);
+    return legacyId;
+  }
+
+  const cleanTitle = title.replace(
+    /^Part\s+\d+\s*:\s*/i,
+    ''
+  );
+
+  return makeUniqueId(
+    `part-${number}-${slugify(cleanTitle)}`,
+    usedIds
+  );
+}
+
+function getSubcategoryId(
+  title: string,
+  explicitId: string | undefined,
+  usedIds: Set<string>
+): string {
+  if (explicitId) {
+    return makeUniqueId(explicitId, usedIds);
+  }
+
+  const legacyId = LEGACY_SUBCATEGORY_IDS.get(title);
+
+  if (legacyId) {
+    usedIds.add(legacyId);
+    return legacyId;
+  }
+
+  return makeUniqueId(
+    slugify(title),
+    usedIds
+  );
+}
+
+function isStandaloneItalic(line: string): boolean {
+  const trimmed = line.trim();
+
+  const asteriskItalic = /^\*[^*].*\*$/;
+  const asteriskBold = /^\*\*.*\*\*$/;
+  const underscoreItalic = /^_[^_].*_$/;
+  const underscoreBold = /^__.*__$/;
+
+  return (
+    (asteriskItalic.test(trimmed) &&
+      !asteriskBold.test(trimmed)) ||
+    (underscoreItalic.test(trimmed) &&
+      !underscoreBold.test(trimmed))
+  );
+}
+
+function extractItalicText(line: string): string {
+  const trimmed = line.trim();
+
+  if (
+    trimmed.startsWith('*') &&
+    trimmed.endsWith('*')
+  ) {
+    return trimmed.slice(1, -1).trim();
+  }
+
+  if (
+    trimmed.startsWith('_') &&
+    trimmed.endsWith('_')
+  ) {
+    return trimmed.slice(1, -1).trim();
+  }
+
+  return trimmed;
+}
+
+function isStandaloneBold(line: string): boolean {
+  const trimmed = line.trim();
+
+  return (
+    /^\*\*.+\*\*$/.test(trimmed) ||
+    /^__.+__$/.test(trimmed)
+  );
+}
+
+function isHtmlComment(line: string): boolean {
+  return /^<!--.*-->$/.test(line.trim());
+}
+
+/**
+ * Extract local Markdown links pointing to .md files.
+ *
+ * A link counts as a term regardless of whether it appears as:
+ *
+ *   1. [Term](term.md)
+ *   - [Term](term.md)
+ *   See: [Term](term.md)
+ *   [Term](term.md)
+ *
+ * The important rule is that it must be a local .md link inside
+ * the current ### category.
+ *
+ * Duplicates within the same category are removed while preserving
+ * the first occurrence.
+ */
+function extractTermSlugs(
+  line: string
+): string[] {
+  const slugs: string[] = [];
+
+  const linkPattern =
+    /(!?)\[([^\]]+)\]\(([^)]+)\)/g;
+
+  for (const match of line.matchAll(linkPattern)) {
+    const isImage = match[1] === '!';
+
+    if (isImage) {
+      continue;
+    }
+
+    const destination = match[3].trim();
+
+    if (
+      destination.startsWith('http://') ||
+      destination.startsWith('https://') ||
+      destination.startsWith('mailto:') ||
+      destination.startsWith('//')
+    ) {
+      continue;
+    }
+
+    /*
+     * Remove optional link title, fragment, and query string.
+     */
+    const target = destination
+      .split(/\s+/)[0]
+      .split('#')[0]
+      .split('?')[0];
+
+    if (!/\.md$/i.test(target)) {
+      continue;
+    }
+
+    const filename = target.split('/').pop();
+
+    if (!filename) {
+      continue;
+    }
+
+    const slug = filename.replace(
+      /\.md$/i,
+      ''
+    );
+
+    if (!slugs.includes(slug)) {
+      slugs.push(slug);
+    }
+  }
+
+  return slugs;
+}
+
+function parseKnowledgeBase(
+  markdown: string
+): PartCategory[] {
+  const lines = markdown
+    .replace(/\r\n/g, '\n')
+    .split('\n');
+
+  const parts: PartCategory[] = [];
+
+  let currentPart: PartCategory | null = null;
+  let currentSubcategory: SubCategory | null = null;
+
+  /*
+   * These states solve the description problems:
+   *
+   * Part descriptions are only considered immediately after a
+   * Part heading.
+   *
+   * Subcategory descriptions are only considered immediately after
+   * a ### heading, allowing blank lines and standalone bold labels.
+   */
+  let partDescriptionPending = false;
+  let subcategoryDescriptionPending = false;
+
+  const usedPartIds = new Set<string>();
+  const usedSubcategoryIds = new Set<string>();
+
+  for (const rawLine of lines) {
+    const line = rawLine.trim();
+    const isBlank = line.length === 0;
+
+    /*
+     * -------------------------------------------------------------
+     * PART HEADING
+     * -------------------------------------------------------------
+     */
+    const partMatch = line.match(
+      /^##\s+(Part\s+(\d+)\s*:\s*.+?)\s*$/
+    );
+
+    if (partMatch) {
+      const rawTitle = partMatch[1].trim();
+      const number = Number(partMatch[2]);
+
+      const { title, id: explicitId } =
+        extractExplicitId(rawTitle);
+
+      currentPart = {
+        id: getPartId(
+          number,
+          title,
+          explicitId,
+          usedPartIds
+        ),
+        number,
+        title,
+        subcategories: [],
+      };
+
+      parts.push(currentPart);
+
+      currentSubcategory = null;
+
+      partDescriptionPending = true;
+      subcategoryDescriptionPending = false;
+
+      continue;
+    }
+
+    /*
+     * Any other ## heading ends the current hierarchy.
+     *
+     * This allows headings such as ## Overview to exist without
+     * accidentally being treated as Parts.
+     */
+    if (/^##\s+/.test(line)) {
+      currentPart = null;
+      currentSubcategory = null;
+
+      partDescriptionPending = false;
+      subcategoryDescriptionPending = false;
+
+      continue;
+    }
+
+    /*
+     * -------------------------------------------------------------
+     * PART DESCRIPTION
+     * -------------------------------------------------------------
+     *
+     * We look only immediately after the Part heading.
+     *
+     * Blank lines are allowed.
+     *
+     * Once the first meaningful non-italic line is encountered,
+     * description detection ends permanently for that Part.
+     */
+    if (
+      currentPart &&
+      !currentSubcategory &&
+      partDescriptionPending
+    ) {
+      if (isBlank || isHtmlComment(line)) {
+        continue;
+      }
+
+      if (isStandaloneItalic(line)) {
+        currentPart.description =
+          extractItalicText(line);
+
+        partDescriptionPending = false;
+
+        continue;
+      }
+
+      partDescriptionPending = false;
+    }
+
+    /*
+     * -------------------------------------------------------------
+     * SUBCATEGORY HEADING
+     * -------------------------------------------------------------
+     */
+    const subcategoryMatch = line.match(
+      /^###\s+(.+?)\s*$/
+    );
+
+    if (
+      subcategoryMatch &&
+      currentPart
+    ) {
+      const rawTitle =
+        subcategoryMatch[1].trim();
+
+      const { title, id: explicitId } =
+        extractExplicitId(rawTitle);
+
+      currentSubcategory = {
+        id: getSubcategoryId(
+          title,
+          explicitId,
+          usedSubcategoryIds
+        ),
+        title,
+        termSlugs: [],
+      };
+
+      currentPart.subcategories.push(
+        currentSubcategory
+      );
+
+      subcategoryDescriptionPending = true;
+
+      continue;
+    }
+
+    if (!currentPart) {
+      continue;
+    }
+
+    if (!currentSubcategory) {
+      continue;
+    }
+
+    /*
+     * -------------------------------------------------------------
+     * SUBCATEGORY DESCRIPTION
+     * -------------------------------------------------------------
+     *
+     * This is deliberately limited to the beginning of a category.
+     *
+     * Blank lines are allowed.
+     *
+     * Standalone bold lines are also allowed because some categories
+     * currently have an internal bold subsection heading before their
+     * first italic description.
+     *
+     * Once a real content line is encountered, description detection
+     * ends permanently. Therefore a later italic note cannot
+     * accidentally become the category description.
+     */
+    if (subcategoryDescriptionPending) {
+      if (isBlank || isHtmlComment(line)) {
+        continue;
+      }
+
+      if (isStandaloneItalic(line)) {
+        currentSubcategory.description =
+          extractItalicText(line);
+
+        subcategoryDescriptionPending = false;
+
+        continue;
+      }
+
+      if (isStandaloneBold(line)) {
+        continue;
+      }
+
+      subcategoryDescriptionPending = false;
+    }
+
+    /*
+     * -------------------------------------------------------------
+     * TERM LINKS
+     * -------------------------------------------------------------
+     *
+     * Every local .md link inside the current category contributes
+     * to that category's term list.
+     *
+     * This is intentionally independent of Markdown list formatting.
+     */
+    const termSlugs = extractTermSlugs(line);
+
+    for (const slug of termSlugs) {
+      if (
+        !currentSubcategory.termSlugs.includes(slug)
+      ) {
+        currentSubcategory.termSlugs.push(slug);
       }
     }
   }
+
+  return parts;
+}
+
+export const CATEGORY_MAP: PartCategory[] =
+  parseKnowledgeBase(kbMarkdown);
+
+/**
+ * Find the first Part/category containing a term.
+ *
+ * If a term is listed in multiple categories, the first occurrence
+ * in the Markdown hierarchy is used for breadcrumbs and category
+ * context.
+ */
+export function getCategoryForTerm(
+  slug: string
+): {
+  part: PartCategory;
+  subcategory: SubCategory;
+} | undefined {
+  for (const part of CATEGORY_MAP) {
+    for (const subcategory of part.subcategories) {
+      if (
+        subcategory.termSlugs.includes(slug)
+      ) {
+        return {
+          part,
+          subcategory,
+        };
+      }
+    }
+  }
+
   return undefined;
 }
 
-// Flat list of all terms ordered sequentially for Prev/Next navigation
+/**
+ * Return terms in navigation order.
+ *
+ * A term can belong to multiple categories, but Prev/Next navigation
+ * should contain each term only once.
+ */
 export function getAllOrderedSlugs(): string[] {
   const slugs: string[] = [];
+  const seen = new Set<string>();
+
   for (const part of CATEGORY_MAP) {
     for (const subcategory of part.subcategories) {
-      slugs.push(...subcategory.termSlugs);
+      for (const slug of subcategory.termSlugs) {
+        if (seen.has(slug)) {
+          continue;
+        }
+
+        seen.add(slug);
+        slugs.push(slug);
+      }
     }
   }
-  return Array.from(new Set(slugs));
+
+  return slugs;
 }
