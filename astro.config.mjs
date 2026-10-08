@@ -47,6 +47,33 @@ function remarkRewriteMdLinks() {
   };
 }
 
+function rehypeExternalLinks() {
+  return (tree) => {
+    visit(tree, 'element', (node) => {
+      if (node.tagName !== 'a') {
+        return;
+      }
+
+      const href = node.properties?.href;
+
+      if (typeof href !== 'string') {
+        return;
+      }
+
+      if (
+        href.startsWith('http://') ||
+        href.startsWith('https://')
+      ) {
+        node.properties = {
+          ...node.properties,
+          target: '_blank',
+          rel: 'noopener noreferrer',
+        };
+      }
+    });
+  };
+}
+
 export default defineConfig({
   site: 'https://vaishvanara.github.io',
   base: '/indianphilosophykb',
@@ -67,6 +94,7 @@ export default defineConfig({
   markdown: {
     processor: unified({
       remarkPlugins: [remarkRewriteMdLinks],
+      rehypePlugins: [rehypeExternalLinks],
     }),
   },
 });
