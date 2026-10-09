@@ -20,7 +20,7 @@ Oṃ
 
 ॥ माण्डूक्योपनिषत् ॥
 
-Māṇḍūkyopaniṣat
+*Māṇḍūkyopaniṣat*
 
 The Mandukya Upanishad
 
@@ -28,7 +28,7 @@ The Mandukya Upanishad
 
 ॥ अथ माण्डूक्योपनिषत् ॥
 
-Atha Māṇḍūkyopaniṣat
+*Atha Māṇḍūkyopaniṣat*
 
 Now, the Mandukya Upanishad.
 
@@ -40,9 +40,9 @@ Now, the Mandukya Upanishad.
 भूतं भवद् भविष्यदिति सर्वमोंकार एव ।
 यच्चान्यत्त्रिकालातीतं तदप्योंकार एव ॥ १ ॥
 
-Oṃ! Aum-Ityetad-Akṣaram-Idaṃ Sarvaṃ Tasyopavyākhyānaṃ
+*Oṃ! Aum-Ityetad-Akṣaram-Idaṃ Sarvaṃ Tasyopavyākhyānaṃ
 Bhūtaṃ Bhavad-Bhaviṣyad-Iti Sarvam-Oṃkāra Eva.
-Yac-Cānyat-Trikālātītaṃ Tad-Apy-Oṃkāra Eva.
+Yac-Cānyat-Trikālātītaṃ Tad-Apy-Oṃkāra Eva.*
 
 **Translation**
 
@@ -87,9 +87,9 @@ that is also Oṃkāra.
 अयमात्मा ब्रह्म ।
 सोऽयमात्मा चतुष्पात् ॥ २ ॥
 
-Sarvaṃ Hy-Etad-Brahma.
+*Sarvaṃ Hy-Etad-Brahma.
 Ayam-Ātmā Brahma.
-So’yam-Ātmā Catuṣpāt.
+So’yam-Ātmā Catuṣpāt.*
 
 **Translation**
 
@@ -119,9 +119,9 @@ This same Self has four quarters.
 सप्ताङग एकोनविंशतिमुखः
 स्थूलभुग्वैश्वानरः प्रथमः पादः ॥ ३ ॥
 
-Jāgarita-Sthāno Bahiṣ-Prajñaḥ.
+*Jāgarita-Sthāno Bahiṣ-Prajñaḥ.
 Saptāṅga Ekonaviṃśati-Mukhaḥ
-Sthūla-Bhug-Vaiśvānaraḥ Prathamaḥ Pādaḥ.
+Sthūla-Bhug-Vaiśvānaraḥ Prathamaḥ Pādaḥ.*
 
 **Translation**
 
@@ -149,9 +149,9 @@ Vaiśvānara (the Self of the waking state) is the first quarter.
 सप्ताङग एकोनविंशतिमुखः
 प्रविविक्तभुक्तैजसो द्वितीय पादः ॥ ४ ॥
 
-Svapna-Sthāno’ntaḥ-Prajñaḥ
+*Svapna-Sthāno’ntaḥ-Prajñaḥ
 Saptāṅga Ekonaviṃśati-Mukhaḥ
-Pravivikta-Bhuk-Taijaso Dvitīya Pādaḥ.
+Pravivikta-Bhuk-Taijaso Dvitīya Pādaḥ.*
 
 **Translation**
 
@@ -179,10 +179,10 @@ Taijasa (the Self of the dream state) is the second quarter.
 सुषुप्तस्थान एकीभूतः प्रज्ञानघन एवाऽऽनन्दमयो
 ह्यानन्दभुक् चेतोमुखः प्राज्ञस्तृतीयः पादः ॥ ५ ॥
 
-Yatra Supto Na Kaṃcana Kāmaṃ Kāmayate
+*Yatra Supto Na Kaṃcana Kāmaṃ Kāmayate
 Na Kaṃcana Svapnaṃ Paśyati Tat-Suṣuptam.
 Suṣupta-Sthāna Ekī-Bhūtaḥ Prajñāna-Ghana Evā’nanda-Mayo
-Hy-Ānanda-Bhuk Ceto-Mukhaḥ Prājñas-Tṛtīyaḥ Pādaḥ.
+Hy-Ānanda-Bhuk Ceto-Mukhaḥ Prājñas-Tṛtīyaḥ Pādaḥ.*
 
 **Translation**
 
@@ -224,8 +224,8 @@ Prājña (wisdom/the Self of the sleep state) is the third quarter.
 एष सर्वेश्वर एष सर्वज्ञ एषोऽन्तर्याम्येष
 योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम् ॥ ६ ॥
 
-Eṣa Sarveśvaraḥ Eṣa Sarvajña Eṣo’ntaryāmi-Eṣa
-Yoniḥ Sarvasya Prabhavāpyayau Hi Bhūtānām.
+*Eṣa Sarveśvaraḥ Eṣa Sarvajña Eṣo’ntaryāmi-Eṣa
+Yoniḥ Sarvasya Prabhavāpyayau Hi Bhūtānām.*
 
 **Translation**
 
@@ -256,8 +256,8 @@ verily, the cause and dissolution of all beings.
 अदृष्यव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं
 प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः ॥ ७ ॥
 
-Nāntaḥ-Prajñaṃ, Na Bahiṣ Prajñaṃ, Nobhayataḥ-Prajñaṃ, Na Prajñā-Ghanaṃ, Na Prajñaṃ, Nāprajñam.
-Adṛṣya-Avyavahāryam-Agrāhyam-Alakṣaṇam-Acintyam-Avyapadeśyam Ekātma-Pratyaya-Sāraṃ Prapañcopaśamaṃ Śāntaṃ Śivam-Advaitaṃ Caturthaṃ Manyante Sa Ātmā Sa Vijñeyaḥ.
+*Nāntaḥ-Prajñaṃ, Na Bahiṣ Prajñaṃ, Nobhayataḥ-Prajñaṃ, Na Prajñā-Ghanaṃ, Na Prajñaṃ, Nāprajñam.
+Adṛṣya-Avyavahāryam-Agrāhyam-Alakṣaṇam-Acintyam-Avyapadeśyam Ekātma-Pratyaya-Sāraṃ Prapañcopaśamaṃ Śāntaṃ Śivam-Advaitaṃ Caturthaṃ Manyante Sa Ātmā Sa Vijñeyaḥ.*
 
 **Translation**
 
@@ -304,8 +304,8 @@ that is the Self; that is to be realized.
 सोऽयमात्माऽध्यक्षरमोङकारोऽधिमात्रं पादा मात्रा
 मात्राश्च पादा अकार उकारो मकार इति ॥ ८ ॥
 
-So’yam Ātmā’dhyakṣaram-Oṅkaro’dhimātraṃ Pādā Mātrā
-Mātrāś-Ca Pādā Akāra Ukāro Makāra Iti.
+*So’yam Ātmā’dhyakṣaram-Oṅkaro’dhimātraṃ Pādā Mātrā
+Mātrāś-Ca Pādā Akāra Ukāro Makāra Iti.*
 
 **Translation**
 
@@ -341,9 +341,9 @@ thus, A, U, M.
 मात्राऽऽप्तेरादिमत्त्वाद् वाऽऽप्नोति ह वै
 सर्वान्कामानादिश्च भवति य एवं वेद ॥ ९ ॥
 
-Jāgarita-Sthāno Vaiśvānaro’kāraḥ Prathamā
+*Jāgarita-Sthāno Vaiśvānaro’kāraḥ Prathamā
 Mātrā’pter Ādimatvād-Vāpnoti Ha Vai
-Sarvān-Kāmān-Ādiś-Ca Bhavati Ya Evaṃ Veda.
+Sarvān-Kāmān-Ādiś-Ca Bhavati Ya Evaṃ Veda.*
 
 **Translation**
 
@@ -381,9 +381,9 @@ attains all desires and becomes the first.
 उभयत्वाद्वोत्कर्षति ह वै ज्ञानसन्ततिं समानश्चभवति
 नास्याब्रह्मवित्कुले भवति य एवं वेद ॥ १० ॥
 
-Svapna-Sthānas-Taijasa Ukāro Dvitīyā Mātrotkarṣāt
+*Svapna-Sthānas-Taijasa Ukāro Dvitīyā Mātrotkarṣāt
 Ubhayatvādvotkarṣati Ha Vai Jñāna-Santatiṃ Samānaś-Ca Bhavati
-Nāsyā-Brahma-Vit-Kule Bhavati Ya Evaṃ Veda.
+Nāsyā-Brahma-Vit-Kule Bhavati Ya Evaṃ Veda.*
 
 **Translation** 
 
@@ -425,8 +425,8 @@ no person ignorant of Brahman is born in his family.
 सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा
 मिनोति ह वा इदं सर्वमपीतिश्च भवति य एवं वेद ॥ ११ ॥
 
-Suṣupta-Sthānaḥ Prājño Makāras-Tṛtīya Mātrā Miter-Apīter-Vā
-Minoti Ha Vā Idaṃ Sarvam-Apītiś-Ca Bhavati Ya Evaṃ Veda.
+*Suṣupta-Sthānaḥ Prājño Makāras-Tṛtīya Mātrā Miter-Apīter-Vā
+Minoti Ha Vā Idaṃ Sarvam-Apītiś-Ca Bhavati Ya Evaṃ Veda.*
 
 **Translation**
 
@@ -463,8 +463,8 @@ and becomes the support of all this.
 अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत
 एवमोङकार आत्मैव संविशत्यात्मनाऽऽत्मानं य एवं वेद ॥ १२ ॥
 
-Amātraś-Caturtho’vyavahāryaḥ Prapañcopaśamaḥ Śivo’dvaita
-Evam-Oṅkāra Ātmaiva Saṃviśaty-Ātmanā’tmānaṃ Ya Evaṃ Veda.
+*Amātraś-Caturtho’vyavahāryaḥ Prapañcopaśamaḥ Śivo’dvaita
+Evam-Oṅkāra Ātmaiva Saṃviśaty-Ātmanā’tmānaṃ Ya Evaṃ Veda.*
 
 **Translation**
 
@@ -499,6 +499,6 @@ He who knows thus by the Self enters the Self.
 
 ॥ इति माण्डूक्योपनिषत् समाप्ता ॥
 
-Iti Māṇḍūkyopaniṣat Samāpta
+*Iti Māṇḍūkyopaniṣat Samāpta*
 
 Here ends the Mandukya Upanishad.
