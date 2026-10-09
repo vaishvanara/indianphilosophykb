@@ -162,8 +162,8 @@ Astro requires Node.js and `npm` (Node Package Manager). Clone the repository an
 
 ```bash
 # Clone the repository
-git clone [https://github.com/vaishvanara/indian-philosophy.git](https://github.com/vaishvanara/indian-philosophy.git)
-cd indian-philosophy
+git clone [https://github.com/vaishvanara/indianphilosophykb.git](https://github.com/vaishvanara/indianphilosophykb.git)
+cd indianphilosophykb
 
 # Install project dependencies
 npm install
@@ -173,7 +173,7 @@ npm install
 
 ```cmd
 # Clone the repository
-git clone [https://github.com/vaishvanara/indian-philosophy.git](https://github.com/vaishvanara/indian-philosophy.git)
+git clone [https://github.com/vaishvanara/indianphilosophykb.git](https://github.com/vaishvanara/indianphilosophykb.git)
 cd indian-philosophy
 
 # Install project dependencies
