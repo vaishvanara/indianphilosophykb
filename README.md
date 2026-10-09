@@ -2,10 +2,15 @@
 
 A structured digital garden and knowledge base on Indian philosophy built with Astro, Markdown, and TypeScript.
 
+[![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+[View the Live Site →](https://vaishvanara.github.io/indianphilosophykb/)
+
 ## Complete initial project structure
 
 ```md
-indian-philosophy/
+indianphilosophykb/
 ├── public/                         <-- Static assets (site logo, favicon, images)
 │   ├── favicon.svg
 │   └── logo.svg                    <-- Site logo for Top Header
@@ -107,41 +112,6 @@ The central source of truth is `indianphilosophykb.md`. It organizes the knowled
     ├── /devata/
     └── /buddhist-and-jain/
 ```
-
----
-
-## UI and navigation layout
-
-1. **Top header bar (`src/components/Header.astro`, `src/components/Search.astro`, `src/components/ThemeToggle.astro`):**
-	- Placed inside `src/layouts/BaseLayout.astro` so it persists globally across every page.
-	- Renders the logo and title on the left, the `Search docs` input in the middle, and the `Light` / `Dark` mode toggle on the right (defaulting to Light mode).
-
-2. **Left navigation sidebar (`src/components/LeftSidebar.astro`):** 
-	- Reads from `src/data/categoryMap.ts` (parsed from `indianphilosophykb.md`) to generate a nested collapsible tree. Default view shows the Overview and 7 Parts.
-	- Clicking a Part expands/collapses its nested sub-categories. Clicking a sub-category expands/collapses its nested terms (title only, no text descriptions, e.g. `Abheda Darśana (अभेददर्शन)`).
-	- Displays active state indicator on the currently selected section or term.
-
-3. **Homepage (`src/pages/index.astro`):**
-Mirrors the structure of `src/content/kb/indianphilosophykb.md`.
-- **Layout:** Two-column layout (Persistent Left Sidebar + Wide Center Content Area, no right sidebar).
-- **Content:** Renders `indianphilosophykb.md` directly.
-	- Displays main H1 title `# Indian Philosophy KB` and sub-sections (H2 and H3).
-	- Renders nested collapsible blockquotes/callouts for each of the 7 Parts and 27 Sub-categories. Expanding a section reveals the contents of that section.
-
-3. **Individual term page layout (`src/pages/terms/[slug]`):**
-- **Layout:** Three-column layout (Left Navigation Sidebar + Main Article Area + Right "On this page" Sidebar).
-- **Breadcrumbs (`src/components/Breadcrumbs.astro`):** e.g., `Home > Part 1: Epistemology > Jñāna > Abheda Darśana`. Sits at the top of individual term pages.
-- **Main Article Area:** Formatted rendering of the term's Markdown file (H1 title, sub-elements, body text, code blocks, callouts, etc.).
-- **Right "On this page" sidebar (`src/components/RightSidebar.astro`):**
-	- Auto-generated Table of Contents tracking page subheadings (H2, H3).
-	- Sticky tracking highlight showing the active scroll position.
-- **Bottom page navigation (`src/components/PageNav.astro`):** `← Previous` and `Next →` navigation buttons that sit at the bottom of the article area to navigate sequentially through adjacent terms.
-- **Back to top button (`src/components/BackToTop.astro`):** Stays hidden until the user scrolls down, then appears dynamically in the bottom-right corner.
-
-3. **Global site footer (`src/components/Footer.astro`):**
-Appears at the base of every page.
-**Left:** `© Indian Philosophy KB 2026` & `Built with [Astro](https://astro.build/`.
-**Right:** GitHub icon linking to `[https://github.com/vaishvanara/indianphilosophykb](https://github.com/vaishvanara/indianphilosophykb)`
 
 ---
 
