@@ -19,7 +19,7 @@ Each entry integrates primary terminology, Sanskrit concepts, and cross-referenc
 
 *Self-realization, higher knowledge, direct experience, and intuition*
 
-1. [Abheda Darśana (अभेददर्शन)](abheda-darsana.md) - vision of non-difference; perception of non-duality
+1. [Abheda Darśana (अभेददर्शन)](abheda-darsana.md) - cognition or realization of non-duality
 2. [Akhaṇḍākāra-Vṛtti-Jñāna (अखण्डाकारवृत्तिज्ञान)](akhandakara-vrtti-jnana.md) - knowledge via unbroken, unsegmented mental modification
 3. [Alaukika (अलौकिक)](alaukika.md) - extraordinary or transcendental perception
 4. [Anubhava (अनुभव)](anubhava.md) - direct experience; intuition
@@ -38,7 +38,7 @@ Each entry integrates primary terminology, Sanskrit concepts, and cross-referenc
 17. [Sākṣātkāra (साक्षात्कार)](saksatkara.md) - direct realization; immediate perception
 18. [Svānubhava (स्वानुभव)](svanubhava.md) - self-experience; personal intuition
 19. [Tattva-Darśana (तत्त्वदर्शन)](tattva-darsana.md) - vision of ultimate reality
-20. [Asamprajñāta (असम्प्रज्ञातः)](asamprajnata.md) - supra-conscious Samādhi; state beyond cognition
+20. [Asamprajñāta (असम्प्रज्ञातः)](asamprajnata.md) - supra-conscious *Samādhi*; state beyond cognition
 21. [Jñāna (ज्ञान)](jnana.md) - knowledge; consciousness
 22. [Jñāna-Śakti (ज्ञानशक्ति)](jnana-sakti.md) - the power of knowledge
 23. [Jñāna-Svarūpa (ज्ञानस्वरूप)](jnana-svarupa.md) - the essential nature of knowledge
@@ -46,7 +46,7 @@ Each entry integrates primary terminology, Sanskrit concepts, and cross-referenc
 25. [Parā Vidyā (पराविद्या)](para-vidya.md) - supreme or higher spiritual knowledge
 26. [Prajñā (प्रज्ञा)](prajna.md) - transcendental wisdom; intuitive awareness
 27. [Pratibhāna-Jñāna (प्रतिभानज्ञन)](pratibhana-jnana.md) - intuitive knowledge
-28. [Sadvidyā (सद्विद्या)](sadvidya.md) - the wisdom or meditation on pure Being (Sat)
+28. [Sadvidyā (सद्विद्या)](sadvidya.md) - the wisdom or meditation on pure Being (*Sat*)
 29. [Śuddha-Vidyā (शुद्धविद्या)](suddha-vidya.md) - pure knowledge; uncontaminated insight
 30. [Svarūpa-Jñāna (स्वरुपज्ञान)](svarupa-jnana.md) - knowledge of one's intrinsic nature
 31. [Svayaṃ-Siddha (स्वयंसिद्ध)](svayam-siddha.md) - self-accomplished
@@ -83,12 +83,12 @@ Each entry integrates primary terminology, Sanskrit concepts, and cross-referenc
 8. [Sṛṣṭi-Vākya (सृष्टिवाक्यः)](srsti-vakya.md) - creation texts
 9. [Vedānta (वेदान्त)](vedanta.md) - end of the Vedas
 
-[Prasthāna-Traya (प्रस्थानत्राय)](prasthana-traya.md) - the triple canon or foundation of Vedānta
+[Prasthāna-Traya (प्रस्थानत्राय)](prasthana-traya.md) - the triple canon or foundation of *Vedānta*
 1. [Upaniṣad (उपनिषद्)](upanisad.md) - to sit down near
 2. [Bhagavad Gītā (भगवद्गीता)](bhagavad-gita.md) - song of God
 3. [Brahma-Sūtra (ब्रह्मसूत्र)](brahma-sutra.md) - threads of the Absolute
 
-[Māṇḍūkyopaniṣat (माण्डूक्योपनिषत्)](mandukyopanisat.md) - The Mandukya Upanishad - Sanskrit text and English translation
+[Māṇḍūkyopaniṣat (माण्डूक्योपनिषत्)](mandukyopanisat.md) - The Mandukya Upanishad (Sanskrit text and English translation)
 
 ### Vāda (Philosophical discussion)
 
@@ -114,7 +114,7 @@ Each entry integrates primary terminology, Sanskrit concepts, and cross-referenc
 *Metaphysical and linguistic aspects of sound, sacred speech, and vibration*
 
 1. [Avākyārtha (अवक्यार्थ)](avakyartha.md) - unexpressed sense; meaning beyond literal sentence construction
-2. [Oṃkāra (ओंकार)](omkara.md) - the Word; the Praṇava; the Eternal
+2. [Oṃkāra (ओंकार)](omkara.md) - the Word; the *Praṇava*; the Eternal
 3. [Padārtha (पदार्थः)](padartha.md) - meaning of a word; category of reality; referent
 4. [Śabda (शब्द)](sabda.md) - sound
 5. [Vākyārtha (वाक्यार्थ)](vakyartha.md) - literal meaning of a sentence; propositional meaning
@@ -193,7 +193,7 @@ Each entry integrates primary terminology, Sanskrit concepts, and cross-referenc
 *Terms describing the states of liberation, unitive absorption, and spiritual or divine glory*
 
 1. [Aiśvarya (ऐश्वर्य)](aisvarya.md) - dominion; power; lordship
-2. [Brahma-Bhāva (ब्रह्मभाव)](brahma-bhava.md) - the state of being Brahman; realization of one's identity as Brahman
+2. [Brahma-Bhāva (ब्रह्मभाव)](brahma-bhava.md) - the state of being *Brahman*; realization of one's identity as *Brahman*
 3. [Ekībhāva (एकीभाव)](ekibhava.md) - oneness with the Absolute
 4. [Jīvanmukta (जीवन्मुक्त)](jivanmukta.md) - liberated while living
 5. [Kaivalya (कैवल्य)](kaivalya.md) - isolation
@@ -238,7 +238,7 @@ See: [Guṇa (गुण)](guna.md) - qualities
 
 ### Brahmapada (The abode of Brahman)
 
-See: [Brahmapada (ब्रह्मपद)](brahmapada.md) - the abode of Brahman
+See: [Brahmapada (ब्रह्मपद)](brahmapada.md) - the abode of *Brahman*
 
 **Macrocosmic**
 
@@ -378,8 +378,8 @@ See: [Antaḥ-Kāraṇa (अन्तःकारण)](antah-karana.md) - intern
 8. [Dharma-Megha-Samādhi (धर्ममेघसमाधि)](dharma-megha-samadhi.md) - the final state of one-pointedness
 9. [Nirālambana (निरालम्बन)](niralambana.md) - without support
 10. [Samādhi (समाधि)](samadhi.md) - complete absorption
-11. [Sabīja (सबीज)](sabija.md) - Samādhi with seed
-12. [Nirbīja (निर्बीज)](nirbija.md) - Samādhi without seed
+11. [Sabīja (सबीज)](sabija.md) - *Samādhi* with seed
+12. [Nirbīja (निर्बीज)](nirbija.md) - *Samādhi* without seed
 
 ### Kleśa (Affliction)
 
@@ -402,7 +402,7 @@ See: [Kleśa (क्लेश)](klesa.md) - affliction
 5. [Indriya-Nigraha (इन्द्रियनिग्रह)](indriya-nigraha.md) - control or mastery over the senses
 6. [Manonigraha (मनोनिग्रह)](manonigraha.md) - control or curbing of the mind
 7. [Pratipakṣa-Bhāvana (प्रतिपक्षभावन)](pratipaksa-bhavana.md) - cultivating the opposite thought
-8. [Śama and Dama (शम एवं दम)](sama-and-dama.md) - part of the Ṣaṭ-Sampat in Advaita Vedanta
+8. [Śama and Dama (शम एवं दम)](sama-and-dama.md) - part of the *Ṣaṭ-Sampat* in *Advaita Vedanta*
 9. [Saṅkalpa (संकल्प)](sankalpa.md) - firm intent
 10. [Tapas (तपस्)](tapas.md) - austerities
 11. [Vairāgya (वैराग्य)](vairagya.md) - renunciation
@@ -422,7 +422,7 @@ See: [Kleśa (क्लेश)](klesa.md) - affliction
 
 ### Śarīra (Bodies of the Jīva)
 
-See: [Śarīra (शरीर)](sarira.md) - bodies of the Jīva
+See: [Śarīra (शरीर)](sarira.md) - bodies of the *Jīva*
 
 1. [Kāraṇa-Śarīra (कारणशरीर)](karana-sarira.md) - causal body
 2. [Sūkṣma-Śarīra (सूक्ष्मशरीर)](suksma-sarira.md) or [Liṅga-śarīra (लिङगशरीर)](linga-sarira.md) - subtle body
@@ -432,11 +432,11 @@ See: [Śarīra (शरीर)](sarira.md) - bodies of the Jīva
 
 See: [Kośa (कोश)](kosa.md) - sheath
 
-1. [Ānandamaya-Kośa (आनन्दमयकोश)](anandamaya-kosa.md) - the sheath of bliss; part of Karaṇa-Śarīra
-2. [Prāṇamaya-Kośa (प्राणमयकोश)](pranamaya-kosa.md) - the sheath of vital air; part of Sūkṣma-Śarīra
-3. [Manomaya-Kośa (मनोमयकोश)](manomaya-kosa.md) - the sheath of the mind; part of Sūkṣma-Śarīra
-4. [Vijñānamaya-Kośa (विज्ञानमयकोश)](vijnanamaya-kosa.md) - the sheath of the intellect; part of Sūkṣma-Śarīra
-5. [Annamaya-Kośa (अन्नमयकोश)](annamaya-kosa.md) - the sheath of food; part of Sthūla-Śarīra
+1. [Ānandamaya-Kośa (आनन्दमयकोश)](anandamaya-kosa.md) - the sheath of bliss; part of *Karaṇa-Śarīra*
+2. [Prāṇamaya-Kośa (प्राणमयकोश)](pranamaya-kosa.md) - the sheath of vital air; part of *Sūkṣma-Śarīra*
+3. [Manomaya-Kośa (मनोमयकोश)](manomaya-kosa.md) - the sheath of the mind; part of *Sūkṣma-Śarīra*
+4. [Vijñānamaya-Kośa (विज्ञानमयकोश)](vijnanamaya-kosa.md) - the sheath of the intellect; part of *Sūkṣma-Śarīra*
+5. [Annamaya-Kośa (अन्नमयकोश)](annamaya-kosa.md) - the sheath of food; part of *Sthūla-Śarīra*
 
 ### Bahya-Kāraṇa (External instruments)
 
@@ -510,18 +510,18 @@ See: [Kuṇḍalinī (कुण्डलिनी)](kundalini.md) - coiled snake
 
 1. [Mukhya-Antaraṇga-Sādhana (मुख्यान्तरङ्गसाधन)](mukhya-antaranga-sadhana.md) - the principal proximate aid to liberation
 2. [Abhyāsa (अभ्यास)](abhyasa.md) - constant practice
-3. [Aṣṭāṅga-Yoga (अष्टाङ्गयोग)](astanga-yoga.md) - the eight limbs of Yoga
-4. [Bhakti Yoga (भक्तियोग)](bhakti-yoga.md) - the Yoga of devotion
-5. [Jñāna Yoga (ज्ञानयोग)](jnana-yoga.md) - the Yoga of knowledge
+3. [Aṣṭāṅga-Yoga (अष्टाङ्गयोग)](astanga-yoga.md) - the eight limbs of *Yoga*
+4. [Bhakti Yoga (भक्तियोग)](bhakti-yoga.md) - the *Yoga* of devotion
+5. [Jñāna Yoga (ज्ञानयोग)](jnana-yoga.md) - the *Yoga* of knowledge
 6. [Manana (मनन)](manana.md) - reflection
 7. [Mantra (मन्त्र)](mantra.md) - sacred word or hymn
-8. [Mantra Yoga (मन्त्र योग)](mantra-yoga.md) - the Yoga of the divine word
+8. [Mantra Yoga (मन्त्र योग)](mantra-yoga.md) - the *Yoga* of the divine word
 9. [Mauna (मौन)](mauna.md) - silence
 10. [Nididhyāsana (निदिध्यासन)](nididhyasana.md) - meditation
-11. [Nididhyāsitavya (निदिध्यासितव्य)](nididhyasitavya.md) - that should be meditated upon, i.e. Brahman
-12. [Nirguṇopāsana (निर्गुणोपासन)](nirgunopasana.md) - contemplation or meditation on the attribute-less Brahman
+11. [Nididhyāsitavya (निदिध्यासितव्य)](nididhyasitavya.md) - that should be meditated upon, i.e. *Brahman*
+12. [Nirguṇopāsana (निर्गुणोपासन)](nirgunopasana.md) - contemplation or meditation on the attribute-less *Brahman*
 13. [Sādhana (साधन)](sadhana.md) - spiritual practice
-14. [Sādhana-Catuṣṭaya (साधनचतुष्टाय)](sadhana-catustaya.md) - the fourfold aid to the study of Vedānta
+14. [Sādhana-Catuṣṭaya (साधनचतुष्टाय)](sadhana-catustaya.md) - the fourfold aid to the study of *Vedānta*
 15. [Saṃyama (संयम)](samyama.md) - combined practice
 16. [Śravaṇa (श्रावण)](sravana.md) - hearing; study
 17. [Svādhyāya (स्वाध्याय)](svadhyaya.md) - study of scripture
@@ -595,7 +595,7 @@ See: [Kuṇḍalinī (कुण्डलिनी)](kundalini.md) - coiled snake
 
 ### Aṣṭāṅga-Yoga (Eight limbs of Yoga)
 
-See: [Aṣṭāṅga-Yoga (अष्टाङ्गयोग)](astanga-yoga.md) - eight limbs of Yoga
+See: [Aṣṭāṅga-Yoga (अष्टाङ्गयोग)](astanga-yoga.md) - eight limbs of *Yoga*
 
 1. [Yama (यम)](yama.md) - abstentions
 2. [Niyama (नियम)](niyama.md) - observances
@@ -635,9 +635,9 @@ See: [Niyama (नियम)](niyama.md) - observances
 
 **Types of Karma**
 
-1. [Prārabdha Karma (प्रारब्ध कर्म)](prarabdha-karma.md) - active Karma
-2. [Sañcita Karma (सञ्चित कर्म)](sancita-karma.md) - accumulated Karma
-3. [Āgāmi Karma (आगामि कर्म)](agami-karma.md) - future Karma
+1. [Prārabdha Karma (प्रारब्ध कर्म)](prarabdha-karma.md) - active *Karma*
+2. [Sañcita Karma (सञ्चित कर्म)](sancita-karma.md) - accumulated *Karma*
+3. [Āgāmi Karma (आगामि कर्म)](agami-karma.md) - future *Karma*
 
 **Classes of Karma in Yoga**
 
@@ -657,10 +657,10 @@ See: [Niyama (नियम)](niyama.md) - observances
 *Core non-dual principles, analytical distinctions, and levels of reality*
 
 1. [Adhyāsa (अध्यास)](adhyasa.md) - superimposition; false attribution of one thing onto another
-2. [Advaita (अद्वैत)](advaita.md) - non-dual
+2. [Advaita (अद्वैत)](advaita.md) - non-dualism; non-duality
 3. [Alāta-Śānti (अलातशन्ति)](alata-santi.md) - quenching of the firebrand; pacification of the illusory wheel of fire
 4. [Bādhāyāṃ Sāmānādhikaraṇya (बाधायां सामानाधिकरण्य)](badhayam-samanadhikaranya.md) - grammatical co-ordination in the sense of sublation
-5. [Jīva-Brahma Aikya (जीव ब्रह्म ऐक्य)](jiva-brahma-aikya.md) - essential oneness; identity of the individual self and Brahman
+5. [Jīva-Brahma Aikya (जीव ब्रह्म ऐक्य)](jiva-brahma-aikya.md) - essential oneness; identity of the individual self and *Brahman*
 6. [Mithyā (मिथ्या)](mithya.md) - apparent reality; neither absolutely real nor entirely unreal; illusory
 7. [Prātibhāsika (प्रतिभासिक)](pratibhasika.md) - apparent; subjective reality (e.g., dreams, illusions)
 8. [Svarūpa-Abheda (स्वरूपाभेद)](svarupa-abheda.md) - identity of essential nature; non-difference in essence
@@ -673,9 +673,9 @@ See: [Niyama (नियम)](niyama.md) - observances
 
 See: [Mahāvākya (महावाक्य)](mahavakya.md) - great saying
 
-1. [Aham Brahmasmi (अहम् ब्रह्मास्मि)](aham-brahmasmi.md) - "I am the Absolute (Brahman)"
+1. [Aham Brahmasmi (अहम् ब्रह्मास्मि)](aham-brahmasmi.md) - "I am the Absolute (*Brahman*)"
 2. [Ayam-Ātmā Brahma (अयमात्मा ब्रह्म)](ayam-atma-brahma.md) - "This Self is the Absolute"
-3. [Ekam-Eva-Advitīyam (एकम् एव अद्वितीयम्)](ekam-eva-advitiyam.md) - one only, without a second
+3. [Ekam-Eva-Advitīyam (एकम् एव अद्वितीयम्)](ekam-eva-advitiyam.md) - "one only without a second"
 4. [Prajñānaṃ Brahma (प्रज्ञानं ब्रह्म)](prajnanam-brahma.md) - "Consciousness is the Absolute"
 5. [Sarvaṃ Khalvidaṃ Brahma (सर्वं खल्विदं ब्रह्म)](sarvam-khalvidam-brahma.md) - "All this is the Absolute"
 6. [Tat-Tvam-Asi (तत्त्वमसि)](tat-tvam-asi.md) - "That thou art"
@@ -699,8 +699,8 @@ See: [Mahāvākya (महावाक्य)](mahavakya.md) - great saying
 12. [Devātma Śakti (देवात्मशक्ति)](devatma-sakti.md) - the power of the divine inner Self
 13. [Divyā (दिव्या)](divya.md) - divine
 14. [Hariḥ (हरिः)](harih.md) - a name of the divine, often referring to Lord Vishnu or Krishna
-15. [Mahādeva (महादेव)](mahadeva.md) - the Great Lord; a name for Lord Śiva
-16. [Mahān (महान्)](mahan.md) - the Great One; a name for Lord Viṣṇu or Śiva
+15. [Mahādeva (महादेव)](mahadeva.md) - the Great Lord; a name for Lord Shiva
+16. [Mahān (महान्)](mahan.md) - the Great One; a name for Lord Vishnu or Shiva
 17. [Maheśvara (महेश्वर)](mahesvara.md) - the Great Lord
 18. [Maunī (मौनी)](mauni.md) - one who silently meditates on the Self
 19. [Namaskāra (नमस्कार)](namaskara.md) - salutation
@@ -708,9 +708,9 @@ See: [Mahāvākya (महावाक्य)](mahavakya.md) - great saying
 21. [Paramātman (परमात्मन्)](paramatman.md) - the Supreme Self
 22. [Parabrahman (परब्रह्मन्)](parabrahman.md) - the Supreme Being
 23. [Parameśvara (परमेश्वर)](paramesvara.md) - the Supreme Lord
-24. [Paśupati (पशुपति)](pasupati.md) - Lord of individuals; Lord Śiva; Lord of animals
-25. [Rādhā (राधा)](radha.md) - the consort of Kṛṣṇa
-26. [Sadaśiva (सदशिव)](sadasiva.md) - the eternally auspicious One; A name for Lord Śiva
+24. [Paśupati (पशुपति)](pasupati.md) - Lord of individuals; Lord Shiva; Lord of animals
+25. [Rādhā (राधा)](radha.md) - the consort of Krishna
+26. [Sadaśiva (सदशिव)](sadasiva.md) - the eternally auspicious One; A name for Lord Shiva
 27. [Sarasvatī (सरस्वती)](sarasvati.md) - the goddess of wisdom
 28. [Sarveśvaraḥ (सर्वेश्वरः)](sarvesvarah.md) - Lord of all
 29. [Sādhu (साधु)](sadhu.md) - a monk or ascetic
@@ -732,7 +732,7 @@ See: [Mahāvākya (महावाक्य)](mahavakya.md) - great saying
 5. [Bodhi (बोधि)](bodhi.md) - awakening; enlightenment
 6. [Bodhisattva (बोधिसत्त्व)](bodhisattva.md) - awakening being; one on the path to Buddhahood
 7. [Brahma-Vihāra (ब्रह्मविहार)](brahma-vihara.md) - divine abiding
-8. [Catvāri Ārya-Satyāni (चत्वारि आर्यसत्यानि)](catvari-arya-satyani.md) - Four Noble Truths
+8. [Catvāri Ārya-Satyāni (चत्वारि आर्यसत्यानि)](catvari-arya-satyani.md) - the Four Noble Truths
 9. [Dāna-Pāramitā (दानपारमिता)](dana-paramita.md) - perfection of generosity; perfection of giving
 10. [Divya Cakṣuḥ (दिव्य चक्षुः)](divya-caksuh.md) - divine eye
 11. [Nirvāṇa (निर्वाण)](nirvana.md) - extinguishing
