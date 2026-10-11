@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vijñānamaya-Kośa (विज्ञानमयकोश)"
 devanagari: "विज्ञानमयकोश"
 iast: "Vijñānamaya-Kośa"
 aliases:
   - "Vijnanamaya-Kosa"
+  - "Vijnanamaya-Kosha"
   - "विज्ञानमयकोश"
 ---
 

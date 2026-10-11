@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śravaṇa (श्रावण)"
 devanagari: "श्रावण"
 iast: "Śravaṇa"

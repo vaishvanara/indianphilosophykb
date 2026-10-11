@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nirvicārā (निर्वचारा)"
 devanagari: "निर्वचारा"
 iast: "Nirvicārā"
 aliases:
   - "Nirvicara"
+  - "Nirvichara"
   - "निर्वचारा"
 ---
 

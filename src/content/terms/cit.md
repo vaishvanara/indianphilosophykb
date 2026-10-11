@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Cit (चित्)"
 devanagari: "चित्"
 iast: "Cit"
 aliases:
   - "चित्"
   - "Cit"
+  - "Chit"
 ---
 
 **Cit** 

@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kṣānti (क्षान्ति)"
 devanagari: "क्षान्ति"
 iast: "Kṣānti"
 aliases:
   - "Ksanti"
+  - "Kshanti"
   - "क्षान्ति"
 ---
 

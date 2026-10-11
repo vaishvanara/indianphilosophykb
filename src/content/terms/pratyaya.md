@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pratyaya (प्रत्यय)"
 devanagari: "प्रत्यय"
 iast: "Pratyaya"

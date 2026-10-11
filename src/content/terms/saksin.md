@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sākṣin (साक्षिन्)"
 devanagari: "साक्षिन्"
 iast: "Sākṣin"
 aliases:
   - "साक्षिन्"
   - "Saksin"
+  - "Sakshin"
 ---
 
 **Sākṣin**

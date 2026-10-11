@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svarūpa-Lakṣaṇa (स्वरूपलक्षण)"
 devanagari: "स्वरूपलक्षण"
 iast: "Svarūpa-Lakṣaṇa"
 aliases:
   - "Svarupa-Laksana"
+  - "Swarupa-Lakshana"
   - "स्वरूपलक्षण"
 ---
 

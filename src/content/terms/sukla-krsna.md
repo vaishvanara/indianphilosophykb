@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śukla-Kṛṣṇā (शुक्लकृष्ण)"
 devanagari: "शुक्लकृष्ण"
 iast: "Śukla-Kṛṣṇā"
 aliases:
   - "शुक्लकृष्ण"
   - "Sukla-Krsna"
+  - "Shukla-Krishna"
 ---
 
 # Śukla-Kṛṣṇā - शुक्लकृष्ण (White-Black / Mixed Karma)

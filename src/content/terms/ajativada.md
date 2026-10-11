@@ -5,6 +5,7 @@ iast: "Ajātivāda"
 aliases:
   - "Ajativada"
   - "अजातिवाद"
+lastUpdated: "10-12-26"
 ---
 
 **Ajātivāda**

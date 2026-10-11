@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ekam-Eva-Advitīyam (एकम् एव अद्वितीयम्)"
 devanagari: "एकम् एव अद्वितीयम्"
 iast: "Ekam-Eva-Advitīyam"

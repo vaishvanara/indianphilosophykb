@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sanskrita (संस्कृत)"
 devanagari: "संस्कृत"
 iast: "Sanskrita"

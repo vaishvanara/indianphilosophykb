@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śarīra (शरीर)"
 devanagari: "शरीर"
 iast: "Śarīra"
 aliases:
   - "Sarira"
+  - "Sharira"
   - "शरीर"
 ---
 

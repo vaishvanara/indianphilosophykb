@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Hṛdaya (हृदय)"
 devanagari: "हृदय"
 iast: "Hṛdaya"
 aliases:
   - "Hrdaya"
+  - "Hridaya"
   - "हृदय"
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Suptaḥ (सुप्तः)"
 devanagari: "सुप्तः"
 iast: "Suptaḥ"

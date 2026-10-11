@@ -5,6 +5,7 @@ iast: "Āgāmi Karma"
 aliases:
   - "आगामि कर्म"
   - "Agami Karma"
+lastUpdated: "10-12-26"
 ---
 
 **Āgāmi Karma** 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ātmānubhava (आत्मानुभव)"
 devanagari: "आत्मानुभव"
 iast: "Ātmānubhava"

@@ -5,6 +5,7 @@ iast: "Ānanda-Bhuk"
 aliases:
   - "Ananda-Bhuk"
   - "आनन्दभुक्"
+lastUpdated: "10-12-26"
 ---
 
 **Ānanda-Bhuk**

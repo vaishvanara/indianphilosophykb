@@ -5,6 +5,7 @@ iast: "Amitābha"
 aliases:
   - "Amitabha"
   - "अमिताभ"
+lastUpdated: "10-12-26"
 ---
 
 **Amitābha**

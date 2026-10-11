@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhūtaṃ (भूतं)"
 devanagari: "भूतं"
 iast: "Bhūtaṃ"

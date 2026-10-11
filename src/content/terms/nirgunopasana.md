@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nirguṇopāsana (निर्गुणोपासन)"
 devanagari: "निर्गुणोपासन"
 iast: "Nirguṇopāsana"

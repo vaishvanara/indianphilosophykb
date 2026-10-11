@@ -5,6 +5,7 @@ iast: "Antaḥ-Prajñaḥ"
 aliases:
   - "अन्तःप्रज्ञः"
   - "Antah-Prajnah"
+lastUpdated: "10-12-26"
 ---
 
 **Antaḥ-Prajñaḥ**

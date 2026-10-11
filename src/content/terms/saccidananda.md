@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Saccidānanda (सच्चिदानन्दः)"
 devanagari: "सच्चिदानन्दः"
 iast: "Saccidānanda"
 aliases:
   - "Saccidananda"
+  - "Sat-Chit-Ananda"
   - "सच्चिदानन्दः"
 ---
 

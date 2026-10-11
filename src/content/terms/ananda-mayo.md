@@ -5,6 +5,7 @@ iast: "Ānanda-Mayo"
 aliases:
   - "आनन्दमयो"
   - "Ananda-Mayo"
+lastUpdated: "10-12-26"
 ---
 
 **Ānanda-Mayo**

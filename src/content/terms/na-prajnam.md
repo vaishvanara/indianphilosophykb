@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Na Prajñaṃ (न प्रज्ञं)"
 devanagari: "न प्रज्ञं"
 iast: "Na Prajñaṃ"

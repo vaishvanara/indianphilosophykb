@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Dveṣaḥ (द्वेषः)"
 devanagari: "द्वेषः"
 iast: "Dveṣaḥ"
 aliases:
   - "Dvesah"
+  - "Dveshah"
   - "द्वेषः"
 ---
 

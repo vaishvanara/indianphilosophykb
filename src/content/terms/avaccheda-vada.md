@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Avaccheda-Vāda (अवच्छेदावदा)"
 devanagari: "अवच्छेदावदा"
 iast: "Avaccheda-Vāda"

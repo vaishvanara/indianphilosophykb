@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Māyā Śakti (मायाशक्ति)"
 devanagari: "मायाशक्ति"
 iast: "Māyā Śakti"
 aliases:
   - "Maya Sakti"
+  - "Maya Shakti"
   - "मायाशक्ति"
 ---
 

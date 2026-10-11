@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Neti-Neti (नेतिनेति)"
 devanagari: "नेतिनेति"
 iast: "Neti-Neti"

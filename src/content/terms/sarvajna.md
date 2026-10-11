@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sarvajña (सर्वज्ञ)"
 devanagari: "सर्वज्ञ"
 iast: "Sarvajña"

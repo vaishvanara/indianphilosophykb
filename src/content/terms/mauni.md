@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Maunī (मौनी)"
 devanagari: "मौनी"
 iast: "Maunī"

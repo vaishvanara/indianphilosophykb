@@ -5,6 +5,7 @@ iast: "Akhaṇḍākāra-Vṛtti-Jñāna"
 aliases:
   - "अखण्डाकारवृत्तिज्ञान"
   - "Akhandakara-Vrtti-Jnana"
+lastUpdated: "10-12-26"
 ---
 
 **Akhaṇḍākāra-Vṛtti-Jñāna**

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tejas (तेजस्)"
 devanagari: "तेजस्"
 iast: "Tejas"

@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kṣamā (क्षमा)"
 devanagari: "क्षमा"
 iast: "Kṣamā"
 aliases:
   - "क्षमा"
   - "Ksama"
+  - "Kshama"
 ---
 
 **Kṣamā** 

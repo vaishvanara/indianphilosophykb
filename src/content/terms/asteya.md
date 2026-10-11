@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Asteya (अस्तेय)"
 devanagari: "अस्तेय"
 iast: "Asteya"

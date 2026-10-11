@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kuṇḍalinī (कुण्डलिनी)"
 devanagari: "कुण्डलिनी"
 iast: "Kuṇḍalinī"

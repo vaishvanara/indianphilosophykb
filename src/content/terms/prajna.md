@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prajñā (प्रज्ञा)"
 devanagari: "प्रज्ञा"
 iast: "Prajñā"

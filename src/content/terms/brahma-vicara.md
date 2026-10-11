@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Brahma-Vicāra (ब्रह्मविचार)"
 devanagari: "ब्रह्मविचार"
 iast: "Brahma-Vicāra"
 aliases:
   - "Brahma-Vicara"
+  - "Brahma-Vichara"
   - "ब्रह्मविचार"
 ---
 

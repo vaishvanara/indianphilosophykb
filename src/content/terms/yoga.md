@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Yoga (योग)"
 devanagari: "योग"
 iast: "Yoga"

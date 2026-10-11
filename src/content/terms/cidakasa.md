@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Cidākāśa (चिदाकाश)"
 devanagari: "चिदाकाश"
 iast: "Cidākāśa"
 aliases:
   - "Cidakasa"
+  - "Chidakasha"
   - "चिदाकाश"
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nirbīja (निर्बीज)"
 devanagari: "निर्बीज"
 iast: "Nirbīja"

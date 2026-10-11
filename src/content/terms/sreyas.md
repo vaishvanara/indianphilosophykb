@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śreyas (श्रेयस्)"
 devanagari: "श्रेयस्"
 iast: "Śreyas"
 aliases:
   - "श्रेयस्"
   - "Sreyas"
+  - "Shreyas"
 ---
 
 **Śreyas**

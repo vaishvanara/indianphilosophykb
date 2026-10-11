@@ -4,7 +4,9 @@ devanagari: "अहिंसा"
 iast: "Ahiṃsā"
 aliases:
   - "Ahimsa"
+  - "Ahimsha"
   - "अहिंसा"
+lastUpdated: "10-12-26"
 ---
 
 **Ahiṃsā**

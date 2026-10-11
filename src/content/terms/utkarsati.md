@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Utkarṣati (उत्कर्षति)"
 devanagari: "उत्कर्षति"
 iast: "Utkarṣati"
 aliases:
   - "Utkarsati"
+  - "Utkarshati"
   - "उत्कर्षति"
 ---
 

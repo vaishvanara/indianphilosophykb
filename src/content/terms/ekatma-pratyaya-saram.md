@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ekātma-Pratyaya-Sāraṃ (एकात्मप्रत्ययसारं)"
 devanagari: "एकात्मप्रत्ययसारं"
 iast: "Ekātma-Pratyaya-Sāraṃ"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Phala-Vyāpyatva (फलव्याप्यत्व)"
 devanagari: "फलव्याप्यत्व"
 iast: "Phala-Vyāpyatva"

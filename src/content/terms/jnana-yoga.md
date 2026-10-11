@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jñāna Yoga (ज्ञानयोग)"
 devanagari: "ज्ञानयोग"
 iast: "Jñāna Yoga"

@@ -1,15 +1,17 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ceto-Mukhaḥ (चेतोमुखः)"
 devanagari: "चेतोमुखः"
 iast: "Ceto-Mukhaḥ"
 aliases:
   - "Ceto-Mukhah"
+  - "Cheto-Mukhah"
   - "चेतोमुखः"
 ---
 
 **Ceto-Mukhaḥ**
 Meaning: "whose mouth is consciousness"
-From Mandukya Upanishad https://onecosmicmind.blogspot.com/p/blog-page.html (Verse 5)
+From Mandukya Upanishad (Verse 5)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: चेतोमुखः 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Dhyāna (ध्याना)"
 devanagari: "ध्याना"
 iast: "Dhyāna"

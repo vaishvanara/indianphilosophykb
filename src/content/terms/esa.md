@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Eṣa (एष)"
 devanagari: "एष"
 iast: "Eṣa"
 aliases:
   - "एष"
   - "Esa"
+  - "Esha"
 ---
 
 **Eṣa**

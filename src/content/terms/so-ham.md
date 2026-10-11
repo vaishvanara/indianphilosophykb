@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "So'ham (सोऽहम्)"
 devanagari: "सोऽहम्"
 iast: "So'ham"

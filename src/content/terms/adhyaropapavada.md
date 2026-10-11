@@ -5,6 +5,7 @@ iast: "Adhyāropāpavāda"
 aliases:
   - "Adhyaropapavada"
   - "अध्यारोपापवाद"
+lastUpdated: "10-12-26"
 ---
 
 **Adhyāropāpavāda**

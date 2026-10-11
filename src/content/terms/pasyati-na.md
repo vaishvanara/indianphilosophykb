@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Paśyati Na (पश्यति न)"
 devanagari: "पश्यति न"
 iast: "Paśyati Na"
 aliases:
   - "Pasyati Na"
+  - "Pashyati Na"
   - "पश्यति न"
 ---
 

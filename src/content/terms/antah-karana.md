@@ -5,6 +5,7 @@ iast: "Antaḥ-Kāraṇa"
 aliases:
   - "Antah-Karana"
   - "अन्तःकारण"
+lastUpdated: "10-12-26"
 ---
 
 **Antaḥ-Kāraṇa**

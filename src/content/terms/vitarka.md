@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vitarka (वितर्क)"
 devanagari: "वितर्क"
 iast: "Vitarka"

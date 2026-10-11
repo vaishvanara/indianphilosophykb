@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sṛṣṭi (सृष्टि)"
 devanagari: "सृष्टि"
 iast: "Sṛṣṭi"
 aliases:
   - "सृष्टि"
   - "Srsti"
+  - "Srishti"
 ---
 
 **Sṛṣṭi**

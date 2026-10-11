@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tattva (तत्त्व)"
 devanagari: "तत्त्व"
 iast: "Tattva"

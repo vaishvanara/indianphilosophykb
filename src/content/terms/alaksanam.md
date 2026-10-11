@@ -5,6 +5,8 @@ iast: "Alakṣaṇam"
 aliases:
   - "अलक्षणम्"
   - "Alaksanam"
+  - "Alakshanam"
+lastUpdated: "10-12-26"
 ---
 
 **Alakṣaṇa**

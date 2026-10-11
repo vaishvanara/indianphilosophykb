@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svayambhū (स्वयम्भू)"
 devanagari: "स्वयम्भू"
 iast: "Svayambhū"
 aliases:
   - "स्वयम्भू"
   - "Svayambhu"
+  - "Swayambhu"
 ---
 
 **Svayambhū**

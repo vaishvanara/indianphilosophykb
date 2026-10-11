@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Utkarṣāt (उत्कर्षात्)"
 devanagari: "उत्कर्षात्"
 iast: "Utkarṣāt"
 aliases:
   - "उत्कर्षात्"
   - "Utkarsat"
+  - "Utkarshat"
 ---
 
 **Utkarṣāt**

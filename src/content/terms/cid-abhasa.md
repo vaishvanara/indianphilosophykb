@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Cid-Ābhāsa (सिदाभासः)"
 devanagari: "सिदाभासः"
 iast: "Cid-Ābhāsa"
 aliases:
   - "सिदाभासः"
   - "Cid-Abhasa"
+  - "Chid-Abhasa"
 ---
 
 **Cid-Ābhāsa**

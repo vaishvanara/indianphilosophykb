@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sarvaṃ Khalvidaṃ Brahma (सर्वं खल्विदं ब्रह्म)"
 devanagari: "सर्वं खल्विदं ब्रह्म"
 iast: "Sarvaṃ Khalvidaṃ Brahma"

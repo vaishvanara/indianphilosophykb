@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śama and Dama (शम एवं दम)"
 devanagari: "शम एवं दम"
 iast: "Śama and Dama"

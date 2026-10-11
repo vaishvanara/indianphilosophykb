@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nididhyāsana (निदिध्यासन)"
 devanagari: "निदिध्यासन"
 iast: "Nididhyāsana"

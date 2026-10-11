@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sudurjaya (सुदुर्जय)"
 devanagari: "सुदुर्जय"
 iast: "Sudurjaya"

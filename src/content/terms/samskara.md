@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Saṃskāra (संस्कार)"
 devanagari: "संस्कार"
 iast: "Saṃskāra"

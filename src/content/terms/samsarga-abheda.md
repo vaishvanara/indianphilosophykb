@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Saṃsarga-Abheda (संगभेदः)"
 devanagari: "संगभेदः"
 iast: "Saṃsarga-Abheda"

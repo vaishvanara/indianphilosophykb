@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vijñeyaḥ (विज्ञेयः)"
 devanagari: "विज्ञेयः"
 iast: "Vijñeyaḥ"

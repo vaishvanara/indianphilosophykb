@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svastu (स्वस्तु)"
 devanagari: "स्वस्तु"
 iast: "Svastu"
 aliases:
   - "Svastu"
+  - "Swastu"
   - "स्वस्तु"
 ---
 

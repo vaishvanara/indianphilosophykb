@@ -5,6 +5,7 @@ iast: "Anyaḥ"
 aliases:
   - "Anyah"
   - "अन्यः"
+lastUpdated: "10-12-26"
 ---
 
 **Anyaḥ**

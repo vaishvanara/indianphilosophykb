@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ātma-Vāda (आत्मावाद)"
 devanagari: "आत्मावाद"
 iast: "Ātma-Vāda"

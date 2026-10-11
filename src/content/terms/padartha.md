@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Padārtha (पदार्थः)"
 devanagari: "पदार्थः"
 iast: "Padārtha"

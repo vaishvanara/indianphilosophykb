@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vākyārtha (वाक्यार्थ)"
 devanagari: "वाक्यार्थ"
 iast: "Vākyārtha"

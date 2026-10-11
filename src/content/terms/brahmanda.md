@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Brahmāṇḍa (ब्रह्माण्ड)"
 devanagari: "ब्रह्माण्ड"
 iast: "Brahmāṇḍa"

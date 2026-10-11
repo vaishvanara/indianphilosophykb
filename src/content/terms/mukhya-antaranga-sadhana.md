@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mukhya-Antaraṇga-Sādhana (मुख्यान्तरङ्गसाधन)"
 devanagari: "मुख्यान्तरङ्गसाधन"
 iast: "Mukhya-Antaraṇga-Sādhana"

@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vaiśvānara (वैश्वानर)"
 devanagari: "वैश्वानर"
 iast: "Vaiśvānara"
 aliases:
   - "वैश्वानर"
   - "Vaisvanara"
+  - "Vaishvanara"
 ---
 
 **Vaiśvānara**

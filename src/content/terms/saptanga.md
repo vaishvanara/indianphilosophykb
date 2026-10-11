@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Saptāṅga (सप्ताङग)"
 devanagari: "सप्ताङग"
 iast: "Saptāṅga"

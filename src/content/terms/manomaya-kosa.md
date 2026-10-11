@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Manomaya-Kośa (मनोमयकोश)"
 devanagari: "मनोमयकोश"
 iast: "Manomaya-Kośa"
 aliases:
   - "Manomaya-Kosa"
+  - "Manomaya-Kosha"
   - "मनोमयकोश"
 ---
 

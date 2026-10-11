@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tat-Tvam-Asi (तत्त्वमसि)"
 devanagari: "तत्त्वमसि"
 iast: "Tat-Tvam-Asi"

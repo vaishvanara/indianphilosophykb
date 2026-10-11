@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jīva-Brahma Aikya (जीव ब्रह्म ऐक्य)"
 devanagari: "जीव ब्रह्म ऐक्य"
 iast: "Jīva-Brahma Aikya"

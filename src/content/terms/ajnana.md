@@ -5,6 +5,7 @@ iast: "Ajñāna"
 aliases:
   - "अज्ञान"
   - "Ajnana"
+lastUpdated: "10-12-26"
 ---
 
 **Ajñāna**

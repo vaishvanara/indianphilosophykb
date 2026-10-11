@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svabhāva (स्वभाव)"
 devanagari: "स्वभाव"
 iast: "Svabhāva"
 aliases:
   - "स्वभाव"
   - "Svabhava"
+  - "Swabhava"
 ---
 
 **Svabhāva**

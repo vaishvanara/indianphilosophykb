@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prakṛti (प्रकृति)"
 devanagari: "प्रकृति"
 iast: "Prakṛti"
 aliases:
   - "प्रकृति"
   - "Prakrti"
+  - "Prakriti"
 ---
 
 **Prakṛti** 

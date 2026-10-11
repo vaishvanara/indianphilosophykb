@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Viparyaya (विपर्यय)"
 devanagari: "विपर्यय"
 iast: "Viparyaya"

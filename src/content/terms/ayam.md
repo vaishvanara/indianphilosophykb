@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ayam (अयम्)"
 devanagari: "अयम्"
 iast: "Ayam"

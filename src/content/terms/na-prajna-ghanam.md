@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Na Prajñā-Ghanaṃ (न प्रज्ञाघनम्)"
 devanagari: "न प्रज्ञाघनम्"
 iast: "Na Prajñā-Ghanaṃ"

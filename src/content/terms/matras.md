@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mātrāś (मात्राश्)"
 devanagari: "मात्राश्"
 iast: "Mātrāś"
 aliases:
   - "Matras"
+  - "Matrash"
   - "मात्राश्"
 ---
 

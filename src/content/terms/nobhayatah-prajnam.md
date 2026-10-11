@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nobhayataḥ-Prajñaṃ (नोभयातःप्रज्ञं)"
 devanagari: "नोभयातःप्रज्ञं"
 iast: "Nobhayataḥ-Prajñaṃ"

@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ātma-Vicāra (आत्माविचारः)"
 devanagari: "आत्माविचारः"
 iast: "Ātma-Vicāra"
 aliases:
   - "आत्माविचारः"
   - "Atma-Vicara"
+  - "Atma-Vichara"
 ---
 
 **Ātma-Vicāra**

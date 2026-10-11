@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Cakṣu-Darśana (चक्षुदर्शन)"
 devanagari: "चक्षुदर्शन"
 iast: "Cakṣu-Darśana"
 aliases:
   - "Caksu-Darsana"
+  - "Chakhsu-Darshana"
   - "चक्षुदर्शन"
 ---
 

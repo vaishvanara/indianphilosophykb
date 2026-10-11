@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Maitrī (मैत्री)"
 devanagari: "मैत्री"
 iast: "Maitrī"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vedānta (वेदान्त)"
 devanagari: "वेदान्त"
 iast: "Vedānta"

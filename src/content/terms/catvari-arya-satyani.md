@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Catvāri Ārya-Satyāni (चत्वारि आर्यसत्यानि)"
 devanagari: "चत्वारि आर्यसत्यानि"
 iast: "Catvāri Ārya-Satyāni"
 aliases:
   - "Catvari Arya-Satyani"
+  - "Chatvari Arya-Satyani"
   - "चत्वारि आर्यसत्यानि"
 ---
 

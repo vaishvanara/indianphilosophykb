@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svayaṃ-Siddha (स्वयंसिद्ध)"
 devanagari: "स्वयंसिद्ध"
 iast: "Svayaṃ-Siddha"
 aliases:
   - "Svayam-Siddha"
+  - "Swayam-Siddha"
   - "स्वयंसिद्ध"
 ---
 

@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pṛthvī (पृथ्वी)"
 devanagari: "पृथ्वी"
 iast: "Pṛthvī"
 aliases:
   - "Prthvi"
+  - "Prithvi"
   - "पृथ्वी"
 ---
 

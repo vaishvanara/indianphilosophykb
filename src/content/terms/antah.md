@@ -5,6 +5,7 @@ iast: "Antaḥ"
 aliases:
   - "अन्तः"
   - "Antah"
+lastUpdated: "10-12-26"
 ---
 
 **Antaḥ**

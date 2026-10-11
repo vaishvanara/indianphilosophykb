@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Samprajñāta (सम्प्रज्ञात)"
 devanagari: "सम्प्रज्ञात"
 iast: "Samprajñāta"

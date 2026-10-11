@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Citta-Vṛtti (चित्तवृत्ति)"
 devanagari: "चित्तवृत्ति"
 iast: "Citta-Vṛtti"
 aliases:
   - "Citta-Vrtti"
+  - "Chitta-Vrtti"
   - "चित्तवृत्ति"
 ---
 

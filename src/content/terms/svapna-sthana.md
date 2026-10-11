@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svapna-Sthāna (स्वप्नस्थान)"
 devanagari: "स्वप्नस्थान"
 iast: "Svapna-Sthāna"
 aliases:
   - "स्वप्नस्थान"
   - "Svapna-Sthana"
+  - "Swapna-Sthana"
 ---
 
 **Svapna-Sthāna**

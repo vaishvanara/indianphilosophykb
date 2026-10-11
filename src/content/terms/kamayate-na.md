@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kāmayate Na (कामयते न)"
 devanagari: "कामयते न"
 iast: "Kāmayate Na"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Guṇātīta (गुणातीत)"
 devanagari: "गुणातीत"
 iast: "Guṇātīta"

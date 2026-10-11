@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sat (सत्)"
 devanagari: "सत्"
 iast: "Sat"

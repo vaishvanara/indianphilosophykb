@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prapañcanāśana (प्रपञ्चनाशन)"
 devanagari: "प्रपञ्चनाशन"
 iast: "Prapañcanāśana"
 aliases:
   - "Prapancanasana"
+  - "Prapancanashana"
   - "प्रपञ्चनाशन"
 ---
 

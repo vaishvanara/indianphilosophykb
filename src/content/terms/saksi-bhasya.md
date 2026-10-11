@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sākṣi-Bhāsya (साक्षिभास्य)"
 devanagari: "साक्षिभास्य"
 iast: "Sākṣi-Bhāsya"
 aliases:
   - "Saksi-Bhasya"
+  - "Sakshi-Bhasya"
   - "साक्षिभास्य"
 ---
 

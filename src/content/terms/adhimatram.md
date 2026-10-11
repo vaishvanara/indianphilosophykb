@@ -5,6 +5,7 @@ iast: "Adhimātraṃ"
 aliases:
   - "Adhimatram"
   - "अधिमात्रं"
+lastUpdated: "10-12-26"
 ---
 
 **Adhimātraṃ**

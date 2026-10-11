@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Savitarkā (सवितर्का)"
 devanagari: "सवितर्का"
 iast: "Savitarkā"

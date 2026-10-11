@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kaṃcana (कंचन)"
 devanagari: "कंचन"
 iast: "Kaṃcana"
 aliases:
   - "Kamcana"
+  - "Kamchana"
   - "कंचन"
 ---
 

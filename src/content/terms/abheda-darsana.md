@@ -4,6 +4,7 @@ devanagari: "अभेददर्शन"
 iast: "Abheda Darśana"
 aliases:
   - "Abheda Darsana"
+  - "Abheda Darshana"
   - "अभेददर्शन"
 lastUpdated: 10-05-26
 ---

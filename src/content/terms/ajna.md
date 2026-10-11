@@ -5,6 +5,7 @@ iast: "Ājñā"
 aliases:
   - "आज्ञा"
   - "Ajna"
+lastUpdated: "10-12-26"
 ---
 
 **Ājñā**

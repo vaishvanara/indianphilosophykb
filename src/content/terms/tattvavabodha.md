@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tattvāvabodha (तत्त्वावबोध)"
 devanagari: "तत्त्वावबोध"
 iast: "Tattvāvabodha"

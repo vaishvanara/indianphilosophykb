@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vaśīkāra (वशीकार)"
 devanagari: "वशीकार"
 iast: "Vaśīkāra"
 aliases:
   - "Vasikara"
+  - "Vashikara"
   - "वशीकार"
 ---
 

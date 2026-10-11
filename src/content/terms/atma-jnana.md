@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ātma-Jñāna (आत्मज्ञान)"
 devanagari: "आत्मज्ञान"
 iast: "Ātma-Jñāna"

@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pratipakṣa-Bhāvana (प्रतिपक्षभावन)"
 devanagari: "प्रतिपक्षभावन"
 iast: "Pratipakṣa-Bhāvana"
 aliases:
   - "Pratipaksa-Bhavana"
+  - "Pratipaksha-Bhavana"
   - "प्रतिपक्षभावन"
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Āpnoti (आप्नोति)"
 devanagari: "आप्नोति"
 iast: "Āpnoti"

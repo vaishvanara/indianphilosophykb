@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhagavān (भगवन्)"
 devanagari: "भगवन्"
 iast: "Bhagavān"

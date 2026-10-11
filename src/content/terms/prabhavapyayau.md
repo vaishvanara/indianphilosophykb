@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prabhavāpyayau (प्रभवाप्ययौ)"
 devanagari: "प्रभवाप्ययौ"
 iast: "Prabhavāpyayau"

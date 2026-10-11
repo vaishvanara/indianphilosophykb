@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nirañjana (निरञ्जन)"
 devanagari: "निरञ्जन"
 iast: "Nirañjana"

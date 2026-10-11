@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Īśvara-Praṇidhāna (ईश्वरप्रणिधाना)"
 devanagari: "ईश्वरप्रणिधाना"
 iast: "Īśvara-Praṇidhāna"
 aliases:
   - "Isvara-Pranidhana"
+  - "Ishvara-Pranidhana"
   - "ईश्वरप्रणिधाना"
 ---
 

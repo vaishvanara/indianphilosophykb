@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mithyā (मिथ्या)"
 devanagari: "मिथ्या"
 iast: "Mithyā"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhug (भुग्)"
 devanagari: "भुग्"
 iast: "Bhug"

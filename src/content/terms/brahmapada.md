@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Brahmapada (ब्रह्मपद)"
 devanagari: "ब्रह्मपद"
 iast: "Brahmapada"

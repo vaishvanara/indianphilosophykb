@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Brahma-Vihāra (ब्रह्मविहार)"
 devanagari: "ब्रह्मविहार"
 iast: "Brahma-Vihāra"

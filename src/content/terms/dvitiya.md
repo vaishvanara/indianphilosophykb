@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Dvitīya (द्वितीय)"
 devanagari: "द्वितीय"
 iast: "Dvitīya"

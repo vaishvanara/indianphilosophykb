@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sthūla-Śarīra (स्थूलशरीर)"
 devanagari: "स्थूलशरीर"
 iast: "Sthūla-Śarīra"
 aliases:
   - "Sthula-Sarira"
+  - "Sthula-Sharira"
   - "स्थूलशरीर"
 ---
 

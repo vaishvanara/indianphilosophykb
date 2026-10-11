@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śakti (शक्ति)"
 devanagari: "शक्ति"
 iast: "Śakti"
 aliases:
   - "Sakti"
+  - "Shakti"
   - "शक्ति"
 ---
 

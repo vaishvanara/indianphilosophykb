@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhakti Yoga (भक्तियोग)"
 devanagari: "भक्तियोग"
 iast: "Bhakti Yoga"

@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sākṣi-Caitanyah (साक्षिचैतन्यः)"
 devanagari: "साक्षिचैतन्यः"
 iast: "Sākṣi-Caitanyah"
 aliases:
   - "Saksi-Caitanyah"
+  - "Sakshi-Chaitanyah"
   - "साक्षिचैतन्यः"
 ---
 

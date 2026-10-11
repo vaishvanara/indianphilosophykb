@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Aśukla-Kṛṣṇā (अशुक्लाकृष्ण)"
 devanagari: "अशुक्लाकृष्ण"
 iast: "Aśukla-Kṛṣṇā"
 aliases:
   - "Asukla-Krsna"
+  - "Ashukla-Krishna"
   - "अशुक्लाकृष्ण"
 ---
 

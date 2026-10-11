@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jñāna-Santatiṃ (ज्ञानसन्ततिं)"
 devanagari: "ज्ञानसन्ततिं"
 iast: "Jñāna-Santatiṃ"

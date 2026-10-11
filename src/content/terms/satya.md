@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Satya (सत्य)"
 devanagari: "सत्य"
 iast: "Satya"

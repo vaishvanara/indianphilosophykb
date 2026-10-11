@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kośa (कोश)"
 devanagari: "कोश"
 iast: "Kośa"
 aliases:
   - "कोश"
   - "Kosa"
+  - "Kosha"
 ---
 
 **Kośa**

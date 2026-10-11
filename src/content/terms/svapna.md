@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svapna (स्वप्न)"
 devanagari: "स्वप्न"
 iast: "Svapna"
 aliases:
   - "स्वप्न"
   - "Svapna"
+  - "Swapna"
 ---
 
 Svapna

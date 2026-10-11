@@ -4,7 +4,9 @@ devanagari: "आनन्दमयकोश"
 iast: "Ānandamaya-Kośa"
 aliases:
   - "Anandamaya-Kosa"
+  - "Anandamaya-Kosha"
   - "आनन्दमयकोश"
+lastUpdated: "10-12-26"
 ---
 
 **Ānandamaya-Kośa**

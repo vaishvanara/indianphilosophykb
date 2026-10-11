@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vāsanā (वासना)"
 devanagari: "वासना"
 iast: "Vāsanā"

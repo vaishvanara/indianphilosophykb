@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pramā (प्रमा)"
 devanagari: "प्रमा"
 iast: "Pramā"

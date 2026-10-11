@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nirvāṇa (निर्वाण)"
 devanagari: "निर्वाण"
 iast: "Nirvāṇa"

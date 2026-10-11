@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vairāgya (वैराग्य)"
 devanagari: "वैराग्य"
 iast: "Vairāgya"

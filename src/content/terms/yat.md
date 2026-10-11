@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Yat (यत्)"
 devanagari: "यत्"
 iast: "Yat"

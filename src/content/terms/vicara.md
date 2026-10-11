@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vicāra (विचार)"
 devanagari: "विचार"
 iast: "Vicāra"
 aliases:
   - "Vicara"
+  - "Vichara"
   - "विचार"
 ---
 

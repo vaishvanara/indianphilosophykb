@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ubhayatvāt (उभयत्वात्)"
 devanagari: "उभयत्वात्"
 iast: "Ubhayatvāt"

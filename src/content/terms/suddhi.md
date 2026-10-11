@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śuddhi (शुद्धि)"
 devanagari: "शुद्धि"
 iast: "Śuddhi"
 aliases:
   - "शुद्धि"
   - "Suddhi"
+  - "Shuddhi"
 ---
 
 # Śuddhi

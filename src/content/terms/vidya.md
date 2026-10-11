@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vidyā (विद्या)"
 devanagari: "विद्या"
 iast: "Vidyā"

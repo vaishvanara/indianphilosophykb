@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Idam (इदम्)"
 devanagari: "इदम्"
 iast: "Idam"

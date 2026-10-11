@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pratyagātman (प्रत्यगात्मन्)"
 devanagari: "प्रत्यगात्मन्"
 iast: "Pratyagātman"

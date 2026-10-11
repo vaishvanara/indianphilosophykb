@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ātmanā’tmānaṃ (आत्मनाऽत्मानं)"
 devanagari: "आत्मनाऽत्मानं"
 iast: "Ātmanā’tmānaṃ"

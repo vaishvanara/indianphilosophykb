@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Taṭastha-Lakṣaṇa (ततस्थलक्षण)"
 devanagari: "ततस्थलक्षण"
 iast: "Taṭastha-Lakṣaṇa"
 aliases:
   - "Tatastha-Laksana"
+  - "Tatastha-Lakshana"
   - "ततस्थलक्षण"
 ---
 

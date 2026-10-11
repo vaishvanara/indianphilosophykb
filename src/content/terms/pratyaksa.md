@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pratyakṣa (प्रत्यक्ष)"
 devanagari: "प्रत्यक्ष"
 iast: "Pratyakṣa"
 aliases:
   - "Pratyaksa"
+  - "Pratyaksha"
   - "प्रत्यक्ष"
 ---
 

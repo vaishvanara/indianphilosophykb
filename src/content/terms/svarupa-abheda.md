@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svarūpa-Abheda (स्वरूपाभेद)"
 devanagari: "स्वरूपाभेद"
 iast: "Svarūpa-Abheda"
 aliases:
   - "Svarupa-Abheda"
+  - "Swarupa-Abheda"
   - "स्वरूपाभेद"
 ---
 

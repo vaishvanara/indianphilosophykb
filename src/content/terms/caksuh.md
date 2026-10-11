@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Cakṣuḥ (चक्षुः)"
 devanagari: "चक्षुः"
 iast: "Cakṣuḥ"
 aliases:
   - "Caksuh"
+  - "Chakshuh"
   - "चक्षुः"
 ---
 

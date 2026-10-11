@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Līlā-Vibhūti (लीलाविभूति)"
 devanagari: "लीलाविभूति"
 iast: "Līlā-Vibhūti"

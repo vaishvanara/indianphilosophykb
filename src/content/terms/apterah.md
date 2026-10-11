@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Apteraḥ (अप्तेरः)"
 devanagari: "अप्तेरः"
 iast: "Apteraḥ"

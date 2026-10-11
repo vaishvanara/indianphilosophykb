@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prārabdha Karma (प्रारब्ध कर्म)"
 devanagari: "प्रारब्ध कर्म"
 iast: "Prārabdha Karma"

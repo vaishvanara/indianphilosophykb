@@ -5,6 +5,8 @@ iast: "Abhiniveśāḥ"
 aliases:
   - "अभिनिवेशः"
   - "Abhinivesah"
+  - "Abhiniveshah"
+lastUpdated: "10-12-26"
 ---
 
 **Abhiniveśāḥ**

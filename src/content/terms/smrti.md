@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Smṛti (स्मृति)"
 devanagari: "स्मृति"
 iast: "Smṛti"

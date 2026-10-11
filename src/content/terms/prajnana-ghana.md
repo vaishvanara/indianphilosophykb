@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prajñāna-Ghana (प्रज्ञानघन)"
 devanagari: "प्रज्ञानघन"
 iast: "Prajñāna-Ghana"

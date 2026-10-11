@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jīvātman (जीवात्मन्)"
 devanagari: "जीवात्मन्"
 iast: "Jīvātman"

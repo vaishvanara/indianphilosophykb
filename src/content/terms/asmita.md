@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Asmitā (अस्मिता)"
 devanagari: "अस्मिता"
 iast: "Asmitā"

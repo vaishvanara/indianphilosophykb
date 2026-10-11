@@ -5,6 +5,7 @@ iast: "Anuttara"
 aliases:
   - "अनुत्तर"
   - "Anuttara"
+lastUpdated: "10-12-26"
 ---
 
 **Anuttara** 

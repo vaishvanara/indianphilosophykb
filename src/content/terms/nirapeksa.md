@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nirapekṣa (निरपेक्ष)"
 devanagari: "निरपेक्ष"
 iast: "Nirapekṣa"
 aliases:
   - "Nirapeksa"
+  - "Nirapeksha"
   - "निरपेक्ष"
 ---
 

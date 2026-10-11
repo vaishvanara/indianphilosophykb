@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bodhisattva (बोधिसत्त्व)"
 devanagari: "बोधिसत्त्व"
 iast: "Bodhisattva"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Manogupti (मनोगुप्ति)"
 devanagari: "मनोगुप्ति"
 iast: "Manogupti"

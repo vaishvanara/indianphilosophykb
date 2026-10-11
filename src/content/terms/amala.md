@@ -5,6 +5,7 @@ iast: "Amala"
 aliases:
   - "Amala"
   - "अमल"
+lastUpdated: "10-12-26"
 ---
 
 **Amala** 

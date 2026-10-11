@@ -5,6 +5,7 @@ iast: "Ānanda"
 aliases:
   - "आनन्द"
   - "Ananda"
+lastUpdated: "10-12-26"
 ---
 
 **Ānanda**

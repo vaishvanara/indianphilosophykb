@@ -5,6 +5,7 @@ iast: "Ādiḥ"
 aliases:
   - "आदिः"
   - "Adih"
+lastUpdated: "10-12-26"
 ---
 
 **Ādiḥ**

@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Liṅga-Śarīra (लिङगशरीर)"
 devanagari: "लिङगशरीर"
 iast: "Liṅga-Śarīra"
 aliases:
   - "लिङगशरीर"
   - "Linga-Sarira"
+  - "Linga-Sharira"
 ---
 
 **Liṅga-Śarīra**

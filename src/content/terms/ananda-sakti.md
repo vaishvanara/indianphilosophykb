@@ -5,6 +5,8 @@ iast: "Ānanda Śakti"
 aliases:
   - "आनन्दशक्ति"
   - "Ananda Sakti"
+  - "Ananda Shakti"
+lastUpdated: "10-12-26"
 ---
 
 **Ānanda Śakti**

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Saumanasya (सौमनस्य)"
 devanagari: "सौमनस्य"
 iast: "Saumanasya"

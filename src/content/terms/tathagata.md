@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tathāgata (तथागत)"
 devanagari: "तथागत"
 iast: "Tathāgata"

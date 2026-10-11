@@ -4,7 +4,9 @@ devanagari: "अध्यक्षरम्"
 iast: "Adhyakṣaram"
 aliases:
   - "Adhyaksaram"
+  - "Adhyaksharam"
   - "अध्यक्षरम्"
+lastUpdated: "10-12-26"
 ---
 
 **Adhyakṣaram**

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Atītam (अतीतम्)"
 devanagari: "अतीतम्"
 iast: "Atītam"

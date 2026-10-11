@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Yatra (यत्र)"
 devanagari: "यत्र"
 iast: "Yatra"

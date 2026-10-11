@@ -5,6 +5,7 @@ iast: "Advaita"
 aliases:
   - "Advaita"
   - "अद्वैत"
+lastUpdated: "10-12-26"
 ---
 
 **Advaita**

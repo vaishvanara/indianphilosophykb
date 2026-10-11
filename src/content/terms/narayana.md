@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nārāyaṇa (नारायण)"
 devanagari: "नारायण"
 iast: "Nārāyaṇa"

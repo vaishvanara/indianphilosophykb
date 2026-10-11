@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prāṇāyāma (प्राणायाम)"
 devanagari: "प्राणायाम"
 iast: "Prāṇāyāma"

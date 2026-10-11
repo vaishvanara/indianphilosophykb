@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Priti (प्रिति)"
 devanagari: "प्रिति"
 iast: "Priti"

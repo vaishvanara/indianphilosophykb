@@ -5,6 +5,7 @@ iast: "Aparigraha"
 aliases:
   - "Aparigraha"
   - "अपरिग्रह"
+lastUpdated: "10-12-26"
 ---
 
 **Aparigraha**

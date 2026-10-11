@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Upavyākhyānaṃ (उपव्याख्यानं)"
 devanagari: "उपव्याख्यानं"
 iast: "Upavyākhyānaṃ"

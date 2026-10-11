@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Goptṛtva-Varaṇa (गोप्तृत्ववरण)"
 devanagari: "गोप्तृत्ववरण"
 iast: "Goptṛtva-Varaṇa"
 aliases:
   - "Goptrtva-Varana"
+  - "Goptritva-Varana"
   - "गोप्तृत्ववरण"
 ---
 

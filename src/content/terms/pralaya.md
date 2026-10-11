@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pralaya (प्रलय)"
 devanagari: "प्रलय"
 iast: "Pralaya"

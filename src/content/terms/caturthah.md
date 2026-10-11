@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Caturthaḥ (चतुर्थ)"
 devanagari: "चतुर्थ"
 iast: "Caturthaḥ"
 aliases:
   - "Caturthah"
+  - "Chaturthah"
   - "चतुर्थ"
 ---
 

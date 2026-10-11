@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Māṇḍūkyopaniṣat (माण्डूक्योपनिषत्)"
 devanagari: "माण्डूक्योपनिषत्"
 iast: "Māṇḍūkyopaniṣat"
 aliases:
   - "Mandukyopanisat"
+  - "Mandukya Upanishad"
   - "माण्डूक्योपनिषत्"
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Trikālātītaṃ (त्रिकालातीतं)"
 devanagari: "त्रिकालातीतं"
 iast: "Trikālātītaṃ"

@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sarva-Kartṛtva (सर्वकर्तृत्व)"
 devanagari: "सर्वकर्तृत्व"
 iast: "Sarva-Kartṛtva"
 aliases:
   - "सर्वकर्तृत्व"
   - "Sarva-Kartrtva"
+  - "Sarva-Kartritva"
 ---
 
 **Sarva-Kartṛtva**

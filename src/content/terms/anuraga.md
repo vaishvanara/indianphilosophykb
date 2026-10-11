@@ -5,6 +5,7 @@ iast: "Anurāga"
 aliases:
   - "अनुराग"
   - "Anuraga"
+lastUpdated: "10-12-26"
 ---
 
 **Anurāga**

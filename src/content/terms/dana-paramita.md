@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Dāna-Pāramitā (दानपारमिता)"
 devanagari: "दानपारमिता"
 iast: "Dāna-Pāramitā"

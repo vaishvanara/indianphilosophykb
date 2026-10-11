@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kāraṇa-Citta (कारणचित्त)"
 devanagari: "कारणचित्त"
 iast: "Kāraṇa-Citta"
 aliases:
   - "कारणचित्त"
   - "Karana-Citta"
+  - "Karana-Chitta"
 ---
 
 **Kāraṇa-Citta** 

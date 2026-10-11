@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Avyavahāryam (अव्यवहार्यम्)"
 devanagari: "अव्यवहार्यम्"
 iast: "Avyavahāryam"

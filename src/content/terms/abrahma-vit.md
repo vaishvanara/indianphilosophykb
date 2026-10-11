@@ -5,6 +5,7 @@ iast: "Abrahma-Vit"
 aliases:
   - "अब्रह्मवित्"
   - "Abrahma-Vit"
+lastUpdated: "10-12-26"
 ---
 
 **Abrahma-Vit** 

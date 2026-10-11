@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhagavad Gītā (भगवद्गीता)"
 devanagari: "भगवद्गीता"
 iast: "Bhagavad Gītā"

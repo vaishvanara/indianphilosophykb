@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mokṣa (मोक्ष)"
 devanagari: "मोक्ष"
 iast: "Mokṣa"
 aliases:
   - "मोक्ष"
   - "Moksa"
+  - "Moksha"
 ---
 
 **Mokṣa**

@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Aṣṭāṅga-Yoga (अष्टाङ्गयोग)"
 devanagari: "अष्टाङ्गयोग"
 iast: "Aṣṭāṅga-Yoga"
 aliases:
   - "Astanga-Yoga"
+  - "Ashtanga-Yoga"
   - "अष्टाङ्गयोग"
 ---
 

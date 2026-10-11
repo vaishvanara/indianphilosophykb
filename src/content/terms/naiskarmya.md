@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Naiṣkarmya (नैष्कर्म्य)"
 devanagari: "नैष्कर्म्य"
 iast: "Naiṣkarmya"
 aliases:
   - "Naiskarmya"
+  - "Naishkarmya"
   - "नैष्कर्म्य"
 ---
 

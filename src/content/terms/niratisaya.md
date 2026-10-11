@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Niratiśaya (निरतिशय)"
 devanagari: "निरतिशय"
 iast: "Niratiśaya"
 aliases:
   - "निरतिशय"
   - "Niratisaya"
+  - "Niratishaya"
 ---
 
 **Niratiśaya** 

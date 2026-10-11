@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Rajas (रजस्)"
 devanagari: "रजस्"
 iast: "Rajas"

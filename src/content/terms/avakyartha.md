@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Avākyārtha (अवक्यार्थ)"
 devanagari: "अवक्यार्थ"
 iast: "Avākyārtha"

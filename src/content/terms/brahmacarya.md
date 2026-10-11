@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Brahmacarya (ब्रह्मचर्य)"
 devanagari: "ब्रह्मचर्य"
 iast: "Brahmacarya"
 aliases:
   - "Brahmacarya"
+  - "Brahmacharya"
   - "ब्रह्मचर्य"
 ---
 

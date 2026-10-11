@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vijñāna (विज्ञान)"
 devanagari: "विज्ञान"
 iast: "Vijñāna"

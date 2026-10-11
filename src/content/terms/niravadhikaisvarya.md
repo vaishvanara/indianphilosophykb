@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Niravadhikaiśvarya (निरवधिकैश्वर्य)"
 devanagari: "निरवधिकैश्वर्य"
 iast: "Niravadhikaiśvarya"
 aliases:
   - "Niravadhikaisvarya"
+  - "Niravadhikaishvarya"
   - "निरवधिकैश्वर्य"
 ---
 

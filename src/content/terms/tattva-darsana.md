@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tattva-Darśana (तत्त्वदर्शन)"
 devanagari: "तत्त्वदर्शन"
 iast: "Tattva-Darśana"
 aliases:
   - "Tattva-Darsana"
+  - "Tattva-Darshana"
   - "तत्त्वदर्शन"
 ---
 

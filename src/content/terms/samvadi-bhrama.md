@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Saṃvādi-Bhrama (संवादिभ्रम)"
 devanagari: "संवादिभ्रम"
 iast: "Saṃvādi-Bhrama"

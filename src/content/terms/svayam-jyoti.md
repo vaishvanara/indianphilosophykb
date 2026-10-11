@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svayaṃ-Jyoti (स्वयं ज्योति)"
 devanagari: "स्वयं ज्योति"
 iast: "Svayaṃ-Jyoti"
 aliases:
   - "Svayam-Jyoti"
+  - "Swayam-Jyoti"
   - "स्वयं ज्योति"
 ---
 

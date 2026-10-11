@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Khyāti (ख्याति)"
 devanagari: "ख्याति"
 iast: "Khyāti"

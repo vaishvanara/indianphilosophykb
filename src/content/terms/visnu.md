@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Viṣṇu (विष्णु)"
 devanagari: "विष्णु"
 iast: "Viṣṇu"
 aliases:
   - "Visnu"
+  - "Vishnu"
   - "विष्णु"
 ---
 

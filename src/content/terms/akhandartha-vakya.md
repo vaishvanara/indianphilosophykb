@@ -5,6 +5,7 @@ iast: "Akhaṇḍārtha-Vākya"
 aliases:
   - "अखण्डार्थवाक्य"
   - "Akhandartha-Vakya"
+lastUpdated: "10-12-26"
 ---
 
 **Akhaṇḍārtha-Vākya**

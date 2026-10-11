@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sadyomukti (सद्योमुक्ति)"
 devanagari: "सद्योमुक्ति"
 iast: "Sadyomukti"

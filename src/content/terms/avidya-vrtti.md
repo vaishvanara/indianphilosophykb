@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Avidyā-Vṛtti (अविद्यावृत्तिः)"
 devanagari: "अविद्यावृत्तिः"
 iast: "Avidyā-Vṛtti"
 aliases:
   - "अविद्यावृत्तिः"
   - "Avidya-Vrtti"
+  - "Avidya-Vritti"
 ---
 
 **Avidyā-Vṛtti**

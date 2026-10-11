@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Trikāla (त्रिकाल)"
 devanagari: "त्रिकाल"
 iast: "Trikāla"

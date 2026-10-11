@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Buddhi (बुद्धि)"
 devanagari: "बुद्धि"
 iast: "Buddhi"

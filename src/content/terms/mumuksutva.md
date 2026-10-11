@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mumukṣutva (मुमुक्षुत्व)"
 devanagari: "मुमुक्षुत्व"
 iast: "Mumukṣutva"
 aliases:
   - "Mumuksutva"
+  - "Mumukshutva"
   - "मुमुक्षुत्व"
 ---
 

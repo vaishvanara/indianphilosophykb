@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jihvā (जिह्वा)"
 devanagari: "जिह्वा"
 iast: "Jihvā"

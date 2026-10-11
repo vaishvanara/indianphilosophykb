@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhavat (भवत्)"
 devanagari: "भवत्"
 iast: "Bhavat"

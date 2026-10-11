@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śukla (शुक्ल)"
 devanagari: "शुक्ल"
 iast: "Śukla"
 aliases:
   - "Sukla"
+  - "Shukla"
   - "शुक्ल"
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Paśyantī (पश्यन्ती)"
 devanagari: "पश्यन्ती"
 iast: "Paśyantī"

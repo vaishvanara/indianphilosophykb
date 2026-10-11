@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhūtānām (भूतानाम्)"
 devanagari: "भूतानाम्"
 iast: "Bhūtānām"

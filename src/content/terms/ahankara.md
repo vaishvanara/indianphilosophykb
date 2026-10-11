@@ -4,7 +4,9 @@ devanagari: "अहङकार"
 iast: "Ahaṅkāra"
 aliases:
   - "Ahankara"
+  - "Ahamkara"
   - "अहङकार"
+lastUpdated: "10-12-26"
 ---
 
 **Ahaṅkāra**

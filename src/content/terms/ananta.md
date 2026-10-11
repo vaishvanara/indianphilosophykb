@@ -5,6 +5,7 @@ iast: "Ananta"
 aliases:
   - "Ananta"
   - "अनन्त"
+lastUpdated: "10-12-26"
 ---
 
 **Ananta**

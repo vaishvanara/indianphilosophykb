@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Upastha (उपस्थ)"
 devanagari: "उपस्थ"
 iast: "Upastha"

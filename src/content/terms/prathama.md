@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prathamā (प्रथमा)"
 devanagari: "प्रथमा"
 iast: "Prathamā"

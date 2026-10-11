@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bimba-Pratibimba-Vāda (बिम्बप्रतिबिम्बवदा)"
 devanagari: "बिम्बप्रतिबिम्बवदा"
 iast: "Bimba-Pratibimba-Vāda"

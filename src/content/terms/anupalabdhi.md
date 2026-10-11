@@ -5,6 +5,7 @@ iast: "Anupalabdhi"
 aliases:
   - "Anupalabdhi"
   - "अनुपलब्धि"
+lastUpdated: "10-12-26"
 ---
 
 **Anupalabdhi**

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vīrya (वीर्य)"
 devanagari: "वीर्य"
 iast: "Vīrya"
@@ -10,23 +11,6 @@ aliases:
 # Vīrya
 
 **Vīrya** (Sanskrit; Pali: *viriya*) is a Buddhist term commonly translated as "energy", "diligence", "enthusiasm", "effort", "heroism", or "help". It can be defined as an attitude of gladly engaging in wholesome activities, and it functions to cause one to accomplish wholesome or virtuous actions.
-
-## Translations of *Vīrya*
-
-| Language / Source | Term / Transliteration |
-| :--- | :--- |
-| **English** | diligence, energy, perseverance, enthusiasm, sustained effort, help |
-| **Sanskrit** | वीर्य (IAST: *vīrya*) |
-| **Pali** | विरिय (*viriya*) |
-| **Burmese** | ဝီရိယ (MLCTS: *wə rḭ ja̰*) |
-| **Chinese** | 勤 (T/S), 精進 (Traditional) / 精进 (Simplified) |
-| **Japanese** | 精進 (Rōmaji: *shōjin*) |
-| **Khmer** | ថាមពល (UNGEGN: *thamôpôl*) |
-| **Korean** | 근, 정진 (RR: *geun, jeongjin*) |
-| **Sinhala** | වීර්යය |
-| **Tagalog** | birisa |
-| **Tibetan** | བརྩོན་འགྲུས། (Wylie: *brtson 'grus*; THL: *tsöndrü*) |
-| **Vietnamese** | Tinh Tấn |
 
 ---
 

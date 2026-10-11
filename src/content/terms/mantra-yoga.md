@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mantra Yoga (मन्त्र योग)"
 devanagari: "मन्त्र योग"
 iast: "Mantra Yoga"

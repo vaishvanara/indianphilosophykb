@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pravivikta-Bhuk (प्रविविक्तभुक्)"
 devanagari: "प्रविविक्तभुक्"
 iast: "Pravivikta-Bhuk"

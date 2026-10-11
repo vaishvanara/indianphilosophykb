@@ -5,6 +5,7 @@ iast: "Ādinātha"
 aliases:
   - "आदिनाथ"
   - "Adinatha"
+lastUpdated: "10-12-26"
 ---
 
 **Ādinātha**

@@ -4,7 +4,9 @@ devanagari: "अक्षर"
 iast: "Akṣara"
 aliases:
   - "Aksara"
+  - "Akshara"
   - "अक्षर"
+lastUpdated: "10-12-26"
 ---
 
 **Akṣara**

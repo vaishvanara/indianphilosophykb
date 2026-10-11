@@ -5,6 +5,7 @@ iast: "Abhinnanimittopadāna"
 aliases:
   - "अभिन्ननिमित्तोपादान"
   - "Abhinnanimittopadana"
+lastUpdated: "10-12-26"
 ---
 
 **Abhinnanimittopadāna**

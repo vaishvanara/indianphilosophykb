@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pratibha (प्रतिभा)"
 devanagari: "प्रतिभा"
 iast: "Pratibha"

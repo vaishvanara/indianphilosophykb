@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ekī-Bhūtaḥ (एकीभूत)"
 devanagari: "एकीभूत"
 iast: "Ekī-Bhūtaḥ"

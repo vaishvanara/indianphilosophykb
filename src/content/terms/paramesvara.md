@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Parameśvara (परमेश्वर)"
 devanagari: "परमेश्वर"
 iast: "Parameśvara"
 aliases:
   - "परमेश्वर"
   - "Paramesvara"
+  - "Parameshwara"
 ---
 
 **Parameśvara**

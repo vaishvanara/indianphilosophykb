@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kṛṣṇā (कृष्ण)"
 devanagari: "कृष्ण"
 iast: "Kṛṣṇā"
 aliases:
   - "कृष्ण"
   - "Krsna"
+  - "Krishna"
 ---
 
 # Kṛṣṇā - कृष्ण (Black / Dark Karma)

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tat (तत्)"
 devanagari: "तत्"
 iast: "Tat"

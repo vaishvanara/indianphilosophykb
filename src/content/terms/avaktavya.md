@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Avaktavya (अवक्तव्य)"
 devanagari: "अवक्तव्य"
 iast: "Avaktavya"

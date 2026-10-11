@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svādhyāya (स्वाध्याय)"
 devanagari: "स्वाध्याय"
 iast: "Svādhyāya"
 aliases:
   - "स्वाध्याय"
   - "Svadhyaya"
+  - "Swadhyaya"
 ---
 
 **Svādhyāya**

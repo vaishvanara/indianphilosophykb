@@ -5,6 +5,7 @@ iast: "Anumāna"
 aliases:
   - "अनुमान"
   - "Anumana"
+lastUpdated: "10-12-26"
 ---
 
 **Anumāna**

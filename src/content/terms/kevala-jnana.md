@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kevala-Jñāna (केवलज्ञान)"
 devanagari: "केवलज्ञान"
 iast: "Kevala-Jñāna"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Parā (परा)"
 devanagari: "परा"
 iast: "Parā"

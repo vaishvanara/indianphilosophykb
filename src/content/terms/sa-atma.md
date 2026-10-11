@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sa Ātmā (स आत्मा)"
 devanagari: "स आत्मा"
 iast: "Sa Ātmā"

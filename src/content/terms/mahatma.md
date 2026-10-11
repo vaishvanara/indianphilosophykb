@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mahātmā (महात्मा)"
 devanagari: "महात्मा"
 iast: "Mahātmā"

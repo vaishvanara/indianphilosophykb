@@ -4,7 +4,9 @@ devanagari: "अधिष्टान"
 iast: "Adhiṣṭāna"
 aliases:
   - "Adhistana"
+  - "Adhishtana"
   - "अधिष्टान"
+lastUpdated: "10-12-26"
 ---
 
 **Adhiṣṭāna**

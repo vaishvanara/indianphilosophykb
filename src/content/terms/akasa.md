@@ -4,7 +4,9 @@ devanagari: "आकाश"
 iast: "Ākāśa"
 aliases:
   - "Akasa"
+  - "Akasha"
   - "आकाश"
+lastUpdated: "10-12-26"
 ---
 
 **Ākāśa**

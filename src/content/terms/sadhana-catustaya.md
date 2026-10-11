@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sādhana-Catuṣṭaya (साधनचतुष्टाय)"
 devanagari: "साधनचतुष्टाय"
 iast: "Sādhana-Catuṣṭaya"
 aliases:
   - "Sadhana-Catustaya"
+  - "Sadhana-Chatustaya"
   - "साधनचतुष्टाय"
 ---
 

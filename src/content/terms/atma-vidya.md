@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ātma-Vidyā (आत्मविद्या)"
 devanagari: "आत्मविद्या"
 iast: "Ātma-Vidyā"

@@ -5,6 +5,7 @@ iast: "Amātrā"
 aliases:
   - "अमात्रा"
   - "Amatra"
+lastUpdated: "10-12-26"
 ---
 
 **Amātrā**

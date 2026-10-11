@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kleśa (क्लेश)"
 devanagari: "क्लेश"
 iast: "Kleśa"
 aliases:
   - "Klesa"
+  - "Klesha"
   - "क्लेश"
 ---
 

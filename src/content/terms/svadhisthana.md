@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svadhiṣṭhāna (स्वाधिष्ठान)"
 devanagari: "स्वाधिष्ठान"
 iast: "Svadhiṣṭhāna"

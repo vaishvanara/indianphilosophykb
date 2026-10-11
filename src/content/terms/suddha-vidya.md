@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śuddha-Vidyā (शुद्धविद्या)"
 devanagari: "शुद्धविद्या"
 iast: "Śuddha-Vidyā"
 aliases:
   - "Suddha-Vidya"
+  - "Shuddha-Vidya"
   - "शुद्धविद्या"
 ---
 

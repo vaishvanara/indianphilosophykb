@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śruti (श्रुति)"
 devanagari: "श्रुति"
 iast: "Śruti"
 aliases:
   - "श्रुति"
   - "Sruti"
+  - "Shruti"
 ---
 
 **Śruti**

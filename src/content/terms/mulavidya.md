@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mūlāvidyā (मूलविद्या)"
 devanagari: "मूलविद्या"
 iast: "Mūlāvidyā"

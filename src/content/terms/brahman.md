@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Brahman (ब्रह्मन्)"
 devanagari: "ब्रह्मन्"
 iast: "Brahman"

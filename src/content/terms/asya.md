@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Asya (अस्य)"
 devanagari: "अस्य"
 iast: "Asya"

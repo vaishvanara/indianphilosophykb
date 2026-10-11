@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Taijasa (तैजस)"
 devanagari: "तैजस"
 iast: "Taijasa"

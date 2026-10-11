@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sarvaṃ (सर्वं)"
 devanagari: "सर्वं"
 iast: "Sarvaṃ"

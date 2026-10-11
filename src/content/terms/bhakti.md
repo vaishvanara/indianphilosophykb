@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhakti (भक्ति)"
 devanagari: "भक्ति"
 iast: "Bhakti"

@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Icchā-Śakti (इच्छाशक्ति)"
 devanagari: "इच्छाशक्ति"
 iast: "Icchā-Śakti"
 aliases:
   - "Iccha-Sakti"
+  - "Iccha-Shakti"
   - "इच्छाशक्ति"
 ---
 

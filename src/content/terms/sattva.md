@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sattva (सत्त्व)"
 devanagari: "सत्त्व"
 iast: "Sattva"

@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sarveśvaraḥ (सर्वेश्वरः)"
 devanagari: "सर्वेश्वरः"
 iast: "Sarveśvaraḥ"
 aliases:
   - "Sarvesvarah"
+  - "Sarveswarah"
   - "सर्वेश्वरः"
 ---
 

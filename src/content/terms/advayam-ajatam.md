@@ -5,6 +5,7 @@ iast: "Advayam-Ajātam"
 aliases:
   - "Advayam-Ajatam"
   - "अद्वयमजातम्"
+lastUpdated: "10-12-26"
 ---
 
 **Advayam-Ajātam**

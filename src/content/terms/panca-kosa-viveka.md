@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pañca-Kośa-Viveka (पंचकोशविवेक)"
 devanagari: "पंचकोशविवेक"
 iast: "Pañca-Kośa-Viveka"
 aliases:
   - "Panca-Kosa-Viveka"
+  - "Pancha-Kosha-Viveka"
   - "पंचकोशविवेक"
 ---
 

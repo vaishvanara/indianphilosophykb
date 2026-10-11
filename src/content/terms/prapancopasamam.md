@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prapañcopaśamaṃ (प्रपञ्चोपशमं)"
 devanagari: "प्रपञ्चोपशमं"
 iast: "Prapañcopaśamaṃ"
 aliases:
   - "प्रपञ्चोपशमं"
   - "Prapancopasamam"
+  - "Prapancopashamam"
 ---
 
 **Prapañcopaśamaṃ**

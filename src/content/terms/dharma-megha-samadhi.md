@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Dharma-Megha-Samādhi (धर्ममेघसमाधि)"
 devanagari: "धर्ममेघसमाधि"
 iast: "Dharma-Megha-Samādhi"

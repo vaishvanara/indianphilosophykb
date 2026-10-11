@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Maheśvara (महेश्वर)"
 devanagari: "महेश्वर"
 iast: "Maheśvara"
 aliases:
   - "Mahesvara"
+  - "Maheshwara"
   - "महेश्वर"
 ---
 

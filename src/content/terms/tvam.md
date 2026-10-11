@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tvam (त्वम्)"
 devanagari: "त्वम्"
 iast: "Tvam"
 aliases:
   - "Tvam"
+  - "Twam"
   - "त्वम्"
 ---
 

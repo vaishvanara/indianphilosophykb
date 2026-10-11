@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ātma-Sākṣātkāra (आत्मसाक्षात्कार)"
 devanagari: "आत्मसाक्षात्कार"
 iast: "Ātma-Sākṣātkāra"
 aliases:
   - "Atma-Saksatkara"
+  - "Atma-Sakshatkara"
   - "आत्मसाक्षात्कार"
 ---
 

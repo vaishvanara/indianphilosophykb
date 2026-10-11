@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sadvidyā (सद्विद्या)"
 devanagari: "सद्विद्या"
 iast: "Sadvidyā"

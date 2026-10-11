@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kule (कुले)"
 devanagari: "कुले"
 iast: "Kule"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pratyaktva (प्रत्यक्त्व)"
 devanagari: "प्रत्यक्त्व"
 iast: "Pratyaktva"

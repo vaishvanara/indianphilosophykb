@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Devātma Śakti (देवात्मशक्ति)"
 devanagari: "देवात्मशक्ति"
 iast: "Devātma Śakti"
 aliases:
   - "Devatma Sakti"
+  - "Devatma Shakti"
   - "देवात्मशक्ति"
 ---
 

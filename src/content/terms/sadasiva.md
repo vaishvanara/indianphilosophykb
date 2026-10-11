@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sadaśiva (सदशिव)"
 devanagari: "सदशिव"
 iast: "Sadaśiva"
 aliases:
   - "Sadasiva"
+  - "Sadashiva"
   - "सदशिव"
 ---
 

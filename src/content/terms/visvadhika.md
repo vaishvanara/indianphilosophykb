@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Viśvādhika (विश्वाधिक)"
 devanagari: "विश्वाधिक"
 iast: "Viśvādhika"
 aliases:
   - "विश्वाधिक"
   - "Visvadhika"
+  - "Vishwadhika"
 ---
 
 **Viśvādhika**

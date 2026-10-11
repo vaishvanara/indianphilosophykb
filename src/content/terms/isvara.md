@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Īśvara (ईश्वर)"
 devanagari: "ईश्वर"
 iast: "Īśvara"
 aliases:
   - "ईश्वर"
   - "Isvara"
+  - "Ishvara"
 ---
 
 **Īśvara**

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Hiraṇyagarbha (हिरण्यगर्भ)"
 devanagari: "हिरण्यगर्भ"
 iast: "Hiraṇyagarbha"

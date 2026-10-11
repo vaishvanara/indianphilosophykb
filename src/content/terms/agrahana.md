@@ -5,6 +5,7 @@ iast: "Agrahaṇa"
 aliases:
   - "अग्रहण"
   - "Agrahana"
+lastUpdated: "10-12-26"
 ---
 
 **Agrahaṇa**

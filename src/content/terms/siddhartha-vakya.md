@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Siddhārtha-Vākya (सिद्धार्थवाक्य)"
 devanagari: "सिद्धार्थवाक्य"
 iast: "Siddhārtha-Vākya"

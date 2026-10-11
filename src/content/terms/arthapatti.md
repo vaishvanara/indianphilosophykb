@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Arthāpatti (अर्थपत्ति)"
 devanagari: "अर्थपत्ति"
 iast: "Arthāpatti"

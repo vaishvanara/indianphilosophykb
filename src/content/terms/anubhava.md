@@ -5,6 +5,7 @@ iast: "Anubhava"
 aliases:
   - "अनुभव"
   - "Anubhava"
+lastUpdated: "10-12-26"
 ---
 
 **Anubhava**

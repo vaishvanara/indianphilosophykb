@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Viśuddhi (विशुद्धि)"
 devanagari: "विशुद्धि"
 iast: "Viśuddhi"
 aliases:
   - "Visuddhi"
+  - "Vishuddhi"
   - "विशुद्धि"
 ---
 

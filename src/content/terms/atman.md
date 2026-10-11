@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ātman (आत्मन्)"
 devanagari: "आत्मन्"
 iast: "Ātman"

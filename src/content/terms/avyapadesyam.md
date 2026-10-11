@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Avyapadeśyam (अव्यपदेश्यम्)"
 devanagari: "अव्यपदेश्यम्"
 iast: "Avyapadeśyam"
 aliases:
   - "Avyapadesyam"
+  - "Avyapadeshyam"
   - "अव्यपदेश्यम्"
 ---
 

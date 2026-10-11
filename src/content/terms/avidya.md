@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Avidyā (अविद्या)"
 devanagari: "अविद्या"
 iast: "Avidyā"

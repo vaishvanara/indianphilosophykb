@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sahasrāra (सहस्रार)"
 devanagari: "सहस्रार"
 iast: "Sahasrāra"

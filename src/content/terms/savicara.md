@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Savicārā (सविचारा)"
 devanagari: "सविचारा"
 iast: "Savicārā"
 aliases:
   - "Savicara"
+  - "Savichara"
   - "सविचारा"
 ---
 

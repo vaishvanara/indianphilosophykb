@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mahāśūnya (महाशून्य)"
 devanagari: "महाशून्य"
 iast: "Mahāśūnya"
 aliases:
   - "महाशून्य"
   - "Mahasunya"
+  - "Mahashunya"
 ---
 
 **Mahāśūnya**

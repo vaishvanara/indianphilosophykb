@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Karmendriya (कर्मेन्द्रिय)"
 devanagari: "कर्मेन्द्रिय"
 iast: "Karmendriya"

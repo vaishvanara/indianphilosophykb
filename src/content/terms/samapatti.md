@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Samāpatti (समापत्ति)"
 devanagari: "समापत्ति"
 iast: "Samāpatti"

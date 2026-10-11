@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Unmeśa (उन्मेश)"
 devanagari: "उन्मेश"
 iast: "Unmeśa"
 aliases:
   - "उन्मेश"
   - "Unmesa"
+  - "Unmesha"
 ---
 
 **Unmeśa**

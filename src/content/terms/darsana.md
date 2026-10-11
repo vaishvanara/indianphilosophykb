@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Darśana (दर्शन)"
 devanagari: "दर्शन"
 iast: "Darśana"
 aliases:
   - "दर्शन"
   - "Darsana"
+  - "Darshana"
 ---
 
 **Darśana**

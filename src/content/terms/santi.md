@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śānti (शान्ति)"
 devanagari: "शान्ति"
 iast: "Śānti"
 aliases:
   - "शान्ति"
   - "Santi"
+  - "Shanti"
 ---
 
 **Śānti**

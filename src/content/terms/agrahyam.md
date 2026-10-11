@@ -5,6 +5,7 @@ iast: "Agrāhyam"
 aliases:
   - "Agrahyam"
   - "अग्राह्यम्"
+lastUpdated: "10-12-26"
 ---
 
 **Agrāhyam**

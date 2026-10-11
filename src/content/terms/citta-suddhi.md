@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Citta-Śuddhi (चित्तशुद्धि)"
 devanagari: "चित्तशुद्धि"
 iast: "Citta-Śuddhi"
 aliases:
   - "Citta-Suddhi"
+  - "Chitta-Shuddhi"
   - "चित्तशुद्धि"
 ---
 

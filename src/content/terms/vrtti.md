@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vṛtti (वृत्तिः)"
 devanagari: "वृत्तिः"
 iast: "Vṛtti"
 aliases:
   - "Vrtti"
+  - "Vritti"
   - "वृत्तिः"
 ---
 

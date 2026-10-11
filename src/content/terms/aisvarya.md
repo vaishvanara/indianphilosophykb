@@ -4,7 +4,9 @@ devanagari: "ऐश्वर्य"
 iast: "Aiśvarya"
 aliases:
   - "Aisvarya"
+  - "Aishvarya"
   - "ऐश्वर्य"
+lastUpdated: "10-12-26"
 ---
 
 **Aiśvarya**

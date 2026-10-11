@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Satyakāma (सत्यकाम)"
 devanagari: "सत्यकाम"
 iast: "Satyakāma"

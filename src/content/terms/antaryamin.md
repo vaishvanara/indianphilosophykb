@@ -5,6 +5,7 @@ iast: "Antaryāmin"
 aliases:
   - "Antaryamin"
   - "अन्तर्यामिन्"
+lastUpdated: "10-12-26"
 ---
 
 **Antaryāmin**

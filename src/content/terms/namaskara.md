@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Namaskāra (नमस्कार)"
 devanagari: "नमस्कार"
 iast: "Namaskāra"

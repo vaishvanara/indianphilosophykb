@@ -5,6 +5,7 @@ iast: "Achala"
 aliases:
   - "अचल"
   - "Achala"
+lastUpdated: "10-12-26"
 ---
 
 **Achala**

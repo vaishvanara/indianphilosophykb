@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śrotra (श्रोत्र)"
 devanagari: "श्रोत्र"
 iast: "Śrotra"

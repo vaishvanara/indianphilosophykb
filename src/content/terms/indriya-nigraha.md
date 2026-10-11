@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Indriya-Nigraha (इन्द्रियनिग्रह)"
 devanagari: "इन्द्रियनिग्रह"
 iast: "Indriya-Nigraha"

@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Svānubhava (स्वानुभव)"
 devanagari: "स्वानुभव"
 iast: "Svānubhava"
 aliases:
   - "Svanubhava"
+  - "Swanubhava"
   - "स्वानुभव"
 ---
 

@@ -5,6 +5,7 @@ iast: "Anāhata"
 aliases:
   - "Anahata"
   - "अनाहत"
+lastUpdated: "10-12-26"
 ---
 
 **Anāhata**

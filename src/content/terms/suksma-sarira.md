@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sūkṣma-Śarīra (सूक्ष्मशरीर)"
 devanagari: "सूक्ष्मशरीर"
 iast: "Sūkṣma-Śarīra"
 aliases:
   - "Suksma-Sarira"
+  - "Sukshma-Sharira"
   - "सूक्ष्मशरीर"
 ---
 

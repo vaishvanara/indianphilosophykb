@@ -1,10 +1,10 @@
 ---
-title: "Ajāti (अजाति)"
 devanagari: "अजाति"
 iast: "Ajāti"
 aliases:
   - "अजाति"
   - "Ajati"
+title: "Ajāti (अजाति)"
 ---
 
 **Ajāti**

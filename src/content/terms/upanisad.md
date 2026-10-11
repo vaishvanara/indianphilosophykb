@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Upaniṣad (उपनिषद्)"
 devanagari: "उपनिषद्"
 iast: "Upaniṣad"
 aliases:
   - "उपनिषद्"
   - "Upanisad"
+  - "Upanishad"
 ---
 
 **Upaniṣad**

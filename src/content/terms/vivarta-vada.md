@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vivarta-Vāda (विवर्तवाद)"
 devanagari: "विवर्तवाद"
 iast: "Vivarta-Vāda"

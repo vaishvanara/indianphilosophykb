@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śabda (शब्द)"
 devanagari: "शब्द"
 iast: "Śabda"
 aliases:
   - "Sabda"
+  - "Shabda"
   - "शब्द"
 ---
 

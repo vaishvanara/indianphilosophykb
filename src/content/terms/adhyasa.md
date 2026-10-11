@@ -5,6 +5,7 @@ iast: "Adhyāsa"
 aliases:
   - "Adhyasa"
   - "अध्यास"
+lastUpdated: "10-12-26"
 ---
 
 **Adhyāsa**

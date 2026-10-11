@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kaivalya (कैवल्य)"
 devanagari: "कैवल्य"
 iast: "Kaivalya"

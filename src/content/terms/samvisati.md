@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Saṃviśati (संविशति)"
 devanagari: "संविशति"
 iast: "Saṃviśati"
 aliases:
   - "Samvisati"
+  - "Samvishati"
   - "संविशति"
 ---
 

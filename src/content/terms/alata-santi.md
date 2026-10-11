@@ -5,6 +5,8 @@ iast: "Alāta-Śānti"
 aliases:
   - "अलातशन्ति"
   - "Alata-Santi"
+  - "Alata-Shanti"
+lastUpdated: "10-12-26"
 ---
 
 **Alāta-Śānti**

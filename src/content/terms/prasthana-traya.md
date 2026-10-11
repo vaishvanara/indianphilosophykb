@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prasthāna-Traya (प्रस्थानत्राय)"
 devanagari: "प्रस्थानत्राय"
 iast: "Prasthāna-Traya"

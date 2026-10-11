@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhavati (भवति)"
 devanagari: "भवति"
 iast: "Bhavati"

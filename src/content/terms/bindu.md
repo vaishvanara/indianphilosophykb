@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bindu (बिन्दु)"
 devanagari: "बिन्दु"
 iast: "Bindu"

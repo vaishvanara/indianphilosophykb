@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Virāt (विरात्)"
 devanagari: "विरात्"
 iast: "Virāt"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nāprajñam (नाप्रज्ञम्)"
 devanagari: "नाप्रज्ञम्"
 iast: "Nāprajñam"

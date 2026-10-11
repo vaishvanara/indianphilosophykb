@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pāra-Laukika (पारलौकिक)"
 devanagari: "पारलौकिक"
 iast: "Pāra-Laukika"

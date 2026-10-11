@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mahābhūta (महाभूत)"
 devanagari: "महाभूत"
 iast: "Mahābhūta"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Brahma-Sūtra (ब्रह्मसूत्र)"
 devanagari: "ब्रह्मसूत्र"
 iast: "Brahma-Sūtra"

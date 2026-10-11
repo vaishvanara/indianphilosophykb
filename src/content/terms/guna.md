@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Guṇa (गुण)"
 devanagari: "गुण"
 iast: "Guṇa"

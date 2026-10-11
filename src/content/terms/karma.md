@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Karma (कर्म)"
 devanagari: "कर्म"
 iast: "Karma"

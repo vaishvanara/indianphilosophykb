@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhakti-Rūpāpanna-Jñāna (भक्तिरूपापन्नज्ञान)"
 devanagari: "भक्तिरूपापन्नज्ञान"
 iast: "Bhakti-Rūpāpanna-Jñāna"

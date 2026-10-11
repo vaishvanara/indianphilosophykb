@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Paśupati (पशुपति)"
 devanagari: "पशुपति"
 iast: "Paśupati"
 aliases:
   - "Pasupati"
+  - "Pashupati"
   - "पशुपति"
 ---
 

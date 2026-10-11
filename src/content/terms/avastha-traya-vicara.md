@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Avasthā-Traya-Vicāra (अवस्थात्रयविचार)"
 devanagari: "अवस्थात्रयविचार"
 iast: "Avasthā-Traya-Vicāra"
 aliases:
   - "अवस्थात्रयविचार"
   - "Avastha-Traya-Vicara"
+  - "Avastha-Traya-Vichara"
 ---
 
 **Avasthā-Traya-Vicāra**

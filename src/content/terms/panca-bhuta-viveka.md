@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pañca-Bhūta-Viveka (पंचभूतविवेक)"
 devanagari: "पंचभूतविवेक"
 iast: "Pañca-Bhūta-Viveka"
 aliases:
   - "Panca-Bhuta-Viveka"
+  - "Pancha-Bhuta-Viveka"
   - "पंचभूतविवेक"
 ---
 

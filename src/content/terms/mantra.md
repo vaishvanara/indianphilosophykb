@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mantra (मन्त्र)"
 devanagari: "मन्त्र"
 iast: "Mantra"

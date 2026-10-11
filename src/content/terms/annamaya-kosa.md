@@ -4,7 +4,9 @@ devanagari: "अन्नमयकोश"
 iast: "Annamaya-Kośa"
 aliases:
   - "Annamaya-Kosa"
+  - "Annamaya-Kosha"
   - "अन्नमयकोश"
+lastUpdated: "10-12-26"
 ---
 
 **Annamaya-Kośa**

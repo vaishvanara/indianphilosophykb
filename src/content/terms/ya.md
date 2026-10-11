@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ya (य)"
 devanagari: "य"
 iast: "Ya"

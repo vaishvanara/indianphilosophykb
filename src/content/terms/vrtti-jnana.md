@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vṛtti-Jñāna (वृत्तिज्ञान)"
 devanagari: "वृत्तिज्ञान"
 iast: "Vṛtti-Jñāna"
 aliases:
   - "वृत्तिज्ञान"
   - "Vrtti-Jnana"
+  - "Vritti-Jnana"
 ---
 
 **Vṛtti-Jñāna**

@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śāstra (शास्त्र)"
 devanagari: "शास्त्र"
 iast: "Śāstra"
 aliases:
   - "Sastra"
+  - "Shastra"
   - "शास्त्र"
 ---
 

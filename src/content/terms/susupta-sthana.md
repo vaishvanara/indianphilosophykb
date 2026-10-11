@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Suṣupta-Sthāna (सुषुप्तस्थान)"
 devanagari: "सुषुप्तस्थान"
 iast: "Suṣupta-Sthāna"
 aliases:
   - "सुषुप्तस्थान"
   - "Susupta-Sthana"
+  - "Sushupta-Sthana"
 ---
 
 **Suṣupta-Sthāna**

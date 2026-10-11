@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bādhāyāṃ Sāmānādhikaraṇya (बाधायां सामानाधिकरण्य)"
 devanagari: "बाधायां सामानाधिकरण्य"
 iast: "Bādhāyāṃ Sāmānādhikaraṇya"

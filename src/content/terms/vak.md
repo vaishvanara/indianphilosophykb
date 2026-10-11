@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vāk (वाक्)"
 devanagari: "वाक्"
 iast: "Vāk"

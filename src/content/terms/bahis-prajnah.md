@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bahiṣ-Prajñaḥ (बहिष्प्रज्ञः)"
 devanagari: "बहिष्प्रज्ञः"
 iast: "Bahiṣ-Prajñaḥ"
 aliases:
   - "Bahis-Prajnah"
+  - "Bahish-Prajnah"
   - "बहिष्प्रज्ञः"
 ---
 

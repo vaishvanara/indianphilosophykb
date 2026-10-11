@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jñāna (ज्ञान)"
 devanagari: "ज्ञान"
 iast: "Jñāna"

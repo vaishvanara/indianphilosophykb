@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jyotiṣmatī (ज्योतिष्मती)"
 devanagari: "ज्योतिष्मती"
 iast: "Jyotiṣmatī"
 aliases:
   - "ज्योतिष्मती"
   - "Jyotismati"
+  - "Jyotishmati"
 ---
 
 **Jyotiṣmatī** 

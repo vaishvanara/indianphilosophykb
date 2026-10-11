@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Brahma-Bhāva (ब्रह्मभाव)"
 devanagari: "ब्रह्मभाव"
 iast: "Brahma-Bhāva"

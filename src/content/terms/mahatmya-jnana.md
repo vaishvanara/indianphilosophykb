@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Māhātmya-Jñāna (महात्म्यज्ञान)"
 devanagari: "महात्म्यज्ञान"
 iast: "Māhātmya-Jñāna"

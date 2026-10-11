@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhagavad-Anubhava (भगवदनुभव)"
 devanagari: "भगवदनुभव"
 iast: "Bhagavad-Anubhava"

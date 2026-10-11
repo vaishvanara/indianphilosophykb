@@ -5,6 +5,7 @@ iast: "Ānandamaya"
 aliases:
   - "Anandamaya"
   - "आनन्दमय"
+lastUpdated: "10-12-26"
 ---
 
 **Ānandamaya**

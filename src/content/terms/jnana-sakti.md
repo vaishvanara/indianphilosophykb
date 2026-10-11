@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jñāna-Śakti (ज्ञानशक्ति)"
 devanagari: "ज्ञानशक्ति"
 iast: "Jñāna-Śakti"
 aliases:
   - "ज्ञानशक्ति"
   - "Jnana-Sakti"
+  - "Jnana-Shakti"
 ---
 
 **Jñāna-Śakti**

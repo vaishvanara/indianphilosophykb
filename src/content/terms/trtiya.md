@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tṛtīya (तृतीय)"
 devanagari: "तृतीय"
 iast: "Tṛtīya"
 aliases:
   - "तृतीय"
   - "Trtiya"
+  - "Tritiya"
 ---
 
 **Tṛtīya** 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pramāṇa (प्रमाण)"
 devanagari: "प्रमाण"
 iast: "Pramāṇa"

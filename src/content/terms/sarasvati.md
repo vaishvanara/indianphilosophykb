@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sarasvatī (सरस्वती)"
 devanagari: "सरस्वती"
 iast: "Sarasvatī"
 aliases:
   - "सरस्वती"
   - "Sarasvati"
+  - "Saraswati"
 ---
 
 **Sarasvatī**

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nirvitarkā (निर्वितर्का)"
 devanagari: "निर्वितर्का"
 iast: "Nirvitarkā"

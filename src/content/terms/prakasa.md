@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prakāśa (प्रकाश)"
 devanagari: "प्रकाश"
 iast: "Prakāśa"
 aliases:
   - "Prakasa"
+  - "Prakasha"
   - "प्रकाश"
 ---
 

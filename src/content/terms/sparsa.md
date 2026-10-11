@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sparśa (स्पर्श)"
 devanagari: "स्पर्श"
 iast: "Sparśa"
 aliases:
   - "Sparsa"
+  - "Sparsha"
   - "स्पर्श"
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vyāna (व्यान)"
 devanagari: "व्यान"
 iast: "Vyāna"

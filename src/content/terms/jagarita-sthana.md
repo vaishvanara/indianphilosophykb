@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jāgarita-Sthāna (जागरितास्थान)"
 devanagari: "जागरितास्थान"
 iast: "Jāgarita-Sthāna"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Mahāmāyā (महामाया)"
 devanagari: "महामाया"
 iast: "Mahāmāyā"

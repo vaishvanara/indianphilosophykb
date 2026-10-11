@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ṣaṭ-Sampat (षट्सम्पत्)"
 devanagari: "षट्सम्पत्"
 iast: "Ṣaṭ-Sampat"
 aliases:
   - "Sat-Sampat"
+  - "Shat-Sampat"
   - "वशीकार"
 ---
 

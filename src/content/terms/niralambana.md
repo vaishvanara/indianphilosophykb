@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nirālambana (निरालम्बन)"
 devanagari: "निरालम्बन"
 iast: "Nirālambana"

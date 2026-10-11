@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Puruṣottama (पुरुषोत्तम)"
 devanagari: "पुरुषोत्तम"
 iast: "Puruṣottama"
 aliases:
   - "पुरुषोत्तम"
   - "Purusottama"
+  - "Purushottama"
 ---
 
 **Puruṣottama**

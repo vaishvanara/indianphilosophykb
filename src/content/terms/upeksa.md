@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Upekṣā (उपेक्षा)"
 devanagari: "उपेक्षा"
 iast: "Upekṣā"
 aliases:
   - "Upeksa"
+  - "Upeksha"
   - "उपेक्षा"
 ---
 

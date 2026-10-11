@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vikṣepa (विक्षेपः)"
 devanagari: "विक्षेपः"
 iast: "Vikṣepa"
 aliases:
   - "विक्षेपः"
   - "Viksepa"
+  - "Vikshepa"
 ---
 
 **Vikṣepa**

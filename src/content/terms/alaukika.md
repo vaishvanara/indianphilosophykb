@@ -5,6 +5,7 @@ iast: "Alaukika"
 aliases:
   - "अलौकिक"
   - "Alaukika"
+lastUpdated: "10-12-26"
 ---
 
 **Alaukika**

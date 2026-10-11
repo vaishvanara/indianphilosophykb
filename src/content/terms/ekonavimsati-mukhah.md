@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ekonaviṃśati-Mukhaḥ (एकोनविंशतिमुखः)"
 devanagari: "एकोनविंशतिमुखः"
 iast: "Ekonaviṃśati-Mukhaḥ"
 aliases:
   - "Ekonavimsati-Mukhah"
+  - "Ekonavimshati-Mukhah"
   - "एकोनविंशतिमुखः"
 ---
 

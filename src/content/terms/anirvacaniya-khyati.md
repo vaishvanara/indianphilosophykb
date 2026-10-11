@@ -5,6 +5,8 @@ iast: "Anirvacanīya-Khyāti"
 aliases:
   - "अनिर्वाचनीयख्याति"
   - "Anirvacaniya-Khyati"
+  - "Anirvachaniya-Khyati"
+lastUpdated: "10-12-26"
 ---
 
 **Anirvacanīya-Khyāti**

@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vināśa (विनाश)"
 devanagari: "विनाश"
 iast: "Vināśa"
 aliases:
   - "विनाश"
   - "Vinasa"
+  - "Vinasha"
 ---
 
 **Vināśa**

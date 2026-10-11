@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sāyujya (सायुज्य)"
 devanagari: "सायुज्य"
 iast: "Sāyujya"

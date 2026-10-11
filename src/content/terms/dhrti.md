@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Dhṛti (धृति)"
 devanagari: "धृति"
 iast: "Dhṛti"
 aliases:
   - "Dhrti"
+  - "Dhriti"
   - "धृति"
 ---
 

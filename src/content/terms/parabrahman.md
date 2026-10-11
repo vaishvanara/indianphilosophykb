@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Parabrahman (परब्रह्मन्)"
 devanagari: "परब्रह्मन्"
 iast: "Parabrahman"

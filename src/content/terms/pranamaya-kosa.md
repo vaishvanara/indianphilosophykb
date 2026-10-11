@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prāṇamaya-Kośa (प्राणमयकोश)"
 devanagari: "प्राणमयकोश"
 iast: "Prāṇamaya-Kośa"
 aliases:
   - "Pranamaya-Kosa"
+  - "Pranamaya-Kosha"
   - "प्राणमयकोश"
 ---
 

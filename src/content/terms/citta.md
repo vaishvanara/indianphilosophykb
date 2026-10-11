@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Citta (चित्त)"
 devanagari: "चित्त"
 iast: "Citta"
 aliases:
   - "Citta"
+  - "Chitta"
   - "चित्त"
 ---
 

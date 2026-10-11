@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śānta (शान्त)"
 devanagari: "शान्त"
 iast: "Śānta"
 aliases:
   - "शान्त"
   - "Santa"
+  - "Shanta"
 ---
 
 Śānta

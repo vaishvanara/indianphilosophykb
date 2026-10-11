@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Divya Cakṣuḥ (दिव्य चक्षुः)"
 devanagari: "दिव्य चक्षुः"
 iast: "Divya Cakṣuḥ"
 aliases:
   - "दिव्य चक्षुः"
   - "Divya Caksuh"
+  - "Divya Chaksuh"
 ---
 
 **Divya Cakṣuḥ** 

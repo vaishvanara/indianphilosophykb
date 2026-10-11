@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Dharma Bhāva (धर्मभाव)"
 devanagari: "धर्मभाव"
 iast: "Dharma Bhāva"

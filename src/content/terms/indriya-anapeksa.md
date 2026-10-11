@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Indriya-Anapekṣa (इन्द्रियानपेक्ष)"
 devanagari: "इन्द्रियानपेक्ष"
 iast: "Indriya-Anapekṣa"
 aliases:
   - "Indriya-Anapeksa"
+  - "Indriya-Anapeksha"
   - "इन्द्रियानपेक्ष"
 ---
 

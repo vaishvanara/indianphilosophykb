@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Puruṣa (पुरुष)"
 devanagari: "पुरुष"
 iast: "Puruṣa"
 aliases:
   - "पुरुष"
   - "Purusa"
+  - "Purusha"
 ---
 
 **Puruṣa**

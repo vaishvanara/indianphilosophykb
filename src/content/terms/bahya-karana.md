@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bahya-Kāraṇa (बह्यकारणम्)"
 devanagari: "बह्यकारणम्"
 iast: "Bahya-Kāraṇa"

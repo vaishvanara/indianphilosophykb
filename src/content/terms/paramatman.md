@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Paramātman (परमात्मन्)"
 devanagari: "परमात्मन्"
 iast: "Paramātman"

@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Na Bahiṣ Prajñaṃ (न बहिष्प्रज्ञं)"
 devanagari: "न बहिष्प्रज्ञं"
 iast: "Na Bahiṣ Prajñaṃ"
 aliases:
   - "न बहिष्प्रज्ञं"
   - "Na Bahis Prajnam"
+  - "Na Bahish Prajnam"
 ---
 
 **Na Bahiṣ Prajñaṃ**

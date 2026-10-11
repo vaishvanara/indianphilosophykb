@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tattva-Jnana (तत्त्वज्ञान)"
 devanagari: "तत्त्वज्ञान"
 iast: "Tattva-Jnana"

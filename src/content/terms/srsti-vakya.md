@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sṛṣṭi-Vākya (सृष्टिवाक्यः)"
 devanagari: "सृष्टिवाक्यः"
 iast: "Sṛṣṭi-Vākya"
 aliases:
   - "Srsti-Vakya"
+  - "Srishti-Vakya"
   - "सृष्टिवाक्यः"
 ---
 

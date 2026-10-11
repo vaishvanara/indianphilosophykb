@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Rahasya (रहस्य)"
 devanagari: "रहस्य"
 iast: "Rahasya"

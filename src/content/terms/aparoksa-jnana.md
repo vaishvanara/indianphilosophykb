@@ -5,6 +5,8 @@ iast: "Aparokṣa-Jñāna"
 aliases:
   - "अपरोक्षज्ञान"
   - "Aparoksa-Jnana"
+  - "Aparoksha-Jnana"
+lastUpdated: "10-12-26"
 ---
 
 **Aparokṣa-Jñāna**

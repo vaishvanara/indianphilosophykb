@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Virāga (विराग)"
 devanagari: "विराग"
 iast: "Virāga"

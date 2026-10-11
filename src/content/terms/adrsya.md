@@ -5,6 +5,8 @@ iast: "Adṛṣya"
 aliases:
   - "अदृष्य"
   - "Adrsya"
+  - "Adrishya"
+lastUpdated: "10-12-26"
 ---
 
 **Adṛṣya**

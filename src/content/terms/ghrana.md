@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ghrāṇa (घ्राण)"
 devanagari: "घ्राण"
 iast: "Ghrāṇa"

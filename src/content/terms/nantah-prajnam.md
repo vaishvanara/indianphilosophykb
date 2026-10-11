@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nāntaḥ-Prajñaṃ (नान्तः प्रज्ञं)"
 devanagari: "नान्तः प्रज्ञं"
 iast: "Nāntaḥ-Prajñaṃ"

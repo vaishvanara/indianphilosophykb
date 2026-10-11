@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Suṣupti (सुषुप्ति)"
 devanagari: "सुषुप्ति"
 iast: "Suṣupti"
 aliases:
   - "Susupti"
+  - "Sushupti"
   - "सुषुप्ति"
 ---
 

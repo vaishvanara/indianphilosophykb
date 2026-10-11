@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Āsīrvādam (आसीर्वादम्)"
 devanagari: "आसीर्वादम्"
 iast: "Āsīrvādam"

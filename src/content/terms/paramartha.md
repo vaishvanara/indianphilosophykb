@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Paramārtha (परमार्थ)"
 devanagari: "परमार्थ"
 iast: "Paramārtha"

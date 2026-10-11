@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śiva (शिव)"
 devanagari: "शिव"
 iast: "Śiva"
 aliases:
   - "Siva"
+  - "Shiva"
   - "शिव"
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Rūpa (रूप)"
 devanagari: "रूप"
 iast: "Rūpa"

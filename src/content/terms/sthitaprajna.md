@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sthitaprajñā (स्थितप्रज्ञा)"
 devanagari: "स्थितप्रज्ञा"
 iast: "Sthitaprajñā"

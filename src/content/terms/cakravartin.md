@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Cakravartin (चक्रवर्तिन्)"
 devanagari: "चक्रवर्तिन्"
 iast: "Cakravartin"
 aliases:
   - "Cakravartin"
+  - "Chakravartin"
   - "चक्रवर्तिन्"
 ---
 

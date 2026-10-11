@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Santoṣa (सन्तोष)"
 devanagari: "सन्तोष"
 iast: "Santoṣa"
 aliases:
   - "सन्तोष"
   - "Santosa"
+  - "Santosha"
 ---
 
 **Santoṣa**

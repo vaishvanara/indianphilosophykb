@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Catuṣpāt (चतुष्पात्)"
 devanagari: "चतुष्पात्"
 iast: "Catuṣpāt"
 aliases:
   - "चतुष्पात्"
   - "Catuspat"
+  - "Chatushpat"
 ---
 
 **Catuṣpāt**

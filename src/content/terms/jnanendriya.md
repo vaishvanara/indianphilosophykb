@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jñānendriya (ज्ञानेन्द्रिय)"
 devanagari: "ज्ञानेन्द्रिय"
 iast: "Jñānendriya"

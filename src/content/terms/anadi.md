@@ -5,6 +5,7 @@ iast: "Anādi"
 aliases:
   - "Anadi"
   - "अनादि"
+lastUpdated: "10-12-26"
 ---
 
 **Anādi** 

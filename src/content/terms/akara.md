@@ -5,6 +5,7 @@ iast: "Akāra"
 aliases:
   - "Akara"
   - "अकार"
+lastUpdated: "10-12-26"
 ---
 
 **Akāra**

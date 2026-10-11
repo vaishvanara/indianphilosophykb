@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Siddha (सिद्ध)"
 devanagari: "सिद्ध"
 iast: "Siddha"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Madhyama (मध्यमा)"
 devanagari: "मध्यमा"
 iast: "Madhyama"

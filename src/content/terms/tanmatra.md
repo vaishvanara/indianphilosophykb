@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tanmātra (तन्मात्र)"
 devanagari: "तन्मात्र"
 iast: "Tanmātra"

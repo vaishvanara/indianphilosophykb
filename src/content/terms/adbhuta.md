@@ -5,6 +5,7 @@ iast: "Adbhuta"
 aliases:
   - "Adbhuta"
   - "अद्भुत"
+lastUpdated: "10-12-26"
 ---
 
 **Adbhuta**

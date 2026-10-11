@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Yukti (युक्ति)"
 devanagari: "युक्ति"
 iast: "Yukti"

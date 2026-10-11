@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kevala (केवल)"
 devanagari: "केवल"
 iast: "Kevala"

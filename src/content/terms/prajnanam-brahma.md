@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prajñānaṃ Brahma (प्रज्ञानं ब्रह्म)"
 devanagari: "प्रज्ञानं ब्रह्म"
 iast: "Prajñānaṃ Brahma"

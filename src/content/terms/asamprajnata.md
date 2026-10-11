@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Asamprajñāta (असम्प्रज्ञातः)"
 devanagari: "असम्प्रज्ञातः"
 iast: "Asamprajñāta"

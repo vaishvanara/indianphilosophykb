@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ekībhāva (एकीभाव)"
 devanagari: "एकीभाव"
 iast: "Ekībhāva"

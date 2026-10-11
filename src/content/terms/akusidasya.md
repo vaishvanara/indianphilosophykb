@@ -5,6 +5,7 @@ iast: "Akusīdasya"
 aliases:
   - "अकुसीदस्य"
   - "Akusidasya"
+lastUpdated: "10-12-26"
 ---
 
 **Akusīdasya** 

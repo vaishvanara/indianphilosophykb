@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Pratibhāna-Jñāna (प्रतिभानज्ञन)"
 devanagari: "प्रतिभानज्ञन"
 iast: "Pratibhāna-Jñāna"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Āryasatya (आर्यसत्य)"
 devanagari: "आर्यसत्य"
 iast: "Āryasatya"

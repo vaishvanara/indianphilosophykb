@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nidrā (निद्रा)"
 devanagari: "निद्रा"
 iast: "Nidrā"

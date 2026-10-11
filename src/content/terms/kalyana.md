@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kalyāṇa (कल्याण)"
 devanagari: "कल्याण"
 iast: "Kalyāṇa"

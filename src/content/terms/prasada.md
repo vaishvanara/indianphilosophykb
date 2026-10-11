@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prasāda (प्रसाद)"
 devanagari: "प्रसाद"
 iast: "Prasāda"

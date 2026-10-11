@@ -5,6 +5,7 @@ iast: "Aliṅga"
 aliases:
   - "अलिङग"
   - "Alinga"
+lastUpdated: "10-12-26"
 ---
 
 **Aliṅga**

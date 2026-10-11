@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jagat (जगत्)"
 devanagari: "जगत्"
 iast: "Jagat"

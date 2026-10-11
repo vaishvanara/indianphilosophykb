@@ -5,6 +5,7 @@ iast: "Ādimattvāt"
 aliases:
   - "आदिमत्त्वात्"
   - "Adimattvat"
+lastUpdated: "10-12-26"
 ---
 
 **Ādimattvāt**

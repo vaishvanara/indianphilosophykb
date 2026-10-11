@@ -5,6 +5,7 @@ iast: "Aham Brahmasmi"
 aliases:
   - "अहम् ब्रह्मास्मि"
   - "Aham Brahmasmi"
+lastUpdated: "10-12-26"
 ---
 
 **Aham Brahmasmi** 

@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Kāraṇa-Śarīra (कारणशरीर)"
 devanagari: "कारणशरीर"
 iast: "Kāraṇa-Śarīra"
 aliases:
   - "कारणशरीर"
   - "Karana-Sarira"
+  - "Karana-Sharira"
 ---
 
 **Kāraṇa-Śarīra** 

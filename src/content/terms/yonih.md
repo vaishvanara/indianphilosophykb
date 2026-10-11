@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Yoniḥ (योनिः)"
 devanagari: "योनिः"
 iast: "Yoniḥ"

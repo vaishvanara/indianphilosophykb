@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jāgrat (जाग्रत्)"
 devanagari: "जाग्रत्"
 iast: "Jāgrat"

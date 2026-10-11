@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Tasya (तस्य)"
 devanagari: "तस्य"
 iast: "Tasya"

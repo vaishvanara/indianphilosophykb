@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Prātibhāsika (प्रतिभासिक)"
 devanagari: "प्रतिभासिक"
 iast: "Prātibhāsika"
 aliases:
   - "प्रतिभासिक"
   - "Pratibhasika"
+  - "Pratibhashika"
 ---
 
 **Prātibhāsika**

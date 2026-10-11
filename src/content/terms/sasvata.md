@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śāśvata (शाश्वत)"
 devanagari: "शाश्वत"
 iast: "Śāśvata"
 aliases:
   - "Sasvata"
+  - "Shaswata"
   - "शाश्वत"
 ---
 

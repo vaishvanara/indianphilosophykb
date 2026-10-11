@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śauca (शौच)"
 devanagari: "शौच"
 iast: "Śauca"
 aliases:
   - "Sauca"
+  - "Shauca"
   - "शौच"
 ---
 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Eka-Jīva-Vāda (एकजीववादः)"
 devanagari: "एकजीववादः"
 iast: "Eka-Jīva-Vāda"

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Bhaviṣyat (भविष्यत्)"
 devanagari: "भविष्यत्"
 iast: "Bhaviṣyat"

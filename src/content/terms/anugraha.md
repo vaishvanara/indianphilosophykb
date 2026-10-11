@@ -5,6 +5,7 @@ iast: "Anugraha"
 aliases:
   - "Anugraha"
   - "अनुग्रह"
+lastUpdated: "10-12-26"
 ---
 
 **Anugraha** 

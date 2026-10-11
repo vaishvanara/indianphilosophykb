@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nididhyāsitavya (निदिध्यासितव्य)"
 devanagari: "निदिध्यासितव्य"
 iast: "Nididhyāsitavya"

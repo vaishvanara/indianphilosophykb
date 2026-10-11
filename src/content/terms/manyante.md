@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Manyante (मन्यन्ते)"
 devanagari: "मन्यन्ते"
 iast: "Manyante"

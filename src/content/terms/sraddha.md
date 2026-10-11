@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Śraddhā (श्रद्घा)"
 devanagari: "श्रद्घा"
 iast: "Śraddhā"
 aliases:
   - "श्रद्घा"
   - "Sraddha"
+  - "Shraddha"
 ---
 
 **Śraddhā**

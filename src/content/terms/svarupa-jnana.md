@@ -4,6 +4,7 @@ devanagari: "स्वरूपज्ञान"
 iast: "Svarūpa-Jñāna"
 aliases:
   - "Svarupa-Jnana"
+  - "Swarupa-Jnana"
   - "स्वरूपज्ञान"
 ---
 

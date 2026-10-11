@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Manonigraha (मनोनिग्रह)"
 devanagari: "मनोनिग्रह"
 iast: "Manonigraha"

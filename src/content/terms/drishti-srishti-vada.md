@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Drishti-Srishti-Vada (दृष्टिसृष्टिवादः)"
 devanagari: "दृष्टिसृष्टिवादः"
 iast: "Drishti-Srishti-Vada"

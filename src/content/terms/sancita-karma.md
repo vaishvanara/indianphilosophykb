@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Sañcita Karma (सञ्चित कर्म)"
 devanagari: "सञ्चित कर्म"
 iast: "Sañcita Karma"
 aliases:
   - "सञ्चित कर्म"
   - "Sancita Karma"
+  - "Sanchita Karma"
 ---
 
 **Sañcita Karma**

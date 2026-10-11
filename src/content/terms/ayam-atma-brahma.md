@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ayam-Ātmā Brahma (अयमात्मा ब्रह्म)"
 devanagari: "अयमात्मा ब्रह्म"
 iast: "Ayam-Ātmā Brahma"

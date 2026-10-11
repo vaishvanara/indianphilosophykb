@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Māṇḍūkya (माण्डूक्य)"
 devanagari: "माण्डूक्य"
 iast: "Māṇḍūkya"

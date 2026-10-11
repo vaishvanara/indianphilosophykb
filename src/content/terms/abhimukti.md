@@ -5,6 +5,7 @@ iast: "Abhimukti"
 aliases:
   - "Abhimukti"
   - "अभिमुक्ति"
+lastUpdated: "10-12-26"
 ---
 
 **Abhimukti** 

@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Satkāraṇa-Vāda (सत्कारणवादः)"
 devanagari: "सत्कारणवादः"
 iast: "Satkāraṇa-Vāda"

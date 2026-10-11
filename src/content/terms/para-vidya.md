@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Parā Vidyā (पराविद्या)"
 devanagari: "पराविद्या"
 iast: "Parā Vidyā"

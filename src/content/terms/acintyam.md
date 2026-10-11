@@ -5,6 +5,8 @@ iast: "Acintyam"
 aliases:
   - "अचिन्त्यम्"
   - "Acintyam"
+  - "Achintyam"
+lastUpdated: "10-12-26"
 ---
 
 **Acintyam** 

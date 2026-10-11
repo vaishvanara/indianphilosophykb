@@ -1,9 +1,11 @@
 ---
+lastUpdated: "10-12-26"
 title: "Jñāna-Svarūpa (ज्ञानस्वरूप)"
 devanagari: "ज्ञानस्वरूप"
 iast: "Jñāna-Svarūpa"
 aliases:
   - "Jnana-Svarupa"
+  - "Jnana-Swarupa"
   - "ज्ञानस्वरूप"
 ---
 

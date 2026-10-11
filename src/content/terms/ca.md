@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ca (च)"
 devanagari: "च"
 iast: "Ca"

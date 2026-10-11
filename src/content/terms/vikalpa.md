@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Vikalpa (विकल्प)"
 devanagari: "विकल्प"
 iast: "Vikalpa"

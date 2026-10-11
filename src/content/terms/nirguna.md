@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Nirguṇa (निर्गुण)"
 devanagari: "निर्गुण"
 iast: "Nirguṇa"

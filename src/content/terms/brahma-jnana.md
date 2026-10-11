@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Brahma-Jñāna (ब्रह्मज्ञान)"
 devanagari: "ब्रह्मज्ञान"
 iast: "Brahma-Jñāna"

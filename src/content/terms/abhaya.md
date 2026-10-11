@@ -5,6 +5,7 @@ iast: "Abhaya"
 aliases:
   - "Abhaya"
   - "अभय"
+lastUpdated: "10-12-26"
 ---
 
 **Abhaya**

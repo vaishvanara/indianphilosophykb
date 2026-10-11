@@ -1,10 +1,12 @@
 ---
+lastUpdated: "10-12-26"
 title: "Manaḥ-Śuddhi (मनःशुद्धि)"
 devanagari: "मनःशुद्धि"
 iast: "Manaḥ-Śuddhi"
 aliases:
   - "मनःशुद्धि"
   - "Manah-Suddhi"
+  - "Manah-Shuddhi"
 ---
 
 **Manaḥ-Śuddhi**

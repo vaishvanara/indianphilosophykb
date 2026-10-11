@@ -1,4 +1,5 @@
 ---
+lastUpdated: "10-12-26"
 title: "Ātyantika-Pralaya (आत्यन्तिकप्रलय)"
 devanagari: "आत्यन्तिकप्रलय"
 iast: "Ātyantika-Pralaya"
