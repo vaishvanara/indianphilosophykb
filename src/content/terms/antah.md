@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Antaḥ**
 Meaning: "internal"
-From Mandukya Upanishad (Verse 4)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 4)
 
 **Definition from A Sanskrit-English Dictionary (Arthur Macdonell)**
 Sanskrit: अन्तर

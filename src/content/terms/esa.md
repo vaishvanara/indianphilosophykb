@@ -11,7 +11,7 @@ aliases:
 
 **Eṣa**
 Meaning: "the"
-From Mandukya Upanishad (Verse 6)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 6)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: एष

@@ -10,7 +10,7 @@ aliases:
 
 **Bhug** 
 Meaning: "enjoyer"
-From Mandukya Upanishad (Verses 3, 4, 5) 
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 3, 4, 5) 
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: भुज् 

@@ -10,7 +10,7 @@ aliases:
 
 **Na Prajñā-Ghanaṃ**
 Meaning: "not a mass of consciousness"
-From Mandukya Upanishad (Verse 7)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
 
 **Translation by Swami Sharvananda**
 Sanskrit: न प्रज्ञाघनं

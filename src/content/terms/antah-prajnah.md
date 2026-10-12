@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Antaḥ-Prajñaḥ**
 Meaning: "consciousness is inward"
-From Mandukya Upanishad (Verse 4)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 4)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: अन्तःप्रज्ञः 

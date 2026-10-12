@@ -10,7 +10,7 @@ aliases:
 
 **Ekī-Bhūtaḥ**
 Meaning: "unified experience"
-From Mandukya Upanishad (Verse 5)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: एक

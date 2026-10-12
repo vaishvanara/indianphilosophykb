@@ -11,7 +11,7 @@ aliases:
 
 **Paśyati Na**
 Meaning: "does not see"
-From Mandukya Upanishad (Verse 5)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
 
 पश्यति न (Paśyati na) is a Sanskrit phrase that can be broken down into two parts:
 

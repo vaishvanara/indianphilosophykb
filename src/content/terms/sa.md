@@ -10,7 +10,7 @@ aliases:
 
 **Sa**
 Meaning: "that"
-From Mandukya Upanishad (Verses 2, 7, 8)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 2, 7, 8)
 
 **Definition from Online Sanskrit Dictionary**
 Sanskrit: स

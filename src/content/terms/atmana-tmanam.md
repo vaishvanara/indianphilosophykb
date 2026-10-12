@@ -10,7 +10,7 @@ aliases:
 
 **Ātmanā’tmānaṃ**
 Meaning: "by the Self he enters the Self"
-From Mandukya Upanishad (Verse 12)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 12)
 
 आत्मनाऽत्मानं (ātmanā'tmānaṃ) is a nominative accusative dual form of the Sanskrit compound word आत्मनात्मान (ātmanā'tmāna), which means "the self by the self" or "the soul by the soul".
 

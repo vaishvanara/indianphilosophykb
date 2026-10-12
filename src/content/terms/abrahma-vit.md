@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Abrahma-Vit** 
 Meaning: "person ignorant of Brahman"
-From Māṇḍūkya Upaniṣad (Verse 10)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 10)
 
 **Translation by Swami Sharvananda** 
 Sanskrit: अब्रह्मवित् 

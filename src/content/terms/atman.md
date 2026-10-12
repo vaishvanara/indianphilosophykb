@@ -10,7 +10,7 @@ aliases:
 
 **Ātman**
 Meaning: "The Self"
-From Mandukya Upanishad (Verses 2, 7, 8, 12)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 2, 7, 8, 12)
 
 **A Concise Dictionary of Indian Philosophy**
 Sanskrit: आत्मन्

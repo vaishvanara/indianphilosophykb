@@ -10,7 +10,7 @@ aliases:
 
 Sthūla
 Meaning: "material"
-From Mandukya Upanishad (Verse 3)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 3)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: सथूल 

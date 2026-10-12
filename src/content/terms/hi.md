@@ -10,7 +10,7 @@ aliases:
 
 **Hi** 
 Meaning: "verily"
-From Mandukya Upanishad (Verse 2, 5, 6)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 2, 5, 6)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: हि

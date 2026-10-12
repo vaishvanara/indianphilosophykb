@@ -11,7 +11,7 @@ lastUpdated: "10-12-26"
 
 **Alakṣaṇa**
 Meaning: "indefinable"
-From Mandukya Upanishad (Verse 7)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: अलक्षण

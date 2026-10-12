@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Anyaḥ**
 Meaning: "other"
-From Mandukya Upanishad (Verse 1)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: अन्य

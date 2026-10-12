@@ -10,7 +10,7 @@ aliases:
 
 **Āpnoti**
 Meaning: "attains"
-From Mandukya Upanishad (Verse 9)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 9)
 
 आप्नोति (āpnōti) is a third person singular present tense form of the Sanskrit verb आप्नोति (āpnōti), which means "to obtain" or "to get".
 

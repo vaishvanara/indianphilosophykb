@@ -11,7 +11,7 @@ aliases:
 
 **Utkarṣati**
 Meaning: "increases"
-From Mandukya Upanishad (Verse 10)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 10)
 
 उत्कर्षति (utkarṣati) is a third person singular present tense form of the Sanskrit verb उत्कर्ष (utkarṣa), which means "to excel" or "to surpass".
 

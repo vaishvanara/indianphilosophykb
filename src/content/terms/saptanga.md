@@ -10,7 +10,7 @@ aliases:
 
 **Saptāṅga**
 Meaning: "seven-limbed"
-From Mandukya Upanishad (Verses 3, 4)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 3, 4)
 
 **Translation by Swami Sharvananda**
 Sanskrit: सप्ताङग 

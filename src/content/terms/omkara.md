@@ -10,7 +10,7 @@ aliases:
 
 **Oṃkāra**
 Meaning: "The Word; The Eternal"
-From Mandukya Upanishad (Verses 1, 8, 12)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 1, 8, 12)
 
 **A Concise Dictionary of Indian Philosophy**
 Sanskrit: ॐ, ओंकार

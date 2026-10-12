@@ -10,7 +10,7 @@ aliases:
 
 **Eva**
 Meaning: "thus"
-From Mandukya Upanishad (Verses 1, 5, 9, 10, 11, 12)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 1, 5, 9, 10, 11, 12)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: एव

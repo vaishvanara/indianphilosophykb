@@ -10,7 +10,7 @@ aliases:
 
 **Bhavati** 
 Meaning: "becomes"
-From Mandukya Upanishad (Verses 9, 10, 11)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 9, 10, 11)
 
 भवति (bhavati) is a third person singular present tense form of the Sanskrit verb भवति (bhavati), which means "to be" or "to exist".
 

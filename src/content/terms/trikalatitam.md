@@ -10,7 +10,7 @@ aliases:
 
 **Trikālātītaṃ**
 Meaning: "the threefold division of time"
-From Mandukya Upanishad https://onecosmicmind.blogspot.com/p/blog-page.html (Verse 1)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
 
 **Translation by Swami Sharvananda**
 Sanskrit: त्रिकालातीतं 

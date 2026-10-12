@@ -10,7 +10,7 @@ aliases:
 
 **Bhūtaṃ** 
 Meaning: "the past"
-From Mandukya Upanishad (Verse 1)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: भूत

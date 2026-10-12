@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Ādimattvāt**
 Meaning: "on account of its being the first"
-From Mandukya Upanishad (Verse 9)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 9)
 
 आदिमत्त्वात् (ādimatvāt) is a locative singular form of the Sanskrit word आदिमत्त्व (ādimatva), which is a noun that means "primacy" or "priority".
 

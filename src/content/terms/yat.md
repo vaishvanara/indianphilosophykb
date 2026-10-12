@@ -10,7 +10,7 @@ aliases:
 
 **Yat** 
 Meaning: "what"
-From Mandukya Upanishad (Verse 1)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
 
 Reference:
 Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math

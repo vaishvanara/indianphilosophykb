@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Antaryāmin**
 Meaning: "inner guide"
-From Mandukya Upanishad (Verse 6)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 6)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: अन्तर्यामिन् 

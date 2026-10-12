@@ -10,7 +10,7 @@ aliases:
 
 **Bahiḥ**
 Meaning: "external"
-From Mandukya Upanishad (Verse 3)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 3)
 
 **Translation by Chip Hartranft**
 Sanskrit: बहिः 

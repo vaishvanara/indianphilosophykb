@@ -10,7 +10,7 @@ aliases:
 
 **Ubhayatvāt**
 Meaning: "on account of being the middle between the two"
-From Mandukya Upanishad (Verse 10)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 10)
 
 उभयत्वात् (ubhayatvāt) is a locative singular form of the Sanskrit word उभयत्व (ubhayatva), which means "duality" or "twofoldness".
 

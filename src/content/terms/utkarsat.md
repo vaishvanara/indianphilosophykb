@@ -11,7 +11,7 @@ aliases:
 
 **Utkarṣāt**
 Meaning: "on account of superiority"
-From Mandukya Upanishad (Verse 10)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 10)
 
 उत्कर्षात् (utkarṣāt) is a locative singular form of the Sanskrit word उत्कर्ष (utkarṣa), which means "excellence" or "superiority".
 

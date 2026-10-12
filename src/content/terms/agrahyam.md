@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Agrāhyam**
 Meaning: "ungraspable"
-From Mandukya Upanishad (Verse 7)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
 
 **Translation by Monier Monier-Williams**
 Sanskrit: अग्राह्य 

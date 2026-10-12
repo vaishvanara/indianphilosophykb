@@ -11,7 +11,7 @@ aliases:
 
 **Bahiṣ-Prajñaḥ**
 Meaning: "consciousness is outward"
-From Mandukya Upanishad (Verse 3)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 3)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: बहिष्प्रज्ञ

@@ -10,7 +10,7 @@ aliases:
 
 **Māṇḍūkya** 
 Meaning: "frog"
-From Mandukya Upanishad (Verse 1)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: माण्डूक्य 

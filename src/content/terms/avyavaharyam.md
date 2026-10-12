@@ -10,7 +10,7 @@ aliases:
 
 **Avyavahāryam**
 Meaning: "unrelated"
-From Mandukya Upanishad (Verse 7, 12)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7, 12)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: अव्यवहार्य

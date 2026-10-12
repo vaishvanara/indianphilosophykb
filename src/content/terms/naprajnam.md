@@ -10,7 +10,7 @@ aliases:
 
 **Nāprajñam**
 Meaning: "not unconsciousness"
-From Mandukya Upanishad (Verse 7)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
 
 **Translation by Swami Sharvananda**
 Sanskrit: नाप्रज्ञम् 

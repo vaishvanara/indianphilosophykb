@@ -10,7 +10,7 @@ aliases:
 
 **Brahman**
 Meaning: "The Absolute"
-From Mandukya Upanishad (Verse 2)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 2)
 
 **A Concise Dictionary of Indian Philosophy**
 Sanskrit: ब्रह्मन्

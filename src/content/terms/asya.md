@@ -10,7 +10,7 @@ aliases:
 
 **Asya** 
 Meaning: "his"
-From Mandukya Upanishad (Verse 10)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 10)
 
 **Translation by Swami Sharvananda**
 Sanskrit: अस्य 

@@ -10,7 +10,7 @@ aliases:
 
 **Tad** 
 Meaning: "he, she, it, that, this"
-From Mandukya Upanishad (Verse 5)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
 
 Reference:
 Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press 

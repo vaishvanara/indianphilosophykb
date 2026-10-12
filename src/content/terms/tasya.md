@@ -10,7 +10,7 @@ aliases:
 
 **Tasya** 
 Meaning: "its"
-From Mandukya Upanishad (Verse 1)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
 
 Translation by Swami Sharvananda
 Sanskrit: तस्य 

@@ -10,7 +10,7 @@ aliases:
 
 **Ca** 
 Meaning: "and"
-From Mandukya Upanishad (Verses 1, 8, 9, 10, 11)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 1, 8, 9, 10, 11)
 
 1. the 20th letter of the alphabet, 1st of the 2nd (or palatal) class of consonants, having the sound of ch in church.
 2. and, both, also, moreover, as well as

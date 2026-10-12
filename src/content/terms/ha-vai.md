@@ -10,7 +10,7 @@ aliases:
 
 **Ha Vai**
 Meaning: "verily"
-From Mandukya Upanishad (Verses 9, 10, 11)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 9, 10, 11)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: ह

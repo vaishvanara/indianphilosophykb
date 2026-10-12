@@ -10,7 +10,7 @@ aliases:
 
 **Iti**  
 Meaning: "thus"
-From Mandukya Upanishad (Verses 1, 8)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 1, 8)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: इति 

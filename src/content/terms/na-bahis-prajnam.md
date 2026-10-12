@@ -11,7 +11,7 @@ aliases:
 
 **Na Bahiṣ Prajñaṃ**
 Meaning: "not consciousness outward"
-From Mandukya Upanishad (Verse 7)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
 
 **Translation by Swami Sharvananda**
 Sanskrit: न बहिष्प्रज्ञं

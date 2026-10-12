@@ -15,7 +15,7 @@ Pāda represents the feet and legs, functioning as the karmendriya of locomotion
 ---
 
 Meaning: "quarter"
-From Mandukya Upanishad (Verse 3, 4, 5, 8)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 3, 4, 5, 8)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: पाद 

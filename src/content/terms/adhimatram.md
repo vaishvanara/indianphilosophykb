@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Adhimātraṃ**
 Meaning: "of the form of syllables"
-From Mandukya Upanishad (Verse 8)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 8)
 
 **Translation by Monier Monier-Williams**
 Sanskrit: अधि-मात्रम्

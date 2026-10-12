@@ -11,7 +11,7 @@ aliases:
 
 Svapna
 Meaning: "dream"
-From Mandukya Upanishad (Verses 4, 5, 10)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 4, 5, 10)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: स्वप्न

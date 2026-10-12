@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Amātrā**
 Meaning: "without measure"
-From Mandukya Upanishad (Verse 12)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 12)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: अमात्रा

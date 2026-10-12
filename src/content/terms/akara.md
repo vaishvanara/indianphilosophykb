@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Akāra**
 Meaning: the letter "A"
-From Mandukya Upanishad (Verse 8, Verse 9)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 8, Verse 9)
 
 **Translation by Monier-Monier Williams**
 Sanskrit: अकार

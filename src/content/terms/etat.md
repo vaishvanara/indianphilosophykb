@@ -10,7 +10,7 @@ aliases:
 
 **Etat**
 Meaning: "this"
-From Mandukya Upanishad (Verse 1, 2)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1, 2)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: एतत् 

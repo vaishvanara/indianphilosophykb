@@ -10,7 +10,7 @@ aliases:
 
 **Nāntaḥ-Prajñaṃ** 
 Meaning: "not consciousness inward"
-From Mandukya Upanishad  (Verse 7)
+From the [Mandukya Upanishad](mandukyopanisat.md)  (Verse 7)
 
 **Translation by Swami Sharvananda**
 Sanskrit: नान्तः प्रज्ञं

@@ -10,7 +10,7 @@ aliases:
 
 **Ayam**
 Meaning: "this"
-From Mandukya Upanishad (Verse 2, 8)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 2, 8)
 
 अयम् (Ayam) is a Sanskrit word that means "this" or "the present moment". It is a pronoun that is often used to refer to the present moment, and is equivalent to the English word "this" or "now".
 

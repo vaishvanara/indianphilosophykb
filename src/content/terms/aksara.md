@@ -11,7 +11,7 @@ lastUpdated: "10-12-26"
 
 **Akṣara**
 Meaning: "imperishable"
-From Mandukya Upanishad (Verse 1, Verse 8)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1, Verse 8)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: अक्षर

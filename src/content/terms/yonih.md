@@ -10,7 +10,7 @@ aliases:
 
 **Yoniḥ**
 Meaning: "womb"
-From Mandukya Upanishad (Verse 6)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 6)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: योनि

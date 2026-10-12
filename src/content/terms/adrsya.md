@@ -11,7 +11,7 @@ lastUpdated: "10-12-26"
 
 **Adṛṣya**
 Meaning: "invisible"
-From Mandukya Upanishad (Verse 7)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
 
 **Translation by Monier Monier-Williams**
 Sanskrit:अद्रिष्यत्

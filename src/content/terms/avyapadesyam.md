@@ -11,7 +11,7 @@ aliases:
 
 **Avyapadeśya**
 Meaning: "unspeakable; non-verbalizable"
-From Mandukya Upanishad (Verse 7)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
  
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: अव्यपदेश्य

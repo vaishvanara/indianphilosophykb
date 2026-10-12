@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Ānanda-Bhuk**
 Meaning: "enjoyer of bliss (or peace)"
-From Mandukya Upanishad (Verse 5)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
 
 A Sanskrit phrase that conveys a sense of joy and delight!
 

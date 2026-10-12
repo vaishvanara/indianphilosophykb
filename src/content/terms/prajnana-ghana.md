@@ -10,7 +10,7 @@ aliases:
 
 **Prajñāna-Ghana**
 Meaning: "a mass of consciousness"
-From Mandukya Upanishad (Verse 5)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
 
 **Translation by Swami Sharvananda**
 Sanskrit: प्रज्ञानघन

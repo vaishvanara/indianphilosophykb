@@ -10,7 +10,7 @@ aliases:
 
 **Ekātma-Pratyaya-Sāraṃ**
 Meaning: "the Essence of the consciousness of Selfhood and Oneness"
-From Mandukya Upanishad (Verse 7)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
 
 **Translation by Swami Sharvananda**
 Sanskrit: एकात्मप्रत्ययसारं 

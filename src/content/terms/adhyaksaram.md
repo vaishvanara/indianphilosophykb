@@ -11,7 +11,7 @@ lastUpdated: "10-12-26"
 
 **Adhyakṣaram**
 Meaning: "perceptible"
-From Mandukya Upanishad (Verse 8)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 8)
 
 **Translation by John Grimes**
 Sanskrit: अध्यक्ष

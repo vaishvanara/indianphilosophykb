@@ -10,7 +10,7 @@ aliases:
 
 **Sarvajña**
 Meaning: "all-knowing"
-From Mandukya Upanishad (Verse 6)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 6)
 
 सर्वज्ञ (Sarvajña) is a Sanskrit word that means "all-knowing" or "omniscient". It is an adjective that is often used to describe someone who has complete knowledge or understanding of everything.
 

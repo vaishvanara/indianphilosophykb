@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Advaita**
 Meaning: "non-dual"
-From Mandukya Upanishad (Verse 7, Verse 12)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7, Verse 12)
 
 **Translation Monier Monier-Williams**
 Sanskrit: अद्वैत

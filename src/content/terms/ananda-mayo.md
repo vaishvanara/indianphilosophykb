@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Ānanda-Mayo**
 Meaning: "of the form of bliss"
-From Mandukya Upanishad (Verse 5)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: आनन्दमय

@@ -10,7 +10,7 @@ aliases:
 
 **Bhavat** 
 Meaning: "the present"
-From Mandukya Upanishad (Verse 1)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: भवत् 

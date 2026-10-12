@@ -11,7 +11,7 @@ aliases:
 
 **Suṣupta-Sthāna**
 Meaning: "the state of deep sleep"
-From Mandukya Upanishad (Verse 5, 11)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5, 11)
 
 सुषुप्तस्थान (Suṣuptasthāna) is a Sanskrit phrase that can be broken down into three parts:
 

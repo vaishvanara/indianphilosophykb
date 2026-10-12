@@ -11,7 +11,7 @@ aliases:
 
 **Tṛtīya** 
 Meaning: "the third"
-From Mandukya Upanishad (Verses 5, 11)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 5, 11)
 
 **Translation by Swami Sharvananda**
 Sanskrit: तृतीय, तृतीयः

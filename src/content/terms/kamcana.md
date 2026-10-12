@@ -11,7 +11,7 @@ aliases:
 
 **Kaṃcana**
 Meaning: "any"
-From Mandukya Upanishad (Verse 5)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
 
 **Translation by Swami Sharvananda**
 Sanskrit: कंचन 

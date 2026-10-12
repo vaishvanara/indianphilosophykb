@@ -10,7 +10,7 @@ lastUpdated: "10-12-26"
 
 **Ādiḥ**
 Meaning: "the first"
-From Mandukya Upanishad (Verse 9)
+From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 9)
 
 **Translation by John Grimes**
 Sanskrit: आदि
