@@ -13,8 +13,6 @@ aliases:
 
 Sanskrit Text, Transliteration, English Translation, and Word-for-Word Meaning
 
----
-
 ## Introduction
 
 ॐ
@@ -26,7 +24,6 @@ Oṃ
 
 The Mandukya Upanishad
 
----
 
 ॥ अथ माण्डूक्योपनिषत् ॥
 
