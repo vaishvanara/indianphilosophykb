@@ -7,7 +7,7 @@ description: "Master index and classical philosophical architecture of Indian Ph
 
 ## Overview
 
-Indian Philosophy KB is a structured digital knowledge base designed to map the classical architecture of Indian thought. Serving as an open access technical index, the site organizes complex philosophical systems into distinct domains including epistemology, ontology, cosmology, psychology, embodiment, practical discipline, and traditions.. 
+Indian Philosophy KB is a structured digital knowledge base designed to map the classical architecture of Indian thought. Serving as an open access technical index, the site organizes complex philosophical systems into distinct domains including epistemology, ontology, cosmology, psychology, embodiment, practical discipline, and traditions. 
 
 Each entry integrates primary terminology, Sanskrit concepts, and cross-referenced analytical breakdowns. By standardizing relationships between foundational texts, traditional schools, and core doctrines, this repository provides a clear framework for researchers, students, and practitioners seeking to navigate the interconnected landscape of classical Indian philosophy.
 
@@ -32,7 +32,7 @@ Each entry integrates primary terminology, Sanskrit concepts, and cross-referenc
 11. [Avadhi (अवधि)](avadhi.md) - clairvoyant knowledge; limited direct perception
 12. [Bhagavad-Anubhava (भगवदनुभव)](bhagavad-anubhava.md) - direct experience of the Divine
 13. [Bhakti-Rūpāpanna-Jñāna (भक्तिरूपापन्नज्ञान)](bhakti-rupapanna-jnana.md) - knowledge transformed into devotion
-14. [Brahma-Jñāna (ब्रह्मज्ञान)](brahma-jnana.md) - knowledge or realization of Brahman
+14. [Brahma-Jñāna (ब्रह्मज्ञान)](brahma-jnana.md) - knowledge or realization of *Brahman*
 15. [Indriya-Anapekṣa (इन्द्रियानपेक्ष)](indriya-anapeksa.md) - perception independent of the senses
 16. [Jñāna (ज्ञान)](jnana.md) - knowledge; consciousness
 17. [Jñāna-Śakti (ज्ञानशक्ति)](jnana-sakti.md) - the power of knowledge
