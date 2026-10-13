@@ -9,7 +9,11 @@ description: "Master index and classical philosophical architecture of Indian Ph
 
 Indian Philosophy KB is a structured digital knowledge base designed to map the classical architecture of Indian thought. Serving as an open access technical index, the site organizes complex philosophical systems into distinct domains including epistemology, ontology, cosmology, psychology, embodiment, practical discipline, and traditions. 
 
-Each entry integrates primary terminology, Sanskrit concepts, and cross-referenced analytical breakdowns. By standardizing relationships between foundational texts, traditional schools, and core doctrines, this repository provides a clear framework for researchers, students, and practitioners seeking to navigate the interconnected landscape of classical Indian philosophy.
+Entries range from concise lexical references on Sanskrit words and philosophical terminology to in-depth studies of concepts central to Advaita Vedānta. While this index includes terminology drawn from the wider landscape of Indian philosophy, the depth of each entry reflects its relevance to understanding Advaita's doctrines, primary texts, and interpretive traditions.
+
+Where appropriate, entries connect concepts to primary sources, traditional commentaries, and related philosophical ideas, providing a foundation for further study. Rather than attempting to examine every term or school exhaustively, the knowledge base prioritizes depth where it matters most while preserving a broader framework for exploring the interconnected traditions of Indian thought. Its content will continue to evolve alongside ongoing research, with references and substantial studies complementing one another.
+
+---
 
 ## Part 1: Epistemology and epistemic foundations
 
