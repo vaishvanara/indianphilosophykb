@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "10-16-26"
 title: "Api (अपि)"
 devanagari: "अपि"
 iast: "Api"
@@ -8,46 +8,35 @@ aliases:
   - "Api"
 ---
 
-**Api**
-Meaning: "also"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
-
-**Definition from A Sanskrit-English Dictionary (Monier-Williams)**
-Sanskrit: अपि 
-Transliteration: Api 
 Meaning: "expresses placing near or over, uniting to, annexing, reaching to, proximity; (As a separable adv.) and, also, moreover, besides, assuredly, surely"
 
-**Translation by Swami Sharvananda**
-Sanskrit: अपि 
-Transliteration: Api 
-Meaning: "also"
+---
 
-**Translation by Chip Hartranft**
-Sanskrit: अपि 
-Transliteration: Api 
-Meaning: "also "
+## Grammar and usage
 
-**Translation by I.K. Taimni**
-Sanskrit: अपि 
-Transliteration: Api 
-Meaning: "also; even"
+*Api* is an indeclinable Sanskrit word functioning as an adverb, particle, preposition, and verbal/nominal prefix. 
 
-References:
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press 
-2. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-3. Hartranft, Chip (2003). The Yoga-Sūtra of Patañjali: Sanskrit-English Translation & Glossary. Shambhala
-4. Taimni, I. K. (1975). The Science of Yoga: The Yoga-sūtras of Patañjali in Sanskrit with Transliteration in Roman, Translation in English and Commentary: Theosophical Publishing House
+As an adverb and particle, it expresses addition ("also", "likewise"), emphasis ("even"), or contrast ("but", "yet"). Placed after interrogative pronouns, it renders them indefinite (e.g., *ko 'pi*, "someone"). 
 
---------------------
-अपि (Api) is a Sanskrit word that means "even" or "also". It is a conjunction that is often used to indicate that something is true or applicable even in a particular situation or context.
+Combined with cardinal numerals, it signifies totality (e.g., *catvāro 'pi*, "all four"). At the beginning of a sentence, it serves as an interrogative particle or introduces optative clauses ("oh that!"). 
 
-In Sanskrit, the word अपि is often used to add emphasis or to indicate a sense of universality or inclusiveness. For example, the phrase "अपि संसारे" (Api saṃsāre) means "even in the world" or "also in the world", and is often used to describe a situation or condition that is true or applicable everywhere.
+As a conjunction, it is often used to indicate that something is true or applicable even in a particular situation or context. It forms common conjunctions, including *yadi... api* ("although"), *tathā... api* ("yet"), *api ca* ("moreover"), and *api nāma* ("perhaps"). 
 
-In a more literal sense, अपि can be translated to "even" or "also", and is often used to indicate a sense of equivalence or similarity between two things.
+As a preposition or prefix in Vedic and Classical Sanskrit, it denotes placement "at", "in", or "near". When prefixed to verbal roots such as *√i* (*api-√i*), it literally means "to enter" or "to be dissolved in", and figuratively "to die"; prefixed to *√dhā* (*api-dhā*), it means "to cover" or "to enclose".
 
-For example, the phrase "अपि मे" (Api me) means "even me" or "also me", and is often used to indicate that someone is included or involved in a particular situation or activity.
+## Contextual examples and translation
 
-Overall, अपि is a Sanskrit word that is often used to indicate a sense of "even" or "also", and is an important part of the Sanskrit language and culture.
+See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
 
-Reference:
-Groq
+In Sanskrit, *Api* is often used to add emphasis or to indicate a sense of universality or inclusiveness. For example, the phrase *Api saṃsāre* means "even in the world" or "also in the world", and is often used to describe a situation or condition that is true or applicable everywhere.
+
+In a more literal sense, *Api* can be translated to "even" or "also", and is often used to indicate a sense of equivalence or similarity between two things. For example, the phrase *Api me* means "even me" or "also me", and is often used to indicate that someone is included or involved in a particular situation or activity.
+
+---
+
+## References
+
+1. Apte, V. S. (1884). *The student’s English-Sanskrit dictionary*. Motilal Banarsidass. (Headwords "Also", p. 12, col. 2; "Any", p. 16, col. 2).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *api*, p. 20, col. 3 – p. 21, col. 1; _i_, p. 44a, col. 3).
+3. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. 
+4. Sharvananda, Swami (1920). *Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments*. Mylapore, Madras: Sri Ramakrishna Math

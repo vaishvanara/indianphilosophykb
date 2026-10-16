@@ -9,9 +9,9 @@ aliases:
 lastUpdated: "10-12-26"
 ---
 
-**Acintyam** 
 Meaning: unthinkable; incomprehensible; inexplicable (from the root cin – “to think + a – “not”)
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
+
+See: [Mandukya Upanishad  (Verse 7)](mandukyopanisat.md)
 
 **Translation by Monier Monier-Williams** 
 Sanskrit: अ-चिन्त्य
