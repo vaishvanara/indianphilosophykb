@@ -1,4 +1,4 @@
-# Indian philosophy KB
+# Indian Philosophy KB
 
 A structured digital garden and knowledge base on Indian philosophy built with Astro, Markdown, and TypeScript.
 
