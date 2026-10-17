@@ -20,7 +20,7 @@ Grammatically, *abhedadarśana* (Sanskrit: अभेददर्शन; IAST: *a
 Lexically, the term possesses both a primary literal meaning and an extended philosophical meaning:
 
 - **Literal meaning**: The act of seeing, observing, or perceiving (*darśana*) non-difference, non-division, or identity (*abheda*).
-- **Extended or philosophical meaning**: The direct cognition, spiritual insight, or philosophical realization of nonduality (*abheda-darśana*). In classical Indian metaphysics and epistemology (particularly within *Advaita Vedanta* and related non-dualist schools), the term designates the intuitive perception or higher cognitive state wherein an aspirant realizes the essential identity and non-separateness between individual consciousness (*jīva*) and the Absolute Reality (*Brahman*), transcending the illusory perception of empirical diversity and distinction (*bheda*).
+- **Extended or philosophical meaning**: The direct cognition, spiritual insight, or philosophical realization of nonduality (*abheda-darśana*). In classical Indian metaphysics and epistemology (particularly within Advaita Vedanta and related non-dualist schools), the term designates the intuitive perception or higher cognitive state wherein an aspirant realizes the essential identity and non-separateness between individual consciousness (*jīva*) and the Absolute Reality (*Brahman*), transcending the illusory perception of empirical diversity and distinction (*bheda*).
 
 ---
 

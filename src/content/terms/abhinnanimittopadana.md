@@ -14,9 +14,9 @@ Meaning: "the theory that the material cause (*upādāna*) and efficient cause (
 
 ## Definition
 
-*Abhinnanimittopādāna* (Sanskrit: अभिन्ननिमित्तोपादान; IAST: *abhinnanimittopādāna*), often expressed as *abhinnanimittopādānakāraṇa*, is the *Advaita Vedānta* doctrine holding that *Brahman* is both the intelligent, operative cause (*nimitta*) that wills and controls creation and the substantial material cause (*upādāna*) from which the world appears. 
+*Abhinnanimittopādāna* (Sanskrit: अभिन्ननिमित्तोपादान; IAST: *abhinnanimittopādāna*), often expressed as *abhinnanimittopādānakāraṇa*, is the Advaita Vedānta doctrine holding that *Brahman* is both the intelligent, operative cause (*nimitta*) that wills and controls creation and the substantial material cause (*upādāna*) from which the world appears. 
 
-Unlike philosophical systems that separate the creative agent from the raw material, *Advaita* asserts that prior to creation there is no secondary entity alongside *Brahman* (*ekamevādvitīyam*). Consequently, *Brahman* projects the cosmos out of Itself through Its inscrutable power of illusion (*māyā* or *avidyā*), serving as both the conscious source and the ontological ground of all empirical phenomena.
+Unlike philosophical systems that separate the creative agent from the raw material, Advaita asserts that prior to creation there is no secondary entity alongside *Brahman* (*ekamevādvitīyam*). Consequently, *Brahman* projects the cosmos out of Itself through Its inscrutable power of illusion (*māyā* or *avidyā*), serving as both the conscious source and the ontological ground of all empirical phenomena.
 
 ---
 
@@ -36,35 +36,35 @@ Traditional Vedantic exegesis distinguishes this technical usage from ordinary e
 
 ## Advaita Vedānta
 
-Within *Advaita Vedānta*, *abhinnanimittopādāna* is essential for maintaining strict non-duality (*advaita*) while offering an account of cosmic manifestation. If the material cause of the world were external to *Brahman*, such as the uncreated atoms (*paramāṇu*) of *Vaiśeṣika* or the independent primordial matter (*pradhāna*) of *Sāṁkhya*, *Brahman* would be limited by an external entity, resulting in dualism (*dvaitāpatti*).
+Within Advaita Vedānta, *abhinnanimittopādāna* is essential for maintaining strict non-duality (*advaita*) while offering an account of cosmic manifestation. If the material cause of the world were external to *Brahman*, such as the uncreated atoms (*paramāṇu*) of Vaiśeṣika or the independent primordial matter (*pradhāna*) of Sāṁkhya, *Brahman* would be limited by an external entity, resulting in dualism (*dvaitāpatti*).
 
-*Advaita Vedānta* explains *Brahman*'s dual causal role as follows:
+Advaita Vedānta explains *Brahman*'s dual causal role as follows:
 
 1. **As efficient cause (nimittakāraṇa)**: *Brahman* possesses inherent creative reflection (*ikṣaṇa* or *abhidhyā*) and omniscience (*sarvajñatva*). *Brahman* wills "May I become many, may I grow forth" (*tad aikṣata bahu syām prajāyeya*), initiating the projection of name and form (*nāma-rūpa*).
 2. **As material cause (upādānakāraṇa)**: *Brahman* is the sole reality (*sat*) in which the cosmos resides during manifestation and into which it is re-absorbed during dissolution (*pralaya*).
 3. **Absence of external instruments (sādhana-nirapekṣatva)**: Unlike empirical craftsmen who require external tools and materials, *Brahman* creates solely through volition (*saṅkalpa*) and power (*śakti* or *māyā*), analogous to milk transforming into curd or a spider weaving a web from its own body.
 
-To preserve *Brahman*'s immutability (*kūṭasthatva*), *Advaita* scholiasts distinguish two aspects of material causality: *Brahman* is "the unchangeable, apparent material cause or ground" (*vivartopādāna*), whereas *māyā* or *avidyā* is "the transformational material cause undergoing modal change" (*pariṇāmopādāna* ).
+To preserve *Brahman*'s immutability (*kūṭasthatva*), Advaita Vedānta scholiasts distinguish two aspects of material causality: *Brahman* is "the unchangeable, apparent material cause or ground" (*vivartopādāna*), whereas *māyā* or *avidyā* is "the transformational material cause undergoing modal change" (*pariṇāmopādāna* ).
 
 ---
 
 ## Nyāya-Vaiśeṣika and Pāśupata Schools
 
-In contrast to *Advaita Vedānta*, the *Nyāya-Vaiśeṣika* and *Pāśupata* (*Māheśvara*) schools explicitly reject *abhinnanimittopādāna*. These traditions hold that God (*Īśvara*) is exclusively the efficient cause (*nimittakāraṇa-mātra*) of the universe. 
+In contrast to Advaita Vedānta, the Nyāya-Vaiśeṣika and Pāśupata (Māheśvara) schools explicitly reject *abhinnanimittopādāna*. These traditions hold that God (*Īśvara*) is exclusively the efficient cause (*nimittakāraṇa-mātra*) of the universe. 
 
-In *Nyāya-Vaiśeṣika*, the material cause (*samavāyikāraṇa*) consists of uncreated, eternal atoms (*paramāṇu*), which God assembles according to the unseen karmic merits (*adṛṣṭa*) of living beings. In the *Pāśupata* system, primordial matter (*pradhāna*) serves as the independent material cause, while God acts merely as an external supervisor. 
+In Nyāya-Vaiśeṣika, the material cause (*samavāyikāraṇa*) consists of uncreated, eternal atoms (*paramāṇu*), which God assembles according to the unseen karmic merits (*adṛṣṭa*) of living beings. In the Pāśupata system, primordial matter (*pradhāna*) serves as the independent material cause, while God acts merely as an external supervisor. 
 
-*Advaita Vedānta* refutes these views in *Brahmasūtra* II.2.37–41, demonstrating that making God a mere efficient cause subjects Him to passion, partiality, and limitation, reducing Him to an empirical ruler dependent on external materials.
+Advaita Vedānta refutes these views in *Brahmasūtra* II.2.37–41, demonstrating that making God a mere efficient cause subjects Him to passion, partiality, and limitation, reducing Him to an empirical ruler dependent on external materials.
 
 ---
 
 ## Viśiṣṭādvaita Vedānta
 
-*Viśiṣṭādvaita Vedānta* also accepts *abhinnanimittopādāna*, agreeing that *Brahman* is both the material and efficient cause of the universe. However, *Viśiṣṭādvaita* interprets this through real modification (*pariṇāma*). 
+Viśiṣṭādvaita Vedānta also accepts *abhinnanimittopādāna*, agreeing that *Brahman* is both the material and efficient cause of the universe. However, Viśiṣṭādvaita interprets this through real modification (*pariṇāma*). 
 
-According to *Viśiṣṭādvaita*, the insentient universe (*acit*) and individual souls (*cit*) exist in a subtle state as *Brahman*'s body prior to creation, and evolve into a gross state during creation.
+According to Viśiṣṭādvaita, the insentient universe (*acit*) and individual souls (*cit*) exist in a subtle state as *Brahman*'s body prior to creation, and evolve into a gross state during creation.
 
-*Advaita* rejects real transformation (*pariṇāma*) of *Brahman*, asserting that *Brahman* appears as the world only through illusory transfiguration (*vivarta*) via *māyā*.
+Advaita Vedānta rejects real transformation (*pariṇāma*) of *Brahman*, asserting that *Brahman* appears as the world only through illusory transfiguration (*vivarta*) via *māyā*.
 
 ---
 
@@ -82,7 +82,7 @@ Chapter III.1.1 defines *Brahman* as "That from which all beings are born, by wh
 
 ### Brahmasūtra-Bhāṣya of Śrī Śaṅkarācārya
 
-*Śaṅkara* systematically establishes *abhinnanimittopādāna* in *Brahmasūtra* I.4.23–27 (*Prakṛtiś ca pratijñā-dṛṣṭāntānuparodhāt*):
+Śaṅkara systematically establishes *abhinnanimittopādāna* in *Brahmasūtra* I.4.23–27 (*Prakṛtiś ca pratijñā-dṛṣṭāntānuparodhāt*):
 
 - Sutra I.4.23 proves *Brahman* is the material cause (*prakṛti* or *upādāna*) as well as efficient cause (*nimitta*), so that the Upanishadic promise (*pratijñā*) and clay/gold illustrations (*dṛṣṭānta*) hold true.
 - Sutra I.4.24 (*Abhidhyopadeśāc ca*) cites scriptural passages of willing ("May I be many") to demonstrate that *Brahman* Himself becomes the manifold creation.
@@ -92,11 +92,11 @@ Chapter III.1.1 defines *Brahman* as "That from which all beings are born, by wh
 
 ### Pañcadaśī of Śrī Vidyāraṇya Svāmī
 
-In Chapter I (verses 44–46) and Chapter XIII (verses 5–9), *Vidyāraṇya* details the synthesis of material and efficient causality. He explains that *Brahman* associated with the *tamas*-predominant aspect of *māyā* acts as the material cause, while associated with the *sattva*-predominant aspect (*Īśvara*) It acts as the efficient cause.
+In Chapter I (verses 44–46) and Chapter XIII (verses 5–9), Vidyāraṇya details the synthesis of material and efficient causality. He explains that *Brahman* associated with the *tamas*-predominant aspect of *māyā* acts as the material cause, while associated with the *sattva*-predominant aspect (*Īśvara*) It acts as the efficient cause.
 
 ### Vedāntasāra of Śrī Sadānanda
 
-This work summarizes *abhinnanimittopādāna* as a standard technical concept in post-*Śaṅkara* *Advaita* pedagogy.
+This work summarizes *abhinnanimittopādāna* as a standard technical concept in post-Śaṅkara Advaita pedagogy.
 
 ---
 
@@ -110,11 +110,11 @@ The fundamental dispute over whether God is merely an instrumental, external age
 
 ### Vivarta-vāda vs. Pariṇāma-vāda
 
-An intra-Vedantic debate regarding the mechanism of material causality. Real-transformation theorists (*pariṇāma-vādins)* like *Bhāskara* and *Rāmānuja* maintain that *Brahman* undergoes actual transformation into the physical cosmos. Advaitins argue that real modification would destroy *Brahman*'s partless, immutable nature (*niravayava* or *kūṭastha*), insisting that creation is an apparent transfiguration (*vivarta*) superimposed on *Brahman* by *māyā*.
+An intra-Vedantic debate regarding the mechanism of material causality. Real-transformation theorists (*pariṇāma-vādins)* like Bhāskara and Rāmānuja maintain that *Brahman* undergoes actual transformation into the physical cosmos. Advaitins argue that real modification would destroy *Brahman*'s partless, immutable nature (*niravayava* or *kūṭastha*), insisting that creation is an apparent transfiguration (*vivarta*) superimposed on *Brahman* by *māyā*.
 
 ### Locus of material causality in post-Śaṅkara Advaita
 
-Internal discussions focus on the precise relation between *Brahman* and *Māyā* in material causation. Scholars discuss whether *Brahman* alone is the material cause (*kevala-brahmopādāna*), *māyā* alone is the material cause (*māyopādāna*), or *Brahman* conditioned by *māyā* (*māyā-visiṣṭa-brahman*) is the combined material-efficient cause. *Vidyāraṇya* harmonizes these by presenting Pure Consciousness (*cit*) as the underlying ground (*vivartopādāna*) and *māyā* as the transforming potency (*pariṇāmopādāna*).
+Internal discussions focus on the precise relation between *Brahman* and *māyā* in material causation. Scholars discuss whether *Brahman* alone is the material cause (*kevala-brahmopādāna*), *māyā* alone is the material cause (*māyopādāna*), or *Brahman* conditioned by *māyā* (*māyā-visiṣṭa-brahman*) is the combined material-efficient cause. Vidyāraṇya harmonizes these by presenting pure consciousness (*cit*) as the underlying ground (*vivartopādāna*) and *māyā* as the transforming potency (*pariṇāmopādāna*).
 
 ---
 

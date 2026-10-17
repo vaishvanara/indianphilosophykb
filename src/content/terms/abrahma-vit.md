@@ -18,7 +18,7 @@ See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
 
 *Abrahma-vit* (Sanskrit: अब्रह्मवित्; IAST: *abrahma-vit*), also written in its stem form as *abrahma-vid*, is a Sanskrit compound noun and adjective (masculine nominative singular: *abrahma-vit*) literally meaning "a non-knower of *Brahman*" or "one who does not know *Brahman*." 
 
-In the technical lexicon of *Advaita Vedānta*, as elaborated in the *Māṇḍūkya Upaniṣad*, *Gauḍapāda*’s *Kārikās*, and *Śrī Śaṅkarācārya*’s commentaries, *abrahma-vit* designates an un-enlightened individual (*ajñānī*) who remains bound by spiritual ignorance (*avidyā*) and illusion (*māyā*). 
+In the technical lexicon of Advaita Vedānta, as elaborated in the *Māṇḍūkya Upaniṣad*, Gauḍapāda’s Kārikā, and Śrī Śaṅkarācārya’s commentaries, *abrahma-vit* designates an un-enlightened individual (*ajñānī*) who remains bound by spiritual ignorance (*avidyā*) and illusion (*māyā*). 
 
 While a *brahmavit* (knower of *Brahman*) has realized the ultimate non-duality (*advaita*) of the individual Self (*Ātman*) and the Absolute (*Brahman*), an *abrahma-vit* operates under the delusion of duality (*dvaita*), erroneously identifying the Self with limiting adjuncts (*upādhis*) such as the body, mind, and intellect (*antaḥ-karaṇa*). Figuratively, the term signifies any seeker or worldly person who has not yet transcended phenomenal existence (*saṁsāra*) through direct intuition (*aparokṣānubhūti*) of non-dual consciousness.
 

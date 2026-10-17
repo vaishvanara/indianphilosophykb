@@ -29,8 +29,8 @@ Lexically and philosophically, the term possesses primary physical meanings alon
 
 **Technical and philosophical meanings**
 
-- *Mahāyāna* Buddhism (*bodhisattva* path): In *Mahāyāna* doctrine, *Acalā* ("The Immovable") designates the eighth of the ten spiritual stages (*bhūmi*) traversed by a *bodhisattva*. At this stage, the practitioner attains an unshakeable, irreversible state of wisdom and spiritual perseverance free from conceptual disturbance.
-- *Yogācāra* Buddhism: In *Yogācāra* philosophy, *acala* is classified as one of six types of unconditioned factors (*asaṃskṛta-dharma*), defining a state of unyielding composure and complete disregard for mundane powers and pleasures.
+- Mahāyāna Buddhism (*bodhisattva* path): In Mahāyāna doctrine, *Acalā* ("The Immovable") designates the eighth of the ten spiritual stages (*bhūmi*) traversed by a *bodhisattva*. At this stage, the practitioner attains an unshakeable, irreversible state of wisdom and spiritual perseverance free from conceptual disturbance.
+- Yogācāra Buddhism: In Yogācāra philosophy, *acala* is classified as one of six types of unconditioned factors (*asaṃskṛta-dharma*), defining a state of unyielding composure and complete disregard for mundane powers and pleasures.
 - Mythology and Jainism: Used as a proper name for Lord Śiva, a divine sage (*devarṣi*), and the first of the nine deified "white *balas*" (baladevās) in Jaina tradition.
 
 ---

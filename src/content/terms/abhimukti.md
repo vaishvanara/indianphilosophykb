@@ -19,7 +19,7 @@ Grammatically, *abhimukti* (Sanskrit: अभिमुक्ति; IAST: *abhimu
 Lexically, the term encompasses both a literal action-oriented meaning and an extended philosophical sense:
 
 - **Literal meaning**: The act of releasing, setting free, discharging, or letting loose towards or in the direction of a target or state.
-- **Extended or philosophical meaning**: In Indian philosophy and soteriological literature (including *Vedānta*, *Sāṁkhya*, and allied schools), *mukti* denotes final emancipation, spiritual liberation, or release from karmic bondage and the cycle of transmigration (*saṃsāra*). Reinforced by the prefix *abhi-* ("towards", "intense", "facing"), *abhimukti* designates the direct, complete, or focused attainment of spiritual release, as well as the active orientation or movement of consciousness towards ultimate liberation.
+- **Extended or philosophical meaning**: In Indian philosophy and soteriological literature (including Vedānta, Sāṁkhya, and allied schools), *mukti* denotes final emancipation, spiritual liberation, or release from karmic bondage and the cycle of transmigration (*saṃsāra*). Reinforced by the prefix *abhi-* ("towards", "intense", "facing"), *abhimukti* designates the direct, complete, or focused attainment of spiritual release, as well as the active orientation or movement of consciousness towards ultimate liberation.
 
 ---
 
