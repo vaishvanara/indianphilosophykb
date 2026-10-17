@@ -6,37 +6,40 @@ aliases:
   - "अचिन्त्यम्"
   - "Acintyam"
   - "Achintyam"
-lastUpdated: "10-12-26"
+lastUpdated: "10-17-26"
 ---
 
-Meaning: unthinkable; incomprehensible; inexplicable (from the root cin – “to think + a – “not”)
+Meaning: "inconceivable, unthinkable, or beyond mental comprehension; an attribute of *Turīya* in the *Māṇḍūkya Upaniṣad*."
 
 See: [Mandukya Upanishad  (Verse 7)](mandukyopanisat.md)
 
-**Translation by Monier Monier-Williams** 
-Sanskrit: अ-चिन्त्य
-Transliteration: a-cintya
-Meaning: "inconceivable, surpassing thought"
+---
 
-**Translation by John Grimes**
-Sanskrit: अचिन्त्य 
-Transliteration: acintya 
-Meaning: unthinkable; incomprehensible; inexplicable (from the root cin – “to think + a – “not”)
-1. A name denoting the Divine because it is said that the mind cannot cognize the Ineffable.
-2. A type of power.  
+## Definition
 
-**Translation by Swami Sharvananda**
-Sanskrit: अचिन्त्यम्
-Transliteration: acintyam
-Meaning: "beyond all thought"
+Grammatically, *acintyam* (Sanskrit: अचिन्त्यम्; IAST: acintyam) is the nominative or accusative neuter singular form of the Sanskrit adjective *acintya*. 
 
-**Definition by Svāmi Krishnananda**
-Sanskrit: अचिन्त्यम्
-Transliteration: acintyam
-Commentary: "It is unthinkable by the mind. You cannot form a thought of this Being. You cannot, therefore, meditate upon it in the usual manner. You cannot think it, because to think would be to bring the object to the realm of space and time, to externalise it. It is not an object, and it is not in space and time, and, so, it is not thinkable."
+Lexically and philosophically, the term functions as both an ordinary descriptor and a crucial apophatic technical term in Vedantic metaphysics:
 
-References:
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press 
-2. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-3. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-3. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 83.
+- **Literal and lexical meaning**: Inconsolable, unponderable, incomprehensible, or unthinkable; that which surpasses mental reflection.
+- **Philosophical usage in the Māṇḍūkya Upaniṣad**: In verse 7 of the *Māṇḍūkya Upaniṣad*, *acintyam* occurs within a celebrated series of negative qualifiers (*adṛṣṭam avyavahāryam agrāhyam alakṣaṇam acintyam avyapadeśyam*) defining *Turīya* ("the Fourth"), the ultimate, non-dual Reality or pure Self (*Ātman* or *Brahman*) beyond the three empirical states of consciousness (waking, dreaming, and deep sleep). In this context, *acintyam* specifies that the Absolute (*Brahman*) cannot be objectified, grasped, or circumscribed by discursive thought (*cintā*), mental modifications (*vṛtti*), or the empirical intellect (*citta* or *buddhi*). Because pure consciousness (*cit*) is the foundational subject that illuminates all thought, it cannot itself become an object of cognition.
+
+---
+
+## Etymology
+
+The word *acintya* is a primary nominal derivative (*kṛdanta*) formed as a negative future passive participle (gerundive):
+
+1. **Prefix**: The negative particle *a-* ("not", "un-", "without").
+2. **Verbal root**: *cint* (चिन्त्), a primary verbal root meaning "to think", "to reflect upon", "to consider", or "to ponder" (allied with the root *cit*, "to perceive, know, observe").
+3. **Gerundive suffix**: The future passive participle suffix *-ya* (signifying "capable of being", "fit to be", or "subject to"). Combined with the root and prefix (*a-* + *cint* + *-ya*), *acintya* literally yields "that which is incapable of or unfit for being thought about."
+4. **Grammatical inflection**: Adding the neuter nominative singular inflection *-m* forms *acintyam* (अचिन्त्यम्), denoting "the Unthinkable Absolute."
+
+---
+
+## References
+
+1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press. Headwords "*Acintya*" (p. 9), "*Māṇḍūkya Upaniṣad*" (p. 186), and "*Turīya*" (p. 328).
+2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. Headwords "*a-cintya*" (Part 1, p. 4, col. 3) and "*cint*" (Part 1, p. 94, col. 3 / p. 95, col. 1).
+3. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. Headwords "*a-cintya*" (p. 9, col. 1) and "*cint*" (p. 398, col. 3).
+4. Sivananda, S. (2004). *Glossary of Sanskrit Terms*. The Divine Life Society. Headwords "*Achintya*" (p. 2) and "*Mahavakya*" (p. 73).
