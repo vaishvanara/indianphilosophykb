@@ -5,7 +5,7 @@
     --bg-primary: #fdfbf7;
     --bg-secondary: #f6efe2;
     --bg-tertiary: #ede1cb;
-    --text-primary: #2c221e;
+    --text-primary: #423630;
     --text-secondary: #5c4d44;
     --text-muted: #8c786c;
     --border-color: #e5d6c2;
@@ -18,8 +18,8 @@
     --bg-primary: #12100e;
     --bg-secondary: #1c1815;
     --bg-tertiary: #27221d;
-    --text-primary: #f2ebd9;
-    --text-secondary: #d6c8b4;
+    --text-primary: #d6c8b4;
+    --text-secondary: #b5a794;
     --text-muted: #9e8f7c;
     --border-color: #383028;
     --accent-saffron: #ff8c3b;
@@ -80,7 +80,7 @@ a[target="_blank"]::after {
 
 .prose p {
   margin-bottom: 1.25rem;
-  font-size: 1.05rem;
+  font-size: 1.04rem;
 }
 
 .prose ul, .prose ol {
