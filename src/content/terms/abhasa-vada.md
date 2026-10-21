@@ -22,7 +22,7 @@ While *ābhāsa* (Sanskrit: आभास; IAST: *ābhāsa*) in non-technical San
 
 The term *ābhāsa* is derived from the Sanskrit verbal root *bhās* (भास्, meaning "to shine" or "to appear") prefixed with *ā* (आ-, indicating "towards", "faintly", or "falsely"). Grammatically formed as *ā*-√*bhās* + *ghañ*, *ābhāsa* literally signifies a "faint appearance", "semblance", "phantom", or "fallacious reflection". The noun *vāda* (वाद) stems from the root *vad* (वद्, "to speak" or "to discourse"), denoting a philosophical thesis, doctrine, or school of thought. Thus, *ābhāsa-vāda* translates etymologically as "the doctrine of appearance" or "the theory of illusory reflection". 
 
-In Vedantic exegesis, scholiasts carefully distinguish this technical derivation from literal physical reflection, emphasizing that *ābhāsa* implies an apparent modification (*vivarta*) rather than a real transformation (*pariṇāma*) of consciousness.
+In Vedantic exegesis, scholiasts carefully distinguish this technical derivation from literal physical reflection, emphasizing that *ābhāsa* implies an apparent modification (*vivarta*) rather than a real transformation (*pariṇāma*) of Consciousness.
 
 ---
 
@@ -43,7 +43,7 @@ Within the tradition, *ābhāsa-vāda* is distinct from two other major models o
 
 ## Ābhāsa-vāda in Śākta Tantra and Kashmir Śaivism
 
-For comparative perspective, Śākta and Trika Śaiva traditions (such as the philosophy set forth in the Tripurā Rahasya) also employ a reflection theory (*ābhāsa-vāda* or *bimba-pratibimba-vāda*). However, whereas Advaita Vedānta treats the world-reflection as a product of nescience (*avidyā*) superimposed on a passive substratum, Śākta Tantra regards the entire cosmos as a real manifestation projected within the self-luminous mirror of Pure Consciousness (*Cit-Darpaṇa*) by the sovereign, unimpeded free will (*svatantra-śakti*) of *Parama Śiva* or *Parāśakti*. Thus, in Tantric *ābhāsa-vāda*, the reflection is a dynamic self-expression of Reality rather than a deceptive illusion to be destroyed.
+For comparative perspective, Śākta and Trika Śaiva traditions (such as the philosophy set forth in the *Tripurā Rahasya*) also employ a reflection theory (*ābhāsa-vāda* or *bimba-pratibimba-vāda*). However, whereas Advaita Vedānta treats the world-reflection as a product of nescience (*avidyā*) superimposed on a passive substratum, Śākta Tantra regards the entire cosmos as a real manifestation projected within the self-luminous mirror of Pure Consciousness (*Cit-Darpaṇa*) by the sovereign, unimpeded free will (*svatantra-śakti*) of *Parama Śiva* or *Parāśakti*. Thus, in Tantric *ābhāsa-vāda*, the reflection is a dynamic self-expression of Reality rather than a deceptive illusion to be destroyed.
 
 ---
 

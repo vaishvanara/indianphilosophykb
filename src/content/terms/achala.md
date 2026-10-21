@@ -24,14 +24,14 @@ Lexically and philosophically, the term possesses primary physical meanings alon
 
 **Concrete nominal meanings**
 
-- *Masculine* (*acala*, *m.*): a mountain or rock (literally "that which is immovable"); a bolt or pin; the numerical symbol for the number "seven" (referring to the seven principal mountain ranges or *kulācala*s in classical cosmology).
-- *Feminine* (*acalā*, *f.*): the earth (personified as the stable, unshakeable foundation of creatures).
+- ***Masculine* (*acala*, *m.*)**: a mountain or rock (literally "that which is immovable"); a bolt or pin; the numerical symbol for the number "seven" (referring to the seven principal mountain ranges or *kulācala*s in classical cosmology).
+- ***Feminine* (*acalā*, *f.*)**: the earth (personified as the stable, unshakeable foundation of creatures).
 
 **Technical and philosophical meanings**
 
-- Mahāyāna Buddhism (*bodhisattva* path): In Mahāyāna doctrine, *Acalā* ("The Immovable") designates the eighth of the ten spiritual stages (*bhūmi*) traversed by a *bodhisattva*. At this stage, the practitioner attains an unshakeable, irreversible state of wisdom and spiritual perseverance free from conceptual disturbance.
-- Yogācāra Buddhism: In Yogācāra philosophy, *acala* is classified as one of six types of unconditioned factors (*asaṃskṛta-dharma*), defining a state of unyielding composure and complete disregard for mundane powers and pleasures.
-- Mythology and Jainism: Used as a proper name for Lord Śiva, a divine sage (*devarṣi*), and the first of the nine deified "white *balas*" (baladevās) in Jaina tradition.
+- **Mahāyāna Buddhism (*bodhisattva* path)**: In Mahāyāna doctrine, *Acalā* ("The Immovable") designates the eighth of the ten spiritual stages (*bhūmi*) traversed by a *bodhisattva*. At this stage, the practitioner attains an unshakeable, irreversible state of wisdom and spiritual perseverance free from conceptual disturbance.
+- **Yogācāra Buddhism**: In Yogācāra philosophy, *acala* is classified as one of six types of unconditioned factors (*asaṃskṛta-dharma*), defining a state of unyielding composure and complete disregard for mundane powers and pleasures.
+- **Mythology and Jainism**: Used as a proper name for Lord Śiva, a divine sage (*devarṣi*), and the first of the nine deified "white *balas*" (baladevās) in Jaina tradition.
 
 ---
 

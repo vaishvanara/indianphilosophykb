@@ -84,11 +84,11 @@ Chapter III.1.1 defines *Brahman* as "That from which all beings are born, by wh
 
 Śaṅkara systematically establishes *abhinnanimittopādāna* in *Brahmasūtra* I.4.23–27 (*Prakṛtiś ca pratijñā-dṛṣṭāntānuparodhāt*):
 
-- Sutra I.4.23 proves *Brahman* is the material cause (*prakṛti* or *upādāna*) as well as efficient cause (*nimitta*), so that the Upanishadic promise (*pratijñā*) and clay/gold illustrations (*dṛṣṭānta*) hold true.
-- Sutra I.4.24 (*Abhidhyopadeśāc ca*) cites scriptural passages of willing ("May I be many") to demonstrate that *Brahman* Himself becomes the manifold creation.
-- Sutra I.4.25 (*Sākṣāc co bhayāmnānāt*) notes that scripture directly attributes both origin and re-absorption to *Brahman*.
-- Sutra I.4.26 (*Ātmakṛteḥ pariṇāmāt*) explains "creating Itself", where *Śaṅkara* notes that transformation is apparent (*vivarta*) rather than real.
-- Sutra I.4.27 (*Yoniś ca hi gīyate*) highlights scripture calling *Brahman* the "womb" (*yoni*) or source of all beings.  
+- **Sutra I.4.23** proves *Brahman* is the material cause (*prakṛti* or *upādāna*) as well as efficient cause (*nimitta*), so that the Upanishadic promise (*pratijñā*) and clay/gold illustrations (*dṛṣṭānta*) hold true.
+- **Sutra I.4.24 (*Abhidhyopadeśāc ca*)** cites scriptural passages of willing ("May I be many") to demonstrate that *Brahman* Himself becomes the manifold creation.
+- **Sutra I.4.25 (*Sākṣāc co bhayāmnānāt*)** notes that scripture directly attributes both origin and re-absorption to *Brahman*.
+- **Sutra I.4.26 (*Ātmakṛteḥ pariṇāmāt*)** explains "creating Itself", where *Śaṅkara* notes that transformation is apparent (*vivarta*) rather than real.
+- **Sutra I.4.27 (*Yoniś ca hi gīyate*)** highlights scripture calling *Brahman* the "womb" (*yoni*) or source of all beings.  
 
 ### Pañcadaśī of Śrī Vidyāraṇya Svāmī
 

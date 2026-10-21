@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "10-21-26"
 title: "Māṇḍūkyopaniṣat (माण्डूक्योपनिषत्)"
 devanagari: "माण्डूक्योपनिषत्"
 iast: "Māṇḍūkyopaniṣat"
@@ -46,15 +46,13 @@ Yac-Cānyat-Trikālātītaṃ Tad-Apy-Oṃkāra Eva.*
 **Translation**
 
 Oṃ! All this is this imperishable Aum.
-Its explanation as follows:
-the past, the present, the future: all of this is Oṃkāra (the Eternal).
-And what is other than the threefold division of time,
-that is also Oṃkāra.
+Its explanation as follows: the past, the present, the future: all of this is *Oṃkāra* (the Eternal).
+And what is other than the threefold division of time, that is also *Oṃkāra*.
 
 **Word-for-word meaning**
 
-1. Om - [Oṃkāra - ओंकार](omkara.md) - the Word; the Praṇava; the Eternal  
-2. Aum - [Oṃkāra - ओंकार](omkara.md) - the Word; the Praṇava; the Eternal  
+1. Om - [Oṃkāra - ओंकार](omkara.md) - the Word; the *Praṇava*; the Eternal  
+2. Aum - [Oṃkāra - ओंकार](omkara.md) - the Word; the *Praṇava*; the Eternal  
 3. [Iti - इति](iti.md) - thus  
 4. [Etat - एतत्](etat.md) - this  
 5. [Akṣara - अक्षर](aksara.md) - imperishable  
@@ -67,7 +65,7 @@ that is also Oṃkāra.
 12. [Bhaviṣyat - भविष्यत्](bhavisyat.md) - the future  
 13. [Iti - इति](iti.md) - thus  
 14. [Sarvaṃ - सर्वं](sarvam.md) - all  
-15. [Oṃkāra - ओंकार](omkara.md) - the Word; the Praṇava; the Eternal  
+15. [Oṃkāra - ओंकार](omkara.md) - the Word; the *Praṇava*; the Eternal  
 16. [Eva - एव](eva.md) - thus, therefore  
 17. [Yat - यत्](yat.md) - what  
 18. [Ca - च](ca.md) - and  
@@ -75,7 +73,7 @@ that is also Oṃkāra.
 20. [Trikālātītaṃ - त्रिकालातीतं](trikalatitam.md) - the threefold division of time  
 21. [Tat - तत्](tat.md) - that  
 22. [Api - अपि](api.md) - also  
-23. [Oṃkāra - ओंकार](omkara.md) - the Word; the Praṇava; the Eternal  
+23. [Oṃkāra - ओंकार](omkara.md) - the Word; the *Praṇava*; the Eternal  
 24. [Eva - एव](eva.md) - thus, therefore
 
 ---
@@ -92,7 +90,7 @@ So’yam-Ātmā Catuṣpāt.*
 
 **Translation**
 
-Verily, all this is Brahman (the Absolute). 
+Verily, all this is *Brahman* (the Absolute). 
 This Self is the Absolute. 
 This same Self has four quarters.
 
@@ -125,8 +123,7 @@ Sthūla-Bhug-Vaiśvānaraḥ Prathamaḥ Pādaḥ.*
 **Translation**
 
 In the waking state, consciousness is outward.
-Seven-limbed, nineteen-mouthed, enjoyer of material objects—
-Vaiśvānara (the Self of the waking state) is the first quarter.
+Seven-limbed, nineteen-mouthed, enjoyer of material objects—*Vaiśvānara* (the Self of the waking state) is the first quarter.
 
 **Word-for-word meaning**
 
@@ -155,8 +152,7 @@ Pravivikta-Bhuk-Taijaso Dvitīya Pādaḥ.*
 **Translation**
 
 In the dream state, consciousness is inward.
-Seven-limbed, nineteen-mouthed, enjoyer of subtle objects—
-Taijasa (the Self of the dream state) is the second quarter.
+Seven-limbed, nineteen-mouthed, enjoyer of subtle objects—*Taijasa* (the Self of the dream state) is the second quarter.
 
 **Word-for-word meaning**
 
@@ -185,12 +181,8 @@ Hy-Ānanda-Bhuk Ceto-Mukhaḥ Prājñas-Tṛtīyaḥ Pādaḥ.*
 
 **Translation**
 
-Where one asleep neither desires anything nor sees any dream—
-that is deep sleep.
-In the state of deep sleep experience is unified,
-a mass of consciousness, verily of the form of bliss,
-verily enjoying bliss, and whose mouth is consciousness—
-Prājña (wisdom/the Self of the sleep state) is the third quarter.
+Where one asleep neither desires anything nor sees any dream—that is deep sleep.
+In the state of deep sleep experience is unified, a mass of consciousness, verily of the form of bliss, verily enjoying bliss, and whose mouth is consciousness—*Prājña* (wisdom/the Self of the sleep state) is the third quarter.
 
 **Word-for-word meaning**
 
@@ -228,9 +220,7 @@ Yoniḥ Sarvasya Prabhavāpyayau Hi Bhūtānām.*
 
 **Translation**
 
-The Lord of All; the All-knowing;
-the Inner Guide; the Womb of All;
-verily, the cause and dissolution of all beings.
+The Lord of All; the All-knowing; the Inner Guide; the Womb of All; verily, the cause and dissolution of all beings.
 
 **Word-for-word meaning**
 
@@ -260,15 +250,8 @@ Adṛṣya-Avyavahāryam-Agrāhyam-Alakṣaṇam-Acintyam-Avyapadeśyam Ekātma-
 
 **Translation**
 
-Not consciousness inward, not consciousness outward,
-not consciousness of both, not a mass of consciousness,
-not consciousness, and not unconsciousness.
-Turīya (the fourth) is considered as invisible, unrelated, ungraspable,
-indefinable, inconceivable, ineffable,
-the Essence of the consciousness of Selfhood and Oneness,
-the negation of all relative existence,
-peaceful, auspicious, and non-dual;
-that is the Self; that is to be realized.
+Not consciousness inward, not consciousness outward, not consciousness of both, not a mass of consciousness, not consciousness, and not unconsciousness.
+*Turīya* (the fourth) is considered as invisible, unrelated, ungraspable, indefinable, inconceivable, ineffable, the Essence of the consciousness of Selfhood and Oneness, the negation of all relative existence, peaceful, auspicious, and non-dual; that is the Self; that is to be realized.
 
 **Word-for-word meaning**
 
@@ -308,11 +291,7 @@ Mātrāś-Ca Pādā Akāra Ukāro Makāra Iti.*
 
 **Translation**
 
-This same Self, above all syllables,
-is the syllable Aum;
-the quarters identical with the measures
-and the measures identical with the quarters—
-thus, A, U, M.
+This same Self, above all syllables, is the syllable Aum; the quarters identical with the measures and the measures identical with the quarters—thus, A, U, M.
 
 **Word-for-word meaning**
 
@@ -320,7 +299,7 @@ thus, A, U, M.
 2. [Ayam - अयम्](ayam.md) - this  
 3. [Ātman - आत्मन्](atman.md) - the Self  
 4. [Adhyakṣaram - अध्यक्षरम्](adhyaksaram.md) - above all syllables  
-5. [Oṃkāra - ओंकार](omkara.md) - the Word; the Praṇava; the Eternal  
+5. [Oṃkāra - ओंकार](omkara.md) - the Word; the *Praṇava*; the Eternal  
 6. [Adhimātraṃ - अधिमात्रं](adhimatram.md) - of the form of syllables  
 7. [Pāda - पाद](pada.md) - quarter  
 8. [Mātrā - मात्रा](matra.md) - measure  
@@ -346,10 +325,8 @@ Sarvān-Kāmān-Ādiś-Ca Bhavati Ya Evaṃ Veda.*
 
 **Translation**
 
-In the waking state, Vaiśvānara is A, the first measure
-because it is all-pervading or because it is the first.
-Verily, he who knows thus
-attains all desires and becomes the first.
+In the waking state, *Vaiśvānara* is A, the first measure because it is all-pervading or because it is the first.
+Verily, he who knows thus attains all desires and becomes the first.
 
 **Word-for-word meaning**
 
@@ -386,11 +363,8 @@ Nāsyā-Brahma-Vit-Kule Bhavati Ya Evaṃ Veda.*
 
 **Translation** 
 
-In the dream state, Taijasa is U, the second measure,
-because it is superior or because it is in between.
-Verily, he who knows thus
-increases the flow of knowledge and becomes equalized;
-no person ignorant of Brahman is born in his family.
+In the dream state, *Taijasa* is U, the second measure, because it is superior or because it is in between.
+Verily, he who knows thus increases the flow of knowledge and becomes equalized; no person ignorant of *Brahman* is born in his family.
 
 **Word-for-word meaning**
 
@@ -410,7 +384,7 @@ no person ignorant of Brahman is born in his family.
 14. [Bhavati - भवति](bhavati.md) - becomes  
 15. [Na - न](na.md) - not  
 16. [Asya - अस्य](asya.md) - his  
-17. [Abrahma-Vit - अब्रह्मवित्](abrahma-vit.md) - person ignorant of Brahman  
+17. [Abrahma-Vit - अब्रह्मवित्](abrahma-vit.md) - person ignorant of *Brahman*  
 18. [Kule - कुले](kule.md) - in the family  
 19. [Na Bhavati - न भवति](na-bhavati.md) - not born  
 20. [Ya - य](ya.md) - who  
@@ -429,10 +403,8 @@ Minoti Ha Vā Idaṃ Sarvam-Apītiś-Ca Bhavati Ya Evaṃ Veda.*
 
 **Translation**
 
-In the state of deep sleep, Prājña is M, the third measure,
-because it is the measure or the last.
-Verily, he who knows thus measures
-and becomes the support of all this.
+In the state of deep sleep, *Prājña* is M, the third measure, because it is the measure or the last.
+Verily, he who knows thus measures and becomes the support of all this.
 
 **Word-for-word meaning**
 
@@ -467,10 +439,8 @@ Evam-Oṅkāra Ātmaiva Saṃviśaty-Ātmanā’tmānaṃ Ya Evaṃ Veda.*
 
 **Translation**
 
-Turīya is without measure,
-unrelated, the negation of all relative existence,
-auspicious, and non-dual.
-Thus, Oṃkāra is verily the Self.
+*Turīya* is without measure, unrelated, the negation of all relative existence, auspicious, and non-dual.
+Thus, *Oṃkāra* is verily the Self.
 He who knows thus by the Self enters the Self.
 
 **Word-for-word meaning**
@@ -482,7 +452,7 @@ He who knows thus by the Self enters the Self.
 5. [Śiva - शिव](siva.md) - auspicious  
 6. [Advaita - अद्वैत](advaita.md) - non-dual  
 7. [Eva - एव](eva.md) - thus, therefore  
-8. [Oṃkāra - ओंकार](omkara.md) - the Word; the Praṇava; the Eternal  
+8. [Oṃkāra - ओंकार](omkara.md) - the Word; the *Praṇava*; the Eternal  
 9. [Ātman - आत्मन्](atman.md) - the Self  
 10. [Eva - एव](eva.md) - thus, therefore  
 11. [Saṃviśati - संविशति](samvisati.md) - enters  
