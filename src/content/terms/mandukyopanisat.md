@@ -46,8 +46,8 @@ Yac-Cānyat-Trikālātītaṃ Tad-Apy-Oṃkāra Eva.*
 **Translation**
 
 Oṃ! All this is this imperishable Aum.
-Its explanation as follows: the past, the present, the future: all of this is *Oṃkāra* (the Eternal).
-And what is other than the threefold division of time, that is also *Oṃkāra*.
+Its explanation as follows: the past, the present, the future: all of this is the Eternal (*Oṃkāra*).
+And whatever else there is beyond the threefold division of time, that also is truly *Oṃkāra*.
 
 **Word-for-word meaning**
 
@@ -90,7 +90,7 @@ So’yam-Ātmā Catuṣpāt.*
 
 **Translation**
 
-Verily, all this is *Brahman* (the Absolute). 
+Verily, all this is the Absolute (*Brahman*). 
 This Self is the Absolute. 
 This same Self has four quarters.
 
@@ -123,7 +123,7 @@ Sthūla-Bhug-Vaiśvānaraḥ Prathamaḥ Pādaḥ.*
 **Translation**
 
 In the waking state, consciousness is outward.
-Seven-limbed, nineteen-mouthed, enjoyer of material objects—*Vaiśvānara* (the Self of the waking state) is the first quarter.
+Seven-limbed, nineteen-mouthed, enjoyer of material objects—the Self of the waking state (*Vaiśvānara*) is the first quarter.
 
 **Word-for-word meaning**
 
@@ -152,7 +152,7 @@ Pravivikta-Bhuk-Taijaso Dvitīya Pādaḥ.*
 **Translation**
 
 In the dream state, consciousness is inward.
-Seven-limbed, nineteen-mouthed, enjoyer of subtle objects—*Taijasa* (the Self of the dream state) is the second quarter.
+Seven-limbed, nineteen-mouthed, enjoyer of subtle objects—the Self of the dream state (*Taijasa*) is the second quarter.
 
 **Word-for-word meaning**
 
@@ -182,7 +182,7 @@ Hy-Ānanda-Bhuk Ceto-Mukhaḥ Prājñas-Tṛtīyaḥ Pādaḥ.*
 **Translation**
 
 Where one asleep neither desires anything nor sees any dream—that is deep sleep.
-In the state of deep sleep experience is unified, a mass of consciousness, verily of the form of bliss, verily enjoying bliss, and whose mouth is consciousness—*Prājña* (wisdom/the Self of the sleep state) is the third quarter.
+In the state of deep sleep experience is unified, a mass of consciousness, verily of the form of bliss, verily enjoying bliss, and whose mouth is consciousness—wisdom/the Self of the sleep state (*Prājña*) is the third quarter.
 
 **Word-for-word meaning**
 
@@ -251,7 +251,7 @@ Adṛṣya-Avyavahāryam-Agrāhyam-Alakṣaṇam-Acintyam-Avyapadeśyam Ekātma-
 **Translation**
 
 Not consciousness inward, not consciousness outward, not consciousness of both, not a mass of consciousness, not consciousness, and not unconsciousness.
-*Turīya* (the fourth) is considered as invisible, unrelated, ungraspable, indefinable, inconceivable, ineffable, the Essence of the consciousness of Selfhood and Oneness, the negation of all relative existence, peaceful, auspicious, and non-dual; that is the Self; that is to be realized.
+The Fourth (*Turīya*) is considered as invisible, unrelated, ungraspable, indefinable, inconceivable, ineffable, the Essence of the consciousness of Selfhood and Oneness, the negation of all relative existence, peaceful, auspicious, and non-dual; that is the Self; that is to be realized.
 
 **Word-for-word meaning**
 
@@ -291,7 +291,7 @@ Mātrāś-Ca Pādā Akāra Ukāro Makāra Iti.*
 
 **Translation**
 
-This same Self, above all syllables, is the syllable Aum; the quarters identical with the measures and the measures identical with the quarters—thus, A, U, M.
+This same Self, above all syllables, is the syllable *Aum*; the quarters identical with the measures and the measures identical with the quarters—thus, A, U, M.
 
 **Word-for-word meaning**
 
@@ -404,7 +404,7 @@ Minoti Ha Vā Idaṃ Sarvam-Apītiś-Ca Bhavati Ya Evaṃ Veda.*
 **Translation**
 
 In the state of deep sleep, *Prājña* is M, the third measure, because it is the measure or the last.
-Verily, he who knows thus measures and becomes the support of all this.
+Verily, he who knows this measures all this and becomes the place of merger/dissolution.
 
 **Word-for-word meaning**
 
@@ -420,7 +420,7 @@ Verily, he who knows thus measures and becomes the support of all this.
 10. [Ha Vai - ह वै](ha-vai.md) - verily  
 11. [Idam - इदम्](idam.md) - this  
 12. [Sarvaṃ - सर्वं](sarvam.md) - all  
-13. [Apītiḥ - अपीतिः](apitih.md) - the support  
+13. [Apītiḥ - अपीतिः](apitih.md) - the place of dissolution 
 14. [Ca - च](ca.md) - and  
 15. [Bhavati - भवति](bhavati.md) - becomes  
 16. [Ya - य](ya.md) - who  

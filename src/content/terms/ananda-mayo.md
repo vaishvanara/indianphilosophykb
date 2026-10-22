@@ -5,30 +5,58 @@ iast: "Ānanda-Mayo"
 aliases:
   - "आनन्दमयो"
   - "Ananda-Mayo"
-lastUpdated: "10-12-26"
+lastUpdated: "10-23-26"
 ---
 
-**Ānanda-Mayo**
-Meaning: "of the form of bliss"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
+Meaning: "full of bliss or consisting of bliss; an adjectival epithet of *Prājña* in *Māṇḍūkya Upaniṣad*, describing the Self in deep sleep (*suṣupti*)."
 
-**Definition from A Sanskrit-English Dictionary (Monier-Williams)**
-Sanskrit: आनन्दमय
-Transliteration: Ānanda-Maya
-Meaning: "blissful, made up or consisting of happiness"
+See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
 
-**Translation by Swami Sharvananda**
-Sanskrit: आनन्दमयो
-Transliteration: Ānanda-Mayo
-Meaning: "of much peace, of the form of bliss"
-Commentary: "in that state, the Ātman of the pure principle of consciousness remains in the Ānandamaya Kośa, identifying itself with the Kāraṇa-Śarīra. This Ānanda or bliss is not the bliss of the transcendental or the supreme state of absolute unity, but it is called bliss because in deep-sleep there is a feeling of composure and perfect rest, and mind is not agitated by any activity, desire, or thought. So this bliss is the bliss of quiescence and peace only and not that transcendental joy of Mukti.
+---
 
-**Definition by Swami Krishnananda**
-Commentary: "The five Kośa have been classified into three groups: the physical, the subtle, and the causal. In the waking state in which we are now, for instance, the physical body is intensely operative and we always think in terms of the physical body, physical objects and physical sensations.
+## Definition
 
-This physical sensation is absent in the state of dream, but three of the Kośa operate in dream. All the five are operative in the waking condition, concentrating their action mostly on the physical body. The physical body is not operative in the dream state, but the vital, the mental, and the intellectual sheaths are active. The Prāṇa is there, the mind is there, and the intellect is there, in a diminished intensity. We breathe, we think and we understand in the state of dream. That means the Prāṇa, Manas, and Buddhi are all active in the state of dream minus the physical element – namely, the body consciousness. In the state of deep sleep, none of these are active. Neither the body is operative there, nor the mind, nor the intellect, nor is there any consciousness that we are even breathing. The consciousness is withdrawn entirely from all the sheaths – physical, vital, mental, and intellectual. There is only one sheath operating in the state of sleep. That is the causal sheath – the Ānandamaya Kośa as it is called in Sanskrit."
+In ordinary and lexical Sanskrit usage, *ānandamaya* (nominative singular masculine: *ānandamayaḥ*, appearing as *ānandamayo* via phonetic sandhi) is an adjective meaning "full of bliss," "abounding in bliss," or "consisting of joy." The nominal base *ānanda* ("bliss," "joy") is modified by the nominal suffix *-maya* (*mayat-pratyaya*), which in Sanskrit grammar denotes either abundance/fullness (*prācurya*) or product/modification (*vikāra*).
 
-References:
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press
-2. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-3. Krishnananda, Swami (1991). Lessons on the Upanishads. Retrieved from https://www.swami-krishnananda.org/upanishad.html. p. 97-98.
+In its extended philosophical usage within Upaniṣadic literature, specifically in verse 5 of the *Māṇḍūkya Upaniṣad*, *ānandamayo* functions as a technical epithet characterizing *Prājña*, the third quarter (*pāda*) of the Self (*Ātman*), presiding over the state of dreamless deep sleep (*suṣupti-sthāna*). In this state, where all active dualistic mental projections, desires, and dream images cease, the Self is described as unified (*ekībhūtaḥ*), a mass of consciousness (*prajñānaghana*), full of bliss (*ānandamayo*), and an enjoyer of bliss (*ānanda-bhuk*).
+
+---
+
+## Etymology
+
+Etymologically, *ānandamayo* (Sanskrit: आनन्दमयो) is a grammatically inflected adjectival form derived as follows:
+
+1. **Base noun:** *Ānanda* (आनन्द), a masculine noun derived from the Sanskrit verbal root *nand* ("to rejoice" or "to delight") prefixed by *ā-*, meaning "bliss," "joy," or "unconditioned happiness."
+2. **Suffixation:** The nominal suffix *-maya* (*mayat-pratyaya*) is appended to *ānanda* to express abundance or fullness (*prācurya*), yielding the adjectival stem *ānandamaya* ("abounding in bliss").
+3. **Grammatical function:** Functions grammatically as a masculine nominative singular adjective (*ānandamayaḥ*).
+4. **Phonetic sandhi:** In verse 5 of the *Māṇḍūkya Upaniṣad*, the word occurs in the phrase *evānandamayo hyānandabhuk* (*eva* + *ānandamayaḥ* + *hi* + *ānandabhuk*). Here, before the voiced consonant *h-* in *hi*, the final nominative singular visarga (*-ḥ*) undergoes standard visarga-sandhi transformation into *-o*, yielding the inflected textual reading *ānandamayo*.
+
+---
+
+## Ānanda-mayo in the Māṇḍūkya Upaniṣad
+
+In the *Māṇḍūkya Upaniṣad* (verse 5) and its classical commentary tradition (*Gauḍapāda Kārikā*, Śaṅkarācārya's *Bhāṣya*, Śrī Sadananda's *Vedāntasāra*, Śrī Vidyāraṇya Svāmī's *Pañcadaśī*, and Śaṅkarācārya's *Brahmasūtrabhāṣya*), *ānandamayo* occupies a significant place in the mapping of Consciousness across the three states (*avasthātraya*).
+
+### Textual context (verse 5)
+
+Mantra 5 defines the third quarter of the Self: "That is the state of deep sleep wherein one asleep neither desires any object nor sees any dream. The third quarter is *Prājña*, whose sphere is deep sleep, in whom all experiences become unified (*ekībhūtaḥ*), who is, verily, a mass of consciousness (*prajñānaghana*), who is full of bliss (*ānandamayo*), who experiences bliss (*ānanda-bhuk*), whose doorway is consciousness (*cetomukhaḥ*)."
+
+### Doctrinal meaning and cognitive architecture
+
+1. **Unconditioned experiential peace in deep sleep (*suṣupti*):** In the waking (*jāgrat*) and dream (*svapna*) states, awareness is dispersed through active mental modifications (*antaḥkaraṇa-vṛtti*), resulting in fleeting, object-dependent pleasures (*viṣayānanda*). In deep sleep, active dualistic cognition subsides. Free from the agitation of subject-object separation, *Prājña* rests in an undifferentiated mass of awareness (*prajñānaghana*) infused with the inherent bliss of *Brahman*, thus being termed *ānandamayo*.
+2. **Distinction between Māṇḍūkya usage and sheath theory (*pañcakośa*):** In the *Taittirīya Upaniṣad* (2.5) and later Advaitic manuals (*Vivekacūḍāmaṇi*, *Vedāntasāra*), *ānandamaya* denotes the fifth and innermost sheath (*ānandamaya-kośa*), which is an effect or modification (*vikāra*) of nescience (*avidyā*) reflecting Pure Consciousness. Furthermore, in the *Brahma-sūtra* (1.1.12–19, *Ānandamayādhikaraṇa*), Badarāyaṇa and Śaṅkarācārya debate whether *ānandamaya* refers to the individual soul (*jīva*) or Supreme Brahman (*Para-Brahman*), establishing that *-maya* here indicates abundance (*prācurya*) of bliss. In the *Māṇḍūkya Upaniṣad*, *ānandamayo* directly modifies *Prājña*, emphasizing that the Self in deep sleep experiences the fullness of bliss unimpeded by gross or subtle objects.
+3. **Causal ignorance and transcendence into *Turīya*:** Advaita Vedānta commentary clarifies that while *Prājña* as *ānandamayo* experiences bliss in deep sleep, this state is still bound by causal seed-ignorance (*kāraṇa-avidyā* or *bīja-nidrā*). It is not the ultimate, transcendent Liberation. In the subsequent verse (verse 7), the Upaniṣad presents *Turīya* (the "Fourth"), which is non-dual (*advaita*), partless (*amātrā*), and free from both causal ignorance and phenomenal appearance (*prapañcopaśama*), revealing the absolute, uncreated Bliss of Pure Consciousness.
+
+---
+
+## References
+
+1. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press.
+3. Nikhilananda, Swami. (Trans.). (1955). *The Upaniṣads: A New Translation* (Vol. 2: Śvetāśvatara, Praśna, and Māṇḍukya with Gauḍapāda's Kārikā). Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass.
+5. Sadananda, Śrī. (1934). *Vedāntasāra* (S. Nikhilananda, Trans.). Advaita Ashrama.
+6. Śaṅkarācārya. (1947). *Vivekacūḍāmaṇi* (S. Madhavananda, Trans.). Advaita Ashrama.
+7. Śaṅkarācārya. (1949). *Ātma Bodha (Self-Knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
+8. Sivananda, Swami. (1949). *Brahma Sūtras: Text, Word-for-Word Meaning, Translation, and Commentary*. Divine Life Society.
+9. Vidyāraṇya Svāmī, Śrī. (1967). *Pañcadaśī* (S. Swahananda, Trans.). Sri Ramakrishna Math.
