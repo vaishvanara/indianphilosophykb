@@ -6,47 +6,42 @@ aliases:
   - "अदृष्य"
   - "Adrsya"
   - "Adrishya"
-lastUpdated: "10-12-26"
+lastUpdated: "10-22-26"
 ---
 
-**Adṛṣya**
-Meaning: "invisible"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
+Meaning: "invisible, imperceptible, latent, unmanifest; improper or unfit to be seen; that which cannot be perceived by the physical eye or senses."
 
-**Translation by Monier Monier-Williams**
-Sanskrit:अद्रिष्यत्
-Transliteration: Adṛṣyat
-Meaning: "invisible"
+See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
-**Translation by John Grimes**
-Sanskrit: अदृष्य
-Transliteration: Adṛṣya
-Meaning: "invisible"
+---
 
-**Translation by Swami Sharvananda**
-Sanskrit: अदृष्य
-Transliteration: Adṛṣya
-Meaning: "invisible"
+## Definition
 
-**Definition by Swami Krishnananda**
-Sanskrit: अद्रिश्तम्
-Transliteration: Adriṣhtam
-Definition: "Invisible is it. One cannot see it. Whatever be the effort of the eyes, the eyes cannot visualise it."
-  
-**References:**
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press
-2. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-3. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-4. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html
+*Adṛṣya* (Sanskrit: अदृष्य) is a Sanskrit lexical and philosophical term whose primary, ordinary meaning is "invisible," "imperceptible," or "latent." In general usage, it describes any object, form, or phenomenon that falls outside the range of physical sight or sensory apprehension. In classical literature, it also carries the moral or aesthetic connotation of "unfit or improper to be seen."
 
--------------------------
-अदृष्य (Adṛṣya) is a Sanskrit word that means "beyond description" or "beyond explanation". It is an adjective that is often used to describe something that is so great or vast that it cannot be adequately described or explained by language.
+In Indian philosophical traditions, particularly Advaita Vedānta and Upanishadic exegesis, *adṛṣya* functions as a technical attribute of the Absolute (*Brahman*). It denotes that the Absolute transcends the empirical organs of perception (*indriya*) and cannot be objectified as a visual or material entity. 
 
-In Sanskrit, the word अदृष्य is often used to describe the ultimate reality or the supreme consciousness, which is considered to be beyond description or explanation.
+Texts such as the *Muṇḍaka Upaniṣad* use the term to characterize *Brahman* as ungraspable, formless, and beyond sensory observation. Additionally, in specialized literature on Tantra and magic (*adṛṣya-karaṇa*), the word denotes the state or act of rendering something invisible.
 
-For example, the phrase "अदृष्य परमात्मा" (Adṛṣya paramātma) means "the ultimate reality is beyond description", and is often used to describe the ultimate reality as being so great or vast that it cannot be adequately described or explained by language.
+---
 
-In a more literal sense, अदृष्य can be translated to "beyond description" or "beyond explanation", and is often used to describe something that is so great or vast that it cannot be adequately described or explained.
+## Etymology
 
-Reference:
-Groq
+Grammatically, *adṛṣya* is a compound adjective and future passive participle (gerundive, *kṛtya*). It is formed through the following derivation:
+
+1. The negative prefix *a-* (अ-, "not" or "un-").
+2. The verbal root *dṛś* (दृश्, "to see," "to perceive," or "to behold").
+3. The future passive participle suffix *-ya* (*yat* or *ṇyat*), denoting capability, necessity, or fitness ("to be seen" or "fit to be seen").
+
+Morphologically, *a-* + *dṛś* + *-ya* literally signifies "that which is not to be seen," "incapable of being seen," or "imperceptible." Abstract nominal forms derived from this term include *adṛṣyatā* (f.) and *adṛṣyatva* (n.), meaning "invisibility" or "imperceptibility."
+
+---
+
+## References
+
+1. Cappeller, C. (1891). *A Sanskrit-English Dictionary*. Karl J. Trübner. (Headword: a-dṛśya, p. 12).
+2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press. (Headword: Adṛṣya, p. 15).
+3. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headword: a-dṛśya, p. 9, col. 1).
+4. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. (Headword: a-dṛśya, p. 18, col. 3).
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass. (Headword: Muṇḍaka Upaniṣad 1.1.6 commentary, p. 135, p. 283).
+6. Sivananda, S. (1946). *Glossary of Sanskrit Terms*. Divine Life Society. (Headword: Adrisya, p. 5).

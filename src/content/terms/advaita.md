@@ -5,41 +5,103 @@ iast: "Advaita"
 aliases:
   - "Advaita"
   - "अद्वैत"
-lastUpdated: "10-12-26"
+lastUpdated: "10-22-26"
 ---
 
-**Advaita**
-Meaning: "non-dual"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7, Verse 12)
+Meaning: "non-duality, 'not-two'; the metaphysical position affirming the ultimate identity and non-difference of the Self (*Ātman*) and *Brahman*."
 
-**Translation Monier Monier-Williams**
-Sanskrit: अद्वैत
-Transliteration: A-dvaita
-Meaning: "destitute of duality, having no duplicate, peerless; sole, unique; epithet of Vishṇu"
-Sanskrit: अद्वैतम्
-Transliteration: A-dvaitam
-Meaning: "non-duality; identity of Brahmā or of the Paramātman or supreme soul wih the Jivātman or human soul; identity of spirit and matter; the ultimate truth; title of an Upanishad"
+See: [Mandukya Upanishad (Verse 7, Verse 12)](mandukyopanisat.md)
 
-**Definition by John Grimes**
-Sanskrit: अद्वैत
-Transliteration: Advaita
-Meaning: "non-dualism; non-duality; “not-two” (from a – “not” + dvaita – “dual, two”)"
-Definition:
-1. A term used to indicate a position of non-duality adopted by various Indian schools of thought. Advaita Vedānta adopts a position of absolute non-duality while all other uses of the term accept internal distinctions within their various types of monism. Thus, in its latter usages, it signifies the interconnectedness of everything which is dependent upon the non-dual One, Transcendent Reality. 
-2. Advaita Vedānta is commonly referred to as Advaita because it was the first and, perhaps, the greatest exponent of this idea. It is one of the six orthodox (Āstika) schools of Indian philosophy and the first school of Vedānta philosophy. It has no individual founder, for its roots are to be found in the Vedas, and particularly the Upaniṣad – though its greatest exponent is Śaṅkarācārya Bhagavatpāda. Its central teaching is the oneness of the individual soul (Jīva) with the absolute (Brahman). It affirms the non-duality of Brahman, the non-reality of the empirical world, and the non-difference between the individual soul and Brahman (Brahma Satyam, Jagan-Mithyā, Jīvo Brahmaiva Nā’parah). Its basic source books are the Upaniṣad, the Bhagavad Gītā, and the Brahma-Sūtra. (See Prasthāna-Traya.)
-3. The key concept in Advaita Vedānta is ignorance (Avidyā/Māyā). This explains the otherwise perplexing distinction between the formless (Nirguṇa) and the having form (Saguṇa) Brahman, between the non-dual Reality appearing as individuals and as God (Īśvara). It accounts for Advaita’s metaphysics, epistemology, and ethics.
+---
 
-**Definition by The Cambridge Dictionary of Philosophy**
-Advaita, also called Uttara Mimamsa, in Hinduism, the non-dualistic form of Vedanta. Advaita Vedanta makes an epistemological distinction (not a metaphysical one) between the level of appearance and the level of reality. This marks off how things appear versus how they are; there appear to be a multitude of distinct persons and physical objects, and a personal deity, whereas there is only ineffable Brahman. This doctrine, according to Advaita, is taught in the Upanishads and realized in an esoteric enlightenment experience called moksha. The opposing evidence provided by all experiences that (a) have a subject-consciousness-object structure (e.g., seeing a sunset) and evidence a distinction between what one experiences and oneself, or (b) have a subject/content structure (e.g., feeling pain) and evidence a distinction between oneself and one’s states, is dismissed on the ground that these experiences involve “the making of distinctions.” Critics claim that moksha itself, as an experience in which something allegedly is learned or grasped, also must involve “the making of distinctions.” 
+## Definition
 
-**Translation by Swami Sharvananda** 
-Sanskrit: अद्वैतं, अद्वैत 
-Transliteration: Advaitaṃ, Advaita
-Meaning: "the unity/unitary"
-Commentary: "The absolute state of consciousness, strictly speaking, can be called neither unitary nor dual; the conception of one necessitates the conception of two. Hence, the transcendental is beyond one or two. But still, that state is signified in the scriptures as 'one without a second' 'unitary' etc., simply to negate in that consciousness the three kinds of differentiation, viz., Vijātīya Bheda (generic differences), Svajātīya Bheda (differences among the members of the same species) and Svagata Bheda (internal differences of limbs or parts of a body). The transcendental is absolutely devoid of all possible conceptions of divisions and differentiations which are brought about in our mind by the play of time, space, and causation."
+In ordinary and lexical usage, *advaita* (Sanskrit: अद्वैत; IAST: *advaita*) signifies "non-duality" or "not-two". Literally, the term indicates the absence of duality (*dvaita*) or numerical division. While empirical experience relies on perceived distinctions between subjects and objects, *advaita* denotes the absence of ultimate division or difference (*abheda*). 
 
-References:
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press
-2. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-3. Audi, Robert (1999). The Cambridge Dictionary of Philosophy, Second Edition. New York: Cambridge University Press
-4. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
+In its extended philosophical sense, *advaita* designates the doctrine that Ultimate Reality is a single, indivisible entity without a second (*ekam evādvitīyam*), asserting that empirical multiplicity is non-real (*mithyā*) and that the individual soul (*jīva*) is non-different from the Absolute (*Brahman*).
+
+---
+
+## Etymology
+
+Etymologically, *advaita* is a Sanskrit compound formed from the negative prefix *a-* ("not," "without") and the noun *dvaita* ("duality," "twoness"). The component *dvaita* is derived from *dvi* ("two") or *dvitva* ("twoness"), referring to paired opposites or numerical duality. 
+
+Grammatically, *Advaita* functions both as an abstract neuter noun (*advaitam*, "non-duality") and as an adjective ("non-dual," "devoid of duality"). In philosophical literature, it operates as an exact synonym for terms expressing absolute non-difference (*abheda*) and freedom from duality (*nirdvaya*, *dvaitarāhitya*).
+
+---
+
+## Advaita in Advaita Vedānta
+
+Advaita Vedānta is the primary classical school (*darśana*) centered on this concept, maintaining that the ultimate purport of the Upanishads, the *Brahma-sūtra*, and the *Bhagavad Gītā* (*prasthānatraya*) is absolute non-duality.
+
+### Core metaphysical framework
+
+The school asserts that *Brahman* (the ultimate, self-luminous Reality) is non-dual, partless, and free from all qualifying attributes (*nirguṇa*). *Brahman* is defined by its essential nature (*svarūpa*) as pure Existence (*sat*), Consciousness (*cit*), and Bliss (*ānanda*). 
+
+The individual soul (*jīva*) is in essence identical with *Brahman* (*Ātman-Brahman* identity). The phenomenal world (*jagat*), characterized by name and form (*nāmarūpa*), possesses no independent reality; its perceived multiplicity is projected through cosmic illusion (*māyā*) and fundamental ignorance (*avidyā*) via the twin powers of concealment (*āvaraṇa*) and projection (*vikṣepa*).
+
+### Explanatory models and standpoints
+
+1. **Ajātivāda (non-origination):** Formulated by Gauḍapāda in the *Māṇḍūkya Kārikā*, this represents the absolute standpoint (*pāramārthika*), proclaiming that nothing is ever born, created, transformed, or destroyed, and that the non-dual Self alone eternally exists without modification.  
+2. **Vivarta-vāda (apparent transformation):** Serving as a pedagogical model for spiritual aspirants, this doctrine explains the world as an illusory appearance (*vivarta*) superimposed (*adhyāsa*) upon the changeless substratum (*adhiṣṭhāna*) of *Brahman*, similar to a rope mistaken for a snake.  
+3. **Avaccheda-vāda and pratibimba-vāda:** To account for the apparent multiplicity of individual souls, commentators employ either the limitation theory (*avaccheda-vāda*, where the body-mind complex seemingly limits space like a pot) or the reflection theory (*pratibimba-vāda*, where the *jīva* is a reflection of Consciousness in the intellect).
+
+### The three states and Turīya
+
+Advaita Vedānta analyzes human existence across three ordinary states (*avasthātraya*): waking (*jāgrat*), dreaming (*svapna*), and deep sleep (*suṣupti*). Whereas duality appears in waking and dreaming, and nescience persists in deep sleep, all three states are witnessed by *Turīya* ("the Fourth"), the unattached, non-dual Pure Consciousness that forms the substratum of all experience.
+
+### Hermeneutics and liberation
+
+Liberation (*mokṣa*) is not an action or a created state, but the intuitive realization of pre-existing non-duality through Self-knowledge (*jñāna* / *vidyā*). Upanishadic Great Sayings (*mahāvākyas*) such as "That Thou Art" (*Tat Tvam Asi*) reveal this non-duality by using secondary implication (*lakṣaṇā*), discarding conflicting finite adjuncts of *jīva* and *Īśvara* to highlight their identical Pure Consciousness.
+
+---
+
+## Advaita in Viśiṣṭādvaita Vedānta
+
+Viśiṣṭādvaita Vedānta translates its title as "Qualified Non-duality". Rather than defining non-duality as an attributeless, featureless unity, Viśiṣṭādvaita holds that God (*Īśvara* / *Brahman*) is the supreme organic whole (*aṅgī*) endowed with infinite auspicious qualities. Individual souls (*cit*) and material nature (*acit*) are real, eternal attributes or modes (*prakāra* / *aṅga*) inseparably related (*apṛthak-siddhi*) to God, forming a unity of distinct entities rather than an absolute homogeneity.
+
+---
+
+## Advaita in Tantric Advaita
+
+Tantric Advaita (associated with Śākta and Trika traditions) affirms non-duality while maintaining that the world (*jagat*), individual souls (*jīva*), and God (*Īśvara*) are real manifestations of the Supreme Reality. 
+
+Ultimate Reality is characterized as Pure Consciousness (*cit*) possessing inherent absolute freedom (*svātantrya*) and self-deliberation (*vimarśa*). Creation is understood not as an unreal illusion to be negated, but as a real projection or reflection (*bimba-pratibimba*) displayed within Consciousness by its own integral power (*śakti* / *māyā*).
+
+---
+
+## Related terms
+
+- Abheda (अभेद)
+- Abheda-śruti (अभेदश्रुति)
+- [Adhiṣṭāna (अधिष्टान))](adhistana.md)
+- [Adhyāsa (अध्यास)](adhyasa.md)
+- [Ajātivāda (अजातिवाद)](ajativada.md)
+- [Anirvacanīya-Khyāti (अनिर्वाचनीयख्याति)](anirvacaniya-khyati.md)
+- [Ātman (आत्मन्)](atman.md)
+- [Avidyā (अविद्या)](avidya.md)
+- [Brahman (ब्रह्मन्)](brahman.md)
+- Dvaita (द्वैत)
+- [Jīva (जीव)](jiva.md)
+- [Māyā (माया)](maya.md)
+- Nirguṇa Brahman (निर्गुण ब्रह्मन्)
+- [Saccidānanda (सच्चिदानन्द)](saccidananda.md)
+- [Turīya (तूरीय)](turiya.md)
+- [Vivarta-Vāda (विवर्तवाद)](vivarta-vada.md)
+
+---
+
+## References
+
+1. Dattatreya. (1938). *Avadhūta Gītā* (S. Ashokananda, Trans.). Sri Ramakrishna Math.
+2. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+3. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press.
+4. Muruganar, Śrī. (1979). *Guru Vācaka Kovai* (Sadhu Om, Trans.). Sri Ramanasramam.
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass.
+6. Ramana Maharshi, Śrī. (1955). *Talks with Sri Ramana Maharshi*. Sri Ramanasramam.
+7. Śaṅkarācārya. (1941). *Upadeśasāhasrī: A Thousand Teachings* (S. Jagadananda, Trans.). Sri Ramakrishna Math.
+8. Śaṅkarācārya. (1947). *Vivekacūḍāmaṇi* (S. Madhavananda, Trans.). Advaita Ashrama.
+9. Śaṅkarācārya. (1949). *Ātma Bodha (Self-Knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
+10. Śrī Sadananda. (1934). *Vedāntasāra* (S. Nikhilananda, Trans.). Advaita Ashrama.
+11. Śrī Sadāśiva Brahmendra. (1931). *Dṛg-Dṛśya Vivekaḥ* (S. Nikhilananda, Trans.). Sri Ramakrishna Ashrama.
+12. Śrī Vidyāraṇya Svāmī. (1967). *Pañcadaśī* (S. Swahananda, Trans.). Sri Ramakrishna Math.

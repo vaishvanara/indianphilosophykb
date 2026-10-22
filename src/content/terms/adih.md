@@ -5,54 +5,36 @@ iast: "Ādiḥ"
 aliases:
   - "आदिः"
   - "Adih"
-lastUpdated: "10-12-26"
+lastUpdated: "10-22-26"
 ---
 
-**Ādiḥ**
-Meaning: "the first"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 9)
+Meaning: "beginning, commencement, origin, initial, first; (in compounds) beginning with, et cetera, and so on."
 
-**Translation by John Grimes**
-Sanskrit: आदि
-Transliteration: Ādi
-Meaning: "first; origin; beginning; original"
+See: [Mandukya Upanishad (Verse 9)](mandukyopanisat.md)
 
-**Translation by Swami Sharvananda**
-Sanskrit: आदिः
-Transliteration: Ādiḥ
-Meaning: "the first"
+---
 
-References:
-1. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-2. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
+## Definition
 
-------------------------
-आदि (ādi) is a Sanskrit word that has several meanings depending on the context. Here are a few possible translations:
+The primary lexical meaning of the masculine Sanskrit noun *ādiḥ* (आदिः) is "beginning," "commencement," "origin," "first," or "initial state". In classical Sanskrit literature and philosophical discourse, it denotes the starting point or initial phase of a time period, sequence, or textual work.
 
-- Beginning
-- Origin
-- Source
-- First
-- Primary
-- Chief
-- Principal
+When used at the end of compound words (*in fine compositi*), *ādi* undergoes an extended semantic shift to mean "beginning with," "and the rest," "and so forth," or "et cetera". In this compound context, it also functions to designate items "of the same class" or "similar to" (*evaṁprakāraḥ*).
 
-In various contexts, आदि can be used to refer to:
+In technical grammatical literature (*vyākaraṇa*), the term refers to the initial letter, root, or rule heading a specific structural class, such as the *ad-ādi* class of verbal roots. Additionally, in philosophical and cosmological contexts, *ādi* forms compounds denoting the primeval creator (*ādi-kartṛ*), original cause (*ādi-mūla*), or first deity (*ādi-deva*).
 
-- The starting point or origin of something
-- The first or earliest instance of something
-- The most important or principal aspect of something
-- The chief or leading part of something
+---
 
-For example, in the Bhagavad Gita (7.7), it is written:
+## Etymology
 
-आदि पुरुषो ह्येव क्षेत्रज्ञो ह्येव च
+Grammatically, *ādiḥ* is categorized as a masculine noun. The term is established as a derivative formed from the Sanskrit prefix *ā-* (towards, near, or taking in hand) combined with the verbal root *dā* (to give, take, or hold) and the nominal suffix *-i*. 
 
-Ādi puruṣo hyeva kṣetrajño hyeva ca
+Etymologically, this compound structure (*ā + √dā + i*) literally signifies "taking in hand" or "taking hold of," from which the sense of "commencement" or "first step" originates. Its locative singular form, *ādau*, is frequently used as an indeclinable adverb meaning "in the beginning" or "at first".
 
-Which translates to: "The beginning (or origin) of the individual self is the knower of the field."
+---
 
-In general, आदि is used to refer to the idea of something being the starting point, origin, or foundation of something else.
+## References
 
-Reference:
-Groq
+1. Abhyankar, K. V. (1961). *A Dictionary of Sanskrit Grammar*. Oriental Institute. (Headword: आदि, p. 53, col. 2; अदादि, p. 13, col. 1).
+2. Apte, V. S. (1884). *The Student's English-Sanskrit Dictionary*. Mrs. Radhabai Atmaram Sagoon. (Headword: Begin, p. 31, col. 2).
+3. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press. (Headword: Ādi, p. 14).
+4. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headword: Ādi, p. 39, col. 1).

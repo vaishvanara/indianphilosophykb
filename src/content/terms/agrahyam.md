@@ -5,35 +5,42 @@ iast: "Agrāhyam"
 aliases:
   - "Agrahyam"
   - "अग्राह्यम्"
-lastUpdated: "10-12-26"
+lastUpdated: "10-22-26"
 ---
 
-**Agrāhyam**
-Meaning: "ungraspable"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
+Meaning: "ungraspable, incomprehensible, imperceptible; unfit to be taken, admitted, or approved."
 
-**Translation by Monier Monier-Williams**
-Sanskrit: अग्राह्य 
-Transliteration: A-grāhya
-Meaning: "not to be conceived or perceived or obtained or admitted or trusted; to be rejected"
- 
-**Translation by John Grimes** 
-Sanskrit: अग्राह्यम्
-Transliteration: Agrāhyam
-Meaning: "ungraspable; not understandable"
+See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
-**Translation by Swami Sharvananda**
-Sanskrit: अग्राह्यम्
-Transliteration: Agrāhyam
-Meaning: "unperceivable"
+---
 
-**Translation by Swami Krishnananda**
-Sanskrit: अग्राह्यम्
-Transliteration: Agrāhyam
-Definition: "It is not graspable by the power of the senses. You cannot catch it with the hands, smell it with the nose, taste it with the tongue, hear it with the ears, see it with the eyes. No such thing is possible."
+## Definition
 
-References:
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press
-2. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-3. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-4. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 83.
+The Sanskrit term *Agrāhyam* (अग्राह्यम्, neuter form of the adjective *agrāhya*) primarily denotes that which is "ungraspable," "incomprehensible," "imperceptible," or "not to be obtained or seized." 
+
+In ordinary lexical usage, it describes physical entities, ideas, or claims that cannot be physically grasped or mentally comprehended, as well as items or statements that are unfit to be accepted, admitted, or approved.
+
+In classical Indian philosophy, most prominently within Advaita Vedānta and Upanishadic discourse, *agrāhyam* serves as a crucial apophatic attribute of the transcendent Self (*Ātman*) or Absolute (*Brahman*). It signifies that ultimate reality lies beyond empirical objectification and cannot be seized or manipulated by the organs of action (*karmendriya*), sensory perception, or conceptual thought. 
+
+In philosophical dialectics, legal contexts, and grammar, the term bears the extended sense of "inadmissible," "untrustworthy," or "to be rejected."
+
+---
+
+## Etymology
+
+Grammatically, *agrāhyam* is the nominative/accusative singular neuter form of the adjective and future passive participle (*kṛtya*) *agrāhya*. Morphologically, it is formed through the following components:
+
+1. The negative prefix *a-* (अ-, "not" or "un-").
+2. The verbal root *grah* (ग्रह्, "to seize," "to take," "to grasp," or "to perceive").
+3. The gerundive/potential passive participle suffix *-ya* (*ṇyat*), expressing necessity, capability, or fitness ("fit/capable of being grasped").
+
+Literal derivation yields "that which is not to be grasped" or "incapable of being seized."
+
+---
+
+## References
+
+1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press. (Headword: Agrāhyam, p. 19).
+2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headword: a-grāhya, p. 3, col. 3).
+3. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. (Headword: a-grāhya, p. 6, col. 3).
+4. Sivananda, S. (1946). *Glossary of Sanskrit Terms*. Divine Life Society. (Headword: Agrahya, p. 6).

@@ -5,39 +5,88 @@ iast: "Amātrā"
 aliases:
   - "अमात्रा"
   - "Amatra"
-lastUpdated: "10-12-26"
+lastUpdated: "10-22-26"
 ---
 
-**Amātrā**
-Meaning: "without measure"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 12)
+Meaning: "partless, measureless, modeless, or soundless; the untransformed fourth aspect (*Turīya*) of *AUM* transcending all quantitative mora (*mātrā*)."
 
-**Definition from A Sanskrit-English Dictionary (Monier-Williams)**
-Sanskrit: अमात्रा
-Transliteration: A-mātrā
-Meaning: "without measure, not metrical or prosodical"
+See: [Mandukya Upanishad (Verse 12)](mandukyopanisat.md)
 
-**Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
-Sanskrit: अमात्रा
-Transliteration: Amātrā
-Meaning: "modeless; the fourth (Turīya) state"
+---
 
-**Translation by Swami Sharvananda**
-Sanskrit: अमात्रः
-Transliteration: Amātraḥ
-Meaning: "without syllables "
+## Definition
 
-**Translation by Swami Krishnananda**
-Transliteration: Amātra
-Commentary: "the soundless form of Om is Amātrā, the immeasurable, and it is not audible to the ears. This Amātrā, or the immeasurable, eternal nature of Om is not a sound or even a mere vibration, but it is just existence, pure and simple, known as Saccidānanda-Svarūpa – Existence-Consciousness-Bliss." (p. 23)
+In ordinary Sanskrit phonological and prosodic usage, *mātrā* signifies a unit of quantitative measurement, a mora, or a prosodic sound-measure allotted to a vowel or letter. Consequently, *amātrā* (Sanskrit: अमात्रा) literally means "without measure," "measureless," "partless," "modeless," or "soundless."
 
-"Now, as there are three relative conditions of the Ātman: Jāgrat, Svapna and Suṣupti – waking, dream and deep sleep – Akāra, Ukāra, and Makāra of Praṇava, or Oṃkāra, may be regarded as its relative conditions. But, just as there is a transcendent state of the Ātman which has been described as: Nāntaḥ-Prajñaṃ, Na Bahiṣ Prajñaṃ, Nobhayataḥ-Prajñaṃ, etc., there is a transcendent condition of Praṇava, or Oṃkāra, which is not constituted of Mātrās or syllables, but is Amātrā, without any measure or syllable. Even as we cannot designate the Ātman as either this or that, so we cannot specify this Amātrā condition of Om as either this or that. It is a vibration of being, and not a state of sound, and there is no material content in this vibration. It transcends the physical, the subtle and the causal states, and it is not even merely the vibration which sets creation in motion. It is subtler than even the causal vibration with which creation commenced. The only word the Upaniṣad uses to name this state is Amātrā, immeasurable. As the Ātman is ungraspable, unrelatable, indescribable, unthinkable, so is this Amātrā condition of Oṃkāra measureless in every way." (p. 97-98)
+In its extended philosophical usage within Vedantic literature, most prominently in verse 12 of the *Māṇḍūkya Upaniṣad*, *amātrā* functions as a technical designation for the partless, unmanifested aspect of the sacred syllable *AUM* (*OM*). While *AUM* sequentially consists of three phonological sound-measures or parts (*mātrā*)—*akāra* ('A'), *ukāra* ('U'), and *makāra* ('M')—*amātrā* denotes the soundless, non-dual, partless silence that underlies and transcends these three constituent morae. 
 
-"This Om, in its fourth or transcendent state, is Ātman itself. There is a soundless state of Praṇava that is Existence itself. All sounds and vibrations merge into Existence, and Existence is One. We may call it Praṇava in its Amātrā state or as Ātman in its indescribable state of Being. Pure Existence is the merging together of Praṇava and the Ātman. Amātraś-Caturtho’vyavahāryaḥ: The fourth state of Praṇava is that with which we cannot have any dealings, as with objects, words or sounds, such as in connection with usages in language. Prapañcopaśamaḥ: All the world of sound ceases here in this soundless state of Praṇava. Śivo’dvaita: It is most auspicious, blessed and non-dual like the Ātman, because it is The Ātman. Oṃkāra Ātmaiva: This Oṃkāra which is soundless, transcendent, is the Ātman itself. It is another name for the Ātman. Creation and the Creator become one here. The merger of Om in the Ātman is the merger of creation in the Absolute. There is no creatorship also, because there is no created. There is no sound that is supposed to be the first vibration of creation. Sound reaches the soundless state. It becomes, then, relationless. Saṃviśaty-Ātmanā’tmānaṃ: One who knows this secret, by deep meditation, enters the Ātman by the Ātman. We do not enter the Ātman by a gate, we enter the Ātman by the Ātman. We do not enter the Ātman; the Ātman enters the Ātman. We do not exist. We evaporate into the Ātman, and the Ātman becomes the Ātman. Sounds merge in Praṇava; it becomes the Ātman. The Ātman alone is. When the Ātman becomes the Ātman through the Ātman, it is called Ātmasāksātkāra – realization of the Ātman. It is also Brahmasāksātkāra – realization of Brahman. From the point of view of the Ātman animating the individual states, we call this achievement Ātmasāksātkāra. From the standpoint of this very same Ātman animating the whole cosmos, we call it Brahmasāksātkāra. It is Self-realisation and God-realisation at one and the same time. It is Existence, it is Consciousness, it is Power, it is Bliss, it is Perfection, it is Immortality, it is Mokṣa, it is Kaivalya. This is the Goal of life, the path to which is beautifully described in the Māṇḍūkya Upaniṣad." (p. 98-99)
+In this spiritual context, *amātrā* is identified with *Turīya* (the "Fourth" state of Pure Consciousness or the supreme Self), which transcends all phenomenal manifestations and relative states of existence.
 
-References:
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press
-2. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-3. Audi, Robert (1999). The Cambridge Dictionary of Philosophy, Second Edition. New York: Cambridge University Press
-4. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-5. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html
+---
+
+## Etymology
+
+Etymologically, *amātrā* is a Sanskrit compound formed from two primary components:
+
+1. The negative prefix *a-* (अ-), signifying negation, absence, or privation ("not," "without," "devoid of").
+2. The feminine noun *mātrā* (मात्रा), derived from the Sanskrit verbal root *mā* (मा), meaning "to measure," "to limit," or "to mark off." In Sanskrit grammar and prosody, *mātrā* denotes a measure of time, a mora, or a constituent part/syllabic element.
+
+Grammatically, *amātrā* functions both as an adjective ("devoid of parts or measures," "measureless") and as an abstract noun designating the condition of being without sound-measures or divisions. 
+
+In Upaniṣadic exegesis, when applied to the fourth quarter (*pāda*) of the Self (*Ātman* / *Brahman*), *amātrā* specifies that *Turīya* has no quantitative divisions, temporal duration, or limiting adjuncts (*upādhi*).
+
+---
+
+## Amātrā in the Māṇḍūkya Upaniṣad
+
+In the *Māṇḍūkya Upaniṣad* (verse 12), as well as in Gauḍapāda's *Kārikā* (1.29) and Śaṅkarācārya's commentary (*Bhāṣya*), *amātrā* serves as the ultimate resolution of both the sound-symbol *AUM* and the metaphysical quarters (*pāda*) of the Self (*Ātman*).
+
+### Identification with Turīya
+
+The *Māṇḍūkya Upaniṣad* correlates the three constituent letters (*mātrā*) of *AUM* with the three relative states of experience and their cosmic counterparts:
+
+- *Akāra* ('A') corresponds to *Vaiśvānara* / *Viśva* in the waking state (*jāgrat*).
+- *Ukāra* ('U') corresponds to *Taijasa* in the dream state (*svapna*).
+- *Makāra* ('M') corresponds to *Prājña* in the deep sleep state (*suṣupti*).
+
+Verse 12 declares that the "Fourth" (*Turīya*) is *amātrā* ("without parts" or "partless"), without relationships, the cessation of all phenomenal appearance (*prapañcopaśama*), auspicious (*śiva*), and non-dual (*advaita*). While the three sound-measures (*mātrā*) belong to the sphere of speech and manifestation, *amātrā* represents the transcendental, soundless silence into which the sound *AUM* dissolves.
+
+### Role in upāsanā and jñāna (laya-cintana)
+
+In Advaita Vedānta contemplative practice (*praṇava-upāsanā* or *laya-cintana*), *amātrā* is not merely an absence of sound, but the non-dual Reality itself. In this contemplative method, the aspirant sequentially resolves:
+
+1. *Akāra* into *ukāra* (dissolving gross waking experience into subtle dream consciousness).
+2. *Ukāra* into *makāra* (dissolving subtle dream consciousness into unmanifest causal sleep).
+3. *Makāra* into *amātrā* (dissolving all causal seed-ignorance into the partless, soundless *Turīya*).
+
+Through this contemplation, one realizes that *amātrā* is identical with the transcendent *Ātman*. As the *Māṇḍūkya Upaniṣad* concludes, "He who knows this merges his self in the Self."
+
+### Gauḍapāda's Kārikā and scriptural echoes
+
+Gauḍapāda emphasizes (Kārikā 1.29) that when *AUM* is known both as possessing sound-measures (*samātra*) and as soundless or measureless (*amātra*), there is no further cause for fear or duality. 
+
+In the *Rāma Gītā* and other Advaitic texts, *amātrā* is similarly characterized as the interval of silence between successive recitations of *AUM*, symbolizing the unconditioned Pure Consciousness that remains eternally present when all mental modifications and phonetic utterances cease.
+
+---
+
+## Related terms
+
+- [Akāra (अकार)](akara.md)
+- [AUM (ॐ / ओम्)](omkara.md)
+- [Makāra (मकार)](makara.md)
+- [Mātrā (मात्रा)](matra.md)
+- [Praṇava (प्रणव)](omkara.md)
+- [Turīya (तूरीय)](turiya.md)
+- [Ukāra (उकार)](ukara.md)
+- [Vaiśvānara (वैश्वानर)](vaisvanara.md)
+
+---
+
+## References
+
+1. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press.
+3. Nikhilananda, Swami. (Trans.). (1955). *The Upaniṣads: A New Translation* (Vol. 2: Śvetāśvatara, Praśna, and Māṇḍukya with Gauḍapāda's Kārikā). Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass.
+5. Śaṅkarācārya. (1949). *Ātma Bodha (Self-Knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
+6. Veda Vyāsa. (n.d.). *Rāma Gītā*.
