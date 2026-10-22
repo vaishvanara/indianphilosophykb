@@ -21,10 +21,6 @@ According to the search results, the Sanskrit word प्रथमः (prathama�
 - The word is derived from the Sanskrit root प्रथ (prath), meaning "to spread" or "to expand".
 - प्रथमः is often used in phrases like प्रथमः पुरुषः (prathamaḥ puruṣaḥ) meaning "the first person".
 
-So in summary, प्रथमः is the Sanskrit word for "first" or "foremost", denoting something that is primary, initial or of highest importance. It is a commonly used adjective in the language.
-
-Reference: Perplexity
-
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: प्रथमा
 Transliteration: Prathamā 

@@ -39,8 +39,3 @@ In Sanskrit, the word भविष्यत् is often used to describe the fut
 For example, the phrase "भविष्यत् कर्म" (Bhaviṣyat karma) means "the future karma", and is often used to describe the idea that the actions of the present moment will determine the future.
 
 In a more literal sense, भविष्यत् can be translated to "what is to be" or "what is going to happen", and is often used to describe the future in a more general sense.
-
-Overall, भविष्यत् is a Sanskrit word that is often used to describe the future, and is an important part of the Sanskrit language and culture.
-
-Reference:
-Groq

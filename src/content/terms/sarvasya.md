@@ -19,6 +19,3 @@ In Sanskrit, the word सर्वस्य is often used to describe something 
 For example, the phrase "सर्वस्य श्री" (Sarvasya śrī) means "the glory of all" or "the universal glory", and is often used to describe something that is considered to be of great importance or significance.
 
 In a more literal sense, सर्वस्य can be translated to "of all" or "of everything", and is often used to describe something that belongs to or is related to everything.
-
-Reference:
-Groq

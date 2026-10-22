@@ -27,6 +27,3 @@ The key aspects of the meaning of "विकल्प" (vikalpa) are:
 - It is associated with the formation of verbal concepts and notions.
 
 In Indian philosophy, "विकल्प" (vikalpa) is an important concept that is contrasted with "निर्विकल्प" (nirvikalpa), which refers to a state of non-dual, conceptless awareness or pure perception.The idea of "विकल्प" highlights the human tendency to create mental distinctions, alternatives, and conceptual constructs, which can lead to ignorance and suffering if not transcended through spiritual practice.
-
-Reference:
-Perplexity

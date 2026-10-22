@@ -31,6 +31,3 @@ Na bhavati saṃsthito hyaham
 Which translates to: "I am not established."
 
 In general, न भवति is used to negate the existence or state of something, and is often used to express a negative or contrasting idea.
-
-Reference:
-Groq

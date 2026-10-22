@@ -16,6 +16,3 @@ Meaning: "Supreme Sound"
 - Parā is the original, pure sound-energy that is the basis of creation, residing in the Mūlādhāra chakra.
 - This supreme, primordial sound is equated with the sacred syllable Om, the Nāda-Brahman or the sound-manifestation of the divine.
 - Parā is the highest, most subtle form of sound that is beyond the reach of the senses and mind.
-
-Reference:
-Perplexity

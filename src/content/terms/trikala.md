@@ -20,8 +20,3 @@ The key points about the meaning of त्रिकाल are:
 - It denotes the three temporal states or periods - past, present, and future.
 - It can refer to the three main times of the day - morning, afternoon, and evening.
 - The word is derived from the Sanskrit prefix त्रि (tri) meaning "three" and the word काल (kāla) meaning "time" or "period".
-
-So in summary, त्रिकाल is a Sanskrit term that encompasses the three divisions of time - past, present, and future, as well as the three main parts of the day - morning, noon, and evening. It represents the concept of the three-fold nature of time.
-
-Reference:
-Perplexity

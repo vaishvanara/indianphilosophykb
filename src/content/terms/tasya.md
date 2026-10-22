@@ -40,8 +40,3 @@ In a more literal sense, तस्य can be translated to "to him" or "for him"
 In spiritual contexts, तस्य is often used to refer to the ultimate reality or the divine, and is often used to convey a sense of devotion, surrender, or offering to the divine.
 
 For example, the phrase "तस्य श्रीः" (Tasya śrīḥ) means "to him be the glory" or "may he be glorified", and is often used as a way of expressing devotion or reverence to the divine.
-
-Overall, तस्य is a Sanskrit word that is often used to refer to a person or a being, and is often used in spiritual contexts to convey a sense of devotion, surrender, or offering to the divine.
-
-Reference:
-Groq

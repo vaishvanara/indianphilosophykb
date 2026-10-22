@@ -19,6 +19,3 @@ The Sanskrit verb मिनोति (minōti) is a third-person singular presen
 - He/She/It extols
 - He/She/It celebrates
 - He/She/It honors
-
-Reference:
-Groq

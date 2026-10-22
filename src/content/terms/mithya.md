@@ -16,6 +16,3 @@ Meaning: "false", "unreal", "illusory", or "mistaken"
 In Hinduism and Buddhism, मिथ्या is used to describe the concept of maya, or the illusion of reality. According to this idea, the world we experience through our senses is not ultimately real, but rather an illusion or a projection of the ultimate reality.
 
 In a broader sense, मिथ्या can also refer to anything that is false, misleading, or deceptive. It can be used to describe a lie, a falsehood, or a mistaken belief.
-
-Reference:
-Groq

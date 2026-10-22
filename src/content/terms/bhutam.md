@@ -39,8 +39,3 @@ In Hinduism, the concept of भूतं is often used to describe the cycle of 
 In Buddhism, the concept of भूतं is often used to describe the concept of karma, where an individual's actions in the past life determine their circumstances in the present life.
 
 In a more literal sense, भूतं can be translated to "the past" or "the past existence", and is often used to describe the period of time that has passed before the present moment.
-
-Overall, भूतं is a Sanskrit word that is often used to describe the past or the past life, and is an important concept in Hinduism and Buddhism.
-
-Reference:
-Groq

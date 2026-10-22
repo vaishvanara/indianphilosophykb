@@ -26,8 +26,3 @@ Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; 
 So, when combined, प्रविविक्तभुक् (Pravivikta-bhuk) can be translated to "one who enjoys being separated" or "one who relishes being free from worldly attachments".
 
 In a more literal sense, प्रवивिक्तभुक can be translated to "the one who enjoys being isolated" or "the one who relishes being alone".
-
-Overall, प्रविविक्तभुक is a Sanskrit word that is often used to describe a state of being free from worldly attachments and desires, and is an important part of the Sanskrit language and culture.
-
-Reference:
-Groq

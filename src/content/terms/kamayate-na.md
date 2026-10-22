@@ -22,8 +22,3 @@ So, when combined, कामयते न (Kāmayate na) can be translated to "d
 In a philosophical or spiritual context, कामयते न (Kāmayate na) might be used to describe the state of being free from desires or attachments. It could also be used to describe the absence of craving or longing.
 
 In a more literal sense, कामयते न (Kāmayate na) might be used to describe someone who does not have a particular desire or wish. For example, someone might say "कामयते न मैं कुछ चाहता हूँ" (Kāmayate na main kuch chāhata hūṁ) to mean "I do not have any desires or wishes".
-
-Overall, कामयते न (Kāmayate na) is a phrase that conveys the idea of absence or non-desire, and can be used in a variety of contexts to convey a range of meanings.
-
-Reference:
-Groq

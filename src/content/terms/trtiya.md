@@ -35,8 +35,3 @@ In Hinduism and Buddhism, तृतीय is often used to describe the concept 
 In yoga and meditation, तृतीय is often referred to as the "third state" or the "state of unity", where the individual ego and the external world are transcended, and the individual experiences a sense of oneness with the universe.
 
 In a more literal sense, तृतीय can refer to the third stage of a process or a development, such as the third stage of life, the third stage of spiritual growth, or the third stage of a particular practice or discipline.
-
-Overall, तृतीय is a Sanskrit word that refers to a concept that is beyond the limitations of the physical world and the dualities of duality, and is often associated with higher states of consciousness and spiritual growth.
-
-Reference:
-Groq

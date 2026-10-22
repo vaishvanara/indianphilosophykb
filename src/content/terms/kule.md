@@ -46,6 +46,3 @@ Kulē prajānāṃ ca
 Which translates to: "And in the family of the people."
 
 In general, कुले refers to the idea of being part of a family, clan, or lineage, and is often used to describe a person's social or familial relationships.
-
-Reference:
-Groq

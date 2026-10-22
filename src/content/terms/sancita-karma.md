@@ -20,8 +20,3 @@ Here are the key points about Sañcita Karma:
 - The specific portion of Sañcita Karma that is allotted to be experienced in the current life is called Prārabdha Karma. The rest remains in seed form as Sañcita Karma.
 - For a liberated being (jīvanmukta), Sañcita Karma is destroyed by the knowledge of one's true nature as the non-dual Self (Brahman). The notion of being a doer is negated.
 - Sañcita Karma is considered the cause of rebirth. It propels the soul into new lives to experience its karmic fruits. Only by exhausting Sañcita Karma can one attain final liberation (moksha).
-
-So in summary, Sañcita Karma represents the entire backlog of karmic residues from the past that will determine future births and experiences until it is fully exhausted through wisdom and spiritual practice. It is the reservoir of potential karma waiting to manifest.
-
-Reference:
-Perplexity

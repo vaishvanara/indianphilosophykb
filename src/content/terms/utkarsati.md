@@ -32,6 +32,3 @@ Utkarṣati prajānāṃ ca
 Which translates to: "And he excels among the people."
 
 In general, उत्कर्षति refers to the idea of something or someone surpassing others in excellence, quality, or achievement.
-
-Reference:
-Groq

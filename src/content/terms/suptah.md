@@ -18,8 +18,3 @@ According to the search results, the Sanskrit word सुप्तः (suptaḥ)
 - The word सुप्तः is the masculine nominative singular form of the past participle सुप्त (supta), derived from the Sanskrit root सु (su) meaning "to sleep".
 - It indicates a state of being asleep or dormant, in contrast to being awake or active.
 - In spiritual and philosophical contexts, सुप्तः can also mean "latent" or "dormant", referring to a state of potential or unmanifested existence.
-
-So in summary, सुप्तः is the Sanskrit word that means "asleep", "sleeping", or denoting a state of dormancy or inactivity. It describes something or someone that is in a resting or quiescent condition.
-
-Reference:
-Perplexity

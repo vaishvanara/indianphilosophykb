@@ -15,6 +15,3 @@ Meaning: means "error", "mistake", "misconception", or "false notion".It is comp
 2. "पर्यय" (paryaya) - means "change", "alteration", "transformation", "succession", "substitution", etc.
 
 So, "विपर्यय" (viparyaya) implies a complete change or alteration from the correct or true state, resulting in an error or misconception. It suggests a deviation from the right understanding.In the context of Indian philosophy and logic, "विपर्यय" (viparyaya) is one of the four types of cognition (pramāṇa), referring to false or erroneous knowledge. It is contrasted with right knowledge or valid cognition (prāmāṇya).
-
-Reference:
-Perplexity

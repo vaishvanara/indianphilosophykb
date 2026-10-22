@@ -16,6 +16,3 @@ Meaning: "Visible Sound, which can be heard as Om"
 - In this stage, the sound is experienced as a vibrating homogeneity, common to all beings and languages, like the universal experience of the Om sound.
 - Paśyantī is associated with the Maṇipūra chakra, the navel center, where the sound becomes more tangible and palpable.
 - This stage of sound is said to be the basis for the unity of all languages and the common experience of sound across cultures.
-
-Reference:
-Perplexity

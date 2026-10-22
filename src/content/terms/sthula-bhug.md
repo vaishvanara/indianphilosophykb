@@ -16,8 +16,3 @@ Meaning "enjoyer of material objects"
 In Sanskrit, the word स्थूलभुग् is often used to describe the physical body as a separate entity from the spiritual or subtle body. It is considered to be the body that is subject to the laws of nature and is affected by the forces of karma.
 
 In a more literal sense, स्थूलभुग् can be translated to "the thick-bodied" or "the gross-bodied", and is often used to describe the physical body as a dense and heavy entity.
-
-Overall, स्थूलभुग् is a Sanskrit word that is often used to describe the physical body, and is an important part of the Sanskrit language and culture.
-
-Reference:
-Groq

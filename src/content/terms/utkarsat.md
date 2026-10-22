@@ -32,6 +32,3 @@ Utkarṣāt saṃsthito hyaham
 Which translates to: "I am established from excellence."
 
 In general, उत्कर्षात् refers to the idea of something being derived from or characterized by excellence, superiority, or the highest point.
-
-Reference:
-Groq

@@ -23,8 +23,3 @@ So, when combined, पश्यति न (Paśyati na) can be translated to "do
 In a philosophical or spiritual context, पश्यति न (Paśyati na) might be used to describe the state of being unaware or unenlightened, where one does not see or understand the true nature of reality. It could also be used to describe the absence of perception or awareness.
 
 In a more literal sense, पश्यति न (Paśyati na) might be used to describe something that is not visible or observable, such as a hidden truth or a subtle phenomenon.
-
-Overall, पश्यति न (Paśyati na) is a phrase that conveys the idea of absence or non-perception, and can be used in a variety of contexts to convey a range of meanings.
-
-Reference:
-Groq

@@ -31,8 +31,3 @@ Key points about the meaning of यत्र:
 The word is cognate with Avestan 𐬫𐬀𐬚𐬭𐬀 (yaθra), and is inherited from Proto-Indo-Iranian *Hyátra and Proto-Indo-European *Hyótro.
 
 In Hindi, यत्र can be translated as "जिस जगह" or "जहाँ", both meaning "where".
-
-So in summary, यत्र is a Sanskrit adverb that denotes a place, occasion or case, and is most accurately translated as "where" or "in which place". It is a common word used in Sanskrit and derived from earlier Proto-Indo-Iranian and Proto-Indo-European roots.
-
-Reference:
-Perplexity

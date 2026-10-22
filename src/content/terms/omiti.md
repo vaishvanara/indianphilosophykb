@@ -19,8 +19,3 @@ In spiritual contexts, ओमिति is often used to convey a sense of detach
 
 In a more literal sense, ओमिति can be translated to "not being" or "non-existence", and is often used to describe the state of being free from the limitations of the material world.
 
-Overall, ओमिति is a powerful and sacred Sanskrit word that is often used in Hinduism and Indian culture to convey a sense of spiritual aspiration, detachment, and liberation.
-
-Reference:
-Groq
-

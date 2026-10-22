@@ -18,6 +18,3 @@ Niyama refers to the five personal observances or practices in yoga:
 - तपस् (Tapas) - Austerity, self-discipline and spiritual practices
 - स्वाध्याय (Svādhyāya) - Self-study, study of scriptures and one's own self
 - ईश्वरप्रणिधान (Īśvarapraṇidhāna) - Surrender to the divine, devotion to God
-
-Reference:
-Perplexity

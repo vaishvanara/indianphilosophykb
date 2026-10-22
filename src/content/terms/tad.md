@@ -25,8 +25,3 @@ In Sanskrit grammar, तद् is known as a "pronoun of reference" or "pronoun 
 In philosophical and spiritual contexts, तद् is often used to refer to the ultimate reality, the Self, or the Absolute. For example, the Upanishads often use तद् to refer to the ultimate reality that underlies all existence.
 
 In a more literal sense, तद् can be used to refer to a specific thing or object, such as "that book" or "that tree". However, its meaning is often more abstract and nuanced than a simple literal translation.
-
-Overall, तद् is a fundamental word in Sanskrit that plays a crucial role in conveying meaning and relationships between different concepts.
-
-Reference:
-Groq

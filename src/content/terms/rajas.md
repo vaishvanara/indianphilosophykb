@@ -16,6 +16,3 @@ aliases:
 - Rajas is the quality that leads to constant change, movement, and the cycle of birth and death (samsara).
 - While Rajas can provide the necessary energy and motivation for action, it can also lead to suffering and bondage if not balanced with Sattva and Tamas.
 - The challenge is to harness the positive aspects of Rajas, such as dynamism and creativity, while tempering its excesses through the cultivation of Sattva.
-
-Reference:
-Perplexity

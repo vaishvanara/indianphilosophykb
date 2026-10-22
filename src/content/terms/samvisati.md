@@ -33,5 +33,3 @@ Which translates to: "And he enters among the people."
 
 In general, संविशति refers to the idea of entering into a relationship, joining a group, or uniting with others.
 
-Reference:
-Groq

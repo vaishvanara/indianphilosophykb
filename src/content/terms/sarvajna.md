@@ -19,7 +19,4 @@ In Sanskrit, the word सर्वज्ञ is often used to describe a being or
 For example, the phrase "सर्वज्ञ पुरुष" (Sarvajña puruṣa) means "the all-knowing person" or "the omniscient being", and is often used to describe a person who is considered to be all-knowing and all-powerful.
 
 In a more literal sense, सर्वज्ञ can be translated to "all-knowing" or "omniscient", and is often used to describe someone who has complete knowledge or understanding of everything.
-
-Reference:
-Groq
  

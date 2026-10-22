@@ -18,8 +18,6 @@ In Indian philosophy, particularly in Vedanta, द्वेषः is considered 
 
 In the context of yoga and meditation, द्वेषः is seen as a negative emotion that binds one to the cycle of rebirth and suffering. The practice of yoga aims to overcome द्वेषः through the cultivation of equanimity, compassion and detachment.
 
-Reference: Perplexity
-
 ---
 
 Dveṣaḥ is the fourth kleśa, characterized by an intense emotional and mental resistance toward pain, unpleasant experiences, or things perceived as harmful. Just as rāga draws us toward what we like, dveṣa pushes us away from what we dislike, manifesting as anger, resentment, prejudice, fear, or outright hatred. It is rooted in the memory of past pain or trauma, causing the mind to react defensively whenever similar triggers appear. Dveṣa clouds clear judgment, forcing the individual to act out of impulsive reactivity rather than wise discernment. Philosophically, it binds the mind because what we intensely resist often persists, creating deep psychological tension and inner conflict. Yoga addresses dveṣa by teaching equanimity (upekṣā) and radical acceptance, helping the practitioner face discomfort, adversity, and conflict with a steady, unperturbed mind rather than a defensive reaction.

@@ -32,8 +32,3 @@ Some other meanings and usages of यत् (yat):
 - To keep pace, be in line, rival or vie with 
 - To conform or comply with 
 - To meet, encounter (in battle) 
-
-So in summary, यत् (yat) primarily means "to strive, endeavor, exert oneself", but also has other grammatical uses as a conjunction and interjection. The root is related to the idea of stretching or extending effort.
-
-Reference:
-Perplexity

@@ -31,6 +31,3 @@ Ubhayatvāt saṃsthito hyaham
 Which translates to: "I am established from duality."
 
 In general, उभयत्वात् refers to the idea of something being characterized by or derived from a dual or twofold nature.
-
-Reference:
-Groq

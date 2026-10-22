@@ -33,8 +33,3 @@ References:
 In Sanskrit, the word कंचन is often used to describe something that is considered to be of great value or importance, such as a precious gemstone or a valuable piece of art.
 
 For example, the phrase "कंचन स्त्री" (Kaṃcana strī) means "a golden woman" or "a woman of great value", and is often used to describe a woman who is considered to be of great beauty or importance.
-
-In a more literal sense, कंचन can be translated to "gold" or "golden", and is often used to describe something that is made of gold or has a golden color.
-
-Reference:
-Groq

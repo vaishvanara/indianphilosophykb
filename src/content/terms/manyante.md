@@ -31,6 +31,3 @@ Manyante tam na aham prapashyami
 Which translates to: "They think that I do not see him."
 
 In general, मन्यन्ते is used to describe the thoughts or opinions of a group of people, often in a philosophical or introspective context.
-
-Reference:
-Groq

@@ -19,8 +19,3 @@ It is one of the three types of karma in Hindu philosophy, along with Sañcita k
 - By cultivating positive Āgāmi karma through virtuous actions, one can counteract the effects of past negative Sañcita karma.
 - Āgāmi karma is considered the only type of karma that is fully under one's control in the present moment. It determines future births and experiences.
 - Eliminating Āgāmi karma, along with exhausting Prārabdha and Sañcita karma, is necessary to attain liberation (moksha) from the cycle of rebirth.
-
-So in summary, Āgāmi karma refers to the new karmic imprints being created in the present life, which will yield results in the future, unless transformed through spiritual practice and self-effort.
-
-Reference:
-Perplexity

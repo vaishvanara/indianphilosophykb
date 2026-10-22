@@ -35,6 +35,3 @@ Miteḥ prajānāṃ ca
 Which translates to: "And of the friends of the people."
 
 In general, मितेः refers to a person's relationship with a friend or companion, and is often used to describe a bond of friendship or camaraderie.
-
-Reference:
-Groq

@@ -19,6 +19,3 @@ In Sanskrit, the word भूतानाम् is often used to describe somethi
 For example, the phrase "भूतानाम् संस्कृतम्" (Bhūtānām saṃskṛtam) means "the culture of the ancestors" or "the tradition of the past", and is often used to describe something that is considered to be of great importance or significance.
 
 In a more literal sense, भूतानाम् can be translated to "of the past" or "of the ancestors", and is often used to describe something that belongs to or is related to the past or the ancestors.
-
-Reference:
-Groq

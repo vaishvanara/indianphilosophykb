@@ -34,8 +34,3 @@ In Sanskrit, the word द्वितीय is often used to describe the second
 For example, the phrase "द्वितीय काले" (Dvitīya kāle) means "in the second stage" or "at the next stage", and is often used to describe a situation or event that is happening at a later time.
 
 In a more literal sense, द्वितीय can be translated to "the second" or "the next", and is often used to describe something that is secondary or subordinate to something else.
-
-Overall, द्वितीय is a Sanskrit word that is often used to describe the second or the next, and is an important part of the Sanskrit language and culture.
-
-Reference:
-Groq

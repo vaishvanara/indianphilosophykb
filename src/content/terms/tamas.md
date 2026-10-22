@@ -16,6 +16,3 @@ aliases:
 - Tamas is the quality that leads to ignorance, attachment to material possessions, and a lack of spiritual awareness.
 - While Tamas can provide the necessary rest and stability, its excess can lead to stagnation, depression, and a disconnection from the higher aspects of the self.
 - The goal is to balance Tamas with the uplifting qualities of Sattva and the dynamic energy of Rajas, in order to achieve a harmonious and fulfilling existence.
-
-Reference:
-Perplexity

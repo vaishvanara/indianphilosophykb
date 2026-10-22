@@ -25,6 +25,3 @@ In yoga and spiritual contexts, सुषुप्तस्थान is often re
 In this state, the individual is said to be free from the limitations of the ego and the distractions of the senses, and is able to experience a deep sense of inner peace, clarity, and connection with the divine.
 
 The concept of सुषुप्तस्थान is often associated with the teachings of the Upanishads and the Yoga Sutras of Patanjali, and is considered an important aspect of spiritual growth and self-realization.
-
-Reference:
-Groq

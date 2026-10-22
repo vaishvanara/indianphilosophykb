@@ -18,8 +18,3 @@ In Hinduism, हरिः is often used as a name for Lord Vishnu, who is consid
 In spiritual contexts, हरिः is often used to convey a sense of devotion, surrender, and reverence. It is a term that is often used in prayers, mantras, and hymns to invoke the divine and seek guidance, protection, and liberation.
 
 In a more literal sense, हरिः can be translated to "the remover" or "the destroyer", and is often used to refer to the destructive aspect of the divine, which is said to destroy ignorance, ego, and other obstacles to spiritual growth.
-
-Overall, हरिः is a powerful and sacred Sanskrit word that is deeply revered in Hinduism and Indian culture, and is often used to convey a sense of devotion, reverence, and spiritual aspiration.
-
-Reference:
-Groq
