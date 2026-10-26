@@ -11,7 +11,7 @@ aliases:
 
 **Catuṣpāt**
 Meaning: "four quarters"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 2)
+See: [Mandukya Upanishad (Verse 2)](mandukyopanisat.md)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Transliteration: Catuṣpad

@@ -10,7 +10,7 @@ aliases:
 
 **Taijasa**
 Meaning: "the self of the dream state"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 4, 10)
+See: [Mandukya Upanishad (Verse 4, 10)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: तैजस

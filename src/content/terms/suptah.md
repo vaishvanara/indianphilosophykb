@@ -10,7 +10,7 @@ aliases:
 
 **Suptaḥ**
 Meaning: "the one who sleeps", the sleeping (man)
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5) 
+See: [Mandukya Upanishad (Verse 5) ](mandukyopanisat.md)
 
 According to the search results, the Sanskrit word सुप्तः (suptaḥ) means "asleep" or "sleeping".Key points:
 

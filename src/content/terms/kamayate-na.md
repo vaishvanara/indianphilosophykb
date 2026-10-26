@@ -10,7 +10,7 @@ aliases:
 
 **Kāmayate Na** 
 Meaning: "does not desire for"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
+See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
 
 कामयते न (Kāmayate na) is a Sanskrit phrase that can be broken down into two parts:
 

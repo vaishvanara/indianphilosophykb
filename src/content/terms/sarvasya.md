@@ -10,7 +10,7 @@ aliases:
 
 **Sarvasya**
 Meaning: "of all"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 6)
+See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
 
 सर्वस्य (Sarvasya) is a Sanskrit word that means "of all" or "of everything". It is a possessive adjective that is often used to describe something that belongs to or is related to everything.
 

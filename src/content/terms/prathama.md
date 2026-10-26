@@ -10,7 +10,7 @@ aliases:
 
 **Prathamā**
 Meaning: "the first"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 3, 9)
+See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
 
 According to the search results, the Sanskrit word प्रथमः (prathamaḥ) means "first" or "foremost".Some key points about the meaning of प्रथमः:
 

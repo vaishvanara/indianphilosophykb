@@ -10,7 +10,7 @@ aliases:
 
 **Manyante**
 Meaning: "consider"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
+See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 मन्यन्ते (manyante) is a third person plural imperfective verb in Sanskrit, which means "they think" or "they consider".
 

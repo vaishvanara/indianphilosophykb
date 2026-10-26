@@ -10,7 +10,7 @@ aliases:
 
 **Na Bhavati** 
 Meaning: "not born"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 10)
+See: [Mandukya Upanishad (Verses 10)](mandukyopanisat.md)
 
 न भवति (na bhavati) is a negative form of the Sanskrit verb भवति (bhavati), which means "to be" or "to exist".
 

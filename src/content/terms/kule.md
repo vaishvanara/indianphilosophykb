@@ -10,7 +10,7 @@ aliases:
 
 **Kule** 
 Meaning: "in the family"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 10)
+See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
 
 **Translation by Swami Sharvananda**
 Sanskrit: कुले 

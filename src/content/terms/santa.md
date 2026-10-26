@@ -11,7 +11,7 @@ aliases:
 
 Śānta
 Meaning: "peaceful"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
+See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: शान्त, शान्ति 

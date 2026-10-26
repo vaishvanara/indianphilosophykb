@@ -57,7 +57,7 @@ To explain how the universe appears to undergo birth and change despite being *a
 
 ### Relationship to key concepts
 
-- ***Turīya* (the Fourth):** In the *Māṇḍūkya Upaniṣad*, *advayam-ajātam* characterizes *Turīya*—the non-dual, partless Pure Consciousness that underlies and transcends the three relative states of waking (*jāgrat*), dreaming (*svapna*), and deep sleep (*suṣupti*).
+- ***Turīya* (the Fourth):** In the *Māṇḍūkya Upaniṣad*, *advayam-ajātam* characterizes *Turīya* as the non-dual, partless Pure Consciousness that underlies and transcends the three relative states of waking (*jāgrat*), dreaming (*svapna*), and deep sleep (*suṣupti*).
 - ***Vivartavāda* (apparent transformation):** While lower pedagogical tiers of Vedānta accept apparent creation (*vivarta*) to explain the world's relation to *Brahman*, *ajātivāda* represents the final realization that even apparent origination is uncaused; Reality remains eternally *ajāta*.
 - ***Asparśa-yoga* (the "touchless" Yoga):** Gauḍapāda identifies contemplation on *advayam-ajātam* with *Asparśa-yoga*—the "unattached" or "touchless" contemplation wherein the mind, realizing the non-existence of external objects, ceases mental construction (*vikalpa*) and abides peacefully in Pure Consciousness.
 

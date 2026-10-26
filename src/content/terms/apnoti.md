@@ -10,7 +10,7 @@ aliases:
 
 Meaning: "obtains, reaches, pervades, or acquires; 3rd-person singular present verb of root *āp*, denoting the attainment of all desires in *Māṇḍūkya Upaniṣad* (verse 9)."
 
-From the [Mandukya Upanishad (Verse 9)](mandukyopanisat.md)
+See: [Mandukya Upanishad (Verse 9)](mandukyopanisat.md)
 
 ---
 

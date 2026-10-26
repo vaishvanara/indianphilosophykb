@@ -10,7 +10,7 @@ aliases:
 
 **Jāgrat**
 Meaning: "The Waking State"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 3, 9)
+See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
 
 **Definition of Jagrat from A Concise Dictionary of Indian Philosophy**
 Sanskrit: जाग्रत् 

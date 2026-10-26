@@ -10,7 +10,7 @@ aliases:
 
 **Pratyaya**
 Meaning: “condition”
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 7)
+See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md) 
  
 **A Concise Dictionary of Indian Philosophy**
 Translation: "suffix; condition (from the verb root i – “to go” + prati – “against, back”)"

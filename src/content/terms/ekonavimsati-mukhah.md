@@ -11,7 +11,7 @@ aliases:
 
 **Ekonaviṃśati-Mukhaḥ**
 Meaning: "nineteen mouthed"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 3, 4)
+See: [Mandukya Upanishad (Verses 3 & 4)](mandukyopanisat.md)
 
 **Translation by Swami Sharvananda**
 Sanskrit: एकोनविंशतिमुखः 

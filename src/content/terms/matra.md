@@ -10,7 +10,7 @@ aliases:
 
 **Mātrā** 
 Meaning: "measure"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 8, 9, 10, 11)
+See: [Mandukya Upanishad (Verses 8, 9, 10, 11)](mandukyopanisat.md)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: मात्रा 

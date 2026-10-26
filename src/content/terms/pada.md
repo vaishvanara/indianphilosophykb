@@ -8,14 +8,10 @@ aliases:
   - "पाद"
 ---
 
-**Pāda** 
+Meaning: "quarter"
+See: [Mandukya Upanishad (Verse 3, 4, 5, 8)](mandukyopanisat.md)
 
 Pāda represents the feet and legs, functioning as the karmendriya of locomotion, movement, and physical stability. It allows an individual to traverse space, walk toward goals, escape danger, and journey on pilgrimages. Philosophically, Pāda governs the physical direction and trajectory of a person's life, moving them both literally and metaphorically toward chosen destinations. In a spiritual context, the feet symbolize surrender and deep reverence—such as taking refuge at the feet (caraṇa) of a guru or the divine. Mastery over Pāda involves mindful movement, ensuring that one walks paths aligned with righteousness (dharma). Controlling this organ prevents aimless wandering and physical restlessness, helping the practitioner maintain steadiness, balance, and a focused life path oriented toward spiritual evolution.
-
----
-
-Meaning: "quarter"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 3, 4, 5, 8)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: पाद 

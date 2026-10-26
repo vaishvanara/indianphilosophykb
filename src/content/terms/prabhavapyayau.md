@@ -10,7 +10,7 @@ aliases:
 
 **Prabhavāpyayau**
 Meaning: "the cause and dissolution"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 6)
+See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
 
 **Translation by Swami Sharvananda**
 Sanskrit: प्रभवाप्ययौ 

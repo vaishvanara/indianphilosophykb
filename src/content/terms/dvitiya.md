@@ -10,7 +10,7 @@ aliases:
 
 **Dvitīya**
 Meaning: "the second"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 4, 10)
+See: [Mandukya Upanishad (Verse 4, 10)](mandukyopanisat.md)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: द्वितीय

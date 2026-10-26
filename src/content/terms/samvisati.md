@@ -11,7 +11,7 @@ aliases:
 
 **Saṃviśati**
 Meaning: "enters"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 12)
+See: [Mandukya Upanishad (Verse 12)](mandukyopanisat.md)
 
 संविशति (saṃviṣati) is a third person singular present tense form of the Sanskrit verb संविशति (saṃviṣati), which means "to enter" or "to join".
 

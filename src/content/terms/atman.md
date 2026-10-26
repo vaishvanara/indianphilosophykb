@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "10-26-26"
 title: "Ātman (आत्मन्)"
 devanagari: "आत्मन्"
 iast: "Ātman"
@@ -8,119 +8,163 @@ aliases:
   - "आत्मन्"
 ---
 
-**Ātman**
-Meaning: "The Self"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 2, 7, 8, 12)
+Meaning: the innermost Self or pure Consciousness, identical with Brahman, transcending the body, mind, and the three empirical states.
 
-**A Concise Dictionary of Indian Philosophy**
-Sanskrit: आत्मन्
-Transliteration: Ātman
-Translation: “breath” (from the verb root at – “to breath”) or (from the verb root ap – “to pervade, reach up to”); the inner Self
-Definition:
-1. The Reality which is the substrate of the individual and identical with the Absolute (Brahman), according to Advaita Vedānta. It cannot be doubted, for it is the basis of all experience. It cannot be known by thought, as the knower cannot be the known. Yet there is no experience without it. It is the basis of all proofs, yet cannot be proved itself, though it can be experienced.
-2. Nyāya and Vaiśeṣika call it the substratum in which cognition inheres. It is of two kinds: supreme Soul and individual soul. It is a substance which is revealed in one’s inner perceptual experience arising through the inner sense of mind, independently of the external senses.
-3. Sāṅkhya and Yoga define it as an unrelated, attribute-less, self-luminous, omnipresent entity which is identical with consciousness.
-4. The Upaniṣad say that it denotes the ultimate essence of the universe as well as the vital breath in human beings.
-5. It is the unseen basis which is the reality within the five sheaths. It is the spark of the Divine within. It is the reality behind the appearance, and universal and immanent in every entity. It is not born nor does it die. It is imperishable, according to the Upaniṣad.
-6. In the Indian philosophical systems, the Self is said to be of one of three sizes: Dvaita Vedānta and Viśiṣṭādvaita Vedānta call it atomic (Aṇu-Parimāṇa); Advaita Vedānta and Sāṅkhya call it all-pervasive (Vibhuparimāṇa); Jainism calls it neither atomic nor all-pervasive but of medium size (Madhyama-Parimāṇa).
-7. Buddhism denies any reality to the Self altogether.
+See: [Mandukya Upanishad (Verses 2, 7, 8, 12)](mandukyopanisat.md)
 
-**The Cambridge Dictionary of Philosophy**
-Transliteration: Ātman
-Definition: "Ātman, in Hindu thought, the individual, viewed by Advaita Vedānta as numerically identical to, and by other varieties of Vedānta as dependent on and capable of worship of, Brahman. Sometimes in Hinduism conceived as inherently conscious and possessed of intrinsic mental qualities, and sometimes viewed as having mental qualities only in the sense that the composite of Ātman-embodied-in-a-physical-body has this feature, Ātman beginninglessly transmigrates from life to life (or, for Advaita, appears to do so). It is embodied in successive bodies, accumulating Karma and possibly achieving enlightenment with its consequent release from Saṃsāra, the transmigratory wheel."
+---
 
-**Glossary to the Record of Yoga (Sri Aurobindo)**
-Transliteration: Ātman
-Translation: self; “a Self that is neither our limited ego [Ahaṅkāra] nor our mind, life or body, world-wide but not outwardly phenomenal, yet to some spirit-sense... more concrete than any form or phenomenon, universal yet not dependent for its being on anything in the universe or on the whole totality of the universe”; Brahman known in its subjective aspect as “the Self or immutable existence of all that is in the universe,” as “the cosmic Self, but also as the Supreme Self transcendent of its own cosmicity and at the same time individual-universal in each being.”
+## Definition
 
-**Mundaka and Mandukya Upanishads (Swami Sharvananda)**
-Sanskrit: आत्मन्
-Transliteration: Ātman
-Commentary: "Here [Verse 6] Ātman, with its primary condition or Upadhi called Māyā, is referred to. In that state, He is the creator, preserver, and destroyer of the whole Universe. He is immanent in all beings. As He is the origin of the Universe, so also is He its final dissolution after Pralaya. This is the Īśvara aspect of the Ātman. But in its individualistic aspect, He is conditioned by Avidyā or ignorance. From that standpoint, He cannot be called the Lord of the Universe, etc., but the Śruti, by stating that it is the Prajñā spoken of in the previous Mantram, who is also the Lord and origin of the Creation, distinctly asserts the unity of the Jīva or the Individual Soul with the Universal. In fact, Ātman by itself, as will be definitely stated hereafter by the Śruti Herself, is one undivided whole Ekamevādvitīyam. But He appears as macrocosmic (Samāpti) or microcosmic (Vyapti) by producing the phenomena of time, space and causation within Himself by his Māyā-Śakti, so this differentiation in the Ātman is only phenomenal and not real. And for Self-realization, the unity of the Ātman should alone be meditated upon. This is the import of the Śruti."
+In lexical Sanskrit, *ātman* ordinarily denotes the physical body, the vital breath (*prāṇa*), the mind (*manas*), the intellect (*buddhi*), the individual soul (*jīva*), or serves as a reflexive pronoun meaning "oneself" or "self". In non-technical contexts, it can also refer to temperament, character, or essence.
 
-**Mandukya Upanishad (James Swartz)**
-Definition: "the limitless I"
-“If I’m real, I have to exist all the time.” – The answer to “Who am I” is that I am not any of these egos or ego states. If I’m real, I have to exist all the time. I can’t suddenly be one thing one minute and something else the next; I experience life as a simple single complete conscious being. In fact, I exist in the waking, dream, and deep sleep states independent of the waker, dream, and deep sleeper.
+In the technical philosophical discourse of Advaita Vedānta, *Ātman* is defined as the non-dual, eternal, immutable (*kūṭastha*), self-luminous (*svayaṁ-prakāśa*) Pure Consciousness (*cit* / *caitanya*) that constitutes the true nature and innermost witness (*sākṣin*) of every individual. Advaita Vedānta strictly distinguishes the literal, transcendent denotation (*lakṣyārtha*) of *Ātman* from its secondary, figurative, or empirical usages (*vācyārtha*). 
 
-As what?
+While empirical discourse falsely identifies *Ātman* with the five sheaths (*pañca-kośa*)—the physical body (*annamaya*), vital energy (*prāṇamaya*), mind (*manomaya*), intellect (*vijñānamaya*), and illusory bliss (*ānandamaya*)— Advaita Vedānta defines all conditioned adjuncts (*upādhi*) and objective phenomena as the non-Self (*anātman*). The true *Ātman* is the unconditioned Subject, completely free from birth, decay, and death, and non-different (*abheda*) from the ultimate cosmic Reality, *Brahman*.
 
-As the limitless I, the Awareness, the common factor and witness to the three states."
+---
 
-**The Māṇḍūkya Upaniṣad (Swami Krishnananda)**
-Transliteration: Ātman
-Definition: "The Ātman is like an oceanic flood without a surface or a limit. The Ātman is the sole Seer, Knower, Beholder, Experiencer, without a counterpart objective to it. It knows itself, not ‘others’, for the ‘others’ is also part of itself. Hence, knowledge of the Ātman is the knowledge of the whole of existence. It is not knowledge of this Ātman, that Ātman, this Self, that self, this person, that person. It is the knowledge of The Ātman, which can only be One. The Ātman is single – Ekātma-Pratyaya-Sāraṃ. The One Ātman is called the Paramātman as distinguished from the multitudinousness of the so-called Ātman, called Jīvātman. It is Paramātman, because it is the Supreme Self. Brahmeti Paramātmeti Bhagavāniti Śabdyat, says the Śrimad Bhāgavata. From the absolute, universal and personal standpoints, it is called Brahman, Paramātman and Bhagavān. In itself it is Brahman, the Absolute; and as the Supreme Creator, Preserver, Destroyer, it is the Paramātman; as the Beloved of devotees, it is Bhagavān. It is all this – Dvaita, Viśiṣṭādvaita and Advaita points of view come together here in this Ātman, and the conclusions of the schools of thought merge into the single truth of a blend of various standpoints. Quarrels cease, arguments come to a stop, philosophies are hushed, and silence prevails. This Ātman is Silence, said a great Master. When a devotee came, and asked the Guru, ‘Tell me the Ātman’, the Guru kept quiet. When the disciple queried again, ‘Master, tell me the Ātman’, the Guru kept quiet, again. A third time the question was raised and the Guru kept quiet, once more. When for the fourth time the disciple put the same question, ‘Tell me the Ātman’; the Guru said, ‘I am telling you, you are not hearing; because Silence is the Ātman’."
+## Etymology
 
-**The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary (Swami Nikhilananda)**
+The term *Ātman* (Sanskrit: आत्मन्, nominative singular *ātmā*) is a masculine noun derived from classical verbal roots as well as traditional Vedantic etymologies:
 
-**Gauḍapāda Kārikā**
-**Chapter III: Advaita Prakaraṇa, Verse 3-12)**
+**1. Primary Verbal Roots**:
+   
+- From the root *at*, meaning "to move constantly", "to go", or "to walk".
+- From the root *ān*, meaning "to breathe" or "to blow".
+- From the root *āp*, meaning "to obtain", "to reach", or "to pervade".
 
-3. Ātman, which is like Ākāśa (infinite space), is said to be manifested in the form of Jīvas, which may be likened to the Ākāśas enclosed in pots. The bodies, also, are said to be manifested from Ātman, just as a pot and the like are created out of Ākāśa. As regards the manifestation of Ātman, this is the illustration.
-4. As, on the destruction of the pot etc., the Ākāśa enclosed in them merge in the great Ākāśa, so the Jīvas merge in Ātman.
-5. As the dust, smoke, etc., soiling the Ākāśa enclosed in a particular pot do not soil the other Ākāśas enclosed in other pots, so also the happiness, miseries, etc., of one Jīva does not affect the other Jīvas.
-6. Though the diversity of forms, functions and names of the Ākāśas associated with different receptacles is admitted, yet this does not imply any real differentiation in Ākāśa itself. The same is the conclusion regarding the Jīvas.
-7. As the Ākāśa enclosed in a pot is neither an effect nor a part of the real Ākāśa, so the Jīva is neither an effect nor a part of Ātman.
-8. Children regard Ākāśa as being soiled by dirt; likewise, the ignorant regard Ātman as being similarly soiled.
-9. Ātman, in regard to Its birth and death, Its going and coming, i.e., rebirth and Its dwelling in different bodies, is not unlike Ākāśa.
-10. All aggregates are produced by Ātman’s Māyā, as in a dream. No rational argument can be given to establish their reality, whether they are of equal status or whether some are superior to others.
-11. The Supreme Self is the self of the five sheaths, such as the physical and the vital, which have been described in the Taittirīya Upaniṣad. That the Supreme Self is like Ākāśa has already been stated.
-12. The same Ākāśa dwells within both the earth and the stomach; likewise, the same Brahman dwells within the pairs described in the Madhu Brahmana.
+**2. Traditional Vedāntic Derivations**
 
-**The Upanishads: Volume I (Swami Nikhilananda)**
+Śaṅkarācārya and classical Vedantic commentators synthesize these roots by identifying four functional attributes that define why the Self is called *Ātman*:
 
-**Katha Upanishad**
-**PART I, CHAPTER II**
+- ***yac cāpnoti***: because It pervades all objects and space.
+- ***yad ādatte***: because It withdraws or absorbs the objective world into Itself.
+- ***yac cātti***: because It experiences or consumes the fruits of phenomenal existence (*visayān*).
+- ***yac cāsya santato bhāvaḥ***: because Its existence is continuous, eternal, and unbroken.
 
-**Verse 7**
-Many are there who do not even hear of Ātman; though hearing of Him, many do not comprehend. Wonderful is the expounder and rare the hearer; rare indeed is the experiencer of Ātman taught by an able preceptor.
+Grammatically, *Ātman* belongs to the *-an* stem declension. In compound terms (*samāsa*), the stem drops its final nasal consonant and assumes the form *ātma-* (e.g., *ātma-jñāna*, *ātma-bodha*, *pratyag-ātman*). Established derivations trace the word back to Vedic Sanskrit expressions for breath and vital force, while classical Vedantic interpretations focus on its semantic function as the all-pervading, permanent substratum of consciousness.
 
-**Verse 8**
-Ātman, when taught by an inferior person, is not easily comprehended, because It is diversely regarded by disputants. But when It is taught by him who has become one with Ātman, there can remain no more doubt about It. Ātman is subtler than the subtlest and not to be known through argument.
+---
 
-Verse 16
-This syllable Om is indeed Brahman. This syllable is the Highest. Whosoever knows this syllable obtains all that he desires.
+## Ātman in the Māṇḍūkya Upaniṣad
 
-**Verse 17**
-This is the best support; this is the highest support. Whosoever knows this support is adored in the world of Brahmā.
+In the *Māṇḍūkya Upaniṣad*, *Ātman* is analyzed as the foundational Reality underlying the entirety of human experience and the cosmos. The text opens with the famous *Mahāvākya* (Great Saying): *"Ayam Ātmā Brahma"*—"This Self is Brahman" (*Māṇḍūkya Upaniṣad*, Verse 2). To reveal its true nature, the Upaniṣad articulates a structural framework wherein *Ātman* is understood as possessing "four quarters" (*catuṣpād*), which correspond to the four states of consciousness and the matras of the sacred syllable *AUM*:
 
-**Verse 18**
-The knowing Self is not born; It does not die. It has not sprung from anything; nothing has sprung from It. Birthless, eternal, everlasting, and ancient, It is not killed when the body is killed.
+1. **First quarter (*Viśva* / *Vaiśvānara*)**: The Self in the waking state (*jāgarita-sthāna*). It is conscious of external objects (*bahiṣ-prājña*), possesses seven limbs and nineteen mouths, and enjoys gross material objects (*sthūla-bhug*). It corresponds to the letter *A* of *AUM*.
+2. **Second quarter (*Taijasa*)**: The Self in the dream state (*svapna-sthāna*). It is conscious of internal mental impressions (*antaḥ-prājña*), experiencing subtle creation created by the mind (*pravivikta-bhug*). It corresponds to the letter *U* of *AUM*.
+3. **Second/third causal quarter (*Prājña*)**: The Self in deep dreamless sleep (*suṣupta-sthāna*). Here, all desires and dreams cease, and experiences become unified into a mass of homogeneous consciousness (*prajñāna-ghana*), consisting of bliss (*ānanda-maya*). It corresponds to the letter *M* of *AUM*.
+4. **Fourth quarter (*Turīya*)**: The transcendent, absolute nature of *Ātman*. *Turīya* is not conscious of the internal world, nor of the external world, nor of both; it is neither simple consciousness nor a mass of consciousness, nor unconsciousness. It is unperceived (*adṛṣṭa*), unrelated (*avyavahārya*), ungraspable (*agrāhya*), uninferable (*aliṅga*), unthinkable (*acintya*), and indescribable (*anapadeśya*). It is the sole essence of the consciousness of the Self (*ekātma-pratyaya-sāra*), the quietude and cessation of all phenomenal manifestations (*prapañcopaśama*), serene (*śānta*), blissful (*śiva*), and non-dual (*advaita*). *Turīya* corresponds to the soundless, partless aspect of *AUM* (*amātra*).
 
-**Verse 19**
-If the killer thinks he kills and if the killed man thinks he is killed, neither of these apprehends aright. The Self kills not, nor is It killed.
+In his *Māṇḍūkya-kārikā*, Gauḍapāda demonstrates that the first three states (*Viśva*, *Taijasa*, *Prājña*) are temporary, relative, and illusory appearances born of *māyā* or cosmic ignorance (*avidyā*). *Turīya* is not a fourth temporal state, but the eternal, unconditioned substratum (*adhiṣṭhāna*) of all states. 
 
-**Verse 20**
-Ātman, smaller than the small, greater than the great, is hidden in the hearts of all living creatures. A man who is free from desires beholds the majesty of the Self through tranquillity of the senses and the mind and becomes free from grief.
+Gauḍapāda employs the analogy of space (*ākāśa*): 
 
-**Verse 21**
-Though sitting still, It travels far; though lying down, It goes everywhere. Who but myself can know that luminous Ātman who rejoices and rejoices not?
+> Just as the space enclosed inside a jar (*ghaṭākāśa*) appears distinct from cosmic space (*mahākāśa*) due to the limiting jar (*upādhi*), so the individual *jīva* appears distinct from *Ātman* due to body-mind adjuncts. When the jar is destroyed, the enclosed space is realized to have always been identical with cosmic space; similarly, when ignorance is dispelled, the *jīva* realizes its eternal non-difference from *Ātman*.
 
-**Verse 22**
-The wise man, having realized Ātman as dwelling within impermanent bodies but Itself bodiless, vast, and all-pervading, does not grieve.
+Gauḍapāda terms this realization *Ajātivāda* (the truth that *Ātman* is eternally unborn, unchanged, and uncreated).
 
-**Verse 23**
-This Ātman cannot be attained by the study of the Vedas, or by intelligence, or by much hearing of sacred books. It is attained by him alone whom It chooses. To such a one, Ātman reveals Its own form.
+---
 
-**CHAPTER III**
+## Ātman in Advaita Vedānta
 
-**Verses 10-11**
-Beyond the senses are the objects; beyond the objects is the mind; beyond the mind, the intellect; beyond the intellect, the Great Ātman; beyond the Great Ātman, the Unmanifest; beyond the Unmanifest, the Puruṣa. Beyond the Puruṣa there is nothing: this is the end, the Supreme Goal.
+In the broader system of Advaita Vedānta as elaborated by Śaṅkarācārya, Sureśvara, Padmapāda, Vidyāraṇya (*Pañcadaśī*), and Sadānanda (*Vedāntasāra*), *Ātman* is established as the self-evident (*svataḥ-siddha*) consciousness that cannot be proved or disproved by external instruments of knowledge (*pramāṇa*), because *Ātman* is the very presupposition and agent of all knowing.
 
-**Verse 12**
-That Self, hidden in all beings, does not shine forth; but It is seen by subtle seers through their one-pointed and subtle intellects.
+Śaṅkara emphasizes in his *Brahmasūtra-bhāṣya* and *Vivekacūḍāmaṇi* that the bondage of the empirical self (*jīva*) is caused by false superimposition (*adhyāsa*), wherein the attributes of the non-Self (such as agency, enjoyership, pain, pleasure, mortality) are falsely attributed to *Ātman*, and the self-luminous reality of *Ātman* is attributed to the body-mind complex. 
 
-**Verse 13**
-The wise man should merge his speech in his mind, and his mind in his intellect. He should merge his intellect in the Cosmic Mind, and the Cosmic Mind in the Tranquil Self.
+Post-Śaṅkara Advaita literature formulates two primary models to explain the relationship between the supreme *Ātman* and the individual (*jīva*):
 
-**Verse 15**
-Having realized Ātman, which is soundless, intangible, formless, undecaying, and likewise tasteless, eternal, and odorless; having realized That which is without beginning and end, beyond the Great, and unchanging—one is freed from the jaws of death.
+- **Avaccheda-vāda (Limitation Theory)**: Associated with Vācaspati Miśra, this view holds that the one infinite *Ātman* appears partitioned into multiple individuals (*jīva*) due to the limiting adjuncts (*upādhi*) of the internal organ (*antaḥkaraṇa*), just as space appears divided by pots.
+- **Pratibimba-vāda / Ābhāsa-vāda (Reflection / Apparent Reflection Theory)**: Associated with Padmapāda, Sureśvara, and Vidyāraṇya, this view holds that the *jīva* is a reflection (*pratibimba*) or illusory manifestation (*ābhāsa*) of Pure Consciousness upon the subtle medium of *avidyā* or *buddhi*, akin to the sun reflected in multiple water vessels.
 
-References:
-1. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-2. Audi, Robert (1999). The Cambridge Dictionary of Philosophy, Second Edition. New York: Cambridge University Press
-3. Hartz, Richard. Glossary to the Record of Yoga (Sri Aurobindo). Retrieved from http://wiki.auroville.org.in/wiki/Glossary_to_the_Record_of_Yoga
-4. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-5. Swartz, James (1996). Mandukya Upanishad: An ancient Sanskrit text on the nature of Reality. Retrieved from https://www.holybooks.com/mandukya-upanishad-an-ancient-sanskrit-text-on-the-nature-of-reality/
-6. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 85-86.
-7. Nikhilananda, Swami (1949). The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary. Mysore: Sri Ramakrishna Ashrama
-8. Nikhilananda, Swami (1949). The Upanishads: Volume I—Katha, Iśa, Kena, and Mundaka. New York, New York: Harper & Brothers Publishers.
+In all sub-schools of Advaita, liberation (*mokṣa*) is attained not by performing ritual action (*karma*) or creating a new state, but through direct intuitive Self-knowledge (*aparokṣa-jñāna* / *ātma-vicāra*). By analyzing the witness-consciousness (*sākṣin*) through the method of superimposition and denial (*adhyāropa-apavāda*), the seeker negates the five sheaths and realizes the eternal identity expressed in the Upaniṣadic Great Sayings such as *"Tat Tvam Asi"* ("That Thou Art") and *"Aham Brahmāsmi"* ("I am Brahman").
+
+---
+
+## Ātman in Other Indian Traditions
+
+To clarify the precise Vedantic meaning of *Ātman*, Advaita texts systematically contrast their doctrine with rival philosophical systems:
+
+- **Sāṁkhya**: Sāṁkhya accepts *puruṣa* as pure consciousness, but posits an infinite multiplicity of individual *puruṣa*, co-eternal with an independent material nature (*prakṛti*). Advaita Vedānta refutes this plurality, arguing that partless, all-pervading Consciousness cannot undergo real numerical division; multiplicity is an illusion produced by limiting adjuncts (*upādhi*).
+- **Nyāya-Vaiśeṣika**: Nyāya-Vaiśeṣika defines *Ātman* as an eternal, pervasive substance (*dravya*) in which consciousness (*caitanya*), desire, effort, virtue, and vice inhere as non-eternal attributes born of the contact between *Ātman* and mind (*manas*). Advaita refutes this, demonstrating that *Ātman* is not an insentient substance possessing consciousness as an accidental quality, but is Pure Consciousness itself (*caitanya-svarūpa*).
+- **Buddhism (Anātmavāda and Śūnyavāda)**: Theravāda and Mahāyāna schools reject an enduring, substantial Self, proposing instead a momentary stream of mental and physical constituents (*skandha*) or universal emptiness (*śūnyatā*). Advaita Vedānta (Gauḍapāda, Śaṅkara, Vidyāraṇya) counters that the denial of *Ātman* is logically unsustainable: even the perception of impermanence, flux, or voidness requires an unmoving, immutable Witness (*sākṣin*). Without a persistent substratum (*adhiṣṭhāna*), illusion itself cannot be experienced or recognized.
+
+---
+
+## Primary Texts and Commentaries
+
+### Upanishads
+
+   - *Māṇḍūkya Upaniṣad* (Mantras 1–12): Primary source for the four quarters (*pādas*) of *Ātman* and the symbolism of *AUM*.
+   - *Bṛhadāraṇyaka Upaniṣad*: Contains Yājñavalkya's discourses on *Ātman* as the innermost self-luminous light (IV.3.9), the Inner Controller (*Antaryāmin*, III.7.23), and the supreme object of realization (II.4.5: *"Ātmā vā are draṣṭavyaḥ śrotavyo mantavyo nididhyāsitavyaḥ"*).
+   - *Chāndogya Upaniṣad*: Formulates the doctrine of the Infinite Self (*Bhūmā*, VII.23–24) and the identity of *jīva* and *Brahman* (VI.8.7: *"Tat Tvam Asi"*).
+   - *Īśa Upaniṣad*: Declares the unity of *Ātman* in all beings (Verse 6).
+
+### Karikas and Classical Treatises
+
+   - Gauḍapāda, *Māṇḍūkya-kārikā* (also known as *Āgama-śāstra*): Comprising four chapters (*Āgama*, *Vaitathya*, *Advaita*, and *Alātaśānti*), this foundational text uses reason and Vedic testimony to establish *Ajātivāda* and the sole reality of *Turīya-ātman*.
+   - Śaṅkarācārya, *Māṇḍūkyopaniṣad-bhāṣya* and *Gauḍapādakārikā-bhāṣya*: Classical commentaries establishing the non-dual interpretation of *Ātman* and refuting dualist and Buddhist objections.
+   - Śaṅkarācārya, *Brahmasūtra-bhāṣya*: Systematizes Upanishadic teachings on *Ātman* as *Brahman*.
+   - Śaṅkarācārya (attributed), *Vivekacūḍāmaṇi*, *Ātma Bodha*, *Upadeśasāhasrī*, *Tattva Bodha*, and *Aparokṣānubhūti*: Major *prakaraṇa-granthas* elucidating the discrimination between *Ātman* and *anātman*.
+   - Vidyāraṇya, *Pañcadaśī*: Comprehensive treatise detailing the five sheaths, three bodies, and the witness-nature of *Kūṭastha-ātman*.
+   - Sadānanda, *Vedāntasāra*: Textual manual detailing the process of superimposition (*adhyāropa*) and de-superimposition (*apavāda*).
+
+### Modern Scholarship and Translations
+
+   - Potter, Karl H. (Ed.), *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṁkara and His Pupils*: Historical and analytical summary of primary Advaita literature.
+   - Nikhilananda, Swami, *The Upanishads* (Vols. I–IV) and *Atmabodha*: English translations providing Śaṅkara's traditional commentarial perspectives.
+
+---
+
+## Interpretations and Disputes
+
+### The Nature of Turīya
+
+A major interpretative issue concerns whether *Turīya* represents a fourth temporal state of consciousness that succeeds waking, dream, and deep sleep, or whether it is the transcendent Absolute underlying all three. Śaṅkara explicitly clarifies in his *Māṇḍūkyopaniṣad-bhāṣya* that *Turīya* is not a numerical fourth state, but the changeless substratum (*adhiṣṭhāna*) of all states, designated as "fourth" only sequentially relative to the three empirical quarters.
+
+### Advaita vs. Buddhist Dialectics in Gauḍapāda
+
+Modern scholars (such as Vidhushekhara Bhattacharya and Karl Potter) and traditional Vedantins have debated Gauḍapāda's relationship to Mahāyāna Buddhism (specifically Madhyamaka and Yogācāra). While Gauḍapāda uses dialectical terms common to Buddhist philosophy (e.g., *alāta-śānti*, *samvṛti*, *dharma*), Śaṅkara and orthodox Advaitins maintain that Gauḍapāda's ontology is distinctly Upanishadic, affirming the positive, eternal Reality of the self-luminous *Ātman*, whereas Buddhism rejects an enduring *Ātman* altogether (*Māṇḍūkyopaniṣad-bhāṣya* IV.99–100).
+
+### Inter-Vedantic Disputes on Jīva and Brahman
+
+While Advaita Vedānta asserts the absolute identity (*abheda*) of *Ātman* and *Brahman*, the Viśiṣṭādvaita school of Rāmānuja holds that the individual self (*jīva*) is an organic mode or part (*aṁśa*) of God, and the Dvaita school of Madhva asserts an eternal, real difference (*bheda*) between God and individual souls. Advaitins respond that scriptural passages declaring difference are secondary descriptions of empirical conditions (*upādhi*), whereas passages asserting identity express the ultimate purport (*tātparya*) of revelation.
+
+---
+
+## Related terms
+
+- Abheda (अभेद)
+- [Adhyāsa (अध्यास)](adhyasa.md)
+- [Advaita (अद्वैत)](advaita.md)
+- [Ajātivāda (अजातिवाद)](ajativada.md)
+- Anātman (अनात्मन्)
+- [Antaḥ-Kāraṇa (अन्तःकारण)](antah-karana.md)
+- Aparokṣānubhūti (अपरोक्षानुभूति)
+- [Avidyā (अविद्या)](avidya.md)
+- [Brahman (ब्रह्मन्)](brahman.md)
+- [Jīva (जीव)](jiva.md)
+- Kūṭastha (कूटस्थ)
+- [Māyā (माया)](maya.md)
+- Nirguṇa Brahman (निर्गुण ब्रह्मन्)
+- [Pañca-Kośa-Viveka (पंचकोशविवेक)](panca-kosa-viveka.md)
+- [Pratyagātman (प्रत्यगात्मन्)](pratyagatman.md)
+- [Sākṣin (साक्षिन्)](saksin.md)
+- [Turīya (तूरीय)](turiya.md)
+- Upādhi (उपाधि)
+
+---
+
+## References
+
+1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press.
+2. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans.). (1946). *Atmabodha (Self-Knowledge) of Sankaracharya*. Ramakrishna-Vivekananda Center.
+4. Nikhilananda, S. (Trans.). (1949). *The Upanishads: Katha, Isa, Kena, and Mundaka* (Vol. I). Harper & Brothers.
+5. Nikhilananda, S. (Trans.). (1952). *The Upanishads: Svetasvatara, Prasna, and Mandukya with Gaudapada's Karika* (Vol. II). Harper & Brothers.
+6. Nikhilananda, S. (Trans.). (1956). *The Upanishads: Aitareya and Brihadaranyaka* (Vol. III). Harper & Brothers.
+7. Nikhilananda, S. (Trans.). (1959). *The Upanishads: Taittiriya and Chhandogya* (Vol. IV). Harper & Brothers.
+8. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton University Press.
+9. Sadananda, S. (1911). *Vedāntasāra (The Essence of Vedānta)* (S. Nikhilananda, Trans.). Advaita Ashrama.
+10. Sivananda, S. (1949). *Brahma Sutras: Text, Word-for-Word Meaning, Translation, and Commentary*. The Divine Life Society.
+11. Swahananda, S. (Trans.). (1967). *Pañcadaśī of Śrī Vidyāraṇya Svāmī*. Sri Ramakrishna Math.

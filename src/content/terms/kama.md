@@ -10,7 +10,7 @@ aliases:
 
 **Kāma** 
 Meaning: "desire"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5, 9)
+See: [Mandukya Upanishad (Verse 5, 9)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: काम

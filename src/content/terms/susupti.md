@@ -11,7 +11,7 @@ aliases:
 
 **Suṣupti**
 Meaning: "Deep Sleep"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5, 11)
+See: [Mandukya Upanishad (Verse 5, 11)](mandukyopanisat.md)
 
 **Definition of Sushupti from A Concise Dictionary of Indian Philosophy**
 Sanskrit: सुषुप्ति

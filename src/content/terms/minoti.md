@@ -10,7 +10,7 @@ aliases:
 
 **Minoti**
 Meaning: "measures (by his knowledge)"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 11)
+See: [Mandukya Upanishad (Verse 11)](mandukyopanisat.md)
 
 The Sanskrit verb मिनोति (minōti) is a third-person singular present tense form, which means "to praise" or "to glorify". This verb can be translated in various contexts to convey the following meanings:
 

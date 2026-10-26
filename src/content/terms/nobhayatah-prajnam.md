@@ -10,7 +10,7 @@ aliases:
 
 **Nobhayataḥ-Prajñaṃ**
 Meaning: "not consciousness of both"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
+See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 **Translation by Swami Sharvananda**
 Sanskrit: नोभयातःप्रज्ञं

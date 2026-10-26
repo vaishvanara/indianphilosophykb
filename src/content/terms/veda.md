@@ -10,7 +10,7 @@ aliases:
 
 **Veda**
 Meaning: "Knowledge"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 9, 10, 11, 12)
+See: [Mandukya Upanishad (Verse 9, 10, 11, 12)](mandukyopanisat.md)
 
 **A Concise Dictionary of Indian Philosophy**
 Sanskrit: वेद

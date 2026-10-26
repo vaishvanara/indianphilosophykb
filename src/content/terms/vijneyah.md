@@ -10,7 +10,7 @@ aliases:
 
 **Vijñeyaḥ**
 Meaning: "to be realized"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
+See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 **Translation by Swami Sharvananda**
 Sanskrit: विज्ञेयः 

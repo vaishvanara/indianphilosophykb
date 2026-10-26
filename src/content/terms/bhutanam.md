@@ -10,7 +10,7 @@ aliases:
 
 **Bhūtānām**
 Meaning: "of all beings"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 6)
+See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
  
 भूतानाम् (Bhūtānām) is a Sanskrit word that means "of the past" or "of the ancestors". It is a possessive adjective that is often used to describe something that belongs to or is related to the past or the ancestors.
 

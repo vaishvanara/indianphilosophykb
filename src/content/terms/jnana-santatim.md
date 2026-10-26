@@ -10,7 +10,7 @@ aliases:
 
 **Jñāna-Santatiṃ**
 Meaning: "the flow of knowledge"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 10)
+See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: ज्ञान

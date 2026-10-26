@@ -10,7 +10,7 @@ aliases:
 
 Sarvaṃ
 Meaning: "all"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1, 2, 9, 11)
+See: [Mandukya Upanishad (Verses 1, 2, 9, 11)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: सर्व

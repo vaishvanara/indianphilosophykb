@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "10-26-26"
 title: "Tasya (तस्य)"
 devanagari: "तस्य"
 iast: "Tasya"
@@ -8,35 +8,32 @@ aliases:
   - "Tasya"
 ---
 
-**Tasya** 
-Meaning: "its"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
+Meaning: "his, its, of him, of it, or of that."
 
-Translation by Swami Sharvananda
-Sanskrit: तस्य 
-Transliteration: Tasya 
-Meaning: "its"
+See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
 
-Translation from The Yoga-Sūtra of Patañjali (Chip Hartranft)
-Sanskrit: तस्य 
-Transliteration: Tasya 
-Meaning: "of this, that"
+---
 
-Translation from The Science of Yoga (I.K. Taimni)
-Sanskrit: तस्य 
-Transliteration: Tasya 
-Meaning: "its, of it" 
+## Definition
 
-References:
-1. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-2. Hartranft, Chip (2003). The Yoga-Sūtra of Patañjali: Sanskrit-English Translation & Glossary. Shambhala
-3. Taimni, I. K. (1975). The Science of Yoga: The Yoga-sūtras of Patañjali in Sanskrit with Transliteration in Roman, Translation in English and Commentary: Theosophical Publishing House
+The word *tasya* (तस्य) is the genitive singular inflection (masculine and neuter) of the Sanskrit demonstrative and third-person pronoun *tad* / *ta*. Lexically, it expresses possession, belonging, or relational dependence, translating as "his", "its", "of him", "of it", or "of that". 
 
------------------------
-तस्य (Tasya) is a Sanskrit word that is a dative singular form of the pronoun "तत्" (Tat), which means "that" or "he". In Sanskrit grammar, the dative case is used to indicate the indirect object of a sentence, and the word तस्य is used to refer to a person or a being that is the indirect object of the sentence.
+In Sanskrit grammatical and philosophical tradition, as a genitive case (*ṣaṣṭhī*) form, *tasya* denotes a general relational connection (*śeṣa*) between two nominal terms rather than a direct action-participant (*kāraka*) relationship with a verbal action. In contextual usage, the underlying pronoun *tad* can refer to any entity or subject in the world, with its exact reference determined and delimited by the intention of the speaker (*tātparya*).
 
-In a more literal sense, तस्य can be translated to "to him" or "for him", and is often used to indicate that something is being given or done for the benefit of someone else.
+---
 
-In spiritual contexts, तस्य is often used to refer to the ultimate reality or the divine, and is often used to convey a sense of devotion, surrender, or offering to the divine.
+## Etymology
 
-For example, the phrase "तस्य श्रीः" (Tasya śrīḥ) means "to him be the glory" or "may he be glorified", and is often used as a way of expressing devotion or reverence to the divine.
+Grammatically, *tasya* belongs to the part of speech classified as a pronoun (*sarvanāman*), specifically serving as a genitive singular masculine and neuter form. It is formed in Sanskrit pronominal declension by attaching the genitive singular case termination *-sya* to the pronominal stem *ta-*. 
+
+The stem *ta-* (interchangeable in base forms with *tad*) serves as the primary third-person demonstrative base in Sanskrit, corresponding to nominative forms such as *saḥ* (masculine) and *sā* (feminine). 
+
+---
+
+## References
+
+1. Coward, H. G., & Potter, K. H. (1990). *Encyclopedia of Indian Philosophies: Vol. 5. The Philosophy of the Grammarians*. Motilal Banarsidass. (Headword/Topics: *Tad*, p. 114; Genitive Case / *Śeṣa*, p. 115).
+2. Kale, M. R. (1969). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Motilal Banarsidass. (Section 134, Declension of *Tad*, p. 97).
+3. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Headwords: *Ta*, p. 105; *Tad* / *Tasya*, p. 105 & p. 1121).
+4. Williams, M. (1864). *A Practical Grammar of the Sanskrit Language, Arranged with Reference to the Classical Languages of Europe for the Use of English Students* (3rd ed.). Oxford University Press. (Section 91, Case Endings, p. 56; Section 220, Pronoun *Tat*, p. 97).
+5. Wilson, H. H. (1847). *An Introduction to the Grammar of the Sanskrit Language, for the Use of Early Students* (2nd ed.). J. Madden. (Section 140, Pronoun *Tat*, p. 80).

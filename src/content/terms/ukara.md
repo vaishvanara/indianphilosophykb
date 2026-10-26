@@ -10,7 +10,7 @@ aliases:
 
 **Ukāra**
 Meaning: "the letter U"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 8, 10)
+See: [Mandukya Upanishad (Verses 8, 10)](mandukyopanisat.md)
 
 **Translation by Swami Sharvananda**
 Sanskrit: उकार 

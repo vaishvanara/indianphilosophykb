@@ -11,7 +11,7 @@ aliases:
 
 **Sarveśvaraḥ**
 Meaning: "Lord of All"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 6)
+See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
 
 सर्वेश्वरः (Sarveśvaraḥ) is a Sanskrit compound word that consists of two parts: सर्व (Sarva) and इश्वर (Iśvara).
 

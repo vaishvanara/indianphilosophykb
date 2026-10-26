@@ -10,7 +10,7 @@ aliases:
 
 **Jāgarita-Sthāna**
 Meaning: "the waking state"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 3, 9)
+See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Transliteration: Jagrat 

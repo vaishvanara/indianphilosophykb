@@ -104,13 +104,13 @@ Where appropriate, entries connect concepts to primary sources, traditional comm
 4. [Ajātivāda (अजातिवाद)](ajativada.md) - the doctrine of non-origination
 5. [Anirvacanīya-Khyāti (अनिर्वाचनीयख्याति)](anirvacaniya-khyati.md) - the indefinability of apprehension
 6. [Ātma-Vāda (आत्मावाद)](atma-vada.md) - the theory of the Self
-7. [Avaccheda-Vāda (अवच्छेदावदा)](avaccheda-vada.md) - the theory of limitation
-8. [Bimba-Pratibimba-Vāda (बिम्बप्रतिबिम्बवदा)](bimba-pratibimba-vada.md) - the theory of the original and its reflection
-9. [Drishti-Srishti-Vada (दृष्टिसृष्टिवादः)](drishti-srishti-vada.md) - the theory that "perception is creation"
-10. [Eka-Jīva-Vāda (एकजीववादः)](eka-jiva-vada.md) - the theory that there is only one Self or individual
+7. [Avaccheda-Vāda (अवच्छेदावद)](avaccheda-vada.md) - the theory of limitation
+8. [Bimba-Pratibimba-Vāda (बिम्बप्रतिबिम्बवद)](bimba-pratibimba-vada.md) - the theory of the original and its reflection
+9. [Drishti-Srishti-Vada (दृष्टिसृष्टिवाद)](drishti-srishti-vada.md) - the theory that "perception is creation"
+10. [Eka-Jīva-Vāda (एकजीववाद)](eka-jiva-vada.md) - the theory that there is only one Self or individual
 11. [Khyāti (ख्याति)](khyati.md) - theory of perceptual error;  cognitive apprehension
-12. [Saṃsarga-Abheda (संगभेदः)](samsarga-abheda.md) - relation of non-duality
-13. [Satkāraṇa-Vāda (सत्कारणवादः)](satkarana-vada.md) - the theory that cause alone exists
+12. [Saṃsarga-Abheda (संगभेद)](samsarga-abheda.md) - relation of non-duality
+13. [Satkāraṇa-Vāda (सत्कारणवाद)](satkarana-vada.md) - the theory that cause alone exists
 14. [Vivarta-Vāda (विवर्तवाद)](vivarta-vada.md) - the theory of apparent change or phenomenal appearance
 
 ### Śabda (Sound)
@@ -151,19 +151,20 @@ Where appropriate, entries connect concepts to primary sources, traditional comm
 1. [Adhiṣṭāna (अधिष्टान)](adhistana.md) - substratum; underlying ground; foundation
 2. [Advaita (अद्वैत)](advaita.md) - non-dual
 3. [Advayam-Ajātam (अद्वयमजातम्)](advayam-ajatam.md) - the birthless non-dual reality
-4. [Asat (असत् (non-being))](asat.md) - non-being; absolute non-existence; unreal
-5. [Ātman (आत्मन्)](atman.md) - the Self
-6. [Brahman (ब्रह्मन्)](brahman.md) - the Absolute
-7. [Parabrahman (परब्रह्मन्)](parabrahman.md) - the Supreme Being
-8. [Paramārtha (परमार्थ)](paramartha.md) - absolute truth
-9. [Paramātman (परमात्मन्)](paramatman.md) - the Supreme Self
-10. [Pratyaktva (प्रत्यक्त्व)](pratyaktva.md) - interiority; state of being the inner subjective self
-11. [Pratyagātman (प्रत्यगात्मन्)](pratyagatman.md) - indwelling Self; innermost Self
-12. [Puruṣottama (पुरुषोत्तम)](purusottama.md) - the Supreme Self
-13. [Saccidānanda (सच्चिदानन्दः)](saccidananda.md) - existence-consciousness-bliss
-14. [Sat (सत्)](sat.md) - being
-15. [Sattā (सत्ता)](satta.md) - reality
-16. [Svabhāva (स्वभाव)](svabhava.md) - essential nature; innate character
+4. [Ānanda (आनन्द)](ananda.md) - bliss, absolute joy, or spiritual happiness
+5. [Asat (असत् (non-being))](asat.md) - non-being; absolute non-existence; unreal
+6. [Ātman (आत्मन्)](atman.md) - the Self
+7. [Brahman (ब्रह्मन्)](brahman.md) - the Absolute
+8. [Parabrahman (परब्रह्मन्)](parabrahman.md) - the Supreme Being
+9. [Paramārtha (परमार्थ)](paramartha.md) - absolute truth
+10. [Paramātman (परमात्मन्)](paramatman.md) - the Supreme Self
+11. [Pratyaktva (प्रत्यक्त्व)](pratyaktva.md) - interiority; state of being the inner subjective self
+12. [Pratyagātman (प्रत्यगात्मन्)](pratyagatman.md) - indwelling Self; innermost Self
+13. [Puruṣottama (पुरुषोत्तम)](purusottama.md) - the Supreme Self
+14. [Saccidānanda (सच्चिदानन्दः)](saccidananda.md) - existence-consciousness-bliss
+15. [Sat (सत्)](sat.md) - being
+16. [Sattā (सत्ता)](satta.md) - reality
+17. [Svabhāva (स्वभाव)](svabhava.md) - essential nature; innate character
 
 **Transcendental attributes and attributes of perfection**
 

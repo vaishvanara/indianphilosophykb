@@ -10,7 +10,7 @@ aliases:
 
 **Samāna**
 Meaning: "equalized"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 10)
+See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
 
 Samāna is the balancing and equalizing vital air, responsible for digestion, metabolism, and assimilation. Located primarily in the navel and core stomach region, samāna fans the internal digestive fire (agni), breaking down food, water, and even mental impressions into components that the body and mind can utilize. It acts as the central processor, gathering energy from the periphery (via vyāna) and directing it inward to the core, or distributing digested nutrients evenly throughout the body. Energetically, samāna fosters internal equilibrium, discrimination, and mental digestion—the ability to process life events and extract wisdom from experiences. When samāna is robust, metabolism is strong, and a person feels centered and grounded; when weak, it leads to poor digestion, lethargy, and a lack of inner focus or alignment.
 

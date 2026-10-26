@@ -11,7 +11,7 @@ aliases:
 
 **Vaiśvānara**
 Meaning: "the self of the waking state"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 3, 9)
+See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: वैश्वानर 

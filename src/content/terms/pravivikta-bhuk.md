@@ -9,7 +9,8 @@ aliases:
 ---
 
 **Pravivikta-Bhuk**
-From the [Mandukya Upanishad](mandukyopanisat.md)  (Verse 4)
+See: [Mandukya Upanishad (Verse 4)](mandukyopanisat.md) 
+
 Meaning: "Enjoyer of the mental impressions (lit. Enjoyer of loneliness)"
 Commentary: "i.e., the enjoyer of dreams which are nothing but mental impressions produced during the awakened state."
 

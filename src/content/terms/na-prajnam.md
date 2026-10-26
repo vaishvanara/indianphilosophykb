@@ -10,7 +10,7 @@ aliases:
 
 **Na Prajñaṃ**
 Meaning: "not consciousness"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
+See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 **Translation by Swami Sharvananda**
 Sanskrit: न प्रज्ञं 

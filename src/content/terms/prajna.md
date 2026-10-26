@@ -10,7 +10,7 @@ aliases:
 
 **Prajñā** 
 Meaning: "wisdom/the self of the sleep state"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5, 11)
+See: [Mandukya Upanishad (Verses 5, 11)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: प्रज्ञा, 

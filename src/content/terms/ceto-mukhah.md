@@ -11,7 +11,7 @@ aliases:
 
 **Ceto-Mukhaḥ**
 Meaning: "whose mouth is consciousness"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 5)
+See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: चेतोमुखः 

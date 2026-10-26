@@ -10,7 +10,7 @@ aliases:
 
 **Makāra** 
 Meaning: "the letter M"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 8, 11)
+See: [Mandukya Upanishad (Verses 8, 11)](mandukyopanisat.md)
 
 **Translation by Swami Sharvananda**
 Sanskrit: मकार 

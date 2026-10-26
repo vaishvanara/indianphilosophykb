@@ -11,7 +11,7 @@ aliases:
 
 **Prapañcopaśamaṃ**
 Meaning: "the negation of all relative existence"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verses 7, 12)
+See: [Mandukya Upanishad (Verses 7, 12)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: प्रपञ्च

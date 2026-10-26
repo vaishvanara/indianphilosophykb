@@ -11,7 +11,7 @@ aliases:
 
 **Caturthaḥ** 
 Meaning: "the fourth"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7, 12)
+See: [Mandukya Upanishad (Verse 7, 12)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: चतुर्थ

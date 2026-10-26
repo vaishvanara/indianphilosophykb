@@ -10,7 +10,7 @@ aliases:
 
 **Sa Ātmā**
 Meaning: "that is the Self"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7)
+See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 **Translation by Swami Sharvananda**
 Sanskrit: स आत्मा

@@ -11,7 +11,7 @@ aliases:
 
 **Śiva**
 Meaning: "auspicious"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 7, 12)
+See: [Mandukya Upanishad (Verses 7, 12)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: शिव 

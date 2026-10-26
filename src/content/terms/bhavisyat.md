@@ -10,7 +10,7 @@ aliases:
 
 **Bhaviṣyat** 
 Meaning: "the future"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 1)
+See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
 
 **Definition from A Sanskrit-English Dictionary (Monier-Williams)**
 Sanskrit: भविष्यत् 

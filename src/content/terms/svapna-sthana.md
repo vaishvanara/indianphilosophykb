@@ -11,7 +11,7 @@ aliases:
 
 **Svapna-Sthāna**
 Meaning: "the dream state"
-From the [Mandukya Upanishad](mandukyopanisat.md) (Verse 4, 10)
+See: [Mandukya Upanishad (Verses 4, 10)](mandukyopanisat.md)
 
 **Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
 Sanskrit: स्वप्न
