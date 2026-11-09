@@ -65,7 +65,7 @@ In his *Bṛhadāraṇyakopaniṣad-bhāṣya-vārttika* (e.g., 1.4.606ff) and *
 
 ### Pañcadaśī of Śrī Vidyāraṇya Svāmī
 
-Vidyāraṇya dedicates extensive sections (notably Chapters 1, 6, and 8) to defining *cidābhāsa*. Using the fourfold classification of space—*mahākāśa* (unlimited space), *ghaṭākāśa* (pot space), *jalākāśa* (space reflected in pot-water), and *meghākāśa* (space reflected in clouds)—Vidyāraṇya draws a direct analogy to *Brahman*, *kūṭastha* (immutable witness), *jīva* (*cidābhāsa*), and *Īśvara*.
+Vidyāraṇya dedicates extensive sections (notably Chapters 1, 6, and 8) to defining *cidābhāsa*. Using the fourfold classification of space, namely *mahākāśa* (unlimited space), *ghaṭākāśa* (pot space), *jalākāśa* (space reflected in pot-water), and *meghākāśa* (space reflected in clouds), Vidyāraṇya draws a direct analogy to *Brahman*, *kūṭastha* (immutable witness), *jīva* (*cidābhāsa*), and *Īśvara*.
 
 ### Dṛg-dṛśya-viveka
 
@@ -79,7 +79,7 @@ Attributed to Śrī Sadāśiva Brahmendra or Śaṅkara, this text elucidates *c
 
 ### Ābhāsa-vāda vs. pratibimba-vāda
 
-A major dispute in post-Śaṅkara Advaita concerns the ontological status of the reflection. Followers of Sureśvara (*ābhāsa-vādins*) argue that the reflection is purely illusory (*mithyā*), whereas the Vivaraṇa tradition (*pratibimba-vādins*) asserts that the reflection is real and identical with *Brahman*, with falsity attaching only to the limiting medium (*upādhi*).
+A major dispute in post-Śaṅkara Advaita concerns the ontological status of the reflection. Followers of Sureśvara (Abhasavadins) argue that the reflection is purely illusory (*mithyā*), whereas the Vivaraṇa tradition (Pratibimbavadins) asserts that the reflection is real and identical with *Brahman*, with falsity attaching only to the limiting medium (*upādhi*).
 
 ### Locus and nature of avidyā
 
