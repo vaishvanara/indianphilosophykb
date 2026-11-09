@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-27-26"
+lastUpdated: "11-09-26"
 title: "Brahman (ब्रह्मन्)"
 devanagari: "ब्रह्मन्"
 iast: "Brahman"
@@ -57,6 +57,12 @@ In Advaita doctrine, the individual transmigrating soul (*jīva*) is essentially
 Primary passages establishing the nature of *Brahman* appear throughout the *Prasthānatrayī* (the Upaniṣad, *Brahmasūtra*, and *Bhagavad Gītā*):
 
 - **Māṇḍūkya Upaniṣad (Verses 1–12)**: Provides the primary textual exposition equating *Brahman*, *Ātman*, the quarters of consciousness, and the syllable *AUM*.
+- **Māṇḍūkya Upaniṣad, Mantra 1**: Declares that AUM is all that is past, present, future, and beyond time, establishing the total identity of the universe and AUM with *Brahman*.
+- **Māṇḍūkya Upaniṣad, Mantra 2**: Provides the primary locator for *Brahman* (*sarvaṁ hy etad brahma, ayam ātmā brahma*).
+- **Māṇḍūkya Upaniṣad, Mantra 7**: Formulates the definitive description of *Brahman* as *Turīya* via radical negation (*neti neti*).
+- **Māṇḍūkya Upaniṣad, Mantra 12**: Establishes the partless soundless AUM (*amātra*) as *Turīya*, declaring that one who realizes this merges the self into *Brahman*/*Ātman*.
+- **Gauḍapāda Kārikā, I.16–17**: Explains that when the individual soul (*jīva*) asleep under beginningless *māyā* is awakened by a qualified preceptor, it realizes its inherent birthless, non-dual nature as *Brahman*.
+- **Śaṅkarācārya’s Māṇḍūkyopaniṣad-bhāṣya**: Provides detailed textual commentary demonstrating how the four quarters function as instruments to sublate dualistic misapprehension and reveal unconditioned *Brahman*.
 - **Taittirīya Upaniṣad (2.1.1)**: Defines the essential nature of *Brahman* as *satyam jñānam anantam brahma* ("Brahman is Truth, Knowledge, and Infinity").
 - **Chāndogya Upaniṣad (6.2.1, 6.8.7)**: Declares *ekam evādvitīyam* ("One only, without a second") and reveals the non-difference of the Self in the instruction *tat tvam asi*.
 - **Bṛhadāraṇyaka Upaniṣad (1.4.10, 2.3.6, 3.8.8)**: Contains the declaration *aham brahmāsmi* ("I am Brahman") and defines *Brahman* via the apophatic method of *neti, neti* ("not this, not this").

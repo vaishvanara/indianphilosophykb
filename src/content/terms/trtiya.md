@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Tṛtīya (तृतीय)"
 devanagari: "तृतीय"
 iast: "Tṛtīya"
@@ -13,25 +13,29 @@ aliases:
 Meaning: "the third"
 See: [Mandukya Upanishad (Verses 5, 11)](mandukyopanisat.md)
 
-**Translation by Swami Sharvananda**
-Sanskrit: तृतीय, तृतीयः
-Transliteration: Tṛtīya, Tṛtīyaḥ 
-Meaning: "the third"
+## Meaning
 
-**Translation by Swami Krishnananda**
-Sanskrit: तृतीय, तृतीयः
-Transliteration: Tṛtīya, Tṛtīyaḥ 
-Meaning: "the third"
+Meaning: "Third" or "third part"; in the Māṇḍūkya Upaniṣad, the third quarter of the Self (deep sleep / prājña) corresponding to the sound 'm' in AUM.
 
-References:
-1. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-2. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html
+---
 
--------------------
-तृतीय (Tritīya) is a Sanskrit word that means "the third" or "the third stage". In a broader sense, it can refer to a concept or a state that is beyond the dualities of duality, such as good and evil, or existence and non-existence.
+## Definition
 
-In Hinduism and Buddhism, तृतीय is often used to describe the concept of the "third eye" or the "third state of consciousness", which is said to be a state of higher awareness and perception that transcends the limitations of the physical world.
+Ordinarily, ***tṛtīya*** (तृतीय) functions as an adjectival ordinal numeral meaning "third" or "third part". In technical Sanskrit grammar, the neuter form *tṛtīya* denotes the third consonant of any consonant class (such as *g*, *j*, *ḍ*, *d*, *b*), while the feminine form *tṛtīyā* designates the third case termination, representing the instrumental case (*tṛtīyā-vibhakti*).
 
-In yoga and meditation, तृतीय is often referred to as the "third state" or the "state of unity", where the individual ego and the external world are transcended, and the individual experiences a sense of oneness with the universe.
+In the philosophical treatise of the *Māṇḍūkya Upaniṣad* and its classical commentaries by Gauḍapāda (*Māṇḍūkyakārikās*) and Śaṅkarācārya (*Māṇḍūkyopaniṣadbhāṣya*), *tṛtīya* acquires an extended technical meaning as the third quarter or state (*pāda*) of the Self (*Ātman*). This third state is identified as ***Prājña***, the condition of deep sleep (*suṣupti*) in which no external or internal objects are confronted, mental activity is withdrawn, consciousness becomes unified without conceptual distinctions (*ghana*), and the individual experiences bliss (*ānanda*). At the phonic level of meditative contemplation, this third state corresponds to the letter ***M***, the third constituent element of the sacred syllable *AUM*. While *Prājña* is free from the dualistic perceptions (*vikalpa*) that characterize the waking (*Viśva*) and dream (*Taijasa*) states, it differs from the transcendent fourth state (*Turīya*) because it remains accompanied by unmanifest non-awareness (*ajñāna*), which acts as a seed (*bīja*) for future empirical experience.
 
-In a more literal sense, तृतीय can refer to the third stage of a process or a development, such as the third stage of life, the third stage of spiritual growth, or the third stage of a particular practice or discipline.
+---
+
+## Etymology
+
+Grammatically, *tṛtīya* is classified as an adjectival ordinal numeral (`mfn.`). The term is derived from the cardinal numeral base ***tri*** ("three") combined with the secondary nominal (*taddhita*) suffix ***tīya***, which is appended to express ordinal completion (*pūraṇa*). Under established Paninian rules of Sanskrit derivation, the stem *tri* is regularly substituted by *tṛ* before the affix *tīya*, yielding the completed form *tṛtīya*. This formal derivation from *tri* + *tīya* represents an established grammatical derivation in classical Sanskrit lexicography and grammar.
+
+---
+
+## References
+
+1. Abhyankar, K. V. (1961). *A Dictionary of Sanskrit Grammar*. Oriental Institute. (Headwords: *Tīya*, p. 175; *Tṛtīya*, p. 177; *Tṛtīyā*, p. 177).
+2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press. (Headword: *Māṇḍūkya Upaniṣad*, p. 185).
+3. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headwords: *Tīrtha*–*Tṛtīyin*, pp. 110–111).
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and His Pupils*. Motilal Banarsidass. (Gauḍapāda's *Māṇḍūkyakārikās*, pp. 89–91, 106–107; Śaṅkara's *Māṇḍūkyopaniṣadbhāṣya*, pp. 311–313).

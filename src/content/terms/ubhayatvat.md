@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Ubhayatvāt (उभयत्वात्)"
 devanagari: "उभयत्वात्"
 iast: "Ubhayatvāt"
@@ -12,22 +12,31 @@ aliases:
 Meaning: "on account of being the middle between the two"
 See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
 
-उभयत्वात् (ubhayatvāt) is a locative singular form of the Sanskrit word उभयत्व (ubhayatva), which means "duality" or "twofoldness".
+## Meaning
 
-In various contexts, उभयत्वात् can be translated to:
+[Meaning: "On account of bothness," "because of being perceived in both states," or "owing to two-foldness."]
 
-- From duality
-- From twofoldness
-- From both sides
-- From two aspects
-- From the dual nature
+---
 
-For example, in the Bhagavad Gita (13.12), it is written:
+## Definition
 
-उभयत्वात् संस्थितो ह्यहम्
+Literally, *ubhayatvāt* (उभयत्वात्) signifies "on account of bothness," "because of two-foldness," or "owing to validity/presence in both cases". In ordinary Sanskrit lexical usage, it functions as a causal adverbial expression indicating that a given property or condition applies equally to two entities or states.
 
-Ubhayatvāt saṃsthito hyaham
+In Advaita Vedānta philosophy—specifically within Gauḍapāda’s *Māṇḍūkya Kārikā* (Book II, *Vaitathya Prakaraṇa*, Verse 5) and Śaṅkarācārya’s commentary on the *Māṇḍūkya Upaniṣad*—the term serves as a crucial logical reason (*hetu*) in demonstrating the unreal or illusory nature (*vaitathya*) of the waking state (*jāgrat-sthāna*). Gauḍapāda establishes that just as objects perceived in a dream are unreal due to being confined within the body, objects perceived in the waking state are likewise unreal. The word *ubhayatvāt* is invoked to assert that both waking and dream experiences share the identical structural feature of being cognized through subject-object differentiation (*bhedānām utpannatvāt*). Because this attribute of being perceived within dualistic mental cognition is common to both states, the wise declare the waking state to be equal (*samaṃ smṛtam*) to the dream state in its ultimate unreality.
 
-Which translates to: "I am established from duality."
+---
 
-In general, उभयत्वात् refers to the idea of something being characterized by or derived from a dual or twofold nature.
+## Etymology
+
+* **Base / Pronominal Adjective**: Derived from the Sanskrit pronominal adjective *ubhaya* (उभय), meaning "both," "two-fold," or "belonging to both sets", which originates from the Vedic/Sanskrit dual stem *ubha* ("both").
+* **Abstract Nominal Suffix**: The abstract neuter nominal suffix *-tva* (-त्व) is appended to form the abstract noun stem *ubhayatva* (उभयत्व), meaning "bothness," "two-foldness," or "the state of being in both".
+* **Grammatical Inflection**: Formed in the ablative singular case (*-āt*, -ात्) of a neuter *-a* stem noun, functioning syntactically as an adverbial clause of cause ("on account of," "because of," or "owing to").
+* **Part of Speech**: Ablative singular of a neuter abstract noun used adverbially in philosophical dialectics.
+
+---
+
+## References
+
+1. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Longmans, Green, and Co. (p. 55, col. 1).
+2. Nikhilananda, Swami (Trans.). (1949). *The Mandukya Upanishad with Gaudapada's Karika and Sankara's Commentary*. Sri Ramakrishna Math. (Chapter II, Verses 4–5, pp. 95–97).
+3. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Volume 3. Advaita Vedānta up to Śaṅkara and His Pupils*. Motilal Banarsidass. (pp. 104–105).

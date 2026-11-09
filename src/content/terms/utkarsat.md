@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Utkarṣāt (उत्कर्षात्)"
 devanagari: "उत्कर्षात्"
 iast: "Utkarṣāt"
@@ -13,22 +13,33 @@ aliases:
 Meaning: "on account of superiority"
 See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
 
-उत्कर्षात् (utkarṣāt) is a locative singular form of the Sanskrit word उत्कर्ष (utkarṣa), which means "excellence" or "superiority".
+## Meaning
 
-In various contexts, उत्कर्षात् can be translated to:
+[Meaning: "Elevation, exaltation, increase, pre-eminence, or superiority; in the Māṇḍūkya Upaniṣad, the ground of superiority of the second mātrā (U)."]
 
-- From excellence
-- From superiority
-- From the highest point
-- From the best
-- From the greatest
+---
 
-For example, in the Bhagavad Gita (2.11), it is written:
+## Definition
 
-उत्कर्षात् संस्थितो ह्यहम्
+In ordinary Sanskrit usage, the noun *utkarṣa* denotes elevation, exaltation, increase, pre-eminence, distinction, excellence, or excess. In general literature, it signifies an upward movement, rise, or heightened quality. 
 
-Utkarṣāt saṃsthito hyaham
+Within the *Māṇḍūkya Upaniṣad* (Mantra 10) and Gauḍapāda's *Kārikā* (I.20), the inflected ablative form *utkarṣāt* ("on account of superiority" or "from exaltation") functions as a causal technical term. It establishes one of the two primary points of resemblance (*sādharmya*) for equating *Taijasa*—the aspect of the Self in the dream state who cognizes internal subtle objects—with *Ukāra* (the letter or *mātrā* *U*), the second component of the sacred sound *AUM*. 
 
-Which translates to: "I am established from excellence."
+Śaṅkarācārya's commentary (*Bhāṣya*) distinguishes the literal phonetic position from the extended philosophical application. Phonetically, while the sound *A* (*Akāra*) is the initial sound of all speech, the sound *U* (*Ukāra*) follows *A* and is described as figuratively "superior" (*utkṛṣṭa*) in sequence to *A*. Philosophically, *Taijasa* is considered superior to *Viśva* (the waking self) because *Taijasa* perceives internal mental states and subtle ideas, bringing the seeker closer to inward reality than the gross external perception of *Viśva*. The second ground provided alongside *utkarṣāt* is *ubhayatvāt* ("on account of being in between"), as *U* stands between *A* and *M*, just as *Taijasa* stands between *Viśva* and *Prājña*. The Upaniṣad further notes the contemplative fruit (*phala*) accrued by knowing this correspondence: the knower elevates or expands the continuity of knowledge (*utkarṣati ha vai jñānasamtatim*).
 
-In general, उत्कर्षात् refers to the idea of something being derived from or characterized by excellence, superiority, or the highest point.
+---
+
+## Etymology
+
+The form *utkarṣāt* is the ablative singular noun (*pañcamī vibhakti*, *ekavacana*) of the masculine stem *utkarṣa*. Syntactically, it functions as a causal ablative expressing reason or ground ("owing to elevation," "by reason of superiority," or "from pre-eminence"). 
+
+The morphological derivation of the nominal stem *utkarṣa* is established in classical Sanskrit grammar. It is formed by prefixing *ud-* (उत्- / उद्-), indicating upward direction or elevation, to the verbal root *kṛṣ* (कृष्), meaning "to draw, drag, or pull". The addition of the primary nominalizing suffix *-a* (*ghañ*) yields the masculine abstract noun *utkarṣa*, literally signifying "a drawing up," "pulling upward," or "elevation". The declensional suffix *-āt* (आत्) attaches to the stem to express cause. This morphological derivation is fully established across standard grammatical authorities.
+
+---
+
+## References
+
+1. Kale, M. R. (1918). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Gopal Narayan & Co. (Declension of ablative singular *-āt*, § 339, p. 210; Root *kṛṣ*, p. 530).
+2. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headword *utkarṣa*, p. 48, col. 3; Root *kṛṣ*, p. 77, col. 1).
+3. Nikhilananda, S. (Trans.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śankara's Commentary*. Sri Ramakrishna Ashrama. (Māṇḍūkya Upaniṣad, Mantra 10 and Gauḍapāda Kārikā I.20, pp. 77–78).
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass. (Summary of Māṇḍūkyopaniṣadbhāṣya, pp. 106, 308–312).

@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Prajñā (प्रज्ञा)"
 devanagari: "प्रज्ञा"
 iast: "Prajñā"
@@ -12,42 +12,84 @@ aliases:
 Meaning: "wisdom/the self of the sleep state"
 See: [Mandukya Upanishad (Verses 5, 11)](mandukyopanisat.md)
 
-**Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
-Sanskrit: प्रज्ञा, 
-Transliteration: Prajñā 
-Meaning: "wisdom; intuitive wisdom; gnosis"
-Definition:
-1. The intuitive wisdom, the highest knowledge, according to Mahāyāna Buddhism. 
-2. It is one of the six virtues of Buddhism.  
-3. The individual form of the self as the witness of the bare nescience in the state of sleep. It is also known as Ānandamaya. The experience in deep sleep is called the Prajñā when there is no determinate knowledge, but only pure bliss and pure consciousness. 
+## Meaning
 
-**Translation by Swami Sharvananda**
-Sanskrit: प्रज्ञा, प्रज्ञः, प्रज्ञं 
-Transliteration: Prajñā, Prajñaḥ, Prajñaṃ
-Meaning: "lit. one who knows properly"
+In the Māṇḍūkya Upaniṣad, Prajñā denotes the third quarter of Ātman, representing unified consciousness in dreamless deep sleep (suṣupti).
 
-**Translation by Swami Krishnananda**
-Sanskrit: प्रज्ञा, प्रज्ञः, प्रज्ञं 
-Transliteration: Prajñā, Prajñaḥ, Prajñaṃ
-Commentary: "The third quarter of the Ātman, called Prājña, is identified with the third quarter of the Universal Consciousness called Īśvara. Īśvara is omnipotent and, therefore, He is regarded as the source and the end of all creation. This Prājña is the causal state of the universe, both outwardly and inwardly. Macrocosmically, we regard this consciousness as the Creator of the whole universe, while microcosmically the very same consciousness is the creator of this internal world of the Jīva."
+## Definition
 
-**From Mandukya Upanishad (James Swartz)**
-"The sleeper is called Prajñā or mass of consciousness. In the other states, consciousness flows outward and inward, but in sleep, it loses direction and becomes formless. The sleeper ego is extremely subtle, its presence indicated by the fact that we experience limitlessness and bliss. In the waking and dream states, bliss is sporadic because it is broken by many divisions of thought and feeling. We know of the sleeper’s experience because it reports a good sleep after transforming into a waker. Were the waker actually a different ego from the sleeper, or the dreamer, it wouldn’t recall the experience of sleep or dream."
+In Classical Sanskrit and Vedāntic literature, *Prajñā* (प्रज्ञा) broadly denotes wisdom, heightened intelligence, judgment, or spiritual discernment. However, within the specific textual context of the *Māṇḍūkya Upaniṣad*, the term (along with its nominal masculine form *Prājña*, प्राज्ञ) carries a specialized technical meaning: it designates the third quarter (*pāda*) of the Self (*Ātman*), which corresponds to the state of dreamless deep sleep (*suṣupti*).
 
-**From Gauḍapāda Kārikā (Translated by Swami Nikhilananda)**
-Chapter I: Āgama Prakaraṇa: "Prajñā is a mass of consciousness. Prajñā is the Ākāśa in the heart. Prajñā experiences the blissful. The blissful satisfies Prajñā. Prajñā is conditioned by cause alone. Prajñā does not know anything of self or non-self, of truth or untruth. Non-cognition of duality is common to Prajñā. But Prajñā is associated with sleep in the form of cause and this sleep does not exist in Turīya. Prajñā is associated with Sleep bereft of dreams. The indisputable reason given for the identity of Prajñā and M is the common feature that both are the measure. The other reason for such identity is another common feature, namely, that both represent the state of mergence. Through meditation on M, the seeker attains Prajñā."
+Unlike the first quarter (*Vaiśvānara*), which experiences gross external objects through the sense organs, and the second quarter (*Taijasa*), which experiences subtle internal mental impressions in dreams, *Prajñā* represents a condition where all dualistic perceptions and desires subside. In this state, cognition is no longer divided into subject and object; rather, experience becomes unified into an undifferentiated mass of consciousness (*prajñānaghana*). While dictionary definitions emphasize general intellect or wisdom, the *Māṇḍūkya Upaniṣad* contextualizes *Prajñā* as the unmanifested causal condition of the individual self prior to the emergence of waking and dream projections.
 
-**From The Science of Yoga (I. K. Taimni)**
-Definition: "higher state of consciousness (experienced in Samādhi)"
-Commentary: "The word Prajñā in Sanskrit stands for the higher consciousness working through the mind in all its stages. It is derived from Pra which means ‘high’ and Jñā which means to ‘know’. The distinctive characteristic of this higher consciousness which unfolds in Samādhi is that the mind is cut off completely from the physical world and the consciousness is centred in one or the other of the set of vehicles beginning with the lower mental body and ending with the Atmic vehicle. The consciousness is thus free from the burden and interference of the physical brain." (p. 37)
+## Etymology
 
-"[...] Prajñā is the higher consciousness which appears in the state of Samādhi. But as the word Samādhi covers a wide range of states of consciousness, so Prajñā stands for all the states of consciousness in Samādhi beginning with the Vitarka stage and ending with the Asmitā stage. There are two critical stages in the subtilization of Prajñā. One of these is referred to in Part 1, Sutra 47 where the light of spirituality irradiates the mental consciousness. The other is indicated in Part 3, Sutra 36 when the consciousness of the Puruṣa begins to illuminate the Yogi’s consciousness. The role of Prajñā comes to an end when Viveka Khyāti or the pure awareness of Reality takes its place as indicated in Part 4, Sutra 29." (p. 255)
+The Sanskrit term *Prajñā* (प्रज्ञा) is a feminine abstract noun formed by combining the verbal prefix *pra-* (प्र) with the verbal root *jñā* (ज्ञा).
 
-References:
-1. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-2. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-3. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html
-4. Swartz, James (1996). Mandukya Upanishad: An ancient Sanskrit text on the nature of Reality. Retrieved from https://www.holybooks.com/mandukya-upanishad-an-ancient-sanskrit-text-on-the-nature-of-reality/
-5. Nikhilananda, Swami (1977). The Upanishads: A New Translation in Four Volumes: Ramakrishna-Vivekananda Center
-6. Taimni, I. K. (1975). The Science of Yoga: The Yoga-sūtras of Patañjali in Sanskrit with Transliteration in Roman, Translation in English and Commentary: Theosophical Publishing House. p. 37, 255.
+- **Root**: *jñā* (ज्ञा, 9th class *Parasmaipada*/*Ātmanepada* root), meaning "to know," "to perceive," "to cognize," or "to comprehend."
+- **Prefix**: *pra-* (प्र), a direction indicator and intensifier signifying "forth," "forward," "prominently," or "exceedingly."
+- **Nominal Formation**: The primary noun *prajñā* (प्रज्ञा) is formed with the feminine nominal suffix *-ā*, yielding the literal sense of "forth-knowing," "discrimination," or "higher knowledge."
+- **Derivative Form**: *Prājña* (प्राज्ञ) is a secondary nominal derivative (*taddhita*) formed by the initial vowel lengthening (*vṛddhi*) of *prajñā*, functioning either as an adjective ("relating to intellect/consciousness") or as a masculine noun designating the conscious self abiding in *prajñā*.
 
+Grammatically, the prefix *pra-* heightens the root meaning of *jñā*, suggesting a primary, focused, or comprehensive capacity for cognition. However, within Advaita Vedānta exegetical tradition, this etymological sense of "heightened knowledge" is understood contextually: in deep sleep, *Prajñā* does not signify active intellectual discrimination (*buddhi-vṛtti*), but rather pure consciousness withdrawn from dualistic objects, standing as the undivided seed (*bīja*) of awareness.
+
+## Prajñā in the Māṇḍūkya Upaniṣad
+
+In the *Māṇḍūkya Upaniṣad*, the term occurs primarily in Mantra 5 (defining the third quarter of Ātman) and Mantra 11 (correlating this quarter with the sound *M* in the sacred syllable *AUM*).
+
+### Textual Context and Verse Analysis
+
+Mantra 5 of the *Māṇḍūkya Upaniṣad* defines *Prajñā* as follows:
+> *yatra supto na kaṃcana kāmaṃ kāmayate na kaṃcana svapnaṃ paśyati tat suṣuptam / ekībhūtaḥ prajñānaghana evānandamayo hyānandabhug cetomukhaḥ prājñas tṛtīyaḥ pādaḥ //*
+> ("That is the state of deep sleep wherein one asleep neither desires any object nor sees any dream. The third quarter is Prajñā, whose sphere is deep sleep, in whom all experiences become unified, who is, verily, a mass of consciousness, who is full of bliss and experiences bliss, and who is the doorway leading to the knowledge of dreaming and waking.")
+
+The Upaniṣad establishes five key attributes of *Prajñā*:
+1. **Suṣuptasthāna** (सुषुप्तस्थान): Its sphere of activity is dreamless sleep (*suṣupti*), defined by the total absence of desire (*kāma*) and dream projections (*svapna*).
+2. **Ekībhūta** (एकीभूत): All dualistic experiences of the waking and dream states, which are dispersed as mental modifications (*manovṛtti*), become unified and non-different, analogous to objects enveloped in the darkness of night.
+3. **Prajñānaghana** (प्रज्ञानघन): It is a homogeneous mass of consciousness without internal differentiation or subject-object division.
+4. **Ānandamaya & Ānandabhuk** (आनन्दमय / आनन्दभुक्): It is filled with bliss and experiences bliss because the mind is relieved of the exertion and suffering inherent in dualistic perception.
+5. **Cetomukha** (चेतोमुख): It serves as the gateway or doorway through which consciousness transitions into the dream and waking states.
+
+In Mantra 11, the Upaniṣad identifies *Prajñā* with the letter *M* (मकार), the third mora (*mātrā*) of *AUM*:
+> *suṣuptasthāno prājño makāro tṛtīyā mātrā miter apīter vā...*
+> ("Prajñā Ātman, whose sphere is deep sleep, is M, the third letter of AUM, because both are the measure (*miti*) and also because in them all become one (*apiti*).")
+
+It is termed *miti* ("measure") because *Prajñā* acts as the container or benchmark into which the waking (*Vaiśvānara*) and dream (*Taijasa*) states submerge during involution and from which they emerge during creation. It is termed *apiti* ("merging") because all distinctions merge into *Prajñā* during deep sleep just as the sound of *A* and *U* merge into *M* at the conclusion of chanting *AUM*.
+
+### Exegetical Distinctions in Later Literature
+
+Advaita Vedānta literature carefully distinguishes the original Upaniṣadic statement from later systematic formulations:
+
+- **Gauḍapāda’s Kārikā**: Gauḍapāda clarifies the ontological status of *Prajñā* by contrasting it with the other quarters. In *Kārikā* 1.11, he notes that *Prajñā* is bound by cause alone (*kāraṇa-baddha*), defined as the non-apprehension of reality (*tattvāgrahaṇa*), whereas *Vaiśvānara* and *Taijasa* are bound by both cause and effect (non-apprehension as well as misapprehension, *anyathāgrahaṇa*). In *Kārikā* 1.12, Gauḍapāda emphasizes that while *Prajñā* knows neither self nor non-self, truth nor untruth (*prājño na kiṃcana saṃvetti*), the Fourth (*Turīya*) is ever-illumined and omniscient. Furthermore, in *Kārikā* 3.34–35, Gauḍapāda distinguishes the deep sleep of *Prajñā* from the stilled mind of a liberated sage (*jñānī*): in deep sleep, the mind collapses into a seed-state of dark ignorance (*bījabhāva*), whereas the disciplined mind of the sage becomes identical with non-dual, fearless Brahman.
+- **Śaṅkara’s Commentary**: Śaṅkara explains that *Prajñā* is termed *Ānandamaya* ("full of bliss") not because it is the unconditioned Supreme Bliss (*Parama-ānanda*), but because it is free from the agony of mental effort. Śaṅkara equates *Prajñā* with the unmanifested causal state (*Avyākṛta* / *kāraṇa-śarīra*), containing the dormant seeds (*bīja*) of future Samsara.
+- **Later Scholastic Syntheses**: Works such as the *Tattva Bodha* and *Pañcadaśī* formalize *Prajñā* as the individual self identifying with the causal body (*kāraṇa-śarīra*) and the bliss sheath (*ānandamaya-kośa*), operating as the micro-level counterpart of *Īśvara* (the Lord presiding over unmanifested *Māyā*).
+
+## Interpretations and Disputes
+
+Within Indian philosophy and Vedāntic hermeneutics, several key points of interpretation surround *Prajñā*:
+
+1. **Causal Ignorance vs. Pure Bliss**: A major interpretive discussion concerns whether *Prajñā* in deep sleep represents liberation or latent nescience (*avidyā*). Śaṅkara emphasizes in both his *Brahmasūtra-bhāṣya* (1.1.12–19) and *Māṇḍūkya-bhāṣya* that *Prajñā* is not liberation (*Mukti*). Although the individual experiences bliss (*ānanda*), it is covered by a thin layer of causal ignorance (*tamo-guṇa* / *avidyā*). The fact that an individual awakes from sleep with past latent impressions (*vāsanā*) intact demonstrates that *Prajñā* is a causal state rather than final realization.
+2. **Prajñā versus Turīya**: Scholars and commentators contrast *Prajñā* (the third state) with *Turīya* (the Fourth). While both share the absence of dualistic object-perception, *Prajñā* is characterized by seed-like oblivion (*nidrā* / *tattvāgrahaṇa*), whereas *Turīya* is transcendent awareness devoid of both oblivion and error.
+3. **Prajñā vs. Prajñāna and Vijñāna**: Grammatically and conceptually, Vedāntic texts differentiate *Prajñā* from *Prajñāna* and *Vijñāna*. In the *Aitareya Upaniṣad* (3.1.3), *Prajñāna* refers to Consciousness itself as the ultimate reality (*Prajñānam Brahma*). In contrast, *Vijñāna* often refers to empirical, differentiated knowledge or the intellectual sheath (*vijñānamaya-kośa*). In the *Māṇḍūkya*, *Prajñā* specifically denotes the unified causal consciousness of deep sleep.
+
+## Related Terms
+
+- Ānandamaya (आनन्दमय)
+- Avyākṛta (अव्याकृत)
+- Kāraṇaśarīra (कारणशरीर)
+- Prajñānaghana (प्रज्ञानघन)
+- Suṣupti (सुषुप्ति)
+- Taijasa (तैजस)
+- Turīya (तूरीय)
+- Vaiśvānara (वैश्वानर)
+- Vijñāna (विज्ञान)
+
+## References
+
+- MacDonell, Arthur A. *A Sanskrit-English Dictionary*. Part 1 & Part 2. London: Longmans, Green, and Co., 1893.
+- Nikhilananda, Swami (Trans.). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Math, 1949. (Māṇḍūkya Upaniṣad Mantras 5, 11; Gauḍapāda Kārikā 1.11, 1.12, 3.34–35; Śaṅkara Bhāṣya ad loc.).
+- Nikhilananda, Swami (Trans.). *The Upanishads: Volume II (Śvetāśvatara, Praśna, and Māṇḍūkya)*. New York: Harper & Brothers, 1952.
+- Potter, Karl H. (Ed.). *Encyclopedia of Indian Philosophies, Volume 3: Advaita Vedānta up to Śaṅkara and his Pupils*. Princeton: Princeton University Press, 1981.
+- Śāstrī, S. Subrahmanya (Ed.). *Tattva Bodha of Śrī Śaṅkarācārya*. Chennai: Sri Ramakrishna Math. (Section 13-10).
+- Sivananda, Swami. *Brahmasūtra: Sanskrit Text, Transliteration, English Translation, and Commentary*. Rishikesh: Divine Life Society. (Adhyāya I, Pāda 1; Adhyāya III, Pāda 2).
+- Swahananda, Swami (Trans.). *Pañcadaśī of Śrī Vidyāraṇya Svāmī*. Sri Ramakrishna Math, 1967. (Chapter I, Verses 67–71).

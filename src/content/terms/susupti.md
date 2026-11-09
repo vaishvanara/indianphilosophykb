@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Suṣupti (सुषुप्ति)"
 devanagari: "सुषुप्ति"
 iast: "Suṣupti"
@@ -13,64 +13,116 @@ aliases:
 Meaning: "Deep Sleep"
 See: [Mandukya Upanishad (Verse 5, 11)](mandukyopanisat.md)
 
-**Definition of Sushupti from A Concise Dictionary of Indian Philosophy**
-Sanskrit: सुषुप्ति
-Transliteration: Suṣupti
-Meaning: "deep sleep; sleep without dream"
-Definition: The state of deep-sleep consciousness. There are no objects present – neither of external things of the world nor of internal ideas; thus, there is no apprehension of duality, though ignorance (Avidyā) still persists in a latent state.
+## Meaning
 
-**Sushupti as defined in Mandukya Upanishad (translated by Swami Sharvananda)**
-Sanskrit: सुषुप्ति, सुषुप्त, सुषुप्तम्
-Transliteration: Suṣupti, Suṣupta, Suṣuptam
-Meaning: "the deep sleep"
-Definition: "i.e., neither the awakened state where will is active, nor the dreaming subconscious state, but the unconscious state where all activities of the mind are completely stopped is here referred to."
+In the *Māṇḍūkya Upaniṣad*, *suṣupti* (सुषुप्ति) denotes the state of deep, dreamless sleep wherein experiences unify into a mass of consciousness.
 
-Sushupti as defined in Mandukya Upanishad (James Swartz)
-"The deep sleep state is free of both waking and dream egos and objects because the Vāsanā [Saṃskāra] projecting them have become dormant; hence, it is referred to as the “seed” state. When the “seeds” sprout, one becomes a waker or a dreamer and experiences the appropriate world.
+## Definition
 
-Because we don’t remember being conscious in it, the sleep state is often thought to be a void by metaphysicians and philosophers. In fact, Sanskrit literature refers to it as “the womb,” because our waking and dream worlds emerge from it. When you wake up in the morning, your whole life is neatly laid out consistent with the day before, the same language you spoke yesterday on the tip of your tongue, indicating that previous experience had simply entered a dormant state. The dormant potential of the sleep state containing the macrocosmic Vāsanā [Saṃskāra] is called Īśvara, the Creator, in Vedantic literature. With reference to the microcosmic Vāsanā [Saṃskāra], the sleeper is called Prajñā.
+The Sanskrit term *suṣupti* (सुषुप्ति) literally signifies "deep sleep," "profound slumber," or "dreamless sleep". Morphologically, it is a prefixal noun formed from the intensifying prefix *su-* (सु-, meaning "well," "thoroughly," or "deeply") and the noun *supti* (सुप्ति, meaning "sleep"), derived from the verbal root √*svap* (स्वप्, "to sleep").
 
-The sleep state is also known as the gateway between the waking and the dream states because it functions as a kind of closet with two doors where the dream can don the guise of the waker to appear on the waking stage. And vice versa. Though a minor point, even in cases where one seems to be awakened directly out of a dream by a noise, for example, the dreamer passes through the sleep state. A motion picture image of a stationary object is actually dozens of individual images passing so fast they seem to be a solid object. Similarly, we can’t trust our experience in this case because the change is so fast we don’t notice it.
+In Advaita Vedānta and specifically within the *Māṇḍūkya Upaniṣad*, *suṣupti* is defined as the third state of consciousness (*avasthā*) of the Self (*ātman*), distinct from the waking state (*jāgrat*) and the dream state (*svapna*). Textually, *suṣupti* is defined by two negative criteria and three positive characteristics:
+1. **Negative criteria**: The sleeping individual entertains no desire for any object (*na kaṃcana kāmaṃ kāmayate*) and perceives no dream (*na kaṃcana svapnaṃ paśyati*).
+2. **Positive characteristics**: All dualistic sensory and mental modifications collapse into non-differentiation (*ekībhūta*), consolidating into a homogeneous mass of consciousness (*prajñānaghana*) and experiencing an abundance of bliss (*ānandamaya*, *ānandabhuk*).
 
-**Sushupti as defined in The Māṇḍūkya Upaniṣad (translated by Swami Krishnananda)**
-Sanskrit: सुषुप्ति
-Transliteration: Suṣupti
-Commentary: "The waking world and the dream world, from the point of view of the Jīva, are two aspects of the function of the mind. The mind projects itself in perception, both in waking and dream. The mind is active, and it gets tired of activity. It ceases from activity when it is too much fatigued. The complete cessation of the activity of the mind, due to exhaustion, is sleep, known as Suṣupti.
+Idiomatically, while *supti* or *nidrā* can denote ordinary sleep or drowsiness, *suṣupti* explicitly denotes the complete cessation of objective duality and mental projection, representing the causal condition (*kāraṇāvasthā*) of human experience.
 
-That is called Suṣupti, or deep sleep, where – Na Kaṃcana Kāmaṃ Kāmayate – one desires nothing, because the mind has withdrawn itself from both the physical and subtle objects. Na Kaṃcana Svapnaṃ Paśyati: It does not dream also, because even psychic activity has ceased. Tat Suṣuptam: This is complete absorption of the mind into itself. But this absorption is of an unconscious nature...."
+## Etymology
 
-"The third foot of the Ātman the third phase of its analysis, is deep sleep, where all perceptions and cognition converge into a single mode of the mind – Ekī-Bhūtaḥ. It becomes a mass of consciousness, which is not projected outside – Prajñāna-Ghana. There is no modification of the mind, and so there is no external consciousness. We are not aware of the world outside in the state of sleep because of the absence of Vṛtti, or psychoses, of the mind. Only when the mind becomes extrovert can it have consciousness of the outer world, whether in dream or in waking. But, there is no agitation of the mind, of that nature, in sleep. It is as if there is a homogeneous mass of all perceptions, where all the Saṃskāra, Vāsanas, commingle into a single mode, or condition, instead of there being many cognitive psychoses. Ānanda-Mayo Ānanda-Bhuk Ceto-Mukhaḥ Prajñaḥ: It is all bliss. The happiness of deep sleep is greater than all other forms of happiness or pleasure born of sense-contact. It is filled with Ānanda, bliss, delight, satisfaction.
+The etymological structure of *suṣupti* (सुषुप्ति) is grounded in standard Sanskrit nominal derivation and sandhi rules:
+- **Root and Primary Derivation**: The base noun *supti* (सुप्ति, feminine) is derived from the verbal root √*svap* (स्वप्, "to sleep") combined with the primary kṛt suffix *-kti-* / *-ktin* (-ति). In accordance with Pāṇinian grammar, the root √*svap* undergoes *samprasāraṇa* (vowel reduction of the semi-vowel *-va-* to the vocalic *-u-*), yielding *sup-* + *-ti* = *supti* ("sleep").
+- **Prefixation and Sandhi**: The prefix *su-* (सु-, "well," "thoroughly") is attached to *supti*. Under the Pāṇinian rule of retroflexion (*ṣatva*), the initial dental sibilant *s-* of *supti* is converted into the retroflex sibilant *-ṣ-* when preceded by the vowel *-u-* of the prefix *su-*, producing the compound form *suṣupti* (सुषुप्ति).
+- **Classical Word Plays and Interpretations**: The Upaniṣadic tradition frequently provides semantic etymologies (*nirukta*) for the related verbal form *svapiti* ("he sleeps"). In the *Chāndogya Upaniṣad* (VI.8.1) and *Bṛhadāraṇyaka Upaniṣad* (II.1.17), *svapiti* is etymologized as *svam apīto bhavati* ("he has merged into his own Self"), playing on *sva* ("own self") and *apīta* ("merged" or "gone into").
+- **Related Morphological Formations**: Cognate nominal and adjectival forms documented in grammatical and lexical sources include *suṣupta* (past participle, "deeply slept" or "fast asleep"), *suṣuptasthāna* (bahuvrīhi compound, "having deep sleep as one's locus or sphere"), *suṣupsā* (desiderative noun, "desire to sleep"), and *svāpyaya* (abstract noun, "involution or absorption into oneself").
 
-From where has this happiness come? From where has this Ānandamayatva come to you? This subject is dealt with in the Mantra which describes the third phase of the Ātman. Your real nature is aloneness, not sociability. Your real nature is Kevalata, not Indriya-Saṃyoga with Viṣaya, objects. Your real nature is singularity, not multiplicity. Your real nature is a total transcendence of all sensory and mental phenomena, not contact with objects. Therefore you are Ānandamaya, Ānanda-Bhuk: filled with bliss, enjoying bliss.
+## Suṣupti in the Māṇḍūkya Upaniṣad
 
-Consciousness of sleep is equal to Samādhi. If sleep is to be coupled with consciousness, it becomes Ātma-Sākṣātkāra, the realization of the Ātman. This is what they call Superconsciousness. This is Nirvāṇa, Mokṣa, Kevalata - Liberation. This is your real nature. This is why you are full of Ānanda in sleep. You go to the blessedness of eternity and infinity in sleep, but you are not aware of it...."
+In the *Māṇḍūkya Upaniṣad*, the term *suṣupti* occurs in verse 5 in both nominal and compound adjectival forms:
 
-"Ānanda-Mayo Ānanda-Bhuk Ceto-Mukhaḥ: What is the instrument through which you enjoy this Ānanda? Not the senses, not the mind. While there were nineteen mouths for you in the waking and dreaming states, there are no such mouths in deep sleep. Here, the mouth is not the mind or the senses, but consciousness alone is the mouth – Ceto-Mukhaḥ. Consciousness enjoys bliss. Who enjoys bliss? Consciousness alone is the answer. It is Cit that experiences Ānanda, not the Indriya or the Mānās, the senses or the mind. In deep sleep there is only Ānanda experienced by Cit. You experience Saccidānanda, here, Consciousness-Being, as such."
+> *yatra supto na kaṃcana kāmaṃ kāmayate na kaṃcana svapnaṃ paśyati tat suṣuptam | tṛtīyaḥ pādaḥ prājñaḥ suṣuptasthāno 'ekībhūtaḥ prajñānaghana evānandamayo hy ānandabhuk cetomukhaḥ prājñaḥ tṛtīyaḥ pādaḥ || 5 ||*
 
-**Sushupti as defined in Lessons on the Upanishads (Swami Krishnananda)**
-"There is a third state called sleep, where not only are you not aware of the body, but even the psychological functions are not there. The mind does not think, the intellect does not decide and you do not know that you even exist there. Your existence itself is abolished, as it were. It is a state of nothingness, but you are not even aware that it is nothing. To be aware that it is a nothing would be something, but you are not even aware that it is nothing. It is pure, unadulterated nothing. But, what is happening there? Are you dead? No, you are very much alive. Who told you that you were alive in sleep, when it was a nothing and your awareness was totally obliterated by something? You are totally oblivious of all things happening there. When you did not even know that you were existing, how did you come to the conclusion that you were alive at that time? Nobody told you. You yourself conclude, “I am the same person now that I was before I slept yesterday. I am not another person. Therefore, I must have been existing during sleep.” But how do you know that you are the same person? You may be another person. Every day you could change and become somebody else, but this does not happen.
+Grammatically, *suṣuptam* functions as a neuter noun designating the state of deep sleep itself, while *suṣuptasthānaḥ* ("whose sphere or locus is deep sleep") operates as a masculine compound adjective (*bahuvrīhi*) modifying *Prājña*, the third quarter (*tṛtīyaḥ pādaḥ*) of Ātman.
 
-A continuity of consciousness is maintained between yesterday’s experience and today’s experience. Is this not interesting and surprising? You are very certain that today you are the same person that you were yesterday and your consciousness continues through even the sleep condition, making you feel that you exist today in the same way as you existed yesterday. That is to say, you did exist in the state of deep sleep. The proof of it is only your conviction that you are the same person today as you were yesterday. You have a memory of having slept. Now, if consciousness must have existed in the state of deep sleep, you must have existed as consciousness only. You did not exist as a body, mind, intellect or anything else. You were not even aware of the act of breathing at that time. You existed as consciousness only.
+### Philosophical Significance and Attributes in Verse 5
 
-So, do you believe that your essential nature is consciousness? Even minus all these appurtenances of body, mind, intellect, if you can exist nevertheless, why should you imagine that you are the body, mind, intellect, etc.? If I can exist minus something, that thing from which I am withdrawn is not me, really speaking. If I can be safe without something, that something is redundant. Therefore, the body is a redundant thing, and the mind and intellect are also not us. You are pure Śuddha Caitanya, as it is called – Pure Consciousness. In that state you existed. There is no other thing that can be regarded as an attribute of your being in that condition. Consciousness was your essential nature.
+The *Māṇḍūkya Upaniṣad* delineates four cardinal attributes of *suṣupti* / *Prājña*:
+1. ***Ekībhūtaḥ* (Unified)**: In *suṣupti*, the manifold dualities of subject and object experienced during waking and dream merge into non-differentiation, just as diverse objects become indistinguishable in the darkness of night.
+2. ***Prajñānaghanaḥ* (Mass of Consciousness)**: Consciousness ceases to be split into discrete mental perceptions (*vṛtti*); it becomes a concentrated, undifferentiated mass of awareness.
+3. ***Ānandamayaḥ* and *Ānandabhuk* (Full of Bliss and Enjoyer of Bliss)**: Because the friction and miseries of egoic mental effort are suspended, the Self experiences a natural state of rest and tranquility.
+4. ***Cetomukhaḥ* (Doorway to Consciousness)**: Deep sleep serves as the causal gateway through which consciousness transitions into the dream and waking states.
 
-What were you conscious of? You were conscious of nothing; it was conscious of consciousness only. It was a consciousness of existence, about which we discussed earlier. It was not a consciousness of something; it was a consciousness of consciousness existing. You were aware that you were aware, that is all – nothing more, nothing less. It was Being-Consciousness, and you were very happy, so it was Bliss also. You know how happy you are after having gone into a good sleep. You rub your eyes and you would like to continue to sleep a little more. You were so free in sleep that you would like to go to sleep again. All the botheration, the turmoil of this world is no longer there. Sometimes you feel: “Let me go to bed and forget the devil of this world.” Thus, in the state of deep sleep you existed as Pure Consciousness. Saccidānanda was your real nature in the state of deep sleep.
+In verse 6, the Upaniṣad connects this third quarter with the cosmic principle, identifying *Prājña* as the Lord of all (*sarveśvara*), the all-knowing (*sarvajña*), the inner controller (*antaryāmin*), and the origin and dissolution of all beings (*yoniḥ sarvasya prabhavāpyayau hi bhūtānām*). Furthermore, in verse 11, *suṣupti* / *Prājña* is correlated with the phoneme *M*, the third mora (*mātrā*) of the sacred syllable *AUM*, on account of being both the measure (*miti*) and the locus of final dissolution (*apīti*).
 
-This Consciousness, which is Saccidānanda, was not merely inside the body, as you may wrongly imagine once again, even after having deduced this wonderful conclusion that you were Pure Consciousness. It is a wonderful conclusion, indeed, that you are essentially Pure Consciousness, but again you may commit the mistake of thinking that it is inside the body. Pure Consciousness is not inside anything; it is all things. We have already concluded in earlier sessions that consciousness is all-pervading; it cannot be confined to one individuality only. To be conscious that it is only in one place and not in another place is to virtually accept that consciousness is in another place also. Otherwise, how would consciousness know that it is not in some other place unless it has already been there? Hence, the negation of consciousness in some other place is actually an affirmation of it in that place. Negation is determination.
+### Distinctions between Upaniṣadic Wording, Gauḍapāda's Kārikā, and Śaṅkara's Bhāṣya
 
-Therefore, the second conclusion that we draw by this analysis is that in the state of deep sleep we existed as Pure Consciousness – not a little consciousness inside the body, but a pervading consciousness which is everywhere. Cosmic consciousness was there; Universal-consciousness was our essential nature in deep sleep."
+While the Upaniṣadic text presents *suṣupti* in terms of bliss and unified consciousness, later Advaitic commentaries rigorously demarcate *suṣupti* from ultimate liberation (*mukhya-mukti* or *Turīya*):
 
-**Sushupti as defined in the Chāndogya Upaniṣad**
-Chapter VIII, Verses 1 and 2
+- **Gauḍapāda's Kārikā**:
+  - In Kārikā 1.13–1.15, Gauḍapāda explains that although non-cognition of duality (*dvitīyasyāgrahaṇam*) is common to both *Prājña* (deep sleep) and *Turīya* (the Fourth), *Prājña* remains bound by causal sleep (*bījanidrā*), which contains the seed of latent ignorance (*ajñāna*).
+  - In Kārikā 1.11, Gauḍapāda categorizes *Viśva* (waking) and *Taijasa* (dream) as bound by both cause and effect (*kāryakāraṇabaddhau*), *Prājña* as bound by cause alone (*kāraṇabaddhaḥ*), and *Turīya* as entirely free from cause and effect.
+  - In Kārikā 3.35, Gauḍapāda contrasts the mind in deep sleep—which is helplessly withdrawn into the seed state of potential darkness—with the mind of a liberated *jñānin* in Samādhi, which is consciously united with non-dual Brahman.
 
-"Uddalaka, the son of Aruna, said to his son Svetaketu: "Learn from me, my dear, the true nature of sleep. When a person has entered into deep sleep, as it is called, then, my dear, he becomes united with Pure Being (Sat), he has gone to his own Self. That is why they say he is in deep sleep (Svapiti); it is because he has gone (Apita) to his own (Svam)."
+- **Śaṅkarācārya's Commentary (Bhāṣya)**:
+  - Śaṅkara clarifies that the term *ānandamaya* ("full of bliss") in verse 5 does not denote the absolute, unconditioned Bliss of Brahman (*mukhya-ānanda*), but rather a relative bliss born from the temporary absence of mental exertion.
+  - Śaṅkara emphasizes that the bliss of deep sleep is experienced through a subtle function of nescience (*avidyā-vṛtti*), wherein consciousness is veiled by tamas.
+  - Śaṅkara underscores that *suṣupti* is a causal state (*kāraṇāvasthā*) containing the latent impressions (*vāsanā*) that drive future empirical transmigrations.
 
-"Just as a bird tied by a string to the hand of the bird-catcher first flies in every direction and then finding no rest anywhere, settles down at the place where it is bound, so also the mind (i.e. the individual soul reflected in the mind), my dear, after flying in every direction and finding no rest anywhere, settles down in the Prāṇa (i.e. Pure Being); for the mind (the individual soul) is fastened to the Prāṇa (Pure Being)."
+## Interpretations and Disputes
 
-References:
-1. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-2. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-3. Swartz, James (1996). Mandukya Upanishad: An ancient Sanskrit text on the nature of Reality. Retrieved from https://www.holybooks.com/mandukya-upanishad-an-ancient-sanskrit-text-on-the-nature-of-reality/.
-4. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. 71-74.
-5. Krishnananda, Swami (1991). Lessons on the Upanishads. Retrieved from https://www.swami-krishnananda.org/upanishad.html. p. 104-106.
-6. Nikhilananda, Swami (1959). The Upanishads: Volume IV - Taittiriya and Chhāndogya. New York, New York: Harper & Brothers Publishers
+### 1. *Suṣupti* as Causal Ignorance vs. Absolute Liberation
+
+A major debate within Indian philosophical traditions concerns whether *suṣupti* constitutes absolute liberation (*mokṣa*) or a temporary state of causal ignorance (*ajñāna*). Opponents occasionally argue that since duality is absent and bliss is present in deep sleep, *suṣupti* must be liberation itself.
+
+Advaita Vedānta refutes this view across multiple texts (*Brahmasūtra* III.2.7–III.2.9, *Upadeśasāhasrī*, *Vedāntasāra*). Śaṅkara and subsequent commentators establish that *suṣupti* is enveloped by the causal body (*kāraṇa-śarīra*) and latent nescience (*avidyā-bīja*). In the *Upadeśasāhasrī* (17.26), deep sleep is explicitly characterized as "darkness" (*tamas*) or "seed ignorance" (*bījājñāna*), which must be burnt away by the fire of Self-knowledge (*jñānāgni*). Were *suṣupti* identical to liberation, every living being would attain final release simply by falling asleep, and no one would wake up again to resume worldly activities.
+
+### 2. The Locus of Deep Sleep: *Nāḍīs*, *Purītat*, or Brahman
+
+The Upaniṣadic corpus offers seemingly divergent statements regarding where the soul reposes during *suṣupti*:
+- The *Chāndogya Upaniṣad* (VIII.6.3) states that the soul enters the nerves (*nāḍī*).
+- The *Bṛhadāraṇyaka Upaniṣad* (II.1.19) states that the soul rests in the pericardium (*purītat*).
+- The *Chāndogya Upaniṣad* (VI.8.1) states that the soul merges into Pure Being (*Sat*) or Brahman.
+
+In *Brahmasūtra* III.2.7 (*tadabhāvo nāḍīṣu ātmani ca...*), Bādarāyaṇa and Śaṅkara reconcile these passages by demonstrating that the *nāḍīs* and *purītat* are merely outer conduits or physical pathways leading to the heart, whereas Brahman alone is the ultimate, non-dual resting place (*ādhāra*) of the soul in deep sleep.
+
+### 3. Epistemological Nature of the Post-Waking Memory ("I Slept Happily")
+
+Philosophical schools dispute the interpretation of the universal post-waking recollection: "I slept happily, I knew nothing".
+- **Prābhākara Mīmāṃsaka View**: Prābhākaras argue that this memory proves that the empirical ego (*ahaṃkāra*) and positive bliss were actively experienced by a knowing subject during sleep.
+- **Advaita Vedānta View**: Advaitins reply that the internal organ (*antaḥkaraṇa*) and ego-sense are dissolved during deep sleep into their causal state. Therefore, no active mental cognition occurs. The post-waking recollection is a reflective judgment of the Witness-Consciousness (*sākṣin*) perceiving the total absence of specific mental modifications (*vṛtti-śūnyatā*) and sensory objects.
+
+### 4. Refutation of Bhartṛprapañca's *Bhedābheda* Interpretation
+
+In his commentary on the *Bṛhadāraṇyaka Upaniṣad* (IV.3.19–22), the early Vedāntin Bhartṛprapañca interpreted deep sleep as a state of partial ontological modification (*parīṇāma*) where the self becomes unified with Brahman yet retains real dual-nondual (*bhedābheda*) traits. In the *Bṛhadāraṇyakopaniṣad-bhāṣya-vārtika*, Sureśvara and Śaṅkara reject Bhartṛprapañca's view, maintaining that the Self is unattached (*asaṅga*) and immutable (*kūṭastha*). The apparent absence of perception in deep sleep is not due to ontological transformation, but due to the temporary non-operation of external instruments of knowledge (*pramāṇa*) and objective targets of vision.
+
+## Related Terms
+
+- Ekībhūta (एकीभूत)
+- Jāgrat (जाग्रत्)
+- Prajñā (प्राज्ञ)
+- Prajñānaghana (प्रज्ञानघन)
+- Svapna (स्वप्न)
+- Turīya (तुरीय)
+
+## References
+
+1. *Aṣṭavakra Gītā*. Translated by Svāmi Nityaswarupananda. Mayavati: Advaita Ashrama.
+2. *Bhagavan Śrī Ramana Maharshi: Talks with Sri Ramana Maharshi*. Tiruvannamalai: Sri Ramanasramam.
+3. *Brahmasūtra (Prasthāna-Traya)*. Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary by Svāmi Sivananda. Rishikesh: The Divine Life Society.
+4. MacDonell, Arthur Anthony. *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co., 1893.
+5. Monier Williams, Monier. *A Practical Grammar of the Sanskrit Language*. 4th ed. Oxford: Clarendon Press, 1877.
+6. Potter, Karl H., ed. *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṅkara and His Pupils*. Delhi: Motilal Banarsidass, 1981.
+7. Śrī Sadāśiva Brahmendra. *Dṛg-Dṛśya Vivekaḥ*. Sanskrit Text with Word-for-Word English Translation and Notes by Svāmi Nikhilānanda. Mysore: Sri Ramakrishna Ashrama.
+8. Śrī Śaṅkarācārya. *Aparokṣānubhūti (Self-Realization)*. Translated by Svāmi Vimuktananda. Almora: Advaita Ashrama.
+9. Śrī Śaṅkarācārya. *Tattva Bodha*. Sanskrit Text with English Translation. Central Chinmaya Mission Trust.
+10. Śrī Śaṅkarācārya. *Upadeśasāhasrī*. Sanskrit Text with English Translation by Swami Jagadananda. Madras: Sri Ramakrishna Math.
+11. Śrī Śaṅkarācārya. *Vivekacūḍāmaṇi*. Sanskrit Text with Word-for-Word English Translation by Ācārya Praṇipāta Caitanya.
+12. Śrī Vidyāraṇya Svāmi. *Pañcadaśī*. English Translation by Svāmi Swahananda. Madras: Sri Ramakrishna Math.
+13. *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Translated by Swāmi Nikhilānanda. Mysore: Sri Ramakrishna Ashrama, 1936.
+14. *The Sacred Books of the East, Vol. 1: The Upanishads (Part 1)*. Translated by F. Max Müller. Oxford: Clarendon Press, 1879 (*Chāndogya Upaniṣad*).
+15. *The Sacred Books of the East, Vol. 15: The Upanishads (Part 2)*. Translated by F. Max Müller. Oxford: Clarendon Press, 1884 (*Bṛhadāraṇyaka Upaniṣad*, *Praṣna Upaniṣad*).
+16. *The Sacred Books of the East, Vol. 34: The Vedânta-Sûtras with the Commentary by Śaṅkarācārya (Part 1)*. Translated by George Thibaut. Oxford: Clarendon Press, 1890.
+17. *The Sacred Books of the East, Vol. 38: The Vedânta-Sûtras with the Commentary by Śaṅkarācārya (Part 2)*. Translated by George Thibaut. Oxford: Clarendon Press, 1896.
+18. *The Sacred Books of the East, Vol. 48: The Vedânta-Sûtras with the Commentary of Rāmānuja (Part 3)*. Translated by George Thibaut. Oxford: Clarendon Press, 1904.
+19. *Tripura Rahasya (The Mystery Beyond the Trinity)*. Translated by Svami Ramanananda Saraswathi. Tiruvannamalai: Sri Ramanasramam.
+20. *Vedāntasāra*. Sanskrit Text with English Translation by Swami Nikhilananda. Almora: Advaita Ashrama.
+21. *Yoga Vāsiṣṭha of Valmiki*. Translated by Vihari Lala Mitra. Calcutta: Kahnu Charan Banerjee, 1891.

@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Sa Ātmā (स आत्मा)"
 devanagari: "स आत्मा"
 iast: "Sa Ātmā"
@@ -12,17 +12,68 @@ aliases:
 Meaning: "that is the Self"
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
-**Translation by Swami Sharvananda**
-Sanskrit: स आत्मा
-Transliteration: Sa Ātmā
-Meaning: "that is the Self"
-Commentary: "i.e., this is the real nature of the Ātman and what has been spoken of before as possessing the first three states are not real but superimposed upon it by Upadhis or limiting adjuncts."
+## Meaning
 
-**From Mandukya Upanishad (James Swartz)**
-"The three ego’s [waking, dreaming, sleeping] are called Upadhi, limiting adjuncts, in Vedānta. An Upadhi is something that apparently covers or conceals the nature of something else. If I put clear water in a colored glass, the water, seen through the glass, appears colored. Similarly, when I look at myself through my waking, dream, and sleep personalities, I seem to be three distinct personalities. However, when I remove the Upadhi, I can see what I really am. The removal or negation of the Upadhi is simply knowing they are unreal, not going into some high or “spiritual” state to get rid of them. The Yoga Sūtra says liberation depends on destruction of the mind, but Vedānta says that the more one struggles to remove the thoughts, the more one lends them reality, reinforcing one’s Self ignorance. 
+In the *Māṇḍūkya Upaniṣad*, *sa Ātmā* (स आत्मा) means "That is the Self"—referring to Turīya, the non-dual, transcendent Reality to be realized.
 
-The waker and the dreamer, which are just different ways of discussing a Self-ignorant person, are fractured into many sub-identities, Upadhi within an Upadhi, so that most of us are dealing with a confusing array of selves, none of which are real. Remember, ‘real’ in metaphysics means enduring, unchanging, unlimited. Because something is experienced does not make it real, the snake in the rope, the blue sky, and the rising sun, for example." 
+## Definition
 
-References:
-1. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-2. Swartz, James (1996). Mandukya Upanishad: An ancient Sanskrit text on the nature of Reality. Retrieved from https://www.holybooks.com/mandukya-upanishad-an-ancient-sanskrit-text-on-the-nature-of-reality/. p. 10.
+The expression *sa Ātmā* (स आत्मा) is a two-word Sanskrit nominal phrase composed of the masculine demonstrative pronoun *sa* (स, "that" or "he") and the nominative singular noun *Ātmā* (आत्मा, "Self" or "inmost essence"). Syntactically, the demonstrative pronoun *sa* functions as the subject referring back to the unconditioned Reality previously described, while *Ātmā* acts as the predicate noun identifying that Reality with the intrinsic Self of the individual.
+
+Literally translating to "That [is] the Self," the phrase carries a crucial contextual and idiomatic function in Vedāntic discourse. Rather than indicating an external or distant object, *sa* points back to the transcendent, non-dual consciousness designated as the "Fourth" (*turīya* or *caturtha*). Contextually, *sa Ātmā* asserts the absolute identity between the ultimate, unconditioned Reality beyond empirical states and the innermost consciousness (*pratyag-ātman*) of the seeker.
+
+## Etymology
+
+The phrase *sa Ātmā* (स आत्मा) demonstrates standard Sanskrit pronominal inflection and euphonic combination (*sandhi*):
+
+1. ***sa*** (**स**): The nominative singular masculine form of the demonstrative pronoun stem *tad* (तद्). Under standard Sanskrit grammatical rules governing visarga elision (e.g., Pāṇini 6.1.132: *etaṭtadoḥ sulopo koraṇañsamāse hali* and related Sandhi rules), the original nominative singular form *saḥ* (सः) regularly drops its final visarga (*-ḥ*) before all vowels except short *a-*, as well as before all consonants. Consequently, when *saḥ* precedes *ātmā*, the visarga is elided, resulting in *sa Ātmā* (स आत्मा) with the hiatus between the two vowels preserved without vocalic coalescence.
+2. ***Ātmā*** (**आत्मा**): The nominative singular masculine form of the n-stem noun *ātman* (आत्मन्). Etymologically, traditional Sanskrit grammarians derive *ātman* from roots such as *at* ("to move continuously"), *āp* ("to pervade" or "to reach"), or *an* ("to breathe"), designating that which continuously pervades, sustains, and animates individual existence.
+
+Grammatically, the phrase constitutes an unexpressed-copula clause in which the present tense verb "is" (*asti*) is implied between the subject pronoun *sa* and the predicate noun *ātmā*.
+
+## Sa Ātmā in the Māṇḍūkya Upaniṣad
+
+The phrase *sa Ātmā* (स आत्मा) occurs at the climax of Mantra 7 of the *Māṇḍūkya Upaniṣad*, one of the principal Upaniṣads of the *Atharva Veda*. A closely related demonstrative construction, *so 'yam ātmā* (*saḥ ayam ātmā*, "this same Self"), also appears in Mantra 2 of the same text.
+
+### Textual Context and Verse Location
+
+In Mantra 7, the Upaniṣad defines the ultimate nature of Reality through a rigorous series of apophatic negations followed by positive characterizations, culminating in the declaration containing *sa Ātmā*:
+
+> नान्तःप्रज्ञं न बहिष्प्रज्ञं नोभयतस्प्रज्ञं न प्रज्ञानघनं न प्रज्ञं नाप्रज्ञम्। अदृष्टमव्यवहार्यमग्राह्यमलक्षणमचिन्त्यमव्यपदेश्यमेकात्मप्रत्ययसारं प्रपञ्चोपशमं शान्तं शिवमद्वैतं चतुर्थं मन्यन्ते स आत्मा स विज्ञेयः॥  
+> *nāntaḥprajñaṁ na bahiṣprajñaṁ nobhayataḥprajñaṁ na prajñānaghanaṁ na prajñaṁ nāprajñam | adṛṣṭam avyavahāryam agrāhyam alakṣaṇam acintyam avyapadeśyam ekātmapratyayasāraṁ prapañcopaśamaṁ śāntaṁ śivam advaitaṁ caturthaṁ manyante sa ātmā sa vijñeyaḥ ||*  
+> "They consider the Fourth (*turīya*) to be that which is not conscious of the internal world, nor conscious of the external world, nor conscious of both, nor a mass of consciousness, nor simple consciousness, nor unconsciousness. It is unperceived (*adṛṣṭa*), unrelated (*avyavahārya*), ungraspable (*agrāhya*), uninferable (*alakṣaṇa*), unthinkable (*acintya*), indescribable (*avyapadeśya*), the essence of the sole consciousness of the Self (*ekātmapratyayasāra*), the cessation of all phenomena (*prapañcopaśama*), peaceful (*śānta*), auspicious (*śiva*), and non-dual (*advaita*). **That is the Self (*sa ātmā**); **That is to be known (*sa vijñeyaḥ**)."
+
+### Grammatical Function and Surrounding Text
+
+Within Mantra 7, *sa ātmā* functions as the primary syntactical assertion that synthesizes the preceding attributes. The Upaniṣad systematically negates the characteristics of the three empirical states of consciousness analyzed in Mantras 3–6:
+- The waking state (*jāgarita-sthāna*), represented by Viśva / Vaiśvānara, which is conscious of external objects (*bahiṣprajña*).
+- The dream state (*svapna-sthāna*), represented by Taijasa, which is conscious of internal subtle mental impressions (*antaḥprajña*).
+- The deep sleep state (*suṣupti-sthāna*), represented by Prājña, which is a unified mass of dormant consciousness (*prajñānaghana*).
+
+By declaring *caturthaṁ manyante sa ātmā sa vijñeyaḥ*, the Upaniṣad asserts that the "Fourth" (*turīya*) is not a fourth temporal state succeeding the other three, but rather the foundational, unconditioned Reality underlying all three states. The phrase *sa ātmā* establishes that this non-dual Reality (*advaita*) is none other than the true Self (*ātman*), and *sa vijñeyaḥ* emphasizes that realizing this Self is the supreme goal of knowledge.
+
+### Alternative Translations and Interpretations
+
+Translators and scholars have rendered *sa ātmā sa vijñeyaḥ* with minor stylistic variations while retaining its core ontological identity:
+- **Swami Nikhilananda**: "That is the Self; That is to be known."
+- **S. Radhakrishnan**: "That is the Self, That is to be known."
+- **F. Max Müller**: "He is the Self, he is to be known."
+
+### Distinction Between Upaniṣadic Wording and Later Commentaries
+
+The brief prose text of the *Māṇḍūkya Upaniṣad* sets forth the core doctrine of the four quarters (*pāda*) of the Self and the symbolic identity with *AUM*. Subsequent commentaries and treatises elaborated upon the term *sa Ātmā* to address specific philosophical questions:
+
+1. **Gauḍapāda's Kārikā (*Āgama Prakaraṇa*)**: Gauḍapāda clarifies that *turīya* is the non-dual Lord (*advaitaḥ sarva-bhāvānām*) who pervades all existences while remaining free from the bondage of cause and effect (*kārya-kāraṇa-baddha*). While Viśva and Taijasa are bound by both cause and effect, and Prājña is bound by cause alone, *turīya*—designated by *sa ātmā*—is untouched by causality or illusion.
+2. **Śaṅkarācārya's Commentary (*Māṇḍūkyopaniṣad-bhāṣya*)**: Śaṅkara emphasizes that the phrase *sa ātmā* establishes the method of superimposition and negation (*adhyāropa-apavāda*). Śaṅkara notes that the negation of attributes (*nāntaḥprajñam...*) does not yield a void (*śūnya*); rather, it establishes the positive, self-luminous reality of the Self (*turīya*). Just as negating the false appearance of a snake reveals the true nature of the underlying rope, the negation of the attributes of the three states through *sa ātmā sa vijñeyaḥ* reveals the non-dual Self as the sole abiding Reality.
+
+### Advaita Vedānta Interpretation
+
+In later Advaita Vedānta literature (such as Sadananda's *Vedāntasāra* and Vidyāraṇya's *Pañcadaśī*), the expression *sa Ātmā* in Māṇḍūkya 7 is treated alongside the Great Sayings (*mahāvākya*), specifically *Ayam Ātmā Brahma* ("This Self is Brahman") from Māṇḍūkya 2. Advaita scholars utilize *sa ātmā* to demonstrate *akhaṇḍārtha*—the direct, indivisible identity of the individual conscious witness (*sākṣin*) with the Supreme Non-dual Reality (*nirguṇa-brahman*), freed from all limiting adjuncts (*upādhi*).
+
+## References
+
+1. **Nikhilananda, Swami** (Trans.). (1949). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (3rd ed.). Mysore: Sri Ramakrishna Ashrama. (Contains Sanskrit text, English translation, and notes for Māṇḍūkya Upaniṣad Mantras 2 and 7, Śaṅkara's *Māṇḍūkyopaniṣad-bhāṣya*, and Gauḍapāda's *Kārikā* 1.10–1.18, 1.28–1.29).
+2. **Max Müller, F.** (Trans.). (1884). *The Sacred Books of the East, Vol. 15: The Upanishads (Part 2 of 2)*. Oxford: Clarendon Press. (Māṇḍūkya Upaniṣad translation and introduction, pp. 27–28).
+3. **Potter, Karl H.** (Ed.). (1981). *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton, NJ: Princeton University Press / Delhi: Motilal Banarsidass. (Analysis of Gauḍapāda's *Gauḍapādīyakārikāḥ* and Śaṅkara's *Māṇḍūkyopaniṣadbhāṣya*, pp. 103–114, 308–312).
+4. **Kale, Moreshwar Ramchandra**. (1894). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Bombay: Sharada Krshna Depository. (Sanskrit Sandhi rules on visarga elision, §12, §108, §183).
+5. **MacDonell, Arthur Anthony**. (1893). *A Sanskrit-English Dictionary*. London: Longmans, Green and Co. (Grammatical derivations for *tad* / *saḥ* and *ātman*).

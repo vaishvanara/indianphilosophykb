@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Prabhavāpyayau (प्रभवाप्ययौ)"
 devanagari: "प्रभवाप्ययौ"
 iast: "Prabhavāpyayau"
@@ -12,16 +12,94 @@ aliases:
 Meaning: "the cause and dissolution"
 See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
 
-**Translation by Swami Sharvananda**
-Sanskrit: प्रभवाप्ययौ 
-Transliteration: Prabhavāpyayau 
-Meaning: "the cause and dissolution"
+## Meaning
 
-**Translation by Swami Krishnananda**
-Sanskrit: प्रभवाप्ययौ 
-Transliteration: Prabhavāpyayau 
-Commentary: "Prabhavāpyayau Hi Bhūtānām: Everything comes forth from Him and everything returns to Him, and everything is sustained, also, in His Being. Our movements cannot take us outside the Body of Īśvara. Even if we travel millions of miles in the distant space, to the stars, we are within the Body of Īśvara. We cannot go outside it. Let our thoughts, let the soul fly into the heights of the empyrean, or come down to the nether regions, it is within the purview of Īśvara’s knowledge and is contained in the Being of Īśvara. Whatever be the freedom of the kite to fly to the skies, as long as it is tied with a rope to a peg on the earth, its movements are restricted. Our freedom seems to be within the radius of the operation of our Prārabdha-Karma, and beyond that limit we cannot go. We have freedom, but limited freedom, not absolute freedom. It is the freedom that a mother gives to her child. The child has a freedom, but within limits; beyond that the mother will not make any allowance. Īśvara gives us freedom in the sense that there is capacity in us to understand, ratiocinate and judge situations, but all these judgments are determined by the law of Īśvara, and we cannot overrule that law; we have to abide by that law. And, if our egoism so acts, occasionally, as to violate this law of Īśvara, then there is a reaction set up, and this reaction is what is called the law of Karma. Karma that binds is nothing but the effect of the violation of the law of Īśvara, and abidance by His Will is unselfish Karma. This is Karma-Yoga. When we abide by His Will, follow His law, and then act, we perform Karma-Yoga. But when we violate His Will and act according to the dictates of the ego, we perform a binding Karma. Īśvara, therefore, is everything, the coming in and the going out of all things, of all beings. Such is the glory, the magnificence and the greatness of God, Īśvara, whose integral parts, organic limbs, are the Jīva, and all things, animate or inanimate. The distinction of living and non-living beings, the inorganic and the organic, do not obtain in the realm of Īśvara’s Being. For Him, it is all Consciousness. There is no Jadatva or no dead matter for Īśvara, because it is His Being. He permeates all things; He is Antaryāmin."
+The origin and dissolution of all beings, denoting God (Īśvara/Prājñā) as the causal source and resting place of the universe in the Māṇḍūkya Upaniṣad.
 
-References:
-1. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-2. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 79-80.
+## Definition
+
+The Sanskrit compound *prabhavāpyayau* (प्रभवाप्ययौ) literally means "origin and dissolution" or "creation and reabsorption." In the context of Vedic literature and Vedāntic philosophy, it expresses the twin cosmic processes by which the phenomenal universe comes into manifestation from its underlying cause and subsequently resolves back into that same source. 
+
+The compound is composed of two primary nouns:
+1. *prabhava* (प्रभव): "forth-coming," "origin," "source," or "birth."
+2. *apyaya* (अप्यय): "entering into," "disappearance," "dissolution," or "reabsorption."
+
+When combined in the dual nominative/accusative masculine form (*prabhavāpyayau*), the expression designates a paired dual principle functioning as a composite predicate. Contextually, in the *Māṇḍūkya Upaniṣad* (verse 6), it qualifies the third state of consciousness—*Prājñā* (the causal self in deep sleep, identified macrocosmically with *Īśvara*, the Lord of all)—describing Him as the source (*yoniḥ*) out of which all created beings (*bhūtānām*) emerge and into which they ultimately return.
+
+## Etymology
+
+The compound *prabhavāpyayau* is formed from two nominal derivatives derived from basic Sanskrit verbal roots with prefixes:
+
+1. **Member 1: *Prabhava* (प्रभव)**
+   - **Derivation**: Formed from the verbal root *bhū* (भू, "to be, become, come into existence") combined with the prefix *pra-* (प्र-, "forward, forth, outward"). 
+   - **Suffix**: Primary nominal affix *ghañ* (घञ्) or *ap* (अप्), yielding the masculine noun *prabhava* in the sense of the place or act of originating ("forth-coming" or "source").
+
+2. **Member 2: *Apyaya* (अप्यय)**
+   - **Derivation**: Formed from the verbal root *i* (इ, "to go, move") combined with the prefix *api-* (अपि-, "into, unto, inside").
+   - **Suffix**: Primary nominal affix *ghañ* (घञ्) or *ac* (अच्), yielding *apyaya* ("going into," "merging," "dissolution," or "reabsorption").
+
+3. **Compound Analysis (*Samāsa*)**
+   - **Compound Type**: *Itaretara Dvandva* (इतरेतर द्वन्द्व), a copulative compound in which both constituent members retain their semantic individuality and join to form a dual noun.
+   - **Grammatical Expansion (*Vigraha-vākya*)**: *prabhavas ca apyayas ca = prabhavāpyayau* (प्रभवश्च अप्ययश्च = प्रभवाप्ययौ), meaning "both origin and dissolution."
+   - **Inflection**: Dual nominative masculine (*-au* suffix).
+
+## prabhavāpyayau in the Māṇḍūkya Upaniṣad
+
+The expression *prabhavāpyayau* appears in verse 6 of the *Māṇḍūkya Upaniṣad*:
+
+> एष सर्वेश्वर एष सर्वज्ञ एषोऽन्तर्याम्येष योनिः सर्वस्य प्रभवाप्ययौ हि भूतानाम् ॥ ६ ॥
+> 
+> *eṣa sarveśvara eṣa sarvajña eṣo'ntāryāmy eṣa yoniḥ sarvasya prabhavāpyayau hi bhūtānām || 6 ||*
+> 
+> "He is the Lord of all (*sarveśvara*); He is omniscient (*sarvajña*); He is the inner controller (*antaryāmin*); He is the source of all (*yoniḥ sarvasya*)—for He is the origin and dissolution (*prabhavāpyayau*) of all beings (*bhūtānām*)."
+
+### Grammatical Function and Textual Context
+
+In this verse, *prabhavāpyayau* serves as a dual predicate nominative in apposition to the demonstrative pronoun *eṣa* ("This One"), modifying the entity designated as *Prājñā* or *Īśvara*. The *Māṇḍūkya Upaniṣad* outlines four quarters (*pāda*) of Ātman/Brahman:
+
+1. *Vaiśvānara* / *Viśva* (the waking state, experiencing gross objects).
+2. *Taijasa* (the dream state, experiencing subtle objects).
+3. *Prājñā* (the deep sleep state, unified mass of consciousness, bliss-filled, the causal state).
+4. *Turīya* (the transcendental fourth, the non-dual ultimate reality).
+
+Verse 6 defines the third quarter (*Prājñā*), establishing that the causal state of unmanifested consciousness is macrocosmically identical with *Īśvara* (the Personal God). *Prājñā* is called *yoniḥ sarvasya* (the womb/womb-source of all) because from this seed-state of non-apprehension (*agrahana*), the entire objective manifold of waking and dream experiences originates and into it dissolves.
+
+### Exegesis in Gauḍapāda's Kārikā and Śaṅkara's Commentary
+
+- **Gauḍapāda's Kārikā**: In the *Āgama Prakaraṇa* (verse 1.6), Gauḍapāda underscores the structural role of *Prāṇa* (the causal self/*Īśvara*) in cosmic projection: "It is thoroughly established that manifestation (*sṛṣṭi*) can be predicated only of existing positive entities (*bhāva*). *Prāṇa* manifests all inanimate objects; the *Puruṣa* manifests the conscious beings (*jīva*) separately." Gauḍapāda notes that while deluded thinkers debate whether creation is the manifestation of divine power (*vibhūti*), a dream (*svapna*), an illusion (*māyā*), or intended for God's enjoyment/sport (*bhoga*/*krīḍā*), the enlightened know creation to be nothing other than the very nature (*svabhāva*) of the Effulgent Self.
+- **Śaṅkara's Commentary (*Bhāṣya*)**: Śaṅkarācārya explains that *Īśvara* is not an extra-cosmic creator separate from the universe. As *Antaryāmin* (inner controller), He directs all things from within. As *prabhavāpyayau*, He is the material and efficient cause (*kāraṇa*) from which the diverse universe proceeds and in which it disappears, just as thread-work resolves into thread or a snake illusion resolves back into the rope substratum.
+
+## Interpretations and Disputes
+
+Within Advaita Vedānta commentary, the occurrence of *prabhavāpyayau* in *Māṇḍūkya Upaniṣad* verse 6 highlights a central hermeneutical distinction between two levels of reality:
+
+1. **Empirical Causal View (*Vyāvahārika-dṛṣṭi*)**: 
+   From the standpoint of cosmic manifestation, *prabhavāpyayau* attributes creation and dissolution to *Īśvara* (*Prājñā*). Here, Brahman conditioned by *māyā* / *avidyā* functions as the seed cause (*bīja-bhāva*) of the universe. This view aligns with standard Upaniṣadic cosmological passages (e.g., *Taittirīya Upaniṣad* 3.1.1, defining Brahman as that from which beings are born, by which they live, and into which they enter upon dissolution).
+
+2. **Absolute Non-Origination View (*Pāramārthika-dṛṣṭi* / *Ajātivāda*)**:
+   Gauḍapāda and Śaṅkara clarify that describing *Prājñā* / *Īśvara* as the origin and dissolution of beings is a provisional pedagogical attribution (*adhyāropa*) intended for aspirants who still perceive causality. When elevated to the ultimate standpoint (*Turīya*), no real creation (*sṛṣṭi*) or dissolution (*pralaya*) ever takes place. As Gauḍapāda famously asserts in *Kārikā* 2.32 and 4.57, all origination is illusory (*māyā-mātra*); in the non-dual Absolute (*Turīya*), there is neither dissolution (*nirodha*) nor origination (*utpatti*), neither bondage (*baddha*) nor seeker (*sādhaka*), nor liberation (*mukti*).
+
+Thus, while *prabhavāpyayau* establishes *Īśvara* as the sole material and efficient cause of the universe on the causal/empirical plane, Advaita Vedānta interprets this causal role as ultimately sublated by the realization of the non-dual, birthless (*aja*) *Turīya*.
+
+## Related Terms
+
+- Antaryāmin (अन्तर्यामिन्)
+- Apyaya (अप्यय)
+- Avyākṛta (अव्याकृत)
+- Bhūta (भूत)
+- Īśvara (ईश्वर)
+- Māyā (माया)
+- Prabhava (प्रभव)
+- Prājñā (प्राज्ञ)
+- Pralaya (प्रलय)
+- Sṛṣṭi (सृष्टि)
+- Turīya (तुरीय)
+- Yoni (योनि)
+
+## References
+
+1. MacDonell, Arthur Anthony. *A Sanskrit-English Dictionary*. Part 1 & Part 2. London: Longmans, Green, and Co., 1893. (Entries on *prabhava*, *apyaya*, *samāsa*, *bhū*).
+2. Nikhilananda, Swami (Trans.). *The Māṇḍūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Math, 1936. (*Māṇḍūkya Upaniṣad*, verse 6, pp. 38–42; Gauḍapāda *Kārikā* 1.6–1.9, pp. 40–46).
+3. Nikhilananda, Swami (Trans.). *Upanishads Volume II: Śvetāśvatara, Praśna, and Māṇḍukya with Gauḍapāda's Kārikā*. New York: Harper & Brothers, 1952.
+4. Potter, Karl H. (Ed.). *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṅkara and His Pupils*. Delhi: Motilal Banarsidass, 1981. (Exegesis on *Māṇḍūkya Upaniṣad* and *Gauḍapādīya-Kārikā*, pp. 233–245, 350–351).
+5. Śaṅkarācārya. *Māṇḍūkyopaniṣad-bhāṣya* (Commentary on *Māṇḍūkya Upaniṣad*, Verse 6).

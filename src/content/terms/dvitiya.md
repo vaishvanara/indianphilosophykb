@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Dvitīya (द्वितीय)"
 devanagari: "द्वितीय"
 iast: "Dvitīya"
@@ -12,25 +12,34 @@ aliases:
 Meaning: "the second"
 See: [Mandukya Upanishad (Verse 4, 10)](mandukyopanisat.md)
 
-**Definition from A Sanskrit-English Dictionary (Monier-Williams)**
-Sanskrit: द्वितीय
-Transliteration: Dvitīya
-Meaning: "second"
+## Meaning
 
-**Translation by Swami Sharvananda**
-Sanskrit: द्वितीय, द्वितीयः
-Transliteration: Dvitīya, Dvitīyaḥ
-Meaning: "the second "
- 
-References:
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press 
-2. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
+Literally meaning "second," *dvitīya* in the *Māṇḍūkya Upaniṣad* designates *taijasa*, the second quarter (*pāda*) of *Ātman* in dream.
 
--------------------------------
-द्वितीय (Dvitīya) is a Sanskrit word that means "the second" or "the next". It is an adjective that is often used to describe something that comes after the first or primary thing.
+---
 
-In Sanskrit, the word द्वितीय is often used to describe the second stage or phase of something, such as the second stage of a process or the second part of a story.
+## Definition
 
-For example, the phrase "द्वितीय काले" (Dvitīya kāle) means "in the second stage" or "at the next stage", and is often used to describe a situation or event that is happening at a later time.
+As an ordinal numeral adjective, *dvitīya* (द्वितीय) literally means "second" or "the second". Lexicographical authorities record its primary sense as "second", while also noting its nominal, adjectival, and grammatical extensions, including "a second time" (adverbial *dvitīyam*), "companion", "friend", "foe", "half" (when combined with *bhāga* or in the neuter *dvitīyam*), the feminine *dvitīyā* denoting a female companion or the second day of a lunar fortnight, and the accusative grammatical case.
 
-In a more literal sense, द्वितीय can be translated to "the second" or "the next", and is often used to describe something that is secondary or subordinate to something else.
+In the specific textual setting of the *Māṇḍūkya Upaniṣad* (Mantra 4), *dvitīya* occurs in the masculine nominative singular form *dvitīyaḥ*, modifying *pādaḥ* ("quarter" or "foot") in the technical phrase *taijaso dvitīyaḥ pādaḥ* ("Taijasa is the second quarter"). Within the Upaniṣad's fourfold framework (*catur-pāda*) analyzing the Self (*Ātman*), this second quarter corresponds to *taijasa*, whose sphere of activity is the dream state (*svapna-sthāna*), who is conscious of internal mental impressions (*antaḥ-prajña*), equipped with seven limbs and nineteen mouths, and experiences subtle objects (*pravivikta-bhuk*).
+
+In the broader philosophical discourse of Advaita Vedānta connected with the *Māṇḍūkya Upaniṣad*, *dvitīya* serves as the key reference point for defining *advaita* ("non-duality" or "without a second"), which establishes the complete absence of any second independent entity (*na dvitīyam*) apart from pure Consciousness. While empirical cognition experiences phenomenal duality (*dvaita*), Vedāntic exegesis demonstrates that all second appearances are unreal manifestations (*māyā*), leaving only the non-dual Absolute Reality.
+
+---
+
+## Etymology
+
+Grammatically, *dvitīya* (द्वितीय) is an ordinal numeral adjective declined in all three genders (masculine *dvitīyaḥ*, feminine *dvitīyā*, neuter *dvitīyam*). It is derived from the cardinal numeral base *dvi-* (द्वि), meaning "two".
+
+Classical Sanskrit grammarians classify *dvitīya* as an irregular ordinal formation derived by attaching the secondary *Taddhita* suffix *-tīya* (तीया) directly to the cardinal stem *dvi-*. In its contextual occurrence in Mantra 4 of the *Māṇḍūkya Upaniṣad*, the word is inflected in the nominative singular masculine form *dvitīyaḥ*, agreeing in gender, number, and case with the noun *pādaḥ*.
+
+---
+
+## References
+
+- Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords *Dvaita*, p. 123; *Ekam-eva-advitīyam*, p. 124).
+- Kale, M. R. (1903). *A higher Sanskrit grammar for the use of schools and colleges*. Gopal Narayen & Co. (§ 162, p. 117).
+- Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green and Co. (Headword *dvitīya*, p. 128, col. 2).
+- Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (4th ed.). Clarendon Press. (§ 208, p. 102).
+- Nikhilananda, Swami (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary). Harper & Brothers / Advaita Ashrama. (Māṇḍūkya Upaniṣad, Mantra 4, pp. 223–225; Āgama Prakaraṇa, pp. 19–20).

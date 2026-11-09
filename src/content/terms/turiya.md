@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Turīya (तुरीय)"
 devanagari: "तुरीय"
 iast: "Turīya"
@@ -12,48 +12,75 @@ aliases:
 Meaning: "the fourth"
 See: [Mandukya Upanishad (Verse 7, 12)](mandukyopanisat.md)
 
-**Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
-Sanskrit: तुरीय 
-Transliteration: Turīya 
-Meaning: "“the fourth”; the transcendental Self; the supreme Reality; the state of witness consciousness"
-Definition:
-1. It is the fourth state of consciousness, according to Advaita Vedānta, which is beyond the states of waking, dreaming, and deep sleep and which pervades and transcends all these states. However, it is not really a state but the underlying substratum of the other three states, the waking, dreaming, and deep-sleep states.
-2. It is the real Self which is beyond the changing modes of existence. It is indivisible, ungraspable, unthinkable, and unnameable. Each of the other three states have their own names (Vaiśvānara, Taijasa, and Prajñā), but not the Absolute, which is merely referred to as the Fourth. It is Amātrā or modeless.
+## Meaning
 
-**Definition from Glossary to the Record of Yoga (Sri Aurobindo)**
-Transliteration: Turīya
-Meaning: "fourth"
-Definition: “the incommunicable Self or One-Existence... which is the fourth state of the Self” (Ātman), symbolized by the syllable AUM as a whole, “the supreme or absolute self of being” of which the waking self, dream-self and sleep-self (Virāt, Hiraṇyagarbha and Prajñā) “are derivations for the enjoyment of relative experience in the world;” Brahman in its “pure self-status” about which “neither consciousness nor unconsciousness as we conceive it can be affirmed...; it is a state of superconscience absorbed in its self-existence, in a self-silence or a self-ecstasy, or else it is the status of a free Superconscient containing or basing everything but involved in nothing.” 
+In the *Māṇḍūkya Upaniṣad*, *Turīya* (तुरीय) signifies the non-dual, partless Absolute Self (*Ātman*/*Brahman*) transcending the three states of consciousness.
 
-**From Gauḍapāda Kārikā (Translated by Swami Nikhilananda)**
-Selected from Chapter I: Āgama Prakaraṇa: "It is one alone that is thus known in the three states. The one Ātman is perceived threefold in the same body. Turīya, the changeless Ruler, is capable of destroying all miseries. All other entities being unreal, the non-dual Turīya alone is known as effulgent and all-pervading. Neither cause nor effect exists in Turīya. Turīya is ever existent and all-seeing. Non-cognition of duality is common to Turīya. But Prajñā is associated with sleep in the form of cause and this sleep does not exist in Turīya. Knowers of Brahman see neither sleep nor dreams in Turīya. Dreaming is the wrong cognition and sleep the non-cognition, of Reality. When the erroneous knowledge in these two is destroyed, Turīya is realized. When the Jīva, asleep under the influence of beginningless Māyā, is awakened, it then realizes birthless, sleepless, and dreamless Non-duality. Meditation on the “soundless” brings no attainment."
+## Definition
 
-**Translation by Swami Krishnananda**
-Sanskrit: तुरीय 
-Transliteration: Turīya 
-Meaning: "“the fourth”
-Commentary: This Absolute is known as the Turīya, or the fourth state of Consciousness, transcending all relational manifestations – causal, subtle and gross. While the waking consciousness is external and the dream consciousness is internal, this Consciousness is neither external nor internal, because it is not either waking or dreaming. It is neither internally conscious nor externally conscious, Nāntaḥ-Prajñaṃ, Na Bahiṣ Prajñaṃ - not internal consciousness like dream, nor external consciousness like waking. One may think that it is a consciousness simultaneously of both the states. No; It is something different from a simultaneity of consciousness. It is not external, not internal, not a simultaneity of both, either – Nobhayataḥ-Prajñaṃ. It is not also a mass of consciousness like a homogeneous heap of water in the ocean – Na Prajñā-Ghanaṃ. It is not quantitative in its essence. Quantity is spatial, mathematical and Consciousness is not such. Hence, it cannot be called a mass of consciousness, also, because when you think of mass, you think of a heap, a body, indistinguishable, though. Not so is Consciousness – Na Prajñā-Ghanaṃ. It is not featureless Consciousness without any awareness, Na Prajñaṃ. You may think that it is awareness without an object before it. It is not even that, because the object is contained in that Consciousness. It is not Consciousness bereft of objects. It is Consciousness into which the objects have been absorbed. So, it cannot be regarded as a featureless transparency of an ethereal consciousness. It is not also absence of consciousness – Nāprajñam. It is not a state of inert perfection which the schools of thought like the Nyāya and the Vaiśeṣika describe. It is not unconsciousness; it is not absence of consciousness; it is not bare consciousness; it is not a mass of consciousness; it is not external consciousness; it is not internal consciousness; it is not both-ways consciousness. What is this? Such is God in His essence, the Absolute in its True Being.
+The term *Turīya* (तुरीय), also rendered as *Turya* (तूर्य) or *Caturtha* (चतुर्थ), literally translates to "the fourth". Contextually within Advaita Vedānta and the *Māṇḍūkya Upaniṣad*, *Turīya* does not define a temporary, fourth empirical state of mind or an entity succeeding waking (*jāgrat*), dream (*svapna*), and deep sleep (*suṣupti*). Instead, it denotes the eternal, unconditioned ground and true nature of Pure Consciousness (*Ātman*), designated as "the fourth" only in relation to the three empirical quarters (*pādas*) or states of experience.
 
-**Laghu Yoga Vaśiṣṭha**
-"This is that Principle which is denominated Void by atheists, Parabrahman by Brahmavadins, Vijñāna by Vijñāna doctrinists, Puruṣa by Sāṅkhya, Isa by Yogins, Śiva by persons upholding Śaivagama, Kala (Time) by Kala doctrinists, the Madhyama by Mādhyamika and the all-pervading Principle by those who look equally upon all."  
+The Upaniṣad defines *Turīya* primarily through apophatic negation (*neti neti*): it is neither conscious of the internal subjective world (*nāntaḥ-prajñam*), nor of the external objective world (*na bahiṣ-prajñam*), nor of both simultaneously (*nobhayataḥ-prajñam*), nor is it a consolidated mass of consciousness (*na prajñāna-ghanam*), simple consciousness (*na prajñām*), or unconsciousness (*nāprajñam*). Positive definitions characterise it as unperceived (*adṛṣṭa*), non-relational (*avyavahārya*), incomprehensible (*agrāhya*), uninferable (*alakṣaṇa*), unthinkable (*acintya*), indescribable (*avyapadeśya*), the essence of single Self-consciousness (*ekātma-pratyaya-sāra*), the cessation of phenomenal illusion (*prapañcopaśama*), serene (*śānta*), blissful (*śiva*), and non-dual (*advaita*).
 
-From  Kundalini: The Secret of Yoga (Gopi Krishna)
-“According to the Indian scriptures, Turīya is the state of self-knowledge or illumination in which the identity of the Ātman and Brahman or Jiva or Īśvara is realized. It is the indescribable state of existence experienced in the highest form of Samādhi or the ecstatic "State," as Eliade calls it.... in actual fact, Turīya is the modality of consciousness present in Asamprajñata, Nirvikalpa, or Nirbīja Samādhi, and also characterizes the consciousness of a Jīvanmukta, or one liberated in life. This is clear on the authority of Māṇḍūkya Upaniṣad (7) wherein it is said: "They consider the Fourth (Turīya) to be that which is not conscious of the internal world nor conscious of the external world....That is the Self and that is to be known." Again (in 12) it says: "The partless Om is the Fourth (Caturtha, i.e., Turīya) – beyond all conventional dealings, the limit of the negation of the phenomenal world, the auspicious and the non-dual. Om is thus the Self to be sure. He who knows thus enters the Self through the Self." The position has been clarified beyond doubt by Gauḍapāda in his Kārikā (PI.14 and 15). "The earlier two (Viśva and Taijasa) are endowed with dream and sleep, but Prajñā is endowed with dreamless sleep. People of firm conviction do not see either sleep or dream in Turīya....Dream belongs to one who sees falsely, and sleep to one who does not know Reality. When the two errors of these two are removed, one attains the state that is Turīya.
+## Etymology
 
-The point here is whether these four modalities of consciousness are characteristic of the embodied spirit or whether they have an independent existence of their own. The first three, it is hardly necessary to argue, have no independent existence, that is, they do not exist as cosmic planes of wakefulness, dreaming, and dreamless sleep, but represent different states of human consciousness. They are mutually exclusive, that is, as argued by Gauḍapāda, when one is dreaming, he cannot be awake and when in dreamless slumber, he can neither dream nor be awake. Similarly, when one is awake, he cannot dream, in the real sense of the term, nor can he be in dreamless slumber. It is, therefore, obvious that the moment a Yogi enters the dream state with lucidity, that is consciousness, dreaming must cease forthwith, and when one enters the state of dreamless slumber, it too must vanish instantly, for the simple reason that as darkness and light cannot exist together, in the same way the oblivion of the dream state and dreamless slumber cannot co-exist with lucidity for any length of time. It might be contended that the so-called ecstatic "state" (Samādhi), being a transhuman plane of consciousness, can "penetrate" the other three. In reply to this, it is enough to point out that at the very moment when transhuman consciousness penetrates any modality of human consciousness, it must at once transform and illumine it. It can neither assume the modality into which it enters nor co-exist with it."
+The Sanskrit nominal stem *turīya* (तुरीय, feminine *turīyā*) is an ordinal adjective signifying "fourth" or "a fourth part / quarter" (*caturthāṃśa*). Etymologically, classical Sanskrit grammarians and lexicographers derive *turīya* as a syncopated form of *caturīya* or *caturcha*, formed from the cardinal numeral *catur* (चतुर्, "four") with the ordinal suffix *-īya* or *-ya*, accompanied by the elision of the initial syllable *ca-*. 
 
-**From The Atman Project (Ken Wilber)**
-Passing through Nirvikalpa Samādhi, Consciousness totally awakens as its Original Condition and Suchness (Tathatā), which is, at the same time, the condition and suchness of all that is, gross subtle, or causal. That which witnesses, and that which is witnessed, are only one and the same. The entire World Process then arises, moment to moment, as one's own Being, outside of which, and prior to which, nothing exists. That Being is totally beyond and prior to anything that arises, and yet no part of that Being is other than what arises.  
+In Vedic literature, the term functions both as a numerical fraction ("one-fourth") and as an ordinal indicator. For instance, in the *Bṛhadāraṇyaka Upaniṣad* (5.14.3–4), *turīya* is explicitly equated with *caturtha* when describing the bright, supramundane "fourth foot" (*turīyaṃ darśataṃ padam*) of the Gāyatrī mantra (*yadevasya turīyaṃ tatcaturtham*). In philosophical exegesis, the numerical designation "fourth" serves purely as a pedagogical device (*upāya*) to sequence instruction following the analysis of the three empirical states of experience, rather than indicating a numerical sequence inherent in reality itself.
 
-And so: as the center of the self was shown to be Archetype; and as the center of Archetype was shown to be final-God; and as the center of final-God was shown to be Formlessness—so the center of Formlessness is shown to be not other than the entire world of Form. "Form is not other than Void, Void is not other than Form," says the most famous Buddhist Sūtra (called the "Heart Sūtra").  At that point, the extraordinary and the ordinary, the supernatural and mundane, are precisely one and the same. This is the tenth Zen oxherding picture, which reads: "The gate of his cottage is closed and even the wisest cannot find him. He goes his own way, making no attempt to follow the steps of earlier sages. Carrying a gourd, he strolls into the market; leaning on his staff, he returns home.
+## Turīya in the Māṇḍūkya Upaniṣad
 
-This is also Sahaja Samādhi, the Turiya state, the Svabhāvikakaya—the ultimate Unity, wherein all things and events, while remaining perfectly separate and discrete, are only One. Therefore, this is not itself a state apart from other states; it is not an altered state; it is not a special state—it is rather the suchness of all states, the water that forms itself in each and every wave of experience, as all experience. It cannot be seen, because it is everything which is seen; it cannot be heard, because it is hearing itself; it cannot be remembered because it only is. By the same token, this is the radically perfect integration of all prior levels—gross, subtle, and causal, which, now of themselves so, continue to arise moment to moment in an iridescent play of mutual interpenetration. This is the final differentiation of Consciousness from all forms in Consciousness, "whereupon Consciousness as Such is released in Perfect Transcendence, which is not a transcendence from the world but a final transcendence as the World. Consciousness henceforth operates, not on the world, but only as the entire World Process, integrating and interpenetrating all levels, realms, and planes, high or low, sacred or profane." 
+The *Māṇḍūkya Upaniṣad* introduces *Turīya* explicitly in Verse 7 and implies its soundless, partless nature (*amātra*) in Verse 12. The text structures its inquiry around the mahāvākya *"Ayam Ātmā Brahma"* ("This Self is Brahman"), declaring that *Ātman* possesses four quarters (*catuṣpāt*):
 
-References:
-1. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-2. Hartz, Richard. Glossary to the Record of Yoga (Sri Aurobindo). Retrieved from http://wiki.auroville.org.in/wiki/Glossary_to_the_Record_of_Yoga
-3. Nikhilananda, Swami (1977). The Upanishads: A New Translation in Four Volumes: Ramakrishna-Vivekananda Center
-4. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 82.
-5. Aiyer, K. Narayanaswami (1975). Laghu Yoga Vasishtha: English Translation. Theosophical Publishing House. p. 480.
-6. Krishna, Gopi (1972). Kundalini - The Secret of Yoga. Ontario, Canada: F.I.N.D. Research Trust. p. 103-104.
-7. Wilber, Ken (1996). The Atman Project: A Transpersonal View of Human Development. Quest Books. p. 67.
+1. **First Quarter (*Vaśvānarā* / *Viśva*)**: Waking state (*jāgarita-sthāna*), cognizing external objects, possessing seven limbs and nineteen mouths, experiencing gross matter.
+2. **Second Quarter (*Taijasa*)**: Dream state (*svapna-sthāna*), cognizing internal subtle mental impressions.
+3. **Third Quarter (*Prājña*)**: Deep sleep state (*suṣupta-sthāna*), where desires cease, experiences become unified into a mass of consciousness (*prajñāna-ghana*), and bliss is enjoyed in a causal state.
+4. **Fourth Quarter (*Turīya*)**: Described in Verse 7, where all empirical modes of cognition and unconsciousness are systematically negated, leaving the self-shining, non-dual Absolute.
+
+Verses 8–12 correlate these four quarters with the sacred syllable *AUM* (*Pranava*): the letter *A* corresponds to *Viśva*, *U* to *Taijasa*, *M* to *Prājña*, while the unlettered soundless silence (*amātra*) corresponds to *Turīya*.
+
+### Interpretative Layers in Gauḍapāda's Kārikā and Śaṅkara's Bhāṣya
+
+Advaita Vedānta scholarship distinguishes the original Upaniṣadic text from its classical commentary layers:
+
+* **Gauḍapāda's Kārikā (Āgama Prakaraṇa)**: Gauḍapāda analyzes the quarters via the doctrine of causality (*kārya-kāraṇa*). *Viśva* and *Taijasa* are bound by both cause (non-apprehension of reality, *tattvāgrahaṇa*) and effect (misapprehension of reality, *anyathāgrahaṇa*). *Prājña* is bound by cause alone (*kāraṇa-baddha*), remaining ignorant of truth without active misapprehension. *Turīya* is free from both cause and effect (*na kāraṇaṃ na kāryam*), being ever-seeing (*sarvadṛk*), birthless (*aja*), and eternally non-dual (*advaita*). Gauḍapāda asserts that when the individual (*jīva*) awakens from beginningless illusion (*māyā-nidrā*), *Turīya* is realized as unborn and non-dual.
+* **Śaṅkara's Commentary (*Bhāṣya*)**: Śaṅkara clarifies that *Turīya* is reached not by adding a new attribute or entering an exotic trance state, but through the sublation (*apavāda*) of superimposed false attributes (*adhyāropa*). Just as negating the illusory snake reveals the pre-existing rope, negating the three illusory states reveals *Turīya* as the self-evident substratum (*adhiṣṭhāna*) of all experience.
+
+## Interpretations and Disputes
+
+### 1. Numerical State vs. Transcendental Substratum
+A persistent point of clarification in Vedāntic literature concerns whether *Turīya* is a fourth temporal state of mind or the underlying witness (*sākṣin*). While popular or mystical interpretations treat *Turīya* as a fourth state to be attained in yogic samādhi, classical Advaita scholars (such as Śaṅkara, Gauḍapāda, Vidyāraṇya, and Sadānanda) emphasize that *Turīya* is the non-relational substratum present throughout all three states. Later texts, such as the *Laghu Yoga Vāsiṣṭha* and Sri Sadhu Om's commentary on Ramana Maharshi, employ the term *Turīyātīta* ("transcending the fourth") to resolve this linguistic ambiguity, highlighting that once the three illusory states are sublated, calling the Absolute "fourth" becomes redundant.
+
+### 2. Textual Stratification of the Māṇḍūkya Text
+Modern scholars (e.g., Karl Potter, Vidhushekhara Bhattacharya) note textual disputes regarding the relationship between the prose *Māṇḍūkya Upaniṣad* and Gauḍapāda’s first 29 metrical stanzas. While dualist traditions (such as Madhva's Dvaita) and qualified non-dualist traditions (such as Rāmānuja's Viśiṣṭādvaita) historically accepted both the prose verses and Gauḍapāda's first chapter as canonical śruti, classical Advaita tradition treats the 12 prose passages as Upaniṣadic śruti and Gauḍapāda's stanzas as authoritative commentary (*kārikā*).
+
+### 3. Philosophical Relationship to Buddhist Terminology
+Scholarship has debated Gauḍapāda's use of vocabulary shared with Mahāyāna Buddhism (e.g., *asparśa-yoga*, *samvṛti*, *dharma*) in analyzing non-origination (*ajāti*) and *Turīya*. Academic commentators such as S. N. Dasgupta suggested Buddhist structural influence, whereas traditional Advaitins and scholars such as Swami Nikhilananda emphasize that Gauḍapāda uses dialectical methods to refute both Buddhist subjective idealism (*vijñānavāda*) and nihilism (*śūnyavāda*), affirming *Turīya* as the uncontradicted Upaniṣadic Absolute.
+
+
+## Related Terms
+
+- Advaita (अद्वैत)
+- Amātra (अमात्र)
+- Avasthātraya (अवस्थात्रय)
+- Caturtha (चतुर्थ)
+- Ekātma-pratyaya-sāra (एकात्मप्रत्ययसार)
+- Pāda (पाद)
+- Prājña (प्राज्ञ)
+- Prapañcopaśama (प्रपञ्चोपशम)
+- Śānta (शान्त)
+- Śiva (शिव)
+- Taijasa (तैजस)
+- Viśva (विश्व)
+
+## References
+
+1. MacDonell, Arthur A. (1893). *A Sanskrit-English Dictionary*. London: Longmans, Green, and Co. (Parts 1 & 2, entries for *catur*, *caturtha*, *turīya*, *turya*).
+2. Nikhilananda, Swami (Trans.) (1955). *The Upanishads: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (Vol. III). New York: Harper & Brothers / Bonanza Books (pp. 1–80).
+3. Nikhilananda, Swami (Trans.) (1956). *The Upanishads: Bṛhadāraṇyaka Upaniṣad* (Vol. III). New York: Harper & Brothers (Adhyāya 5, Brāhmaṇa 14, Verses 3–4, pp. 465–466).
+4. Potter, Karl H. (Ed.) (1981). *Encyclopedia of Indian Philosophies, Volume III: Advaita Vedānta up to Śaṅkara and His Pupils*. Princeton: Princeton University Press / Delhi: Motilal Banarsidass (pp. 13–14, 105–109, 308–313).
+5. Sadhu Om, Sri (1980). *Śrī Ramanopadesa Noonmalai* (Commentary on Śrī Ramana Maharshi's Works). Tiruvannamalai: Sri Ramanasramam (Guru Vachaka Kovai v. 302; Ulladu Narpadu v. 14 commentary).
+6. Sivananda, Swami (Trans.) (1949). *Brahmasūtra: Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary*. Rishikesh: The Divine Life Society.
+7. Sadānanda, Svāmi (1931). *Vedāntasāra* (Translated by Swami Nikhilananda). Almora: Advaita Ashrama (pp. 31–33).
+8. Śaṅkarācārya (Attributed) (1938). *Aparokṣānubhūti (Self-Realization)* (Translated by Swami Vimuktananda). Almora: Advaita Ashrama.
+9. Śaṅkarācārya (Attributed) (1947). *Ātma Bodha (Self-Knowledge)* (Translated by Swami Nikhilananda). Chennai: Sri Ramakrishna Math (Introductory essay, pp. 63–65).

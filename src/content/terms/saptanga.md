@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Saptāṅga (सप्ताङग)"
 devanagari: "सप्ताङग"
 iast: "Saptāṅga"
@@ -12,22 +12,76 @@ aliases:
 Meaning: "seven-limbed"
 See: [Mandukya Upanishad (Verses 3, 4)](mandukyopanisat.md)
 
-**Translation by Swami Sharvananda**
-Sanskrit: सप्ताङग 
-Transliteration: Saptāṅga 
-Meaning: "seven-limbed"
-Commentary: "It is described elsewhere in the Śruti that the head of Vaiśvānara is the heaven, the sun His eyes, the air His breath, the sky His body, water His lower organ, and the earth His feet. So these are the seven limbs of the Viśva referred to here." 
+## Meaning
 
-**Translation by Swami Krishnananda**
-Sanskrit: सप्ताङग 
-Transliteration: Saptāṅga 
-Meaning: "seven-limbed"
-Commentary: "The Muṇḍaka Upaniṣad has a beautiful Mantra to which reference is made by the word, Saptāṅga (seven-limbed): 
+Having seven limbs; descriptive of the Self in the waking state (Vaiśvānara), whose cosmic form integrates seven universal constituents.
 
-Agnir Mūrdha, Cakṣuṣī Candra-Sūryau, Diśah Śrotre, Vāk Vivṛitāsca Vedāh; Vāyuh Prānah, Hṛdayam Viśvamasya, Pādbhyām Pṛthvī; Eṣa Sarva-Bhūtāntarātmā. 
+## Definition
 
-This is the all-pervading Paramātman, residing in all beings: Eṣa Sarva-Bhūtāntarātmā. Who is this Being? Agnir Mūrdha: The shining regions of the heaven may be regarded as His head. The topmost region of creation is His crown. Cakṣuṣī Candra-Sūryau: His eyes are the sun and the moon. Diśah Śrotre: The quarters of the heavens are His ears, through which He hears. Vāk Vivṛitāsca Vedāh: The Vedas are His speech. Vāyuh Prānah: His breath is all this air of the cosmos: Hṛdayam Viśvamasya: The whole universe is His heart. Pādbhyām Pṛthvī: The earthly region may be regarded as His feet. This is the Universal Ātman, from the point of view of the waking consciousness. This is the Virāt, or the Universal Person, who is sung in the Puruṣa-Sūkta of the Veda. This is the Virāt whom Arjuna saw, as described in the eleventh chapter of the Bhagavad-Gītā. This is the Virāt who was exhibited in the Kaurava court, by Sri Kṛṣṇa, when He went for peace-making. This is the Virāt which Yaśoda saw in the mouth of the baby Kṛṣṇa. This is the Cosmic Man, Nahapuruṣa, Puruṣottama, Virāt-Puruṣa. He is also called Vaiśvānara, from the term Viśvā-Nara. Viśva is the cosmos; Nara is man. He is called Vaiśvānara, because He is the Cosmic Man, the only Man in the whole cosmos. There is only one Man, and He is this. We are reminded here of the opinion of saint Mīrā who is reported to have said that there is only one Puruṣa: There are not many men in this world. There is only one Man, and this is the Man: He is Vaiśvānara."
+The term *saptāṅga* (सप्ताङ्ग) is a compound formed from the numeral *sapta* (seven) and the noun *aṅga* (limb, member, or constituent part). Literally, it signifies "having seven limbs" or "consisting of seven parts". 
 
-References:
-1. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-2. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html
+In general Sanskrit usage, the expression can describe any entity configured with seven constituent components, such as a seven-rayed fire or the traditional seven limbs of sovereign governance in classical political treatises. In its specific philosophical context within Vedānta, however, *saptāṅga* functions not as a literal physical designation of seven anatomical appendages, but as a technical qualification of the Self in the waking state (*vaiśvānara*). Here, it identifies the individual waking consciousness with the macrocosmic person (*virāj*), whose universal embodiment encompasses seven cosmic regions and deities.
+
+## Etymology
+
+The compound *saptāṅga* is formed by the combination of two nominal stems:
+- *sapta* (सप्त, from the base numeral *saptan-*, meaning "seven").
+- *aṅga* (अङ्ग, neuter noun, meaning "limb," "member," "organ," or "constituent element").
+
+The junction of the final vowel *-a* of *sapta* with the initial *a-* of *aṅga* undergoes standard vocalic coalescence (*savarṇa-dīrgha-sandhi*), yielding the long vowel *-ā-* in *saptāṅga*. 
+
+Grammatically, the term functions as an exocentric possessive compound (*bahuvrīhi-samāsa*). Its classical analytical expansion (*vigraha-vākya*) is *sapta aṅgāni yasya saḥ* ("he whose limbs are seven"). In the *Māṇḍūkya Upaniṣad*, it appears in the masculine nominative singular form as *saptāṅgaḥ* (modified by sandhi to *saptāṅga* before a following vowel), agreeing syntactically with the subject *vaiśvānaraḥ* and the predicate noun *prathamaḥ pādaḥ*.
+
+## Saptāṅga in the Māṇḍūkya Upaniṣad
+
+The term occurs in Mantra 3 of the *Māṇḍūkya Upaniṣad*:
+
+> *jāgaritasthāno bahiṣprajñaḥ saptāṅga ekonaviṃśatimukhaḥ sthūlabhug vaiśvānaraḥ prathamaḥ pādaḥ* // 3 //  
+> ("The first quarter is Vaiśvānara, whose sphere of activity is the waking state, who is conscious of external objects, who has seven limbs and nineteen mouths, and who experiences gross objects.")
+
+### Contextual Meaning and Scriptural Correlation
+
+The Upaniṣad begins by defining the non-dual Brahman as the Ātman, declaring that this Self has four quarters (*catuṣpāt*). Mantra 3 introduces the first quarter, operating in the waking state (*jāgaritasthāna*), oriented toward external phenomena (*bahiṣprajña*), enjoying gross objects (*sthūlabhuk*), endowed with nineteen cognitive and conative instruments (*ekonaviṃśatimukha*), and possessing seven limbs (*saptāṅga*).
+
+While the *Māṇḍūkya Upaniṣad* itself does not enumerate the individual seven limbs, Śaṅkarācārya’s commentary (*bhāṣya*) establishes that the text presupposes the *Vaiśvānara-vidyā* of the *Chāndogya Upaniṣad* (V.18.2). In that meditation, the macrocosmic person is contemplated across seven cosmic domains:
+
+1. **Head**: The luminous heavens (*dyuloka* / *sutejas*).
+2. **Eyes**: The sun (*sūrya* / *viśvarūpa*).
+3. **Breath**: The atmospheric wind (*vāyu* / *pṛthagvartman*).
+4. **Trunk**: Cosmic space or ether (*ākāśa* / *bahula*).
+5. **Bladder / lower body**: The cosmic waters (*ap* / *rayi*).
+6. **Feet**: The physical earth (*pṛthivī*).
+7. **Mouth**: The sacrificial fire (*āhavanīya* fire), included to complete the symbolic structure of the inner Agnihotra sacrifice.
+
+### Philosophical Significance in Advaita Vedānta
+
+In Advaita hermeneutics, the attribution of *saptāṅga* to the waking Self serves crucial pedagogical and metaphysical functions:
+
+1. **Identification of Microcosm and Macrocosm**: By attributing cosmic limbs to the waking subject, the Upaniṣad correlates the individual experiencer (*viśva*) with the totality of the physical universe (*virāj* or *vaiśvānara*). This demonstrates that the individual is not an isolated, limited physical entity, but rather a manifestation of one universal waking consciousness.
+2. **Superimposition and Sublation**: Śaṅkara notes that outward awareness and embodiment are apparent superimpositions (*adhyāsa*) born of nescience (*avidyā*). The waking Self experiences gross objects through instruments because consciousness appears externally oriented through ignorance.
+3. **The Fourfold Resolution**: The Upaniṣad's pedagogy is designed to resolve empirical duality into the transcendent Fourth (*turīya*). The gross waking experience (*vaiśvānara*, characterized by the seven limbs) is resolved into the subtle dreaming state (*taijasa*), which is in turn resolved into the unmanifest causal state (*prājña*), culminating in the realization of the attributeless Self (*brahman* / *turīya*) represented by the silence following the sacred syllable *Aum*.
+
+### Relation to Gauḍapāda and Later Exegesis
+
+Gauḍapāda, in his *Kārikā* on the *Āgama Prakaraṇa*, focuses on establishing the ontological status and non-difference of the states rather than re-listing the seven limbs, taking the Upaniṣad's formula for granted. Later Advaita synthesizers, such as Sadānanda in the *Vedāntasāra*, expressly cite *Māṇḍūkya* 3 to establish the identity between *viśva* (the individual waking ego) and *vaiśvānara* (the cosmic gross soul) as the experiencers of the material world. Similarly, the *Brahma-Sūtra* (I.2.24–32) affirms that the seven-limbed *Vaiśvānara* of the Upaniṣads denotes the Supreme Brahman conceived with cosmic limbs to facilitate comprehensive meditation (*upāsanā*).
+
+## Related Terms
+
+- *Aṅga* (अङ्ग)
+- *Bahiṣprajña* (बहिष्प्रज्ञ)
+- *Ekonaviṃśatimukha* (एकोनविंशतिमुख)
+- *Jāgaritasthāna* (जागरितस्थान)
+- *Pāda* (पाद)
+- *Sthūlabhuk* (स्थूलभुक्)
+- *Vaiśvānara* (वैश्वानर)
+- *Virāj* (विराज्)
+- *Viśva* (विश्व)
+
+## References
+
+1. MacDonell, Arthur Anthony. *A Sanskrit-English Dictionary*. London: Longmans, Green, and Co., 1893 (Part 2, p. 335, entry *saptāṅga*).
+2. Nikhilananda, Swami (trans.). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Ashrama, 1936 (Māṇḍūkya Upaniṣad, Mantra 3, pp. 14–17; Śaṅkara's Commentary and Notes, pp. 1–3, 14–17).
+3. Nikhilananda, Swami (trans.). *The Upanishads: A New Translation*, Volume IV: *Taittirīya and Chhāndogya*. New York: Harper & Brothers, 1959 (Chāndogya Upaniṣad, Chapter V, Section 18, Verse 2, p. 91).
+4. Nikhilananda, Swami (trans.). *Vedāntasāra of Sadānanda*. Mayavati, Almora, Himalayas: Advaita Ashrama, 1931 (Sections 115–116, pp. 68–69).
+5. Sivananda, Swami. *Brahmasūtra: Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary*. Rishikesh: The Divine Life Society, 1949 (Adhikaraṇa VII, Sūtras I.2.24–32, pp. 43–44).
+6. Thibaut, George (trans.). *The Vedānta-Sūtras with the Commentary by Śaṅkarācārya*, Part 1. Sacred Books of the East, Vol. 34. Oxford: Clarendon Press, 1890 (Adhikaraṇa VII, Sūtras I.2.24–32, pp. 143–153).

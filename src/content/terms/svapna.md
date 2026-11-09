@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Svapna (स्वप्न)"
 devanagari: "स्वप्न"
 iast: "Svapna"
@@ -13,45 +13,95 @@ Svapna
 Meaning: "dream"
 See: [Mandukya Upanishad (Verses 4, 5, 10)](mandukyopanisat.md)
 
-**Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
-Sanskrit: स्वप्न
-Transliteration: Svapna 
-Meaning: "dream; the dream state"
-Definition:
-1. It is to be immersed in one’s own self. The state of consciousness called dream is also known as Prajñā. 
-2. See Avasthā. 
+## Meaning
 
-**Definition from Glossary to the Record of Yoga (Sri Aurobindo)**
-"Svapna, dream, dreaming; the state of sleep in which dreams occur, in contrast to deep and dreamless sleep (Suṣupti); internal vision in Svapna-Samādhi."
+In the Māṇḍūkya Upaniṣad, *svapna* denotes the dream state of consciousness, the sphere of Taijasa, characterized by inward cognition of subtle mental impressions.
 
-Translation by Swami Sharvananda
-Sanskrit: स्वप्न, स्वप्नं
-Transliteration: Svapna, Svapnaṃ  
-Meaning: "dreams "
+## Definition
 
-**From Māṇḍūkyopaniṣat and Kārikā (Swami Paramarthananda)**
-Commentary: "In dream, one and the same waker divides himself into the experiencing individual and the experienced world. Similarly I, the atma, with maya-sakti bifurcate into the experiencing mind and the experienced world; the experiencing thought and the experienced object."
+Literally meaning "sleep" or "dreaming", *svapna* (स्वप्न) in Vedāntic terminology denotes the second of the four primary states of consciousness (*svapna-sthāna*). In contrast to the waking state (*jāgrat*), which cognizes external physical objects through bodily senses, and deep sleep (*suṣupti*), in which all object-differentiation subsides into a causal mass of consciousness, *svapna* is defined as an intermediate state wherein the mind functions independently of external sense organs. 
 
-**Translation by Swami Krishnananda**
-Sanskrit: स्वप्न, स्वप्नं
-Transliteration: Svapna, Svapnaṃ  
-Commentary: "The subtle desires repressed within manifest themselves in dream, when the will does not operate. The desires cannot all operate in the waking world, because the ‘reality’ is there, opposing them from outside. You cannot go on tom-toming your desires to people. They will oppose you, censure you and make your life hard in the world. And the desires, too, are very intelligent. They know where to express themselves, and where not. But in the dream world there is no such censure from the reality outside. There is, then, no will and intellect or ratiocination working, and there is only the instinct operating. You live in an instinctive world. Your real personality, at least partially, comes out in the dream world.
+In this state, the experiencing subject—termed *Taijasa* ("the luminous one")—cognizes subtle internal objects (*antaḥprajña*, *praviviktabhuk*). These dream objects are mental representations constructed from the latent impressions (*vāsanā*) left behind by prior waking experiences, illuminated solely by the self-luminous light of pure Consciousness.
 
-Dreams, therefore, are due to repressed desires. This is one of the causes behind dreams. This is the only factor that the psychoanalysts of the West emphasise. But Indian psychologists and psychoanalysts, like the Rāja Yogins and the philosophers of the Vedānta, have touched another aspect of dream. The dreams may be, to some extent, of course, the results of complexes created by frustrated desires. But, this is not wholly true. Dreams may be due to other reasons also; one such reason being the working of past Karma. The effects of past Karma, meritorious or unmeritorious, may project themselves into dream when chances are not given to them for expression in waking life. Also, a thought of some other person may affect you. A friend of yours may be deeply thinking of you; and you may have a dream of him, or you may have a dream with experiences corresponding to his thoughts. Your mother may be far away, crying for you, and her thought can affect you; you may have a dream. All this is equal to saying that a telepathic effect can produce dream. In the case of spiritual seekers, guru’s grace can cause a dream; and catastrophic experiences that one may have to pass through in the waking world may pass lightly as a dream experience by his grace. Due to the power of the guru, one may have a dream suffering, instead of a waking one. If the disciple has to fall down and break his leg due to a Prārabdha, the guru will make him experience it in dream, and save him the trouble in waking. One may have a dream temperature, or fever, instead of a waking fever. One may have a calamity in dream instead of its coming in waking. This is due to the grace of the guru. So, Śaktipata can also be a cause of dream. All this the psychoanalysts of the West do not know. And, Īśvara’s grace, also, can bring about dreams. God may bless you and give you certain peculiar experiences in dream. You may ask, “Why should they not come in waking? Why should the guru work only in dream, and Īśvara’s grace come only in dream?” The reason is that you oppose their function in waking life, due to the assertions of the ego. You counteract Īśvara’s working and guru’s blessing by the action of your own egoism. But, in dream, the ego subsides, to some extent. You become more normal, one may say, and you approximate yourself more to reality, rather than to artificiality, in dream. Thus, it is easier for these powers to operate in dream than in waking. The opposing will of the ego, which functions in waking, subsides, to a large extent, in dream, and so there is a greater chance provided for the diviner forces to function in the dreaming condition. The physician puts the patient to sleep first, before the healing process can take place, because the ego opposes interference in the waking life, while there is no such opposition in dream and sleep. In hypnosis, the patient is put to sleep. The nerves must be soothed; the agitation of the mind should come down; the ego should not oppose the healing forces. Dream is helpful, in this way, for the operation of the higher powers coming from the guru, or from Īśvara.
+## Etymology
 
-Dream, therefore, can have umpteen causes. Whatever the causes be, dream in the individual is regarded as an effect of waking, and is often judged as a consequence of impressions of waking perception and cognition. The world of dream being subtle, projected only by the mind, is regarded as Pravivikta, Sūkṣma, non-physical – this is so both in the case of Taijasa and Hiraṇyagarbha. While Hiraṇyagarbha has Cosmic Knowledge, the Jīva has no such knowledge, for the reason already explained. Hiraṇyagarbha is Īśvara’s form, and Taijasa is Jīva’s form. Thus is the twofold mystery which dream bolsters up before us."
+The noun *svápnaḥ* (स्वप्नः) is a primary nominal derivative formed from the Sanskrit verbal root *svap* (स्वप्), meaning "to sleep" or "to lie down", combined with the primary nominal suffix *-na* (kṛt-pratyaya). In classical Sanskrit grammar, the root *svap* belongs to the 2nd class of roots (*adādi-gaṇa*). Under specific grammatical operations before weak suffixes, the radical syllable undergoes *samprasāraṇa* (vocalic reduction of the semivowel *va* to the vowel *u*), yielding related forms such as the past passive participle *supta* (सुप्त, "slept") and the abstract noun *suṣupti* (सुषुप्ति, "deep sleep").
 
-**From Lessons on the Upanishads (Swami Krishnananda)**
-"In the dream state something else happens. The actual physical world – which is seen, contacted through the sense organs in the waking state – is absent, but it looks as if it is present even in the dream state due to an action of the mind. Without the assistance of the gross senses and of the organs of action which are active in the waking condition, the mind alone concocts, imagines, projects a world of its own and we see a world in dream. We exist there, in the dream, in the same manner as we exist in the waking state. We can see ourselves now seated here in the waking state; in a similar way, we can see ourselves seeing certain things in the dream state also. There is a ‘dream me’ in the same way as there is a ‘waking me’. There is also a dream world. We see all sorts of things in the waking state – mountains, rivers, sun, moon, stars, and all kinds of people. We can see all that in the dream world also. There is space, time and externality in dream, as there is in the waking state. The difference between the waking and the dream is that the mind has created the entire world of external cognition and perception of its own accord without the assistance of externally existing physical objects or physical sensations.
+In traditional Vedāntic etymological reflections (such as those recorded in *Chāndogya Upaniṣad* VI.8.1 and the *Brahma Sūtra-bhāṣya*), the state of sleep is also symbolically linked to *svāpyaya* (स्वाप्यय: *sva* + *apyaya*), meaning "returning or merging into one's own Self" (*svaṃ dṛṣṭvā apito bhavati*).
 
-In dream also there are nineteen mouths operating. We have dream eyes, dream ears, a dream nose, a dream tongue that tastes, dream touch and dream legs, dream hands, dream organs of every kind. In dream we run with legs; we eat a good meal in dream. We can even live and die – even that experience is possible in dream. One can feel that one is born or one can feel that one is dead; one can observe one’s own cremation in dream. All kinds of fantastic things can be experienced in dream. A new world is projected by the mind. Space, time, causation, objects, people, all blessed things are in the dream world because the psyche is operating through the vital energy, the mind and the intellect in a diminished form – not in an active way. The only difference is that the physical body is not there as an object of awareness. People sometimes sleep with their mouths open; if a few particles of sugar are put on the tongue of a sleeping man, he will not taste it because his mind is withdrawn.
+## svapna in the Māṇḍūkya Upaniṣad
 
-The mind is the main operative organ that causes the sensations of seeing, hearing, tasting, etc. Even the ego is very active in dream. If somebody calls us – either in dream or deep sleep – by a name that is not ours, we will not listen to it; we will not wake up. If John is sleeping and he is called Jacob, he will not wake up. John must be summoned only as John. That is, the ego is so very intensely identified with this particular name-form complex that it is active even there, in the submerged condition of dream and sleep. So the nineteen mouths of the waking condition are psychologically projected by the mind in the dreaming state also. There also we have all these experiences, every blessed thing, as we have in the waking state."
+The term *svapna* appears in Mantra 4 of the *Māṇḍūkya Upaniṣad*:
 
-References:
-1. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-2. Hartz, Richard. Glossary to the Record of Yoga (Sri Aurobindo). Retrieved from http://wiki.auroville.org.in/wiki/Glossary_to_the_Record_of_Yoga
-3. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-4. Paramarthananda, Swami. Māṇḍūkyopaniṣat and Kārikā. Coimbatore: Arsha Avinash Foundation. p. 186.
-5. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. 68-70.
-6. Krishnananda, Swami (1991). Lessons on the Upanishads. Retrieved from https://www.swami-krishnananda.org/upanishad.html. p. 102-103.
+> *svapnasthāno 'ntaḥprajñaḥ saptāṅga ekonaviṃśatamukhaḥ praviviktabhuk taijaso dvitīyaḥ pādaḥ*.
+
+Grammatically, *svapna* functions here as the prior member of the compound *svapna-sthānaḥ* (स्वप्नस्थानः), a *bahuvrīhi* compound acting as an adjective that modifies *Taijasa*, literally meaning "he whose sphere or place of activity is dream".
+
+### Contextual Meaning and Philosophical Significance
+
+The *Māṇḍūkya Upaniṣad* formulates a structural taxonomy of Reality (*Brahman*/*Ātman*) mapped onto the four quarters (*pāda*) of the sacred syllable *AUM*. The first quarter is *Vaiśvānara* (the waking self), who is *bahiṣprajña* ("outwardly conscious") and *sthūlabhuk* ("enjoyer of gross objects"). The second quarter is *Taijasa* (the dream self), whose sphere is *svapna*, characterized as:
+1. ***Antaḥprajña* ("Inwardly conscious")**: Consciousness in dream is directed toward the internal modifications of the mind rather than external sensory inputs.
+2. ***Praviviktabhuk* ("Enjoyer of subtle objects")**: Because the physical sense organs are disengaged, the objects experienced in *svapna* consist purely of subtle mental impressions (*vāsanā*).
+3. ***Saptāṅga* ("Seven-limbed") and *Ekonaviṃśatamukha* ("Nineteen-mouthed")**: The Upaniṣad assigns the same structural adjuncts to *Taijasa* as to *Vaiśvānara*—seven cosmic limbs and nineteen instruments of experience (five sense organs, five action organs, five vital breaths, and the fourfold internal organ: *manas*, *buddhi*, *ahaṅkāra*, and *citta*). This establishes a functional parallelism between the macrocosmic/microcosmic structures of waking and dreaming.
+
+### Analysis in Gauḍapāda's Kārikā and Śaṅkara's Commentary
+
+Gauḍapāda systematically unpacks the *Māṇḍūkya*'s exposition of *svapna* in the *Gauḍapāda-Kārikā*, particularly in the *Vaitathya Prakaraṇa* (Chapter on Illusion):
+- **Logical Arguments for Dream Unreality**: Gauḍapāda demonstrates the unreality (*vaitathya*) of dream objects on two primary grounds:
+  1. *Confined Space (*antaḥsthāna*)": Dream objects such as mountains or elephants are perceived inside the physical body within a subtle, confined space where they cannot actually exist.
+  2. *Temporal Discrepancy*: The time involved in dream journeys is inconsistent with physical time; one may dream of traveling to a distant place over months within a nap lasting mere minutes.
+  3. *Sublation (*bādha*)": Upon waking, dream objects disappear and are contradicted by waking awareness.
+- **Equivalence of Waking and Dreaming**: Gauḍapāda asserts the fundamental ontological equivalence (*samāna*) of waking (*jāgrat*) and dreaming (*svapna*). Both states share the essential nature of being perceived (*dṛśyatva*), being conditioned by subject-object duality (*dvaita*), and possessing a beginning and an end. Waking utility (*artha-kriyā-kāritva*) is itself contradicted in dream, proving that both states are mental projections (*manovijṛmbhita*) arising from ignorance (*māyā*).
+
+In his commentary (*bhāṣya*), Śaṅkara notes that in dream, the mind acts like a canvas painted with pictures (*citra-paṭa*), projecting forms by its own light (*svayaṃ-jyotiḥ*) without requiring external light or physical instruments. Consciousness witnesses these internal impressions while remaining intrinsically unattached (*asaṅga*).
+
+### School-Specific Formulations in Post-Śaṅkara Advaita
+
+Subsequent Advaita Vedānta manuals further refine the concept of *svapna*:
+- ***Tattva Bodha***: Defines *svapnāvasthā* as the state in which the world projected during sleep consists of impressions (*vāsanā*) born of what was seen and heard in the waking state.
+- ***Dṛg-Dṛśya Viveka***: Classifies the three states based on the degree of ego-manifestation (*ahaṅkāra-sphūrti*): waking is the full manifestation (*pūrṇa-sphūrti*), deep sleep is complete subsidence (*laya*), and dream (*svapna*) is the half-manifestation or partial expression (*ardha-sphūrti*) of the ego.
+- ***Vivekacūḍāmaṇi***: Declares in verse 170 that in dream, devoid of external objects (*artha-śūnye*), the mind alone projects by its own power (*sva-śaktyā*) the entire universe of enjoyer and enjoyed (*bhoktrādi-viśvaṃ mana eva sarvam*), demonstrating that the waking world is likewise a projection of the mind.
+- ***Pañcadaśī***: Emphasizes that while waking objects depend on gross physical matter, dream objects consist of subtle mental modifications (*vṛtti*) reflecting consciousness (*chidābhāsa*).
+
+## Interpretations and Disputes
+
+### Ontological Status of Dreams: Brahma Sūtra vs. Radical Advaita
+
+A significant debate regarding *svapna* centers on its ontological classification:
+- **The *Sandhya* Debate in the *Brahma Sūtra***: *Brahma Sūtra* III.2.1–6 examines the dream state (*sandhya*, the intermediate junction between waking and deep sleep). A *pūrvapakṣin* (objector) argues that dream creations are real (*satya*) because scriptural passages state "he creates chariots, horses, and roads" (Bṛhadāraṇyaka Upaniṣad IV.3.10). The *siddhānta* (Brahma Sūtra III.2.3: *māyāmātraṃ tu kārtsnyenānabhivyakta-svarūpatvāt*) refutes this, establishing that dream creation is mere illusion (*māyāmātra*) because it fails to manifest the full attributes of objective reality—namely, consistent space, time, efficient cause, and non-refutation.
+- **Two Levels vs. Three Levels of Reality**: In standard Śaṅkarite Advaita, a pragmatic distinction is drawn between *prātibhāsika* (apparent/illusory reality, such as dreams or rope-snakes) and *vyāvahārika* (empirical reality, such as the waking world). Waking objects serve practical purposes and endure until ultimate Self-realization (*brahma-jñāna*), whereas dream objects are sublated daily upon waking. Conversely, Gauḍapāda's radical non-dualism (*Ajātivāda*) minimizes this distinction, maintaining that from the absolute standpoint (*paramārtha*), both waking and dream experiences are equally illusory (*vaitathya*) because both are objects of cognition (*dṛśya*) bound by time.
+
+### Non-Advaitic Interpretations (Viśiṣṭādvaita and Dvaita)
+
+Non-Advaitic Vedāntins interpret the dream state differently:
+- Rāmānuja (Viśiṣṭādvaita) and Madhva (Dvaita) reject the view that dream objects are false mental projections of the individual *jīva*. They maintain that dream objects are real, transient creations brought into existence directly by the Supreme Lord (*Īśvara*) for the specific, private experience of the individual soul according to its minor past karma. 
+- While Advaita admits that dreams can be prophetic (*sūcaka*) of future events while remaining illusory in themselves (*māyāmātra*), Viśiṣṭādvaita and Dvaita view the prophetic accuracy of dreams as evidence of divine agency and objective truth.
+
+## Related Terms
+
+- Antaḥprajña (अन्तःप्रज्ञ)
+- Jāgrat (जाग्रत्)
+- Prajñā (प्रज्ञा)
+- Prātibhāsika (प्रातिभासिक)
+- Suṣupti (सुषुप्ति)
+- Taijasa (तैजस)
+- Turīya (तुरीय)
+- Vāsanā (वासना)
+- Vaiśvānara (वैश्वानर)
+- Vaitathya (वैतथ्य)
+
+## References
+
+1. Jagadananda, Swami (Trans.). (1941). *Upadeśasāhasrī of Śrī Śaṅkarācārya*. Madras: Sri Ramakrishna Math, Chapter 17, Verses 24–25, pp. 180–182.
+2. Kale, Moreshwar Ramchandra. (1918). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Bombay: Gopal Narayan & Co., § 502, p. 327.
+3. MacDonell, Arthur Anthony. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co., pp. 370, 373.
+4. Madhavananda, Swami (Trans.). (1935). *Vedāntasāra of Sadānanda*. Almora: Advaita Ashrama, Verses 94–95, pp. 59–61.
+5. Nikhilananda, Swami (Trans.). (1931). *Dṛg-Dṛśya Vivekaḥ of Śrī Sadāśiva Brahmendra*. Mysore: Sri Ramakrishna Ashrama, Verse 10, pp. 14, 55–57.
+6. Nikhilananda, Swami (Trans.). (1944). *Atmabodha (Self-Knowledge) of Śrī Śaṅkarācārya*. Madras: Sri Ramakrishna Math, Invocation & pp. 64–65.
+7. Nikhilananda, Swami (Trans.). (1949). *The Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Ashrama, Mantras 4–5, pp. 19–26; Kārikā II.1–15, pp. 93–111.
+8. Nikhilananda, Swami (Trans.). (1956). *The Upanishads: A New Translation* (Vol. III: Aitareya and Brihadaranyaka). New York: Harper & Brothers, pp. 159, 164–167.
+9. Potter, Karl H. (Ed.). (1981). *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṃkara and His Pupils*. Princeton: Princeton University Press, pp. 14, 56–59.
+10. Pranipata Chaitanya, Acharya (Trans.). *Vivekacūḍāmaṇi of Śrī Śaṅkarācārya*. Verses 98–99, 170, pp. 121, 186.
+11. Sivananda, Swami. (1949). *Brahma Sutras: Text, Word-for-Word Meaning, Translation, and Commentary*. Rishikesh: Divine Life Society, Adhyāya III, Pāda 2, Sūtras 1–6, pp. 331–335.
+12. Swahananda, Swami (Trans.). (1967). *Pañcadaśī of Śrī Vidyāraṇya Svāmi*. Madras: Sri Ramakrishna Math, Chapter 1, Verses 67–69; Chapter 8, Verses 86–90.
+13. Vimuktananda, Swami (Trans.). (1938). *Aparokṣānubhūti (Self-Realization) of Śrī Śaṅkarācārya*. Almora: Advaita Ashrama, Verse 57, p. 27.

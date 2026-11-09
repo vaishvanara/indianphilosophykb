@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Bhūtaṃ (भूतं)"
 devanagari: "भूतं"
 iast: "Bhūtaṃ"
@@ -12,30 +12,37 @@ aliases:
 Meaning: "the past"
 See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md) 
 
-**Definition from A Sanskrit-English Dictionary (Monier-Williams)**
-Sanskrit: भूत
-Transliteration: Bhūta
-Meaning: "become, been, gone, past (n. the past)"
+## Meaning
 
-**Translation by Swami Sharvananda**
-Sanskrit: भूतं 
-Transliteration: Bhūtaṃ 
-Meaning: "the past"
- 
-**Translation by Swami Krishnananda**
-Transliteration: Bhūtam 
-Meaning: "all that was in the past"
+Meaning: "That which has been," "the past"; also "being," "existing entity," or "gross element" (from root bhū).
 
-References:
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press 
-2. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-3. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 22.
+---
 
----------------------------
-भूतं (Bhūtaṃ) is a Sanskrit word that means "the past" or "the past life". It is a noun that is often used in Hinduism and Buddhism to refer to the past or the previous life of an individual.
+## Definition
 
-In Hinduism, the concept of भूतं is often used to describe the cycle of birth and death, where an individual is reborn into a new life after death, and the past life is referred to as भूतं.
+In Sanskrit literature and Indian philosophy, *bhūta* (भूत) functions both as a participle and as a noun with several distinct shades of meaning depending on context. Literally denoting "that which has come into being" or "existed," its primary senses are categorized as follows:
 
-In Buddhism, the concept of भूतं is often used to describe the concept of karma, where an individual's actions in the past life determine their circumstances in the present life.
+1. **Temporal Meaning ("The Past")**: In the opening mantra of the *Māṇḍūkya Upaniṣad* (mantra 1), *bhūtaṃ* (भूतं) occurs as the first term in the temporal triad *bhūtaṃ bhavad bhaviṣyaditi* ("all that is past, present, and future"). Here, *bhūtaṃ* specifically designates past time or everything that has already transpired within the empirical stream of time, all of which is declared to be non-different from the sacred syllable *AUM* (*Oṁkāra*).
+2. **Ontological Meaning ("Created Being" or "Entity")**: In general usage, *bhūta* refers to any living creature, entity, or created thing, encompassing divine, human, animal, and plant life.
+3. **Cosmological Meaning ("Gross Element")**: In Vedāntic and Sāṅkhya cosmology, *bhūta* (or *mahābhūta*) denotes a gross physical element. The tradition enumerates five such physical principles: space/ether (*ākāśa*), air (*vāyu*), fire (*tejas*), water (*ap*), and earth (*pṛthivī*).
+4. **Substantive Meaning ("Fact" or "Reality")**: The term is additionally used to signify an actual occurrence, a fact, or reality.
 
-In a more literal sense, भूतं can be translated to "the past" or "the past existence", and is often used to describe the period of time that has passed before the present moment.
+---
+
+## Etymology
+
+Grammatically, *bhūtaṃ* (भूतम्) is the nominative and accusative singular neuter form of the past passive participle stem *bhūta*. It is derived from the Sanskrit verbal root *bhū* (भू), which belongs to the first conjugational class (*bhva:di-gaṇa*) and means "to be," "to become," "to exist," or "to arise".
+
+The participial stem *bhū-ta* is formed by appending the primary past participial suffix *-ta* (*kta*) directly to the root *bhū* without internal vowel change. When inflected in the neuter gender as *bhūtaṃ*, the participle is substantivized to mean literally "that which has become" or "past time".
+
+---
+
+## References
+
+Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press. (Headword *Bhūta*, p. 91).
+
+Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headwords *bhū*, p. 207, col. 3; *bhūta*, p. 208, col. 1).
+
+Monier-Williams, M. (1857). *A Practical Grammar of the Sanskrit Language, Arranged with Reference to the Classical Languages of Europe, for the Use of English Students* (2nd ed.). Oxford University Press. (pp. 172, 177).
+
+Nikhilananda, S. (Trans.). (1949). *The Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Advaita Ashrama. (Mantra 1, pp. 10–11).

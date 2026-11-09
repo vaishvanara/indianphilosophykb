@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Māṇḍūkya (माण्डूक्य)"
 devanagari: "माण्डूक्य"
 iast: "Māṇḍūkya"
@@ -12,25 +12,44 @@ aliases:
 Meaning: "frog"
 See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
 
-**Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
-Sanskrit: माण्डूक्य 
-Transliteration: Māṇḍūkya 
-Meaning: "frog"
-Definition: This Upaniṣad is said to contain, in just twelve verses, the gist of all the other Upaniṣad. It belongs to the Atharva Veda. It consists of only twelve verses and is thus the shortest of the Upaniṣad. Brahman (the Absolute) is identified with the sound Oṃ and the entire universe is represented as a manifestation of this Oṃ. The sound Oṃ consists of three parts – A, U, and M, – which are identified with Vaiśvānara, Taijasa, and Prajñā. Unlike the other Upaniṣad, this one does not relate any anecdotes, imaginary dialogues, or stories to illustrate its teachings. Also, unlike the other Upaniṣad, it is silent about rituals and worship and plunges at once into a discussion of Ātman and Brahman. 
+## Meaning
 
-**Translation by Swami Krishnananda**
-Sanskrit: माण्डूक्य 
-Transliteration: Māṇḍūkya 
-Introduction: "The theme of the Māṇḍūkya Upaniṣad is an exposition of the Mystic Syllable, Oṃ, with a view to training the mind in meditation, for the purpose of achieving freedom, gradually, so that the individual soul is attuned to the Ultimate Reality. 
+Relating to the sage Maṇḍūka or his Vedic lineage; specifically denoting the *Māṇḍūkya Upaniṣad* of the Atharva Veda expounding *AUM* and *Ātman*.
 
-The basis of this meditation is explained in the Vidyā (meditation), known as the Vaiśvānara Vidyā. This is the secret of the knowledge of the Universal Being, designated as Vaiśvānara. Its simple form of understanding is transference of human attributes to the Divine Existence, and vice versa. In this meditation, one contemplates the Cosmos as one's Body. Just as, for example, when one contemplates one's individual body, one simultaneously becomes conscious of the right eye, the left eye, the right hand, the left hand, the right leg, the left leg, the head, the heart, the stomach, and all the limbs of the body at one and the same time, and one does not regard the different limbs of the body as distinguished from one another in any manner, all limbs being only apparently different but really connected to a single personality, so in this meditation, the consciousness is to be transferred to the Universal Being. Instead of one contemplating oneself as the individual body, one contemplates oneself as the Universal Body. Instead of the right eye, there is the sun. Instead of the left eye, there is the moon. Instead of the feet, there is the earth. Instead of the head, there is the heaven, and so on. The limbs of the Cosmic Person are identified with cosmic elements, and vice versa, so that there is nothing in the cosmos which does not form an organic part of the Body of the Virāt, or Vaiśvānara. When you see the vast world before you, you behold a part of your own Body. When you look at the sun, you behold your own eye. When you look above into the heavens, you are seeing your own head. When you see all people moving about, you behold the various parts of your own personality. The vast wind is your breath. All your actions are cosmic movements. Anything that moves, does so on account of your movement. Your breath is the Cosmic Vital Force. Your intelligence is the Cosmic Intelligence. Your existence is Cosmic Existence. Your happiness is Cosmic Bliss.
+---
 
-The Chāndogya Upaniṣad concludes this Vidyā by saying that one who meditates in this manner on the Universal Personality of Oneself as the Vaiśvānara, becomes the Source of sustenance for all beings. Just as children sit round their mother, hungry, and asking for food, all beings in creation shall sit round this Person, craving for his blessings; and just as food consumed by the body sustains all the limbs of the body at once, this meditator, if he consumes food, shall immediately communicate his blessings to the whole cosmos, for his Being is, verily, All-Being.
+## Definition
 
-We may recall to our memory the famous story of Sri Kṛṣṇa taking a particle of food from the hands of Draupadi, in the Kamyaka forest, when she called to Him for help, and with this little grain that he partook of, the whole universe was filled, and all people were satisfied, because Kṛṣṇa stood there tuned up with the Universal Virāt. So is also the case with any person who is in a position to meditate on the Virāt, and assume the position of the Virāt. The whole universe shall become friendly with this Person; all existence shall ask for sustenance and blessing from this Universal Being. This meditator is no more a human being; he is veritably, God Himself. The meditator on Vaiśvānara is himself Vaiśvānara, the Supreme Virāt."
+*Māṇḍūkya* (माण्डूक्य) is a Sanskrit nominal adjective and proper noun literally meaning "belonging to, derived from, or pertaining to Maṇḍūka" (मण्डूक) or the Maṇḍūka school (*māṇḍūka-śākhā*) of the Atharva Veda.
 
-"Māṇḍūkyam ekam eva alam mumukṣūnām vimuktaye - for the liberation of the mumukṣū or seeker the Māṇḍūkya alone is enough; and if you are able to understand the true meaning of this single Upaniṣad, there may not be a necessity to study any other Upaniṣad, not even the Chāndogya or the Bṛhadāraṇyaka, because the theme of the Māṇḍūkya Upaniṣad is a direct approach to the depths of human nature."
+In classical Indian philosophy and sacred literature, the term primarily designates the *Māṇḍūkya Upaniṣad*, one of the principal twelve Upaniṣads. Though comprising only twelve concise prose mantras, it holds a central position in Advaita Vedānta for its systematic exposition of the sacred monosyllable *AUM* (ॐ) and the four quarters (*pāda*) of the Self (*Ātman*):
+1. *Viśva* – the waking state (*jāgaritasthāna*), represented by the letter *A* (*akāra*).
+2. *Taijasa* – the dream state (*svapnasthāna*), represented by the letter *U* (*ukāra*).
+3. *Prājña* – the dreamless deep sleep state (*suṣuptasthāna*), represented by the letter *M* (*makāra*).
+4. *Turīya* – the unconditioned, non-dual Fourth state, represented by the soundless measure (*amātra*).
 
-References:
-- Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-- Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 5-7, 14.
+Literally, the base nominal stem *maṇḍūka* (मण्डूक) denotes a "frog." In traditional and pedagogical lore, an extended figurative association is sometimes made with *maṇḍūka-pluti* ("frog-leap"), representing the intuitive leap of consciousness from relative states directly to the unconditioned Absolute (*Turīya*), or with a lineage of Vedic ascetics (*ṛṣi*) carrying the name Maṇḍūka.
+
+---
+
+## Etymology
+
+Grammatically, *māṇḍūkya* (माण्डूक्य) functions as a masculine or neuter adjective used as a proper noun (*māṇḍūkyam* / *māṇḍūkya-upaniṣad*). It is formed through secondary nominal derivation (*taddhita*) from the nominal stem *maṇḍūka* (मण्डूक, "frog" or the proper name of a Vedic sage):
+
+1. **Base Stem**: *Maṇḍūka* (मण्डूक), a masculine noun. In Vedic teacher genealogies (*vaṃśa*), such as that preserved in the *Bṛhadāraṇyaka Upaniṣad* (VI.5.4), related patronymic lineages such as *Māṇḍūkayani* and *Māṇḍūkeya* are explicitly recorded.
+2. **Suffixation and Vṛddhi**: The term is formed by adding the patronymic/relational secondary suffix *-ya* (या) or *-ṇya*, which induces *vṛddhi* (first-degree lengthening) of the initial vowel *a* to *ā* in the first syllable (*ma-* → *mā-*), yielding *māṇḍūkya* ("belonging to the descendants or school of Maṇḍūka").
+3. **Cognate Derivatives**: Related grammatical derivatives in classical lexicography (such as Macdonell's *Sanskrit-English Dictionary*) include *māṇḍūka* (माण्डूक, "derived from the Maṇḍūkas; a Vedic school"), *māṇḍūkāyana* (माण्डूकायन, "a school of the Maṇḍūkas"), and *māṇḍūkeya* (माण्डूकेय, "patronymic descendant of Maṇḍūka").
+
+While the derivation of *māṇḍūkya* from *maṇḍūka* via *vṛddhi* suffixation is well established in Sanskrit grammar (*vyākaraṇa*), the ultimate etymological root of the underlying nominal stem *maṇḍūka* itself remains uncertain in formal linguistics. Traditional sources link it onomatopoetically to the verbal sound *maka-makāya* ("to croak") or to the root *maṇḍ* ("to adorn" or "gladden"), but these remain speculative derivations rather than strictly established root etymologies.
+
+---
+
+## References
+
+- Kale, M. R. (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Delhi: Motilal Banarsidass.
+- Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co. (Headwords: *maṇḍūka*, p. 213, col. 3; *māṇḍūka*, p. 224, col. 2).
+- Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary*. Mysore: Sri Ramakrishna Ashrama.
+- Nikhilananda, S. (Trans.). (1955). *The Upanishads: A New Translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. London: Phoenix House.
+- Nikhilananda, S. (Trans.). (1956). *The Upanishads: A New Translation (Volume III: Aitareya and Bṛhadāraṇyaka)*. London: Phoenix House. (p. 97).
+- Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies (Volume III: Advaita Vedānta up to Śaṅkara and His Pupils)*. Princeton, NJ: Princeton University Press / Delhi: Motilal Banarsidass. (p. 14).
+- Williams, M. (1877). *A Practical Grammar of the Sanskrit Language Arranged with Reference to the Classical Languages of Europe for the Use of English Students*. Oxford: Clarendon Press.

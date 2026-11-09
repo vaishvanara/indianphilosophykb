@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Makāra (मकार)"
 devanagari: "मकार"
 iast: "Makāra"
@@ -12,17 +12,74 @@ aliases:
 Meaning: "the letter M"
 See: [Mandukya Upanishad (Verses 8, 11)](mandukyopanisat.md)
 
-**Translation by Swami Sharvananda**
-Sanskrit: मकार 
-Transliteration: Makāra
-Meaning: "the letter M"
-Commentary: " it marks the completion of the three relative states of consciousness even as M completes the sound Om. So, in one sense, it determines the other two states."
+## Meaning
 
-**Translation by Swami Krishnananda**
-Sanskrit: मकार 
-Transliteration: Makāra
-Commentary: "There is, then, the comparison between Makāra and the deep sleep state of consciousness. Suṣupta-Sthānaḥ Prājño Makāras-Tṛtīya Mātrā: Makāra is the third Mātrā of Om, and it is comparable with Prājña, the third state, causal, of the Ātman. Miter-Apīter-Vā: It is the measure of all things, and it is the dissolver of all things. When we chant Om, Akāra and Ukāra merge in Makāra, as all the impressions of waking and dream merge in Prājña, deep sleep, the causal state. Just as you end the chant with Makāra, you end all experience in deep sleep; and as you can repeat the chant subsequent to the closure of the recitation by Makāra, waking life commences once again as an offshoot of the deep sleep state, which is the cause of waking. Deep sleep can be called the cause of waking in one sense, the effect of it in another sense. The waking is due to the agitation of the unfulfilled impressions lying buried in the deep sleep state. In this sense we may say that waking is an effect of the state of deep sleep. Deep sleep is the cause, and all experiences in waking and dream are its effects. As Īśvara is the cause of all things, the deep sleep state seems to be the cause of our waking and dreaming, in one sense, namely, that we wake up from sleep on account of unfulfilled desires. If all our desires are fulfilled, we would not be waking up from sleep, at all. Why should we wake up? What is the purpose? There is something unfulfilled, unexecuted, and therefore we wake up. The Prārabdha-Karma agitates, urges us into activity, and wakes us up into the world of objects. Thus, in one sense, Prājña (sleep) is the cause of experience through Viśva (waking) and Taijasa (dreaming). But, in another sense, Prājña may be regarded as the effect, because Prājña is nothing but that state of consciousness where all the impressions, unfulfilled, unmanifested, lie latent, and these impressions are nothing but the consequences of perception and experience in the waking state. In that sense, the condition of deep sleep is an effect of waking. Makāra is of that nature in Om. We may say that the chant commences with Makāra or closes with Makāra, as in the series of chants of Om. Just as we can have a series of chants or recitations of Praṇava, we have a series of waking and sleeping, and waking and sleeping. The sleep state measures (Miteḥ) all things in the sense that the waking and dreaming experiences are determined by the impressions that are there as Sañcita-Karma in the Ānandamaya-Kośa (causal state), manifesting itself in the sleep state. The Sañcita-Karma are those group of unfulfilled Saṃskāra and Vāsanas which are there in the state of deep sleep, Prājña, and which sprout forth shoots in the form of experiences in waking and dream. In this sense we measure our experiences in terms of tendencies present in the deep sleep state. The dream and the waking experiences are measured by the potencies already present in the state of sleep, as unfulfilled Vāsanas and Saṃskāra. It is, therefore, the measure (Miti) of experience. And so is Makāra regarded as the container of the processes of chants. Just as the contained is supported by the container, Akāra and Ukāra seem to be contained in Makāra with which one closes the chant. Just as all experiences get submerged in the deep sleep state, even as all our efforts cease when we go to sleep, the recitation of Praṇava ceases when Makāra commences. ‘A’ and ‘U’, merge themselves in ‘M’. Minoti Ha Vā Idaṃ Sarvaṃ: One, who meditates thus, has the capacity to measure all things, that is, to know everything – he becomes Sarvajña. He becomes Īśvara Himself. He becomes the measure of all things; he becomes the yardstick for the cognition of everything in creation. Everything is referred to him; he does not refer himself to other things. He becomes the reference for the whole of creation, the centre of all experience in the cosmos. Apītiś-Ca Bhavati: Everything merges in him; as the verse in the second chapter of the Bhagavad Gītā says, everything enters into him, as rivers enter the ocean. Īśvara is the Merger of all creation, and when you become Īśvara, the whole creation merges in you. You realise this state by this meditation on the unity of Makāra and Prājña, the causal state of Praṇava and the causal state of Consciousness, both individually and cosmically."
+In the *Māṇḍūkya Upaniṣad*, *makāra* (मकार) denotes the letter 'm', the third *mātrā* of *AUM*, symbolizing *Prājña* and the state of deep sleep (*suṣupti*).
 
-References:
-1. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-2. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 95-97.
+## Definition
+
+*Makāra* (मकार) is a Sanskrit grammatical and phonetic designation for the labial nasal sound *m* (म्). In classical linguistic analysis, the suffix *-kāra* is appended to an individual letter or sound to denote its explicit name or pronunciation. Contextually within the *Māṇḍūkya Upaniṣad*, *makāra* signifies the third constituent letter or measure (*mātrā*) of the sacred monosyllable *AUM* (ॐ), succeeding *akāra* ('a') and *ukāra* ('u'). 
+
+Phonetically, *makāra* represents the closing nasal resonance of the audible chant before it subsides into silence. Philosophically, the *Māṇḍūkya Upaniṣad* equates *makāra* with the third quarter (*pāda*) of the Self (*Ātman*), designated as *Prājña*—the manifestation of consciousness in dreamless deep sleep (*suṣupti*) where all empirical distinctions merge into an undifferentiated causal state (*kāraṇa*).
+
+## Etymology
+
+The expression *makāra* (मकार) is a compound term formed in Sanskrit grammar by combining:
+1. The base phoneme *ma* (म / म्), the labial nasal stop.
+2. The primary nominal suffix *-kāra* (कार), derived from the verbal root *kṛ* (कृ, "to do" or "to make"), used extensively in Sanskrit to denote a specific sound, letter, or vocalization (e.g., *akāra*, *ukāra*, *gaka-kāra*).
+
+In formal Sanskrit grammar (*vyākaraṇa*), as documented in standard traditional treatises, *makāra* functions as a masculine noun (*makāraḥ*). Etymologically, it denotes "the sound or letter *m*." In Vedic metrics (*chandas*) and phonetics (*śikṣā*), it designates the terminal labial closure that concludes the triple-mātrā structure of *Oṁkāra* prior to its resolution into the soundless (*amātra*) state.
+
+## Makāra in the Māṇḍūkya Upaniṣad
+
+In the *Māṇḍūkya Upaniṣad*, *makāra* occurs in Mantra 11, which forms part of the systematic mapping between the letters (*mātrā*) of *AUM* and the quarters (*pāda*) of the Self (*Ātman*):
+
+> *suṣuptasthāno prājño makāro tṛtīyā mātrā miter apīter vā minoti ha vā idaṁ sarvam apītiśca bhavati ya evaṁ veda* (Māṇḍūkya Upaniṣad, 11)
+
+The text correlates the three audible sounds of *AUM* to the three states of empirical consciousness:
+- *akāra* ('a') corresponds to *Viśva*, the waking state (*jāgaritasthāna*).
+- *ukāra* ('u') corresponds to *Taijasa*, the dream state (*svapnasthāna*).
+- *makāra* ('m') corresponds to *Prājña*, the state of deep sleep (*suṣuptasthāna*).
+
+The Upaniṣad establishes the equivalence between *makāra* and *Prājña* through two contextual grounds of comparison (*sāmānya* or *nimitta*):
+
+1. **Miti** (मिति, "measuring" or "cognition"): Just as a standard measure (such as a *prastha*) measures grain, *makāra* measures or bounds the preceding letters *akāra* and *ukāra* during the pronunciation of *AUM*. When reciting *AUM*, the sound *m* marks the completion and limit of the prior vocalic sounds. Analogously, in Advaita Vedāntic psychology, the state of deep sleep (*Prājña*) "measures" or circumscribes the emergence and subsidence of the waking (*Viśva*) and dream (*Taijasa*) states.
+2. **Apīti** (अपीति, "dissolution", "merging", or "reabsorption"): In pronouncing *AUM*, the initial vocalic sounds *a* and *u* dissolve into the final nasal sound *m*. Similarly, upon entering deep sleep, all gross and subtle dualities, mental modifications (*manovṛtti*), and sensory perceptions of the waking and dream states dissolve into an undifferentiated mass of consciousness (*prajñānaghana*) within *Prājña*.
+
+The Upaniṣad states that one who meditates on this identity achieves a spiritual fruit (*phala*): "He measures all this (*minoti ha vā idaṁ sarvam*) and becomes the place of dissolution for all (*apītiśca bhavati*)"—meaning he comprehends the manifestation and reabsorption of the cosmos within the Self.
+
+Śaṅkarācārya, in his *Māṇḍūkyopaniṣad-bhāṣya*, explains that *makāra* represents the causal state (*kāraṇa*), which retains the latent seed (*bīja*) of ignorance (*avidyā*) and potential desire. However, *makāra* is not the final goal; it serves as the ultimate phonetic boundary that leads the aspirant to *Amātra* (the soundless Fourth or *Turīya*, Mantra 12), which is non-dual (*advaita*), peaceful (*śānta*), and beyond all causation.
+
+## Interpretations and Disputes
+
+1. **Causal Seed vs. Ultimate Reality**:
+   A primary point of exegesis in Vedāntic literature is whether *makāra* (*Prājña* / *suṣupti*) represents the ultimate state or a subordinate causal state. Gauḍapāda, in his *Gauḍapādīya Kārikā* (1.11–1.15), explicitly distinguishes *Prājña* from *Turīya*. Gauḍapāda notes that while *Viśva* and *Taijasa* are bound by both cause and effect (non-apprehension and misapprehension of Reality), *Prājña* (represented by *makāra*) is bound by cause alone (*bīja-baddha* / *kāraṇa*). In contrast, *Turīya* is free from both cause and effect. Advaita tradition emphasizes that *makāra* embodies the unmanifested causal seed state (*bīja-bhāva*), whereas full liberation requires transcending *makāra* into the soundless *amātra* (*Turīya*).
+
+2. **Pedagogical Upāsanā vs. Ontological Identity**:
+   Śaṅkara clarifies that the mapping of *A*, *U*, and *M* to the states of waking, dream, and deep sleep is a pedagogical method of superimposition and rescission (*adhyāropa-apavāda*) designed for meditation (*upāsanā*). By progressively merging *akāra* into *ukāra*, and *ukāra* into *makāra*, the seeker resolves outer and inner experiences into their causal source, ultimately dissolving *makāra* into the unconditioned Self (*Turīya*).
+
+3. **Phonetic Distinction: Makāra vs. Makara**:
+   Lexicographical works (such as Macdonell's *Sanskrit-English Dictionary*) note the necessity of distinguishing *makāra* (मकार, with long *ā*, "the letter 'm'") from *makara* (मकर, with short *a*, denoting a mythical sea-creature or aquatic animal). For instance, in the *Bhagavad Gītā* (10.31, *jaṣāṇāṁ makaraścāsmi*), the text refers to *makara*, which is entirely distinct from the phonetic term *makāra* employed in the *Māṇḍūkya Upaniṣad*.
+
+## Related Terms
+
+- Akāra (अकार)
+- Amātra (अमात्र)
+- Apīti (अपीति)
+- Miti (मिति)
+- Oṁkāra (ओंकार)
+- Prājña (प्राज्ञ)
+- Suṣupti (सुषुप्ति)
+- Taijasa (तैजस)
+- Turīya (तूरीय)
+- Ukāra (उकार)
+- Viśva (विश्व)
+
+## References
+
+- Kale, Moreshwar Ramchandra (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Delhi: Motilal Banarsidass.
+- Macdonell, Arthur A. (1893). *A Sanskrit-English Dictionary*. London: Longmans, Green, and Co.
+- Nikhilananda, Swami (Trans.) (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary*. Mysore: Sri Ramakrishna Ashrama.
+- Nikhilananda, Swami (Trans.) (1955). *The Upanishads: A New Translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. London: Phoenix House.
+- Potter, Karl H. (Ed.) (1981). *Encyclopedia of Indian Philosophies (Volume III: Advaita Vedānta up to Śaṅkara and His Pupils)*. Princeton, NJ: Princeton University Press / Delhi: Motilal Banarsidass.
+- Williams, Monier (1877). *A Practical Grammar of the Sanskrit Language*. Oxford: Clarendon Press.

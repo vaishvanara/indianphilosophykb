@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Ukāra (उकार)"
 devanagari: "उकार"
 iast: "Ukāra"
@@ -12,18 +12,82 @@ aliases:
 Meaning: "the letter U"
 See: [Mandukya Upanishad (Verses 8, 10)](mandukyopanisat.md)
 
-**Translation by Swami Sharvananda**
-Sanskrit: उकार 
-Transliteration: Ukāra 
-Meaning: "the letter U"
-Commentary: "the common feature between the dreaming state and the letter U lies in their both being intermediary, one between the two states – the awakened and the deep sleep, and the other between the two letters A and M. The superiority is in the sense of subtleness."
+## Meaning
 
-**Translation by Swami Krishnananda**
-Sanskrit: उकार 
-Transliteration: Ukāra 
-Meaning: "the letter U"
-Commentary: "Ukāra is the second syllable of Om, which can be compared with the second Pāda or foot of the Ātman. The Ukāra is regarded as Utkarṣa or elevated in the sense that it is beyond Akāra, proceeds after Akāra. In the series of the letters of the alphabet, ‘U’ comes after, as an effect, as it were, of the pronunciation of Akāra; and while Akāra may be regarded as the commencement of language, Ukāra is the middle of all vowel-formations. When you utter ‘U’, you find that the middle of the throat begins to function. It is elevated, symbolically, says the Upaniṣad, in the sense that it is above Akāra in the process of word-formation. So also is Taijasa or dream-consciousness that comes afterwards as an effect of the waking experience; proceeding from the waking experience, existing midway between waking and sleep. Ubhayatvādvā; It is Ubhaya, or both, in the sense that it has two sides, namely, waking and sleep, from the point of view of the Pāda of the Ātman, and it is between Akāra and Makāra, from the point of view of the Mātrās, or syllables, of Oṃkāra. Thus we can compare, in meditation, Ukāra with Taijasa, the dreaming consciousness. These comparisons are made by the Upaniṣad to help one in meditation, so that one can bring Oṃkāra in juxtaposition with the states of the Ātman. All these comparisons are symbolic, and we should not take them literally. All meditations are symbolic; all Vidyā of the Upaniṣad are symbolic, as the comparison of Brahman to the rope and the world to the snake seen in the rope, in the analogy of the snake-in-the-rope, is symbolic. When you say, Brahman is like the rope, it does not mean that Brahman is long like the rope. The analogy is limited to the symbology intended; and likewise we have to take this comparison as a symbology to help meditation on the unity of all names and forms, comprehended in the unity of Oṃkāra with the Ātman in all its phases. Thus, Ukāra being elevated above Akāra, existing midway between Akāra and Makāra, is comparable with the dreaming state, which is elevated above the waking state as an effect of it, and exists between the waking and the deep sleep states. Utkarṣati Ha Vai Jñāna-Santatiṃ: And one who meditates in this manner, rises in his status of knowledge. As ‘U’ is raised over ‘A’, and dream is raised over waking, the knowledge of the meditator rises above all the ordinary informative understanding of the schools of thought. He becomes a real knower, a Jñānin, by a meditation on the unity of Ukāra with the Taijasa. Samānaś-Ca Bhavati: Just as there is an equilibrating effect of Taijasa in relation to the waking and sleep states, in the sense that it is conscious like waking, and yet not externally conscious in the same sense, just as there is an equalising effect of Ukāra between Akāra and Makāra, one who meditates thus becomes an equalising factor in society and in all creation. One becomes a harmonising element everywhere. There is no conflict in one’s mind, then, and one does not create conflict in society when established in this meditation. One has peace within oneself, and creates peace outside, too, on account of the radiance of peace emanating from oneself. The meditator becomes a spontaneous peace-maker. His existence itself is a peace-making. He need not say anything in the world. In his presence, conflict cannot arise, and turmoil ceases, vexations and emotional tensions come to a close on account of meditation practised thus as an equalising factor of consciousness between waking and deep sleep through the syllable ‘U’ of Ukāra, says the Upaniṣad. Not only that; Nāsyā-Brahma-Vit-Kule Bhavati – so purifying is this meditation, such an effect it has upon the meditator and all those connected with him, that in his family no one who does not know Brahman can be born. He will have only Brahmavid in his family on account of the effect of this meditation. His blood gets purified so much, the very cells of his body are charged with this super-physical knowledge to such an extent, that an idiot child cannot be born to him. What is a child after all? It is you, yourself, reborn. Ātmā Vai Putranāmā Asi: You yourself are reborn, as your child, in some other form; and your knowledge will be communicated to the child, and because of this meditation, when it takes effect, you become flooded with knowledge; you become knowledge itself. Rather, it is not your body that is reborn; it is knowledge that is reborn. You do not merely pass on the chromosomes or blood-cells in the birth of a child, but you pass knowledge. You get inundated with spiritual knowledge to such an extent that you cease to be a mere physical body. The physical body vibrates as a body of knowledge. Such is the power of this knowledge. The family is nothing but the generation of your children, which, the Upaniṣad says, should be one of knowledge alone. Therefore, your generation, your posterity shall be a series, not of bodily children, but children of knowledge – Amritasya Putrāh. Such is the glory of this meditation."
+In the Māṇḍūkya Upaniṣad, *ukāra* (उकार) denotes the letter *u*, the second mora of AUM, representing Taijasa and the dream state (svapnasthāna).
 
-References: 
-1. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-2. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 93-95.
+## Definition
+
+The term *ukāra* (उकार) designates the second vocalic element of the sacred monosyllabic sound *AUM* (ॐ, *praṇava*). In classical Sanskrit linguistics and Vedāntic exegesis, the term is a technical expression formed by attaching the naming affix *-kāra* (कार) to the vocalic phoneme *u* (उ). While general Sanskrit usage employs *-kāra* to name any individual vowel or consonant, the *Māṇḍūkya Upaniṣad* contextualizes *ukāra* as a structural and meditative component of the cosmic sound *AUM*. 
+
+Within the esoteric framework of the *Māṇḍūkya Upaniṣad*, *ukāra* is defined as the second *mātrā* (phonetic measure or mora) that bridges the initial letter *a-kāra* (अकार) and the final nasal consonant *ma-kāra* (मकार). Phenomenologically and philosophically, it symbolizes *Taijasa* (तैजस, the luminous self), the second quarter (*pāda*) of *Ātman* operating within *svapnasthāna* (स्वप्नस्थान), the dream state of consciousness.
+
+## Etymology
+
+The Sanskrit term *ukāra* (उकार) is formed by combining the vowel element *u* (उ) with the nominal suffix *kāra* (कार). Grammatically, *kāra* is a primary derivative generated from the Sanskrit verbal root $\sqrt{k\bar{r}}$ (कृ, meaning "to do," "to make," or "to produce") combined with the primary suffix *ghañ* (घञ्), yielding a noun that signifies "action," "making," or "sound." In classical Sanskrit grammar, as systematized by Pāṇini and explained in Moreshwar Ramchandra Kale's *A Higher Sanskrit Grammar* as well as Monier Williams's *A Practical Grammar of the Sanskrit Language*, appending *-kāra* to a vocalic or consonantal sound serves as a standard affixual mechanism to convert an isolated phoneme into an uninflected noun naming that specific sound (e.g., *a* + *kāra* = *a-kāra*; *u* + *kāra* = *u-kāra*; *m* + *kāra* = *ma-kāra*).
+
+Phonetically and sandhi-wise, as detailed in Arthur A. MacDonell's *A Sanskrit-English Dictionary*, the vowel *u* is a short high back rounded vowel. Within the vocalic synthesis of the sacred syllable *AUM*, *u-kāra* undergoes *guṇa* sandhi when following the open primary vowel *a-kāra* (*a* + *u* $\rightarrow$ *o*), which, when articulated together with the final labial nasal *ma-kāra*, forms the single audible diphthongal sound *Om*.
+
+## Ukāra in the Māṇḍūkya Upaniṣad
+
+In the *Māṇḍūkya Upaniṣad*, the expression *ukāra* appears in Mantra 10, which establishes the meditative equivalence between the second quarter (*pāda*) of *Ātman* and the second mora (*mātrā*) of *AUM*:
+
+> *svapnasthāno taijaso 'ukāra' dvitīyā mātrā utkarṣād ubhayatvādvā, utkarṣati ha vai jñānasantatiṁ samānaśca bhavati, nāsyābrahmavit kule bhavati ya evaṁ veda.*  
+> ("Taijasa, whose sphere of activity is the dream state, is *U* [*ukāra*], the second letter of AUM, on account of superiority [*utkarṣa*] or on account of being in between the two [*ubhayatva*]. He who knows this attains to a superior knowledge, is treated equally by all alike, and finds no one in his line who is not a knower of Brahman.")
+
+In the structural sequence of the Upaniṣad, Mantra 9 correlates the first state, *Viśva* or *Vaiśvānara* (waking consciousness), with *a-kāra* on account of pervasiveness (*āpti*) and being first (*ādimattva*). Mantra 10 moves inward to correlate *Taijasa* (dream consciousness) with *ukāra*. Mantra 11 subsequently correlates *Prājña* (deep sleep consciousness) with *ma-kāra* on account of measuring (*miti*) and merging (*apīti*). Finally, Mantra 12 presents *Amātra* (the soundless, partless *AUM*) as identical to *Turīya* (the Fourth, non-dual Reality).
+
+The Upaniṣad articulates two specific grounds of resemblance (*sāmānya*) that justify the meditation upon *Taijasa* as *ukāra*:
+
+1. **Utkarṣa (उत्कर्ष — Superiority or Elevation)**: The term *utkarṣa* is derived from the prefix *ud-* ("up," "out") and the root $\sqrt{k\bar{r}\mathit{\check{s}}}$ ("to draw," "to pull"), literally meaning elevation, exaltation, or drawn upwards. Phonetically, *u* is articulated higher in the vocal tract than the open guttural *a*. Phenomenologically, *Taijasa* is superior to *Viśva* because *Taijasa* perceives subtle mental impressions (*vāsanā*) illuminated by internal light without reliance on physical sense-organs, whereas *Viśva* remains bound to gross external objects.
+2. **Ubhayatva (उभयत्व — Intermediate Position or Dual Relation)**: Derived from *ubhaya* ("both" or "intermediate"), *ubhayatva* denotes the condition of standing in the middle. Phonetically, *ukāra* occupies the central position between *a-kāra* and *ma-kāra*. Phenomenologically, *Taijasa* occupies the middle state between *Viśva* (waking) and *Prājña* (deep sleep).
+
+Gauḍapāda explicates these two grounds in Book One (*Āgama Prakaraṇa*) of his *Māṇḍūkyakārikā* (Verse 1.20):
+> *utkarṣād ubhayatvādvā taijasasyokārasampratipattau |*  
+> ("The clear ground of realizing Taijasa as of the same nature as U is the common feature of 'superiority' [utkarṣa]. Similarly another plain reason of such identity is being in 'the middle' [ubhayatva].")
+
+Gauḍapāda further emphasizes the soteriological function of meditating on *ukāra* in *Kārikā* 1.23:
+> *akāro nayate viśvam ukāraś cāpi taijasam | makāraśca punaprājñam amātre nāsty agatiḥ ||*  
+> ("The letter A helps its worshipper to attain to Viśva, U to Taijasa, and M to Prājña. In the 'Soundless' [Amātra] there is no attainment.")
+
+Śaṅkarācārya, in his *Māṇḍūkyopaniṣad-bhāṣya*, clarifies that *Taijasa* represents consciousness aware of internal mental states (*antaḥprajña*). Śaṅkara notes that when *ukāra* is meditated upon as *Taijasa*, the practitioner's continuum of knowledge (*jñāna-santati*) expands, enabling them to perceive friendship and enmity with equal poise (*samāna*), ensuring that spiritual illumination persists within their lineage.
+
+#### Advaita Vedānta Interpretation
+In Advaita Vedānta as expounded by Gauḍapāda and Śaṅkarācārya, *ukāra* serves as an intermediate symbol (*upāsanā-pratīka*). The mapping (*sampratipatti*) of *ukāra* to *Taijasa* guides the seeker from gross external identification (*Viśva*) to subtle internal awareness (*Taijasa*), preparing the mind to dissolve causal nescience (*Prājña*) and realize the unconditioned, partless *Turīya* (*Amātra*).
+
+#### Dvaita and Viśiṣṭādvaita Perspectives
+As documented in Karl H. Potter's *Encyclopedia of Indian Philosophies* (Vol. 3), non-Advaitic schools interpret the constituent letters of *AUM* through personalistic theology. In Dvaita Vedānta (Madhva) and Viśiṣṭādvaita Vedānta (Rāmānuja), *a-kāra*, *u-kāra*, and *ma-kāra* represent distinct divine manifestations (such as Vāsudeva, Pradyumna, and Aniruddha) or specific cosmic functions of Viṣṇu, rather than temporary illusory states (*upādhi*) to be sublated in partless non-dual consciousness.
+
+## Interpretations and Disputes
+
+Textual and historical scholarship on the *Māṇḍūkya Upaniṣad* highlights several key areas of debate regarding *ukāra* and its overarching text:
+
+1. **Textual Status of Upaniṣad Mantras versus Kārikās**: As detailed by Karl H. Potter, a long-standing debate concerns whether the prose mantras of the *Māṇḍūkya Upaniṣad* and the first twenty-nine verses of Gauḍapāda's *Kārikās* constitute separate works. Advaita tradition (Śaṅkara, Ānandagiri) treats the prose mantras as Vedic *śruti* and Book One of the *Kārikās* as a commentary (*Āgama Prakaraṇa*). Conversely, Dvaita (Madhva) and Viśiṣṭādvaita (Rāmānuja) traditions viewed the *Kārikās* themselves as revealed scripture (*śruti*). Modern scholars such as Vidhusekhara Bhattacharya and B. N. Krishnamurti Sarma argued that the *Kārikās* predated the prose Upaniṣad, a thesis that remains contested by traditional Vedāntins.
+2. **Authenticity of Śaṅkara's Commentary**: Modern scholars including Paul Hacker, Sengaku Mayeda, and Daniel Ingalls have examined the authenticity of the *Māṇḍūkyopaniṣad-bhāṣya* (and *Gauḍapādīyakārikā-bhāṣya*) attributed to Śaṅkarācārya. Utilizing criteria such as the usage of *avidyā* as superimposition (*adhyāsa*) and the theory of seed (*bīja*) and substratum (*āspada*), Hacker and Mayeda affirm Śaṅkara's authorship, whereas critics like Majumdar argued that differences in the handling of Buddhist terminology suggest a distinct author.
+3. **Exegetical Rendering of Utkarṣa and Ubhayatva**: Translators and commentators differ subtly in rendering the two common grounds (*sāmānya*). Swami Nikhilananda translates *utkarṣa* as "superiority" and *ubhayatva* as "being in between the two," emphasizing the cognitive elevation of dream impressions over physical matter. Max Müller and Swami Gambhirananda translate *utkarṣa* as "exaltation" or "rising," highlighting the phonetic ascent of the vocalic tone from *a* to *u*.
+
+## Related Terms
+
+- Akāra (अकार)
+- Amātra (अमात्र)
+- Antaḥprajña (अन्तःप्रज्ञ)
+- AUM (ॐ)
+- Makāra (मकार)
+- Mātrā (मात्रा)
+- Prājña (प्राज्ञ)
+- Praṇava (प्रणव)
+- Svapnasthāna (स्वप्नस्थान)
+- Taijasa (तैजस)
+- Turīya (तूरीय)
+- Ubhayatva (उभयत्व)
+- Utkarṣa (उत्कर्ष)
+- Viśva (विश्व)
+
+## References
+
+1. Kale, Moreshwar Ramchandra. (1918). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Bombay: Gopal Narayen & Co.
+2. MacDonell, Arthur A. (1893). *A Sanskrit-English Dictionary*. London: Longmans, Green and Co.
+3. Monier-Williams, Monier. (1877). *A Practical Grammar of the Sanskrit Language* (4th ed.). Oxford: Clarendon Press.
+4. Nikhilananda, Swami (Trans.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Ashrama. (Māṇḍūkya Upaniṣad, Mantra 10, pp. 76–78; Gauḍapāda Kārikā 1.20, 1.23, pp. 79–81).
+5. Nikhilananda, Swami (Trans.). (1955). *The Upanishads: A New Translation* (Vol. II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary). New York: Harper & Brothers. (Māṇḍūkya Upaniṣad, Mantra 10, pp. 223–236).
+6. Potter, Karl H. (Ed.). (1981). *Encyclopedia of Indian Philosophies, Volume III: Advaita Vedānta up to Śaṁkara and His Pupils*. Delhi: Motilal Banarsidass. (Discussion of Gauḍapāda, Māṇḍūkya Upaniṣad, and Māṇḍūkyakārikābhāṣya, pp. 103–105, 308–312).

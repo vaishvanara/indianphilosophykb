@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Yoniḥ (योनिः)"
 devanagari: "योनिः"
 iast: "Yoniḥ"
@@ -12,23 +12,29 @@ aliases:
 Meaning: "womb"
 See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
 
-**Definition from A Concise Dictionary of Indian Philosophy (John Grimes)**
-Sanskrit: योनि
-Transliteration: Yoni 
-Meaning: "womb; source; type"
+## Meaning
 
-**Translation by Swami Sharvananda**
-Sanskrit: योनिः 
-Transliteration: Yoniḥ 
-Meaning: "the cause "
+[Meaning: "womb, lap, birthplace, origin, source, material cause, or abode"]
 
-**Translation by Swami Krishnananda**
-Sanskrit: योनिः 
-Transliteration: Yoniḥ 
-Meaning: "the womb"
-Commentary: "Eṣa Yoniḥ Sarvasya: He is the womb of all things. All things come from Him as the tree comes from a seed. The tree may be vast in its extent in space; yet, it is all hidden in its potentiality in the seed. The future structure or the shape and the nature of the tree are already determined by the content of the seed. It is not that some new thing comes up when there is germination of the seed. Whatever was in the seed, that alone comes out in the form of an effect, namely, the plant, and the tree. The universe is Self-determined in the sense that it is already contained and fully present in the Being of the Causal State, Īśvara. Thus, in a cosmic sense, we may say that everything is determined forever. No change can be brought about in the cosmos by effort of any kind, because all the efforts are the activities of the Jīva whose existence and function are controlled by the seed, namely, Īśvara, from whom all this comes. Omniscience includes knowledge of the future, and if the future is going to be indetermined there cannot be any such thing as omniscience. We cannot say that the future can be changed by individual effort, and the so-called change that we try to introduce in the future is already known to Īśvara, and all our efforts of the future are determined by the Will of Īśvara. So, while there is freedom of choice from the point of view of the Jīva, it is determination from the point of view of the Will of Īśvara. While we seem to change society, God knows already the changes that we are going to introduce, the ‘why’ and the ‘how’ of it. Thus, it is cosmic determination from the point of view of Īśvara, but from the standpoint of the activities of the Jīva, it appears to be a process of change with an indeterminate future. God, Īśvara, therefore, is All-powerful, All-knowing, the seed of all things, the beginning and the end of everything."
+---
 
-References:
-1. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-2. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-3. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 78-79.
+## Definition
+
+Literally, the Sanskrit noun ***yoniḥ*** denotes the **lap, vulva, or womb**. In ordinary and extended lexical usage, it signifies a **birthplace, home, abode, nest, lair, place of production, origin, source, repository, receptacle, seat, place, form of existence (birth), race, family, or caste**. When employed as the final member of a compound word, it carries the adjectival sense of **"produced from" or "sprung from"**. 
+
+In the metaphysical context of the ***Māṇḍūkya Upaniṣad*** (Mantra 6), ***yoniḥ*** (*yoniḥ sarvasya*) is used in an extended figurative sense to designate the Supreme Lord (***Īśvara*** or ***Prājña***) as the **cosmic origin, source, and material cause** from which all diverse entities proceed and into which all created beings dissolve at the time of cosmic dissolution. Within Advaita Vedānta philosophy, ***yoniḥ*** functions as a technical designation for the **material cause** (*upādāna-kāraṇa*), illustratively compared to the earth serving as the generative womb and material source of plants and trees.
+
+---
+
+## Etymology
+
+Grammatically, ***yoniḥ*** is a noun occurring in both **masculine and feminine genders**. In early Vedic literature, specifically within the *Ṛgveda*, the term appears exclusively as masculine, whereas its feminine inflection is rare in Vedic texts. Etymologically, established lexicographical tradition derives ***yoniḥ*** from the Sanskrit verbal root ***yu*** (√1 *yu*), carrying the primary structural sense of **"holder"**.
+
+---
+
+## References
+
+1. MacDonell, A. A. (1892). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Headword: *yoni*, p. 248, col. 2).
+2. Nikhilananda, Swami (Trans.). (1949). *The Māṇḍūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Sri Ramakrishna Math. (Commentary on Mantra 6, pp. 34–35).
+3. Śaṅkarācārya. (1890). *The Vedānta Sūtras (Part 1)* (G. Thibaut, Trans.). Clarendon Press. (Commentary on Sūtra I.4.27, p. 288).
+4. Sivananda, Swami. (1949). *Brahmasūtra: Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary*. The Divine Life Society. (Commentary on Sūtra I.4.27, p. 133).

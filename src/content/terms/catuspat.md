@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Catuṣpāt (चतुष्पात्)"
 devanagari: "चतुष्पात्"
 iast: "Catuṣpāt"
@@ -13,21 +13,44 @@ aliases:
 Meaning: "four quarters"
 See: [Mandukya Upanishad (Verse 2)](mandukyopanisat.md)
 
-**Definition from A Sanskrit-English Dictionary (Monier-Williams)**
-Transliteration: Catuṣpad
-Meaning: "divided into four parts"
+## Meaning
 
-**Translation by Swami Sharvananda**
-Sanskrit: चतुष्पात् 
-Transliteration: Catuṣpāt 
-Meaning: "four-footed"
- 
-**Definition by Swami Krishnananda**
-Commentary: "The four quarters of the Ātman described in the Māṇḍūkya Upaniṣad are the four aspects in the study of the Ātman, and not four distinguishable, partitioned quarters of the Ātman. These quarters, these four aspects in the study of the nature of the Ātman, which are the main subject of the Māṇḍūkya Upaniṣad, are also a process of self-transcendence. The whole scheme is one of analysis and synthesis and also transcendence of the lower by the higher. This Māṇḍūkya Upaniṣad itself is an exhaustive study of the Vedānta, because, in a few words, phrases or sentences, it states what our primary duty in life is – a transcendence of the lower by the higher by way of analysis, excluding nothing, but including everything, is the way to synthesis. We enter into an analytical process by self-transcendence, because synthesis, by itself alone, is not sufficient. If you total up all particulars into a synthesis of unity, you may get the vast physical cosmos. You may think: this is Brahman. To remove this misconception, the Upaniṣad introduces the subject of self-transcendence. You have not only to total up the entire visible universe into a single unity and take it as one substance, but also transcend the nature of this total unity, because the physical character of the universe is not the essential nature of Brahman. Brahman is not physical, not even the universal physical which is the cosmos. So, we have to transcend it, step by step. Four steps are stated. These are the four feet referred to in the Upaniṣad, the four stages of self-transcendence.
+Literally "four-footed" or "quadruped"; in Vedāntic usage, "having four quarters" or four states of manifestation.
 
-We have attained to a unity by bringing together all particulars into the universal. Now we transcend even the universal physical for the sake of the attainment of the universal psychic or the astral; transcend that also, later, and then reach the universal causal; and transcend that, too, further, and reach the Universal Spiritual, the Spiritual which we cannot designate even as the universal. We have only to call it the Absolute. So, we have the physical, the subtle, the causal and the Spiritual. These are the four feet of the Ātman, or rather, four aspects of the study of the nature of the Ātman, four stages of self-transcendence described in the Upaniṣad. These four stages are called Jāgrat, Svapna, Suṣupti and Turīya – the waking state, the dreaming state, the sleeping state, and the transcendent spiritual state. There are the four states of Consciousness, and a study of Consciousness is the same as the study of the Absolute or Brahman, because Brahman is Consciousness."
+---
 
-References:
-1. Monier-Williams, Monier (1899). A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages. Oxford: Clarendon Press 
-2. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-3. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html. p. 38-39.
+## Definition
+
+Lexically, *catuṣpāt* (also occurring as *catuṣpād* or *catuṣpad*) denotes "four-footed" or "quadruped," referring literally to an animal possessing four feet, or to anything consisting of four parts or metrical quarters (*pādas*). 
+
+In the *Māṇḍūkya Upaniṣad* (mantra 2), the term is used extendedly as a foundational philosophical concept describing *Brahman* or *Ātman*: "All this is, indeed, Brahman. This Ātman is Brahman. This same Ātman has four quarters (*catuṣpāt*)". 
+
+Śaṅkarācārya's commentary on the *Māṇḍūkya Upaniṣad* explicitly distinguishes this figurative usage from the literal meaning. The four quarters (*pādas*) of *Ātman* do not resemble the four independent, physically separate legs of a cow. Instead, they function like the four fractional quarters (*pādas*) of a currency coin (*karṣāpaṇa*). Under this coin metaphor, the lower quarters sequentially merge into the higher ones as awareness deepens:
+1. **First Quarter (*Vaiśvānara* / *Viśva*):** The waking state, conscious of external objects and experiencing gross material reality.
+2. **Second Quarter (*Taijasa*):** The dream state, conscious of internal mental objects and experiencing subtle forms.
+3. **Third Quarter (*Prajñā*):** The state of deep dreamless sleep, where all experiences become unified into a mass of undifferentiated consciousness and bliss.
+4. **Fourth Quarter (*Turīya*):** The transcendent, partless, unconditioned Pure Consciousness that is non-dual, peaceful, and the ultimate reality of *Ātman*.
+
+Scriptural tradition also notes that describing *Brahman* as having four quarters serves an instructional purpose (*upāsanā*), enabling seekers to grasp the infinite, unmanifest Reality by conceptualizing It through four structured aspects.
+
+---
+
+## Etymology
+
+*Catuṣpāt* (nominative singular of the base *catuṣpad* / *catuṣpād*) is a Sanskrit compound (*samāsa*) formed from two established grammatical components:
+1. **Prefix / First Member:** *Catur-* (or *catuḥ-*), an indeclinable numeral prefix meaning "four".
+2. **Base / Second Member:** *Pād* / *pad* (or *pāda*), derived from the verbal root *pad-* ("to go", "to step", or "to fall"), functioning as a noun meaning "foot", "leg", or "quarter/fourth part".
+
+**Grammatical Analysis & Sandhi Rules:**
+- **Part of Speech:** Adjective (masculine/neuter nominative singular *catuṣpāt* / *catuṣpād*, feminine *catuṣpadī*, neuter *catuṣpad*) or masculine/neuter noun ("quadruped").
+- **Phonetic Combination:** When the numerical prefix *catur-* combines with a second member starting with the voiceless labial stop *p-* (such as *pad* / *pāda*), standard Sanskrit Sandhi rules convert the final *-r* / visarga into the retroflex sibilant *-ṣ-*, yielding the compound prefix *catuṣ-*.
+- **Derivational Status:** The derivation from *catur-* ("four") + *pād* / *pad-* ("foot/quarter") is an established morphological derivation in classical Sanskrit grammar.
+
+---
+
+## References
+
+- MacDonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. (Headwords: *catur*, p. 91, col. 1; *catuṣpad*, p. 91, col. 2; *pad*, p. 151, col. 3; *pada*, p. 152, col. 2; *pāda*, p. 160, col. 1).
+- Nikhilananda, S. (Trans.). (1956). *The Upanishads: Māṇḍūkya Upaniṣad (with Gauḍapāda's Kārikā and Śaṅkara's Commentary)* (Vol. 3). Harper & Brothers. (Mantras 2, 3, 4, 5, 12).
+- Śaṅkarācārya. (1936). *The Māṇḍūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math. (Commentary on Mantras 2, 3, 5, 7, 12).
+- Sivananda, S. (1949). *Brahmasūtra: Sanskrit text, transliteration, word-for-word meaning, English translation, and commentary*. The Divine Life Society. (Commentary on Adhyāya III, Pāda 2, Sūtra 33, pp. 360–361).

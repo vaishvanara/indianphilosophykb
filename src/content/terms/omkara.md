@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-12-26"
+lastUpdated: "11-09-26"
 title: "Oṃkāra (ओंकार)"
 devanagari: "ओंकार"
 iast: "Oṃkāra"
@@ -12,70 +12,76 @@ aliases:
 Meaning: "The Word; The Eternal"
 See: [Mandukya Upanishad (Verses 1, 8, 12)](mandukyopanisat.md)
 
-**A Concise Dictionary of Indian Philosophy**
-Sanskrit: ॐ, ओंकार
-Transliteration: Oṃ, Oṃkāra
-Translation: "the Word; the Praṇava; the Eternal"
-Definition:
-1. All words are said to be but various forms of the one sound – Oṃ – according to the Upaniṣad. It represents the Divine and the power of God. It is the sound symbol for the ultimate Reality.
-2. The three letters (Mātra) – A, U, and M – represent, respectively, the outer, the inner, and the superconscient states of consciousness and the waking, dream, and deep-sleep states. And beyond these is the modeless fourth (Amātrā), which is the Self, according to Advaita Vedānta.
+## Meaning
 
-**Glossary to the Record of Yoga (Sri Aurobindo)**
-Definition: "in the Vedic tradition, the sacred “initiating syllable,” regarded as “the one universal formulation of the energy of sound and speech” and “the foundation of all the potent creative sounds of the revealed word;” the “Word of Manifestation,” the Mantra or “expressive sound-symbol of the Brahman Consciousness in its four domains."
+In the Māṇḍūkya Upaniṣad, Oṃkāra denotes the sacred sound Oṃ, representing all temporal existence, the unmanifest beyond time, and non-dual Brahman.
 
-**Mundaka and Mandukya Upanishads (Swami Sharvananda)**
-Sanskrit: ॐ, ओंकार
-Transliteration: Oṃ, Oṃkāra
-Commentary: "According to the Vedic philosophy of creation, the universe, which was set forth by the Spandana or vibration of the primal energy, Prakṛti, has a sound symbol, and that is Oṃ. As no idea can be dissociated from the denoting appellation or name, so no object can be thought of without the help of its sound symbol. In Sanskrit philology, the relation between Śabda (sound) and Artha (object) is considered inseparable. So, in that sense, Oṃ which is the most universal, all-inclusive sound utterable by man, can only be the fit name for the whole universe, visible and invisible. And as the universe is nothing but an emanation of the Divine in an objective form, so Oṃ is ever considered among the followers of the Vedas as the most suitable sound-symbol of the supreme Deity, with whose help the devotee can realize the Truth. Here, Oṃ is spoken of as all that exists in all times and even what is transcendental, i.e., Brahman in his Saguṇa and Nirguṇa aspect, with a view to make the aspirant of self-realization look upon this sound as the best means to the realization by meditating upon it as described in the subsequent mantrams."
+## Definition
 
-**The Māṇḍūkya Upaniṣad (Swami Krishnananda)**
-Sanskrit: ॐ, ओंकार
-Transliteration: Oṃ, Oṃkāra
-Commentary: "This AUM is an inarticulate universalized vibration. It is not actually a letter or a word, but a vibration. Oṃ is to be chanted for the sake of the removal of the dross accumulated in your psyche, in the form of impressions of past Karma. Merge waking in dream, merge dreaming in sleep and merge sleep in the Ātman. Draw the consciousness gradually from waking to dream; that is to say, draw it from the waking body consciousness to the psychological consciousness, from that to the sleep consciousness. How do you do this? In the beginning, you have to be seated in a suitable posture and slowly articulate this beautiful name of God, which is Oṃ or Praṇava."
+The term *Oṃkāra* (ओंकार) is a Sanskrit masculine noun that signifies the sound, utterance, or syllable *Oṃ* (AUM). Grammatically, it is formed by joining the sacred indeclinable syllable *Oṃ* with the noun suffix *-kāra*, which designates a sound, letter, or phonetic manifestation. In Vedic ritual and devotional contexts, *Oṃkāra* serves as an auditory emblem (*śabdātman* or *pratīka*) utilized for expressing solemn assent ("yes"), initiating sacred recitations, and anchoring meditative practice (*upāsanā*).
 
-**The Upanishads: Volume I (Swami Nikhilananda)**
-"OM: Pronounced ōm, as in home. Om is the most sacred word of the Veda and may be compared to the Word referred to by St. John in the opening of the Fourth Gospel: "In the beginning was the Word, and the Word was with God, and the Word was God." According to Hindu philosophy, the whole of this universe has name and form (Nāmarupa) as the conditions of its manifestation. The form is its outer crust, of which the name or idea is the inner essence or kernel. The name is inseparable from a word or sound. The universe perceived by the five senses is the form, behind which stands the eternal, inexpressible Sphota, the Word or Logos. This eternal Sphota, the essential, beginningless material of all ideas or names, is the power through which the Lord creates the universe; nay, the Lord first becomes conditioned as the Sphota by His own Māyā and then evolves Himself as the more concrete sense-perceived universe. The symbol of the Sphota is Om, also written Aum. Since a word is inseparable from its idea, Om and the eternal Sphota are inseparable. Therefore, the eternal Om is the mother or source of all names and forms, and hence is the holiest of all holy words. There may be other words to denote the eternal and inexpressible Sphota; but the Hindus contend that Om is a unique word and uniquely apposite. The Sphota is the material or foundation of all sounds or words, which are inseparable from names or ideas; yet it is not any definite, fully formed word. That is to say, if all the peculiarities that distinguish one word from another be removed, then what remains will be the Sphota, or Om. Therefore, Om is called the Nāda-Brahman, the Sound-Brahman. The three letters A, U, and M, pronouncd in combination as Om, are the generalized symbol of all possible sounds. A is the root sound, the key, pronounced without the tongue's touching any part of the palate. It is the least differentiated of all sounds. Again, all articulate sounds are produced in the space between the root of the tongue and the lips: the throat sound is A, and M is the last sound. U represents the rolling forward of the impulse that begins at the root of the tongue and ends at the lips. If properly pronounced, Om will represent the whole gamut of sound-production; and no other word can do this. Therefore, Om is the fittest symbol of the Sphota, the Logos, the Word "which was at the beginning." As the Sphota, being the finer aspect of the manifested universe, is nearer to the Lord and is, indeed, the first manifestation of His divine wisdom, Om is the true symbol of God. It is the symbol both of the Personal God (in His aspect of Creator, Preserver, and Destroyer) and of Impersonal Reality. A, U, and M represent, respectively, creation, preservation, and destruction. As has been said above, all articulate sounds lie between A and M. The undifferentiated, gong-like sound that comes at the end of the utterance of Om, when the M sound is prolonged, is the symbol of Impersonal and Transcendental Reality. Om is eternally existent. It was not invented by any man, but was revealed to pure-souled mystics when, in meditation, their minds communed with the Highest.
+In the specific philosophical framework of the *Māṇḍūkya Upaniṣad*, *Oṃkāra* transcends its literal role as a ritual chant or liturgical formula. Here, it functions as the direct cosmic and metaphysical equivalent of ultimate Reality (*Brahman*) and the Self (*Ātman*). The Upaniṣad defines *Oṃkāra* as encompassing all manifest phenomena divided by the three times—past, present, and future—as well as the unmanifest reality (*avyākṛta*) that lies beyond temporal division. Contextually, *Oṃkāra* is presented both as an acoustic totality comprised of constituent sound-measures (*mātrās*) and as the soundless, partless Reality (*amātra*) in which all phenomenal distinctions cease.
 
-The Upanishads speak of Om as the most efficacious symbol of Brahman. All seekers of Truth—meditating on Brahman with or without attributes—can use this symbol."
+## Etymology
 
+Etymologically, *Oṃkāra* (ओंकार) is a compound noun derived from the indeclinable sacred syllable *Oṃ* (ॐ) and the masculine affix *kāra* (कार). The member *kāra* originates from the Sanskrit verbal root *kṛ* (कृ), meaning "to do," "to make," or "to utter," and is regularly appended to letters, phonemes, or sounds to form their proper nominative titles (such as *akāra* for the sound *a*). The compound is traditionally classified as a *tatpuruṣa* (*daṣṭa-tatpuruṣa* or *saṃjñā-tatpuruṣa*), functioning as a descriptive name denoting "the utterance or sound of *Oṃ*" (*oṃ iti kāraḥ* / *oṃkāraḥ*).
 
-**The Upanishads: Volume II (Swami Nikhilananda)**
-**Gauḍapāda's Kārikā: Chapter 1, Verses 24-29**
+Phonetically, the syllable *Oṃ* itself is an acoustic compound generated by the sandhi fusion of three primary constituent elements: the vowel *a* (अ, *akāra*), the vowel *u* (उ, *ukāra*), and the nasal labial consonant *m* (म्, *makāra* or *anusvāra*). According to standard Sanskrit euphonic rules, the short vowel *a* combines with the short vowel *u* through *guṇa* sandhi to yield the diphthong vowel *o*, which, when combined with the closing nasal sound *m*, produces the complete syllable *Oṃ*. The term *Oṃkāra* thus denotes both the articulated phonetic sequence of these constituent letters (*mātrās*) and the singular, integrated sound-symbol as a whole.
 
-Verse 24: AUM should be known quarter by quarter. There is no doubt that the quarters are the same as the letters. Having understood AUM quarter by quarter, one should not think of anything else.
+## Oṃkāra in the Māṇḍūkya Upaniṣad
 
-Verse 25: The mind should be concentrated on AUM. AUM is the fearless Brahman. He who is always absorbed in AUM knows no fear whatever.
+In the *Māṇḍūkya Upaniṣad*, the term *Oṃkāra* appears in Verse 8 (*so 'yam ātmādhyakṣaram omkāram adhimātram...*), while its direct sound-equivalent *AUM* / *Oṃ* introduces and structures the entire text, beginning with Verse 1. Grammatically, *Oṃkāra* acts as the primary nominative predicate identified with *Ātman* and *Brahman*, establishing an absolute equivalence between the sound-name (*nāma*) and the object named (*nāmin*). The Upaniṣad structures its exposition by mapping the four quarters (*pādas*) of the Self onto the constituent letters (*mātrās*) of *Oṃkāra*, culminating in the unconstituted soundlessness beyond parts.
 
-Verse 26: AUM is verily the Lower Brahman. It is also stated to be the Higher Brahman. AUM is beginning-less and unique. There is nothing outside it. It is unrelated to any effect and is immutable.
+The contextual correlation established by the text and elaborated in classical commentary unfolds across four structural levels:
 
-Verse 27: AUM is, indeed, the beginning, middle, and end of all things. He who has realized AUM as immutable immediately attains the Supreme Reality.
+1. **First Quarter / Letter A (*Akāra*)**: Verse 9 identifies the first letter *A* with *Vaiśvānara* (or *Viśva*), the Self functioning in the waking state (*jāgarita-sthāna*) who experiences gross material objects through nineteen organs. The textual justification for this identity rests on the shared qualities of all-pervasiveness (*āpti*)—since the sound *a* pervades all speech—and being the first (*ādimattva*) in their respective series.
 
-Verse 28: Know AUM to be Īśvara, ever present in the hearts of all. The calm soul, contemplating AUM as all-pervading, does not grieve.
+2. **Second Quarter / Letter U (*Ukāra*)**: Verse 10 identifies the second letter *U* with *Taijasa*, the Self functioning in the dream state (*svapna-sthāna*) who cognizes internal mental objects. The common grounds for this identification are superiority (*utkarṣa*) and intermediateness (*ubhayatva*), as *u* occupies a middle position between *a* and *m*, just as the dream state stands between waking and deep sleep.
 
-Verse 29: One who knows AUM, which is soundless and also endowed with infinite sounds, which is all good and the negation of duality, is a real sage and none other.
+3. **Third Quarter / Letter M (*Makāra*)**: Verse 11 identifies the third letter *M* with *Prajñā*, the Self in deep sleep (*suṣupta-sthāna*), described as a unified mass of consciousness (*ekībhūtaḥ prajñānaghanaḥ*). The identity is based on measuring (*miti*) and absorption or merging (*apīti*), because in deep sleep the preceding two states are measured and dissolved into *Prajñā*, just as *a* and *u* merge into *m* when *Oṃ* is uttered.
 
+4. **Fourth Quarter / Soundless (*Amātra* / *Turīya*)**: Verse 12 describes the fourth aspect (*Turīya*) as without parts (*amātra*), relationless (*avyavahārya*), the cessation of phenomenal illusion (*prapañcopaśama*), serene (*śiva*), and non-dual (*advaita*). This soundless *Oṃkāra* is identical with the pure unconditioned Self, wherein all causal relations and dualistic distinctions disappear.
 
-**The Upanishads: Volume II (Swami Nikhilananda)**
-**Praśna Upaniṣad, Question 5**
+In Gauḍapāda's *Kārikā*, the *Āgama Prakaraṇa* (verses 19–29) expands upon this Upaniṣadic framework. Gauḍapāda asserts that *Oṃkāra* is the fearless Brahman (*abhayaṃ brahma*), existing both as the Lower Brahman (*apara-brahma*, the causal Creator) and the Higher Brahman (*para-brahma*, ultimate Reality). He describes *Oṃkāra* as beginningless, unique, without interior or exterior, and immutable.
 
-Verse 1: Then Satyakama, the son of Sibi, asked Pippalada; Sir, if among men someone should here meditate on the syllable AUM until death, which world, verily, would he win thereby?
+In his commentary (*Bhāṣya*), Śaṅkarācārya explains that *Oṃkāra* is the nearest verbal indicator (*nāma*) and principal meditative support (*ālambana*) for grasping Brahman. Śaṅkara highlights that by realizing the complete oneness of the name (*Oṃkāra*) and the named (*Brahman*), a seeker simultaneously sublates both the linguistic symbol and the phenomenal world, becoming firmly established in non-dual *Turīya*.
 
-Verse 2: He replied: O Satyakama, the syllable AUM is the Supreme Brahman and also the other Brahman. Therefore he who knows it attains, with its support, the one or the other.
+## Interpretations and Disputes
 
-Verse 3: If he meditates on one letter (Mātrā), then, being enlightened by that alone, he quickly comes back to earth after death. The Ṛg verses lead him to the world of men. By practicing austerity, chastity and faith he enjoys greatness.
+In classical and modern Indian philosophy, several notable interpretative and structural disputes center around *Oṃkāra* and the text of the *Māṇḍūkya Upaniṣad*:
 
-Verse 4: If, again, he meditates on the second letter, he attains the mind and is led up by the Yajur verses to the intermediate space, to the Plane of the Moon. Having enjoyed greatness in the Plane of the Moon, he returns hither again.
+- **Textual Status of Upaniṣad and Kārikā**: A prominent historical debate concerns the textual relationship between the twelve prose mantras of the *Māṇḍūkya Upaniṣad* and the twenty-nine stanzas of Book One (*Āgama Prakaraṇa*) of Gauḍapāda's *Kārikās*. While the Advaita tradition of Śaṅkara and Ānandagiri treats the prose text alone as Vedic *śruti* and the *Kārikās* as human commentary, other Vedāntic schools—such as those of Rāmānuja and Madhva—regarded the twenty-nine *Kārikās* themselves as canonical scripture (*śruti*). Furthermore, modern textual scholars (e.g., V. S. Bhattacharya) raised the hypothesis that the prose mantras of the Upaniṣad were composed subsequent to Gauḍapāda's stanzas, summarizing the *Kārikās* rather than vice versa.
 
-Verse 5: Again, he who meditates on the Highest Person through this syllable AUM consisting of three letters, becomes united with the effulgent Sun. As a snake is freed from its skin, even so he is freed from sin.
+- **Syntactical Relation in Brahmasūtra III.3.9**: A major grammatical and hermeneutical discussion occurs in *Brahmasūtra* III.3.9 (*omityetadakṣaramudgīthamupāsīta*), regarding how *Oṃkāra* and *Udgītha* relate in meditation. Commentators analyze four potential grammatical relationships between the terms in co-ordination (*sāmānādhikaraṇya*): superimposition (*adhyāsa*), sublation (*apavāda*), numerical identity (*ekatva*), or qualification (*viśeṣaṇa*). Śaṅkara demonstrates that the proper relation is qualification (*viśeṣaṇa*), establishing that the text directs meditation specifically on that form of *Oṃkāra* which serves as part of the *Udgītha* chant, rather than *Oṃkāra* in its universal sense.
 
-Verse 6: The three letters of AUM, if employed separately, are mortal; but when joined together in meditation on the total Reality and used properly on the activities of the external, internal, and intermediate states, the knower trembles not.
+- **Symbolic Auxiliary vs. Direct Identity**: In earlier Vedic ritual contexts (such as the *Chāndogya* and *Taittirīya* Upaniṣads), *Oṃkāra* is primarily treated as an auxiliary symbol (*pratīka*) or instrumental aid (*ālambana*) for ritual performance and lower meditation (*apara-vidyā*). In contrast, the *Māṇḍūkya Upaniṣad* and Śaṅkara's Advaita commentary assert an absolute non-difference (*abheda*) between *Oṃkāra* and Higher Brahman (*para-brahma*). From the non-dual standpoint, the soundless (*amātra*) aspect of *Oṃkāra* is not a mere representative symbol, but is directly identical with the ultimate non-dual Self (*Turīya*).
 
-Verse 7: The wise man, meditating on AUM, attains this world by means of the Ṛg verses; the intermediate world by means of the Yajur verses; and that which is known to the seers by means of the Sama verses. And also through the syllable AUM, he realizes that which is tranquil, free from decay, death, and fear and which is the Highest.
+## Related Terms
 
-References:
-1. Grimes, John (1996). A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English. Albany: State University of New York Press
-2. Hartz, Richard. Glossary to the Record of Yoga (Sri Aurobindo). Retrieved from http://wiki.auroville.org.in/wiki/Glossary_to_the_Record_of_Yoga.
-3. Sharvananda, Swami (1920). Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments. Mylapore, Madras: Sri Ramakrishna Math
-4. Krishnananda, Swami (1996). The Māṇḍūkya Upaniṣad. Retrieved from https://www.swami-krishnananda.org/mand_0.html.
-5. Nikhilananda, Swami (1949). The Upanishads: Volume I—Katha, Iśa, Kena, and Mundaka. New York, New York: Harper & Brothers Publishers. p. 138-139.
-6. Nikhilananda, Swami (1952). The Upanishads: Volume II - Śvetāśvatara, Praśna, and Māndukya with Gauḍapāda's Kārikā. New York, New York: Harper & Brothers Publishers
+- Advaita (अद्वैत)
+- Akṣara (अक्षर)
+- Amātra (अमात्र)
+- Ātman (आत्मन्)
+- Brahman (ब्रह्मन्)
+- Makāra (मकार)
+- Mātrā (मात्रा)
+- Pāda (पाद)
+- Prajñā (प्राज्ञ)
+- Pranava (प्रणव)
+- Prapañcopaśama (प्रपञ्चोपशम)
+- Taijasa (तैजस)
+- Turīya (तुरीय)
+- Ukāra (उकार)
+- Vaiśvānara (वैश्वानर)
+- Viśva (विश्व)
+
+## References
+
+- Gauḍapāda. *Gauḍapāda Kārikā* (Āgama Prakaraṇa). Translated by Swami Nikhilananda, in *The Upanishads: A New Translation*, Vol. III. New York: Harper & Brothers, 1956.
+- Kale, Moreshwar Ramchandra. *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Bombay: Gopal Narayen & Co..
+- MacDonell, Arthur A. *A Sanskrit-English Dictionary*. Part 1 & Part 2. London: Longmans, Green and Co., 1893.
+- *Māṇḍūkya Upaniṣad*. Translated by Swami Nikhilananda, in *The Upanishads: A New Translation*, Vol. III. New York: Harper & Brothers, 1956.
+- Potter, Karl H. (Ed.). *Encyclopedia of Indian Philosophies, Volume III: Advaita Vedānta up to Śaṅkara and His Pupils*. Princeton: Princeton University Press, 1981.
+- Śaṅkarācārya. *Brahmasūtra-bhāṣya*. Translated by Swami Sivananda. Rishikesh: The Divine Life Society.
+- Śaṅkarācārya. *Māṇḍūkyopaniṣad-bhāṣya* & *Gauḍapādakārikā-bhāṣya*. Translated by Swami Nikhilananda. Mysore: Sri Ramakrishna Math, 1955.
+- Veda Vyāsa. *Rāma Gītā*. English Translation and Commentary.
