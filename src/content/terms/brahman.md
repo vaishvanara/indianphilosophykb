@@ -56,11 +56,11 @@ In Advaita doctrine, the individual transmigrating soul (*jīva*) is essentially
 
 Primary passages establishing the nature of *Brahman* appear throughout the *Prasthānatrayī* (the Upaniṣad, *Brahmasūtra*, and *Bhagavad Gītā*):
 
-- **Māṇḍūkya Upaniṣad (Verses 1–12)**: Provides the primary textual exposition equating *Brahman*, *Ātman*, the quarters of consciousness, and the syllable *AUM*.
-- **Māṇḍūkya Upaniṣad, Mantra 1**: Declares that AUM is all that is past, present, future, and beyond time, establishing the total identity of the universe and AUM with *Brahman*.
-- **Māṇḍūkya Upaniṣad, Mantra 2**: Provides the primary locator for *Brahman* (*sarvaṁ hy etad brahma, ayam ātmā brahma*).
-- **Māṇḍūkya Upaniṣad, Mantra 7**: Formulates the definitive description of *Brahman* as *Turīya* via radical negation (*neti neti*).
-- **Māṇḍūkya Upaniṣad, Mantra 12**: Establishes the partless soundless AUM (*amātra*) as *Turīya*, declaring that one who realizes this merges the self into *Brahman*/*Ātman*.
+- **Māṇḍūkya Upaniṣad (verses 1–12)**: Provides the primary textual exposition equating *Brahman*, *Ātman*, the quarters of consciousness, and the syllable *AUM*.
+- **Māṇḍūkya Upaniṣad (verse 1)**: Declares that AUM is all that is past, present, future, and beyond time, establishing the total identity of the universe and AUM with *Brahman*.
+- **Māṇḍūkya Upaniṣad (verse 2)**: Provides the primary locator for *Brahman* (*sarvaṁ hy etad brahma, ayam ātmā brahma*).
+- **Māṇḍūkya Upaniṣad (verse 7)**: Formulates the definitive description of *Brahman* as *Turīya* via radical negation (*neti neti*).
+- **Māṇḍūkya Upaniṣad (verse 12)**: Establishes the partless soundless AUM (*amātra*) as *Turīya*, declaring that one who realizes this merges the self into *Brahman*/*Ātman*.
 - **Gauḍapāda Kārikā, I.16–17**: Explains that when the individual soul (*jīva*) asleep under beginningless *māyā* is awakened by a qualified preceptor, it realizes its inherent birthless, non-dual nature as *Brahman*.
 - **Śaṅkarācārya’s Māṇḍūkyopaniṣad-bhāṣya**: Provides detailed textual commentary demonstrating how the four quarters function as instruments to sublate dualistic misapprehension and reveal unconditioned *Brahman*.
 - **Taittirīya Upaniṣad (2.1.1)**: Defines the essential nature of *Brahman* as *satyam jñānam anantam brahma* ("Brahman is Truth, Knowledge, and Infinity").
@@ -116,8 +116,8 @@ Significant philosophical disputes exist both between Vedantic schools and withi
 ## References
 
 1. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Longmans, Green, and Co.
-2. Nikhilananda, S. (Trans.). (1947). *Atmabodha (Self-Knowledge) of Sri Sankaracharya*. Sri Ramakrishna Math.
-3. Nikhilananda, S. (Trans.). (1949a). *Mandikyopanishad with Gaudapada's Karika and Sankara's Commentary*. Sri Ramakrishna Math.
+2. Nikhilananda, S. (Trans.). (1947). *Atmabodha (Self-knowledge) of Sri Sankaracharya*. Sri Ramakrishna Math.
+3. Nikhilananda, S. (Trans.). (1949a). *Mandikyopanishad with Gaudapada's Karika and Sankara's commentary*. Sri Ramakrishna Math.
 4. Nikhilananda, S. (Trans.). (1949b). *The Upanishads: Katha, Isa, Kena, and Mundaka* (Vol. 1). Harper & Brothers.
 5. Nikhilananda, S. (Trans.). (1952). *The Upanishads: Svetasvatara, Prasna, and Mandukya* (Vol. 2). Harper & Brothers.
 6. Nikhilananda, S. (Trans.). (1956). *The Upanishads: Aitareya and Brihadaranyaka* (Vol. 3). Harper & Brothers.
@@ -126,5 +126,5 @@ Significant philosophical disputes exist both between Vedantic schools and withi
 9. Rāmānuja. (1904). *The Vedānta-Sūtras with the commentary of Rāmānuja* (G. Thibaut, Trans.; Sacred Books of the East, Vol. 48). Clarendon Press.
 10. Sadananda. (1931). *Vedāntasāra: Sanskrit text with English translation and notes* (Swami Nikhilananda, Trans.). Advaita Ashrama.
 11. Śaṅkarācārya. (1904). *The Vedānta-Sūtras with the commentary by Śaṅkarācārya* (G. Thibaut, Trans.; Sacred Books of the East, Vols. 34 & 38). Clarendon Press.
-12. Sivananda, S. (1999). *Brahma Sutras: Text, word-for-word meaning, translation and commentary*. The Divine Life Society.
+12. Sivananda, S. (1999). *Brahma sutras: Text, word-for-word meaning, translation and commentary*. The Divine Life Society.
 13. Vidyaranya, S. (1967). *Pancadasi of Sri Vidyaranya Swami* (Swami Swahananda, Trans.). Sri Ramakrishna Math.

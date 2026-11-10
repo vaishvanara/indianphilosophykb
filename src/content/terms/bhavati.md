@@ -56,8 +56,8 @@ In Advaita Vedānta commentary, Śaṅkarācārya explains that the usage of *bh
 
 ## References
 
-1. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press.
-3. Nikhilananda, Swami. (Trans.). (1955). *The Upaniṣads: A New Translation* (Vol. 2: Śvetāśvatara, Praśna, and Māṇḍukya with Gauḍapāda's Kārikā). Harper & Brothers.
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass.
-5. Śaṅkarācārya. (1949). *Ātma Bodha (Self-Knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
+1. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press.
+3. Nikhilananda, Swami (Trans.). (1955). *The Upaniṣads: A new translation* (Vol. 2: Śvetāśvatara, Praśna, and Māṇḍukya with Gauḍapāda's Kārikā). Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Motilal Banarsidass.
+5. Śaṅkarācārya. (1949). *Ātma bodha (Self-knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
