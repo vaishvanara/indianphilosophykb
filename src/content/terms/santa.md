@@ -39,7 +39,7 @@ In the philosophical context of the *Māṇḍūkya Upaniṣad* (Mantra 7), *ś�
 
 ## References
 
-1. Kale, M. R. (1918). *A higher Sanskrit grammar for the use of schools and colleges*. Gopal Narayen & Co. (Primary Nominal Bases, §§ 747–749, pp. 470–471).
-2. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *śam*, p. 308, col. 1; *śānta*, p. 311, col. 3; *śānti*, p. 311, col. 3).
-3. Nikhilananda, S. (Trans.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Sri Ramakrishna Math. (Chapter I: Āgama Prakaraṇa, Mantra 7, pp. 50–59).
-4. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2). Harper & Brothers. (Māṇḍūkya Upaniṣad, Mantra 7, pp. 223–236).
+1. Kale, M. R. (1918). *A higher Sanskrit grammar for the use of schools and colleges* (pp. 470–471, §§ 747–749). Gopal Narayen & Co.
+2. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (Headwords *śam*, p. 308, col. 1; *śānta*, p. 311, col. 3; *śānti*, p. 311, col. 3). Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (Chapter I: Āgama Prakaraṇa, Mantra 7, pp. 50–59). Sri Ramakrishna Math.
+4. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2, pp. 223–236). Harper & Brothers.

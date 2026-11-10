@@ -40,9 +40,9 @@ The combined compound formation *upavyākhyāna* literally signifies a **"proxim
 
 ## References
 
-1. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headwords: *khyā*, p. 80, col. 3; *upa-*, p. 52, col. 2).
-2. Nikhilananda, S. (Trans.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Sri Ramakrishna Math. (Māṇḍūkya Upaniṣad 1, p. 8).
-3. Nikhilananda, S. (Trans.). (1954). *The Upanishads: Volume II – Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Phoenix House Ltd. (Māṇḍūkya Upaniṣad 1, pp. 226, 229–230).
-4. Nikhilananda, S. (Trans.). (1955). *The Upanishads: Volume III – Prasthāna-Traya: Māṇḍūkya Upaniṣad (with Gauḍapāda Kārikā)*. Ramakrishna-Vivekananda Center. (Māṇḍūkya Upaniṣad 1.1, pp. 1–2).
-5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass. (p. 14).
-6. Williams, M. (1857). *A Practical Grammar of the Sanskrit Language, Arranged with Reference to the Classical Languages of Europe* (2nd ed.). Oxford University Press. (p. 11).
+1. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords: *khyā*, p. 80, col. 3; *upa-*, p. 52, col. 2).
+2. Nikhilananda, S. (Trans.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Sri Ramakrishna Math. (Māṇḍūkya Upaniṣad 1, p. 8).
+3. Nikhilananda, S. (Trans.). (1954). *The Upanishads: Vol. 2. Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Phoenix House. (Māṇḍūkya Upaniṣad 1, pp. 226, 229–230).
+4. Nikhilananda, S. (Trans.). (1955). *The Upanishads: Vol. 3. Prasthāna-traya: Māṇḍūkya Upaniṣad (with Gauḍapāda Kārikā)*. Ramakrishna-Vivekananda Center. (Māṇḍūkya Upaniṣad 1.1, pp. 1–2).
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Motilal Banarsidass. (p. 14).
+6. Williams, M. (1857). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (2nd ed.). Oxford University Press. (p. 11).

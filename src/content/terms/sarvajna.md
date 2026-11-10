@@ -47,7 +47,7 @@ Philosophically, Advaita exegesis distinguishes the literal meaning from its met
 
 ## References
 
-1. Kale, M. R. (1894). *A higher Sanskṛt grammar for the use of schools and colleges*. Gopal Narayen & Co. (§ 200, p. 132; § 234, pp. 154–155).
-2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *jñā*, p. 102, col. 3; *sarva*, p. 341, col. 2; *sārva*, p. 348, col. 3).
-3. Nikhilananda, Swami. (Trans. & Annot.). (1949). *The Māṇḍūkyopanishad with Gauḍapāda’s Kārikā and Śaṅkara’s commentary*. Sri Ramakrishna Ashrama. (Mantra 6, pp. 26–27; IV.85, pp. 312–313).
-4. Nikhilananda, Swami. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: *Śvetāśvatara, Praśna, and Māndukya with Gauḍapāda's Kārikā*). Phoenix House. (Māṇḍūkya Upaniṣad 6, p. 230).
+1. Kale, M. R. (1894). *A higher Sanskṛt grammar for the use of schools and colleges* (§ 200, p. 132; § 234, pp. 154–155). Gopal Narayen & Co.
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (Headwords *jñā*, p. 102, col. 3; *sarva*, p. 341, col. 2; *sārva*, p. 348, col. 3). Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans. & Annot.). (1949). *The Māṇḍūkyopanishad with Gauḍapāda’s Kārikā and Śaṅkara’s commentary* (Mantra 6, pp. 26–27; IV.85, pp. 312–313). Sri Ramakrishna Ashrama.
+4. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation: Vol. 2. Śvetāśvatara, Praśna, and Māndukya with Gauḍapāda's Kārikā* (Māṇḍūkya Upaniṣad 6, p. 230). Phoenix House.

@@ -41,6 +41,6 @@ Grammatically, *prathamā* functions either as an ordinal adjective in the femin
 
 ## References
 
-* MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Longmans, Green, and Co. (Headwords *pra-thamá*, p. 178, col. 1; *PRATH*, p. 177, col. 3).
-* Nikhilananda, S. (Trans.). (1946). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Sri Ramakrishna Math. (Agama Prakaraṇa, Mantras 3 & 9, pp. 14, 75–77).
-* Nikhilananda, S. (Trans.). (1956). *The Upanishads: A new translation (Vol. III - Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā)*. Harper & Brothers. (Māṇḍūkya Upaniṣad, Chapter I, pp. 223–237).
+1. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Longmans, Green, and Co. (Headwords *pra-thamá*, p. 178, col. 1; *PRATH*, p. 177, col. 3).
+2. Nikhilananda, S. (Trans.). (1946). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Sri Ramakrishna Math. (Agama Prakaraṇa, Mantras 3 & 9, pp. 14, 75–77).
+3. Nikhilananda, S. (Trans.). (1956). *The Upanishads: A new translation (Vol. III - Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā)*. Harper & Brothers. (Māṇḍūkya Upaniṣad, Chapter I, pp. 223–237).

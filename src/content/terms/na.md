@@ -35,9 +35,9 @@ Grammatically, *na* is classified as an indeclinable particle (*nipāta* or *avy
 
 ## References
 
-1. Bhyankar, K. V. (1986). *A Dictionary of Sanskrit Grammar*. Maharaja Sayajirao University of Baroda. (Headwords: *avyaya*, p. 43; *nipāta*, p. 210).
-2. Cappeller, C. (1891). *A Sanskrit-English Dictionary*. Karl J. Trübner. (Headword: *na*, p. 267, col. 2).
-3. Coward, H. G., & Kunjunni Raja, K. (Eds.). (1990). *Encyclopedia of Indian Philosophies: Vol. 5. The Philosophy of the Grammarians*. Princeton University Press. (Headword: *Nañ / Negative Particle*, pp. 288–289, 334–335).
-4. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Headwords: *na*, p. 135, col. 1; *nañ*, p. 135, col. 3).
-5. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Oxford University Press. (Headwords: *na*, p. 523, col. 1; *nañ*, p. 525, col. 1).
-6. Potter, K. H. (Ed.). (2003). *Encyclopedia of Indian Philosophies: Vol. 9. Buddhist Philosophy from 350 to 600 A.D.* Motilal Banarsidass. (Headword: *Paryudāsa and Prasajyapratiṣedha*, p. 321).
+1. Bhyankar, K. V. (1986). *A Dictionary of Sanskrit Grammar*. Maharaja Sayajirao University of Baroda. (Headwords: *avyaya*, p. 43; *nipāta*, p. 210)
+2. Cappeller, C. (1891). *A Sanskrit-English Dictionary*. Karl J. Trübner. (Headword: *na*, p. 267, col. 2)
+3. Coward, H. G., & Kunjunni Raja, K. (Eds.). (1990). *Encyclopedia of Indian Philosophies: Vol. 5. The philosophy of the grammarians*. Princeton University Press. (Headword: *Nañ / Negative Particle*, pp. 288–289, 334–335)
+4. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Headwords: *na*, p. 135, col. 1; *nañ*, p. 135, col. 3)
+5. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Oxford University Press. (Headwords: *na*, p. 523, col. 1; *nañ*, p. 525, col. 1)
+6. Potter, K. H. (Ed.). (2003). *Encyclopedia of Indian Philosophies: Vol. 9. Buddhist philosophy from 350 to 600 A.D.* Motilal Banarsidass. (Headword: *Paryudāsa and Prasajyapratiṣedha*, p. 321)

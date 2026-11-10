@@ -16,17 +16,23 @@ See: [Mandukya Upanishad (Verse 7, 12)](mandukyopanisat.md)
 
 In the *Māṇḍūkya Upaniṣad*, *Turīya* (तुरीय) signifies the non-dual, partless Absolute Self (*Ātman*/*Brahman*) transcending the three states of consciousness.
 
+---
+
 ## Definition
 
 The term *Turīya* (तुरीय), also rendered as *Turya* (तूर्य) or *Caturtha* (चतुर्थ), literally translates to "the fourth". Contextually within Advaita Vedānta and the *Māṇḍūkya Upaniṣad*, *Turīya* does not define a temporary, fourth empirical state of mind or an entity succeeding waking (*jāgrat*), dream (*svapna*), and deep sleep (*suṣupti*). Instead, it denotes the eternal, unconditioned ground and true nature of Pure Consciousness (*Ātman*), designated as "the fourth" only in relation to the three empirical quarters (*pādas*) or states of experience.
 
 The Upaniṣad defines *Turīya* primarily through apophatic negation (*neti neti*): it is neither conscious of the internal subjective world (*nāntaḥ-prajñam*), nor of the external objective world (*na bahiṣ-prajñam*), nor of both simultaneously (*nobhayataḥ-prajñam*), nor is it a consolidated mass of consciousness (*na prajñāna-ghanam*), simple consciousness (*na prajñām*), or unconsciousness (*nāprajñam*). Positive definitions characterise it as unperceived (*adṛṣṭa*), non-relational (*avyavahārya*), incomprehensible (*agrāhya*), uninferable (*alakṣaṇa*), unthinkable (*acintya*), indescribable (*avyapadeśya*), the essence of single Self-consciousness (*ekātma-pratyaya-sāra*), the cessation of phenomenal illusion (*prapañcopaśama*), serene (*śānta*), blissful (*śiva*), and non-dual (*advaita*).
 
+---
+
 ## Etymology
 
 The Sanskrit nominal stem *turīya* (तुरीय, feminine *turīyā*) is an ordinal adjective signifying "fourth" or "a fourth part / quarter" (*caturthāṃśa*). Etymologically, classical Sanskrit grammarians and lexicographers derive *turīya* as a syncopated form of *caturīya* or *caturcha*, formed from the cardinal numeral *catur* (चतुर्, "four") with the ordinal suffix *-īya* or *-ya*, accompanied by the elision of the initial syllable *ca-*. 
 
 In Vedic literature, the term functions both as a numerical fraction ("one-fourth") and as an ordinal indicator. For instance, in the *Bṛhadāraṇyaka Upaniṣad* (5.14.3–4), *turīya* is explicitly equated with *caturtha* when describing the bright, supramundane "fourth foot" (*turīyaṃ darśataṃ padam*) of the Gāyatrī mantra (*yadevasya turīyaṃ tatcaturtham*). In philosophical exegesis, the numerical designation "fourth" serves purely as a pedagogical device (*upāya*) to sequence instruction following the analysis of the three empirical states of experience, rather than indicating a numerical sequence inherent in reality itself.
+
+---
 
 ## Turīya in the Māṇḍūkya Upaniṣad
 
@@ -46,6 +52,8 @@ Advaita Vedānta scholarship distinguishes the original Upaniṣadic text from i
 * **Gauḍapāda's Kārikā (Āgama Prakaraṇa)**: Gauḍapāda analyzes the quarters via the doctrine of causality (*kārya-kāraṇa*). *Viśva* and *Taijasa* are bound by both cause (non-apprehension of reality, *tattvāgrahaṇa*) and effect (misapprehension of reality, *anyathāgrahaṇa*). *Prājña* is bound by cause alone (*kāraṇa-baddha*), remaining ignorant of truth without active misapprehension. *Turīya* is free from both cause and effect (*na kāraṇaṃ na kāryam*), being ever-seeing (*sarvadṛk*), birthless (*aja*), and eternally non-dual (*advaita*). Gauḍapāda asserts that when the individual (*jīva*) awakens from beginningless illusion (*māyā-nidrā*), *Turīya* is realized as unborn and non-dual.
 * **Śaṅkara's Commentary (*Bhāṣya*)**: Śaṅkara clarifies that *Turīya* is reached not by adding a new attribute or entering an exotic trance state, but through the sublation (*apavāda*) of superimposed false attributes (*adhyāropa*). Just as negating the illusory snake reveals the pre-existing rope, negating the three illusory states reveals *Turīya* as the self-evident substratum (*adhiṣṭhāna*) of all experience.
 
+---
+
 ## Interpretations and Disputes
 
 ### 1. Numerical State vs. Transcendental Substratum
@@ -57,6 +65,7 @@ Modern scholars (e.g., Karl Potter, Vidhushekhara Bhattacharya) note textual dis
 ### 3. Philosophical Relationship to Buddhist Terminology
 Scholarship has debated Gauḍapāda's use of vocabulary shared with Mahāyāna Buddhism (e.g., *asparśa-yoga*, *samvṛti*, *dharma*) in analyzing non-origination (*ajāti*) and *Turīya*. Academic commentators such as S. N. Dasgupta suggested Buddhist structural influence, whereas traditional Advaitins and scholars such as Swami Nikhilananda emphasize that Gauḍapāda uses dialectical methods to refute both Buddhist subjective idealism (*vijñānavāda*) and nihilism (*śūnyavāda*), affirming *Turīya* as the uncontradicted Upaniṣadic Absolute.
 
+---
 
 ## Related Terms
 
@@ -73,14 +82,16 @@ Scholarship has debated Gauḍapāda's use of vocabulary shared with Mahāyāna 
 - Taijasa (तैजस)
 - Viśva (विश्व)
 
+---
+
 ## References
 
-1. MacDonell, Arthur A. (1893). *A Sanskrit-English Dictionary*. London: Longmans, Green, and Co. (Parts 1 & 2, entries for *catur*, *caturtha*, *turīya*, *turya*).
-2. Nikhilananda, Swami (Trans.) (1955). *The Upanishads: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (Vol. III). New York: Harper & Brothers / Bonanza Books (pp. 1–80).
-3. Nikhilananda, Swami (Trans.) (1956). *The Upanishads: Bṛhadāraṇyaka Upaniṣad* (Vol. III). New York: Harper & Brothers (Adhyāya 5, Brāhmaṇa 14, Verses 3–4, pp. 465–466).
-4. Potter, Karl H. (Ed.) (1981). *Encyclopedia of Indian Philosophies, Volume III: Advaita Vedānta up to Śaṅkara and His Pupils*. Princeton: Princeton University Press / Delhi: Motilal Banarsidass (pp. 13–14, 105–109, 308–313).
-5. Sadhu Om, Sri (1980). *Śrī Ramanopadesa Noonmalai* (Commentary on Śrī Ramana Maharshi's Works). Tiruvannamalai: Sri Ramanasramam (Guru Vachaka Kovai v. 302; Ulladu Narpadu v. 14 commentary).
-6. Sivananda, Swami (Trans.) (1949). *Brahmasūtra: Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary*. Rishikesh: The Divine Life Society.
-7. Sadānanda, Svāmi (1931). *Vedāntasāra* (Translated by Swami Nikhilananda). Almora: Advaita Ashrama (pp. 31–33).
-8. Śaṅkarācārya (Attributed) (1938). *Aparokṣānubhūti (Self-Realization)* (Translated by Swami Vimuktananda). Almora: Advaita Ashrama.
-9. Śaṅkarācārya (Attributed) (1947). *Ātma Bodha (Self-Knowledge)* (Translated by Swami Nikhilananda). Chennai: Sri Ramakrishna Math (Introductory essay, pp. 63–65).
+1. MacDonell, A. A. (1893). *A Sanskrit-English dictionary* (Parts 1 & 2, entries for *catur*, *caturtha*, *turīya*, *turya*). Longmans, Green, and Co.
+2. Nikhilananda, S. (Trans.). (1955). *The Upanishads: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (Vol. 3, pp. 1–80). Harper & Brothers; Bonanza Books.
+3. Nikhilananda, S. (Trans.). (1956). *The Upanishads: Bṛhadāraṇyaka Upaniṣad* (Vol. 3, Adhyāya 5, Brāhmaṇa 14, Verses 3–4, pp. 465–466). Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṅkara and his pupils* (pp. 13–14, 105–109, 308–313). Princeton University Press; Motilal Banarsidass.
+5. Sadhu Om, S. (1980). *Śrī Ramanopadesa Noonmalai* (Commentary on Śrī Ramana Maharshi's Works; Guru Vachaka Kovai v. 302; Ulladu Narpadu v. 14 commentary). Sri Ramanasramam.
+6. Sivananda, S. (Trans.). (1949). *Brahmasūtra: Sanskrit text, transliteration, word-for-word meaning, English translation, and commentary*. The Divine Life Society.
+7. Sadānanda, S. (1931). *Vedāntasāra* (S. Nikhilananda, Trans.; pp. 31–33). Advaita Ashrama.
+8. Śaṅkarācārya. (1938). *Aparokṣānubhūti (Self-realization)* (S. Vimuktananda, Trans.). Advaita Ashrama.
+9. Śaṅkarācārya. (1947). *Ātma bodha (Self-knowledge)* (S. Nikhilananda, Trans.; Introductory essay, pp. 63–65). Sri Ramakrishna Math.

@@ -16,6 +16,8 @@ See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
 
 In the *Māṇḍūkya Upaniṣad*, *jāgarita-sthāna* denotes the waking state as the sphere of activity of Vaiśvānara, the first quarter of Ātman.
 
+---
+
 ## Definition
 
 The Sanskrit compound *jāgarita-sthāna* (जागरितस्थान / जागरितास्थान) is composed of two constituent elements: *jāgarita* (waking, wakefulness, or the wakeful state) and *sthāna* (place, abode, sphere of activity, position, or condition). Taken literally, the expression translates as "having the waking state as one's sphere or abode" or "the sphere of wakefulness". General Sanskrit lexicography defines *jāgarita-sthāna* as "being in a wakeful condition".
@@ -23,6 +25,8 @@ The Sanskrit compound *jāgarita-sthāna* (जागरितस्थान / �
 In the technical philosophical vocabulary of the *Māṇḍūkya Upaniṣad*, *jāgarita-sthāna* designates the realm of experience corresponding to *vaiśvānara* (also called *viśva* in later treatises), who represents the first quarter (*prathamaḥ pādaḥ*) of the Self (*Ātman*). In this waking domain, consciousness is directed outward (*bahiṣ-prajña*), interacting with gross physical objects (*sthūla-bhuk*) through an apparatus consisting of seven limbs (*saptāṅga*) and nineteen instruments of cognition and action (*ekonaviṃśati-mukha*).
 
 Contextually, *jāgarita-sthāna* is distinguished from *svapna-sthāna* (the dream sphere of *taijasa*) and *suṣuptasthāna* (the deep sleep sphere of *prājña*). While literally describing an adjectival attribute of the experiencing subject, contextually it functions both as the specification of the waking domain and as an epithet for the subject (*vaiśvānara*) presiding over physical existence.
+
+---
 
 ## Etymology
 
@@ -36,6 +40,8 @@ In his commentary on Mantra 3 of the *Māṇḍūkya Upaniṣad*, Śaṅkarācā
 - *jāgaritaṃ sthānaṃ yasya asau = jāgarita-sthānaḥ* ("He whose sphere of activity or domain of experience is the waking state").
 
 In the Upaniṣadic text, the stem *jāgarita-sthāna* takes the nominative singular masculine inflection *-ḥ* (*jāgarita-sthānaḥ*, combining via sandhi as *jāgaritasthāno* before voiced consonants), agreeing in gender, number, and case with *vaiśvānaraḥ*.
+
+---
 
 ## jāgarita-sthāna in the Māṇḍūkya Upaniṣad
 
@@ -61,6 +67,8 @@ Exegetical Distinctions:
 - **Śaṅkarācārya's Commentary**: Śaṅkara notes that while *jāgarita-sthāna* presents consciousness as outwardly directed (*bahiṣ-prajña*), this outwardness is an illusory appearance caused by ignorance (*avidyā*), as Pure Consciousness has no intrinsic inner or outer division. Śaṅkara further points out that the very differentiation of the three states (*avasthā-traya*) is conducted from the standpoint of waking awareness (*jāgrat-dṛṣṭi*), which alone possesses the memory and reflective capacity to compare waking, dream, and sleep.
 - **Later Vedāntic Texts**: In *Tattva Bodha* (§ 13.3–13.5), the waking state (*jāgaritāvasthā*) is defined as the perception of sense-objects through sense-organs, where the self identifying with the gross body is called *viśva*. Sadānanda's *Vedāntasāra* (§ 111–115) identifies *vaiśvānara* in the waking state with the gross sheath (*annamaya-kośa*). In *Dṛg-Dṛśya Viveka* (10), waking is defined as the full manifestation of the ego (*pūrṇābhāsa*), contrasting with the partial manifestation in dream and its dissolution in deep sleep.
 
+---
+
 ## Interpretations and Disputes
 
 Significant exegetical differences surrounding *jāgarita-sthāna* center on ontology, grammar, and methodology:
@@ -74,6 +82,8 @@ Significant exegetical differences surrounding *jāgarita-sthāna* center on ont
 
 3. **Waking Consciousness as the Frame of Inquiry**:
    - Exegetes address the paradox that while *jāgarita-sthāna* represents an ignorant, outward-directed state (*avidyā*), it remains the sole locus in which Vedāntic inquiry, scriptural study, and spiritual effort can take place. Śaṅkara emphasizes that the analysis of all three states (*avasthā-traya-parīkṣā*) is an analytical method executed within waking consciousness to lead the seeker beyond all states into *turīya*.
+
+---
 
 ## Related Terms
 
@@ -91,12 +101,14 @@ Significant exegetical differences surrounding *jāgarita-sthāna* center on ont
 - Vaiśvānara (वैश्वानर)
 - Viśva (विश्व)
 
+---
+
 ## References
 
-- Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords *Avasthā*, p. 74; *Jāgrat*, p. 144; *Vaiśvānara*, p. 334).
-- Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green and Co. (Headwords *jāgarita*, p. 100, col. 2; *sthāna*, p. 365, col. 2).
-- Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (4th ed.). Clarendon Press.
-- Nikhilananda, Swami (Trans.). (1947). *Vedāntasāra of Sadānanda*. Advaita Ashrama. (§ 111–115, pp. 67–68).
-- Nikhilananda, Swami (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary). Harper & Brothers / Advaita Ashrama. (Māṇḍūkya Upaniṣad, Mantras 3, 9, pp. 223–225, 235–236; Śaṅkara's Commentary on Mantra 3, pp. 224–225; Gauḍapāda Kārikā I.1–5, II.1–15, IV.33–40, pp. 24–35, 37–45, 266–272).
-- Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies* (Vol. 3: Advaita Vedānta up to Śaṃkara and his pupils). Motilal Banarsidass. (pp. 311–313).
-- Sastri, A. M. (Trans.). (1923). *Tattva Bodha of Śrī Śaṅkarācārya*. Central Chinmaya Mission Trust. (§ 13.3–13.5).
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords *Avasthā*, p. 74; *Jāgrat*, p. 144; *Vaiśvānara*, p. 334).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green and Co. (Headwords *jāgarita*, p. 100, col. 2; *sthāna*, p. 365, col. 2).
+3. Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (4th ed.). Clarendon Press.
+4. Nikhilananda, Swami (Trans.). (1947). *Vedāntasāra of Sadānanda*. Advaita Ashrama. (§ 111–115, pp. 67–68).
+5. Nikhilananda, Swami (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary). Harper & Brothers / Advaita Ashrama. (Māṇḍūkya Upaniṣad, Mantras 3, 9, pp. 223–225, 235–236; Śaṅkara's Commentary on Mantra 3, pp. 224–225; Gauḍapāda Kārikā I.1–5, II.1–15, IV.33–40, pp. 24–35, 37–45, 266–272).
+6. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies* (Vol. 3: Advaita Vedānta up to Śaṃkara and his pupils). Motilal Banarsidass. (pp. 311–313).
+7. Sastri, A. M. (Trans.). (1923). *Tattva Bodha of Śrī Śaṅkarācārya*. Central Chinmaya Mission Trust. (§ 13.3–13.5).

@@ -35,8 +35,8 @@ The term frequently forms idiomatic adverbial combinations and compound expressi
 
 ## References
 
-1. Cappeller, C. (1891). *A Sanskrit-English Dictionary*. Strassburg: Karl J. Trübner. (Headword *yatra*, p. 441).
-2. Kale, M. R. (1894). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Bombay: Mrs. Radhabai Atmaram Sagoon. (§ 719, p. 436).
-3. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary*. London: Longmans, Green, and Co. (Headwords *tatra*, p. 105, col. 3; *yatra*, p. 239, col. 2).
-4. Monier-Williams, M. (1857). *A Practical Grammar of the Sanskrit Language, Arranged with Reference to the Classical Languages of Europe, for the Use of English Students*. Oxford: University Press. (pp. 129, 228).
-5. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Oxford: Clarendon Press. (Headwords *yad*, p. 841, col. 3; *yatra*, p. 851, col. 1).
+1. Cappeller, C. (1891). *A Sanskrit-English dictionary*. Karl J. Trübner. (Headword *yatra*, p. 441).
+2. Kale, M. R. (1894). *A higher Sanskrit grammar for the use of schools and colleges*. Mrs. Radhabai Atmaram Sagoon. (§ 719, p. 436).
+3. MacDonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. (Headwords *tatra*, p. 105, col. 3; *yatra*, p. 239, col. 2).
+4. Monier-Williams, M. (1857). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe, for the use of English students*. University Press. (pp. 129, 228).
+5. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. (Headwords *yad*, p. 841, col. 3; *yatra*, p. 851, col. 1).

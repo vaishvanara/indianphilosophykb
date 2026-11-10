@@ -38,10 +38,7 @@ Grammatically, *kula* is a neuter noun, and *kule* represents its locative singu
 
 ## References
 
-Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords: *Gurukula*, p. 133; *Kula*, p. 170; *Māṇḍūkya Upaniṣad*, p. 185).
-
-Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headword: *Kula*, p. 70).
-
-Nikhilananda, S. (Trans.). (1956). *The Upanishads: Māṇḍūkya Upaniṣad with Gauḍapāda Kārikā and Śaṅkara's commentary* (Vol. 3). Bonanza Books.
-
-Rāmānuja. (1904). *The Vedānta-Sūtras with the Śrī-Bhāṣya* (G. Thibaut, Trans.; Part 3). Oxford University Press.
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords: *Gurukula*, p. 133; *Kula*, p. 170; *Māṇḍūkya Upaniṣad*, p. 185).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headword: *Kula*, p. 70).
+3. Nikhilananda, S. (Trans.). (1956). *The Upanishads: Māṇḍūkya Upaniṣad with Gauḍapāda Kārikā and Śaṅkara's commentary* (Vol. 3). Bonanza Books.
+4. Rāmānuja. (1904). *The Vedānta-Sūtras with the Śrī-Bhāṣya* (G. Thibaut, Trans.; Part 3). Oxford University Press.

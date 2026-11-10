@@ -16,6 +16,8 @@ See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 Not conscious of both internal and external objects; in the Māṇḍūkya Upaniṣad (Mantra 7), negating twilight or intermediate cognition between waking and dream.
 
+---
+
 ## Definition
 
 *Nobhayataḥprajñaṃ* (नोभयतःप्रज्ञम् / नोभयातःप्रज्ञं)—formed via sandhi from *na* (न) and *ubhayataḥprajñam* (उभयतःप्रज्ञम्)—is a negative Sanskrit phrasal expression meaning "not conscious of both sides," "not possessed of dual-directional cognition," or "not aware of internal and external worlds simultaneously."
@@ -23,6 +25,8 @@ Not conscious of both internal and external objects; in the Māṇḍūkya Upani
 Lexically, the compound combines the indeclinable particle *na* ("not"), the adverb *ubhayataḥ* ("from or on both sides," "in both directions"), and the nominal stem *prajñā* ("consciousness," "cognition," or "awareness"). 
 
 Contextually within the *Māṇḍūkya Upaniṣad* (Mantra 7), *nobhayataḥprajñaṃ* forms an integral clause in the apophatic neti-neti ("not this, not this") definition of *Turīya* (the non-dual Fourth). While waking consciousness (*bahiṣprajña*) is directed outward toward physical objects and dream consciousness (*antaḥprajña*) is directed inward toward mental impressions, *nobhayataḥprajñaṃ* explicitly negates any intermediate, hybrid, or twilight state of consciousness (*sandhyāvasthā* / *antarālavastā*) between waking and dream—such as a state in which an individual is half-aware of external perceptions and half-aware of internal fantasies simultaneously.
+
+---
 
 ## Etymology
 
@@ -36,7 +40,9 @@ The expression *nobhayataḥprajñaṃ* (नोभयतःप्रज्ञम
 6. **Compound Expansion (*Vigraha-vākya*)**: *ubhayataḥ (ubhayor antaḥ-bāhya-viṣayayoḥ) prajñā yasya tat nobhayataḥprajñam* ("that entity whose consciousness is not directed to both internal and external objects simultaneously").
 7. **Inflection & Syntax**: The compound takes the neuter nominative/accusative singular termination *-am* (*nobhayataḥprajñam*), agreeing in gender, number, and case with *caturtham* (*Turīya*, the Fourth).
 
-## nobhayataḥprajñaṃ in the Māṇḍūkya Upaniṣad
+---
+
+## Nobhayataḥ-prajñaṃ in the Māṇḍūkya Upaniṣad
 
 The expression occurs in Mantra 7 of the *Māṇḍūkya Upaniṣad*, which presents the definitive text on the nature of *Turīya*:
 
@@ -54,6 +60,8 @@ Philosophically, Śaṅkarācārya explains in his *Māṇḍūkyopaniṣad-bhā
 
 Gauḍapāda, in his *Gauḍapādīya Kārikā* (Agama Prakaraṇa), underscores that the negation of these distinct cognitive orientations demonstrates that duality (*dvaita*) has no real existence (*ajātavāda*). When the illusory attributions of waking, dream, intermediate states, and deep sleep are removed through apophatic negation, the non-dual Self (*Turīya*) alone shines as the sole Reality.
 
+---
+
 ## Interpretations and Disputes
 
 1. **Translation and Exegetical Nuances**:
@@ -61,6 +69,8 @@ Gauḍapāda, in his *Gauḍapādīya Kārikā* (Agama Prakaraṇa), underscores
 
 2. **Prevention of Psychological Misconceptions**:
    Advaita Vedāntic scholars emphasize the pedagogical necessity of including *nobhayataḥprajñaṃ* in Mantra 7. Without this specific negation, an inquirer might erroneously suppose that *Turīya* represents a hybrid, altered, or hypnotic state of consciousness produced by blending internal and external perceptions. The negation clarifies that *Turīya* transcends all empirical, psychological, and transitional modes of cognition.
+
+---
 
 ## Related Terms
 
@@ -78,11 +88,13 @@ Gauḍapāda, in his *Gauḍapādīya Kārikā* (Agama Prakaraṇa), underscores
 - Turīya (तूरीय)
 - Viśva (विश्व)
 
+---
+
 ## References
 
-- Kale, M. R. (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Delhi: Motilal Banarsidass.
-- Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co. (Headwords: *ubhaya*, p. 55, col. 1; *ubhayatas*, p. 55, col. 1; *prajñā*, p. 176, col. 2).
-- Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary*. Mysore: Sri Ramakrishna Ashrama. (Mantra 7, pp. 50–53, 58).
-- Nikhilananda, S. (Trans.). (1955). *The Upanishads: A New Translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. London: Phoenix House. (Mantra 7, pp. 231–233).
-- Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies (Volume III: Advaita Vedānta up to Śaṅkara and His Pupils)*. Princeton, NJ: Princeton University Press / Delhi: Motilal Banarsidass. (pp. 14–16).
-- Williams, M. (1877). *A Practical Grammar of the Sanskrit Language Arranged with Reference to the Classical Languages of Europe for the Use of English Students*. Oxford: Clarendon Press.
+1. Kale, M. R. (1972). *A higher Sanskrit grammar for the use of schools and colleges*. Motilal Banarsidass.
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords: *ubhaya*, p. 55, col. 1; *ubhayatas*, p. 55, col. 1; *prajñā*, p. 176, col. 2).
+3. Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's commentary*. Sri Ramakrishna Ashrama. (Mantra 7, pp. 50–53, 58).
+4. Nikhilananda, S. (Trans.). (1955). *The Upanishads: A new translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's commentary)*. Phoenix House. (Mantra 7, pp. 231–233).
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies (Volume III: Advaita Vedānta up to Śaṅkara and his pupils)*. Princeton University Press / Motilal Banarsidass. (pp. 14–16).
+6. Williams, M. (1877). *A practical grammar of the Sanskrit language arranged with reference to the classical languages of Europe for the use of English students*. Clarendon Press.

@@ -16,17 +16,23 @@ See: [Mandukya Upanishad (Verse 4, 10)](mandukyopanisat.md)
 
 In the *Māṇḍūkya Upaniṣad*, *Taijasa* (तैजस) denotes the Self in the dream state, experiencing internal, subtle mental impressions through light-like mind-stuff.
 
+---
+
 ## Definition
 
 In the *Māṇḍūkya Upaniṣad* (Mantra 4), *Taijasa* (तैजस) is defined as the second quarter (*dvitīyaḥ pādaḥ*) of the Self (*Ātman*). Its sphere of activity is the dream state (*svapna-sthāna*), and its consciousness is directed inward toward subjective mental states (*antaḥprajña*). The Upaniṣad describes *Taijasa* as possessing seven limbs (*saptāṅga*) and nineteen mouths (*ekonavimśatimukha*), acting as the enjoyer of subtle objects (*praviviktabhuk*).
 
 Literally, *taijasa* means "consisting of light", "resplendent", or "luminous", derived from the Sanskrit noun *tejas* (light, brilliance, effulgence). Contextually, in Advaita Vedānta, *Taijasa* refers to consciousness conditioned by the subtle body (*sūkṣma-śarīra*) or inner organ (*antaḥkaraṇa*). While the waking self (*Viśva*) perceives external physical objects through gross sensory channels, *Taijasa* functions when external senses are inactive. In this state, the mind projects a dream world out of the latent memory impressions (*vāsanās*) accumulated during waking experience, illuminated solely by the intrinsic effulgence of the Self.
 
+---
+
 ## Etymology
 
 The Sanskrit term *taijasa* (तैजस) is a *taddhita* (secondary nominal) derivative formed from the neuter noun *tejas* (तेजस्), which denotes brilliance, fire, or light. The noun *tejas* itself derives from the verbal root √*tij* (तिज्), meaning "to be sharp", "to inflame", or "to shine". 
 
 In Sanskrit word formation, *taijasa* is produced by adding the secondary suffix *-a* (*aṇ* pratyaya) to *tejas*, which induces *vṛddhi* vowel-strengthening of the initial stem vowel *e* to *ai*. The resulting masculine stem *taijasa-* (nominative singular *taijasaḥ* तैजसः) carries the primary adjectival meaning of "luminous", "brilliant", or "composed of light". In Vedāntic literature, this adjectival form is nominalized to signify the luminous consciousness operating within the subtle mental realm during dream.
+
+---
 
 ## Taijasa in the Māṇḍūkya Upaniṣad
 
@@ -43,11 +49,15 @@ The textual presentation of *Taijasa* develops across several historical layers 
 - **Śaṅkara's Commentary**: Śaṅkara elucidates why the term *Taijasa* ("luminous") is employed. In dream, external luminaries (such as the sun) and external sense organs are inactive. The mind, retaining waking memory impressions (*vāsanās*), shines by the light of the Self (*svayaṁ-jyotiḥ*) and manifests as subject, object, and perception. Śaṅkara clarifies that *Taijasa* is essentially non-different from *Viśva*; it is the same perceiver that has withdrawn from external sense gates into the subtle space of the heart (*hṛdaya-ākāśa*).
 - **Later Vedāntic Prakaraṇa Texts**: In works such as the *Tattva Bodha*, *Vedāntasāra*, and *Pañcadaśī*, *Taijasa* is defined concise as *sūkṣma-śarīrābhimānī ātmā*—the Self identifying with the individual subtle body. Furthermore, Vedāntic cosmology correlates microcosmic *Taijasa* with macrocosmic *Hiraṇyagarbha* or *Sūtrātmā* (the cosmic subtle intellect), preserving parallelism across individual and cosmic tiers (*Viśva*/*Virāṭ*, *Taijasa*/*Hiraṇyagarbha*, *Prājña*/*Īśvara*).
 
+---
+
 ## Interpretations and Disputes
 
 - **Ontological Status of Dream Projections**: Vedāntic commentators discuss whether the objects perceived by *Taijasa* have objective reality. In his *Brahmasūtra-bhāṣya* (BS 3.2.1–3.2.6), Śaṅkara demonstrates that dream objects created during the *Taijasa* state are *māyāmātra* (mere illusion). They lack the spatial, temporal, and causal consistency of waking experience, even though they appear real to *Taijasa* during the dream itself.
 - **Causality Between Waking and Dream**: While secondary Vedāntic treatises treat waking experience (*Viśva*) as the generative cause of dream impressions (*Taijasa*), Gauḍapāda's *Alātaśānti Prakaraṇa* (GK 4.38–4.42) refutes absolute causality between the two states. Gauḍapāda contends that both waking and dream objects are mutually dependent mental constructions (*vikalpa*), neither of which possesses ultimate origination (*ajāti*).
 - **Epistemic Function of Dream Memory**: Commentators debate whether dream perception by *Taijasa* is merely memory recall (*smṛti*) or a direct, immediate perception (*pratyakṣa*) of internal mental modifications. Advaita thinkers generally classify dream cognition as a unique direct perception of mental impressions (*vāsanā-mātra*) lit up by the witness-consciousness (*sākṣin*).
+
+---
 
 ## Related Terms
 
@@ -65,12 +75,14 @@ The textual presentation of *Taijasa* develops across several historical layers 
 - Vāsanā (वासना)
 - Viśva (विश्व)
 
+---
+
 ## References
 
-1. MacDonell, Arthur A. *A Sanskrit-English Dictionary*. Part 1 & Part 2. London: Longmans, Green and Co., 1893. (Entries for √*tij*, *tejas*, *taijasa*).
-2. Nikhilananda, Swami, trans. *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Ashrama, 1936. (Māṇḍūkya Upaniṣad Mantras 4, 20; Gauḍapāda Kārikā 1.1, 1.11, 1.14, 1.15, 1.20, 4.40, 4.42; Śaṅkara's Commentary on Mantra 4 and Kārikās).
-3. Nikhilananda, Swami, trans. *Vedāntasāra of Sadānanda*. Almora: Advaita Ashrama, 1931. (Paragraphs 38, 95, 146).
-4. Potter, Karl H., ed. *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṅkara and His Pupils*. Princeton: Princeton University Press, 1981. (Pages 14, 312, 313, 562).
-5. Śaṅkarācārya. *Tattva Bodha*. Text with English Translation. (Section on Svapnāvasthā and Taijasa, 13-7).
-6. Śaṅkarācārya. *Upadeśasāhasrī*. Translated by Swami Jagadananda. Madras: Sri Ramakrishna Math, 1941. (Chapter 17, Verse 24).
-7. Sivananda, Swami. *Brahmasūtra: Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary*. Rishikesh: Divine Life Society. (Adhyāya III, Pāda 2, Sūtras 1–4).
+1. MacDonell, A. A. (1893). *A Sanskrit-English dictionary* (Parts 1–2; Entries for √*tij*, *tejas*, *taijasa*). Longmans, Green and Co.
+2. Nikhilananda, S. (Trans.). (1936). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (Māṇḍūkya Upaniṣad Mantras 4, 20; Gauḍapāda Kārikā 1.1, 1.11, 1.14, 1.15, 1.20, 4.40, 4.42; Śaṅkara's Commentary on Mantra 4 and Kārikās). Sri Ramakrishna Ashrama.
+3. Nikhilananda, S. (Trans.). (1931). *Vedāntasāra of Sadānanda* (Paras. 38, 95, 146). Advaita Ashrama.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṅkara and his pupils* (pp. 14, 312, 313, 562). Princeton University Press.
+5. Śaṅkarācārya. (n.d.). *Tattva bodha: Text with English translation* (Section on Svapnāvasthā and Taijasa, 13-7).
+6. Śaṅkarācārya. (1941). *Upadeśasāhasrī* (S. Jagadananda, Trans.; Chapter 17, Verse 24). Sri Ramakrishna Math.
+7. Sivananda, S. (n.d.). *Brahmasūtra: Sanskrit text, transliteration, word-for-word meaning, English translation, and commentary* (Adhyāya III, Pāda 2, Sūtras 1–4). Divine Life Society.

@@ -44,6 +44,6 @@ Within the *Māṇḍūkya Upaniṣad* (Mantra 12), the word occurs in the sandh
 
 ## References
 
-- Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Entry for root *viś* with prefix *sam*, p. 289, col. 3).
-- Nikhilananda, Swami. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada’s Kārikā and Śaṅkara’s commentary*. Sri Ramakrishna Ashrama. (Verse 12, pp. 82–85).
-- Nikhilananda, Swami. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2). Harper & Brothers. (Māṇḍūkya Upaniṣad, Verse 12, p. 246).
+1. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (Entry for root *viś* with prefix *sam*, p. 289, col. 3). Longmans, Green, and Co.
+2. Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada’s Kārikā and Śaṅkara’s commentary* (Verse 12, pp. 82–85). Sri Ramakrishna Ashrama.
+3. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2, Māṇḍūkya Upaniṣad, Verse 12, p. 246). Harper & Brothers.

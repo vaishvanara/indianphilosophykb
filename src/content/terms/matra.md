@@ -51,8 +51,8 @@ Cognate nominal and participial formations derived from the same root *mā* in c
 
 ## References
 
-- Kale, M. R. (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Delhi: Motilal Banarsidass.
-- Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co. (Headwords: *mā*, p. 223, col. 2; *mātra*, p. 224, col. 3; *mātrā*, p. 224, col. 3).
-- Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary*. Mysore: Sri Ramakrishna Ashrama. (Mantras 1, 8–12, pp. 74–84).
-- Nikhilananda, S. (Trans.). (1955). *The Upanishads: A New Translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. London: Phoenix House. (Mantras 1, 8–12, pp. 245–247).
-- Williams, M. (1877). *A Practical Grammar of the Sanskrit Language Arranged with Reference to the Classical Languages of Europe for the Use of English Students*. Oxford: Clarendon Press.
+1. Kale, M. R. (1972). *A higher Sanskrit grammar for the use of schools and colleges*. Motilal Banarsidass.
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords: *mā*, p. 223, col. 2; *mātra*, p. 224, col. 3; *mātrā*, p. 224, col. 3).
+3. Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's commentary*. Sri Ramakrishna Ashrama. (Mantras 1, 8–12, pp. 74–84).
+4. Nikhilananda, S. (Trans.). (1955). *The Upanishads: A new translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's commentary)*. Phoenix House. (Mantras 1, 8–12, pp. 245–247).
+5. Williams, M. (1877). *A practical grammar of the Sanskrit language arranged with reference to the classical languages of Europe for the use of English students*. Clarendon Press.

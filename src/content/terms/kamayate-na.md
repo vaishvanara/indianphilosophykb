@@ -45,8 +45,8 @@ Syntactically, in Mantra 5 of the *Māṇḍūkya Upaniṣad*, *kāmayate* is mo
 
 ## References
 
-- Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords *Kāma*, p. 158; *Prājña*, p. 238; *Suṣupti*, p. 308).
-- Kale, M. R. (1903). *A higher Sanskrit grammar for the use of schools and colleges*. Gopal Narayen & Co. (§ 480, p. 315; § 550, p. 370; § 777, p. 480).
-- Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green and Co. (Headwords *kam*, p. 62, col. 3; *kāma*, p. 66, col. 1; *na*, p. 136, col. 2).
-- Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (4th ed.). Clarendon Press. (§ 269, p. 104; § 482, p. 280; § 546, p. 211).
-- Nikhilananda, Swami (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary). Harper & Brothers / Advaita Ashrama. (Māṇḍūkya Upaniṣad, Mantra 5, pp. 228–230).
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords *Kāma*, p. 158; *Prājña*, p. 238; *Suṣupti*, p. 308).
+2. Kale, M. R. (1903). *A higher Sanskrit grammar for the use of schools and colleges*. Gopal Narayen & Co. (§ 480, p. 315; § 550, p. 370; § 777, p. 480).
+3. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green and Co. (Headwords *kam*, p. 62, col. 3; *kāma*, p. 66, col. 1; *na*, p. 136, col. 2).
+4. Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (4th ed.). Clarendon Press. (§ 269, p. 104; § 482, p. 280; § 546, p. 211).
+5. Nikhilananda, Swami (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary). Harper & Brothers / Advaita Ashrama. (Māṇḍūkya Upaniṣad, Mantra 5, pp. 228–230).

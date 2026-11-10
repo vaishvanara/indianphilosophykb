@@ -47,8 +47,8 @@ Grammatical Classification and Expansion:
 
 ## References
 
-- Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords *Jñāna*, p. 152; *Santati*, p. 272).
-- Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green and Co. (Headwords *jñāna*, p. 103, col. 1; *saṃtati*, p. 333, col. 2).
-- Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (4th ed.). Clarendon Press. (§ 743, p. 337).
-- Nikhilananda, Swami (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary). Harper & Brothers / Advaita Ashrama. (Gauḍapāda Kārikā IV.28, pp. 260–261; IV.72, pp. 280–281; IV.96–99, pp. 327–330).
-- Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies* (Vol. 3: Advaita Vedānta up to Śaṃkara and his pupils). Motilal Banarsidass. (pp. 314, 359, 367).
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords *Jñāna*, p. 152; *Santati*, p. 272).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green and Co. (Headwords *jñāna*, p. 103, col. 1; *saṃtati*, p. 333, col. 2).
+3. Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (4th ed.). Clarendon Press. (§ 743, p. 337).
+4. Nikhilananda, Swami (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary). Harper & Brothers / Advaita Ashrama. (Gauḍapāda Kārikā IV.28, pp. 260–261; IV.72, pp. 280–281; IV.96–99, pp. 327–330).
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies* (Vol. 3: Advaita Vedānta up to Śaṃkara and his pupils). Motilal Banarsidass. (pp. 314, 359, 367).

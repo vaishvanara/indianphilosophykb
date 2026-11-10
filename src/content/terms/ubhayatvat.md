@@ -37,6 +37,6 @@ In Advaita Vedānta philosophy—specifically within Gauḍapāda’s *Māṇḍ
 
 ## References
 
-1. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Longmans, Green, and Co. (p. 55, col. 1).
-2. Nikhilananda, Swami (Trans.). (1949). *The Mandukya Upanishad with Gaudapada's Karika and Sankara's Commentary*. Sri Ramakrishna Math. (Chapter II, Verses 4–5, pp. 95–97).
-3. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Volume 3. Advaita Vedānta up to Śaṅkara and His Pupils*. Motilal Banarsidass. (pp. 104–105).
+1. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages* (p. 55, col. 1). Longmans, Green, and Co.
+2. Nikhilananda, Swami. (Trans.). (1949). *The Mandukya Upanishad with Gaudapada's Karika and Sankara's commentary* (Chapter II, Verses 4–5, pp. 95–97). Sri Ramakrishna Math.
+3. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṅkara and his pupils* (pp. 104–105). Motilal Banarsidass.

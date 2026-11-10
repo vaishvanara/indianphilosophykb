@@ -16,11 +16,15 @@ See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 In the *Māṇḍūkya Upaniṣad*, *sa Ātmā* (स आत्मा) means "That is the Self"—referring to Turīya, the non-dual, transcendent Reality to be realized.
 
+---
+
 ## Definition
 
 The expression *sa Ātmā* (स आत्मा) is a two-word Sanskrit nominal phrase composed of the masculine demonstrative pronoun *sa* (स, "that" or "he") and the nominative singular noun *Ātmā* (आत्मा, "Self" or "inmost essence"). Syntactically, the demonstrative pronoun *sa* functions as the subject referring back to the unconditioned Reality previously described, while *Ātmā* acts as the predicate noun identifying that Reality with the intrinsic Self of the individual.
 
 Literally translating to "That [is] the Self," the phrase carries a crucial contextual and idiomatic function in Vedāntic discourse. Rather than indicating an external or distant object, *sa* points back to the transcendent, non-dual consciousness designated as the "Fourth" (*turīya* or *caturtha*). Contextually, *sa Ātmā* asserts the absolute identity between the ultimate, unconditioned Reality beyond empirical states and the innermost consciousness (*pratyag-ātman*) of the seeker.
+
+---
 
 ## Etymology
 
@@ -30,6 +34,8 @@ The phrase *sa Ātmā* (स आत्मा) demonstrates standard Sanskrit pron
 2. ***Ātmā*** (**आत्मा**): The nominative singular masculine form of the n-stem noun *ātman* (आत्मन्). Etymologically, traditional Sanskrit grammarians derive *ātman* from roots such as *at* ("to move continuously"), *āp* ("to pervade" or "to reach"), or *an* ("to breathe"), designating that which continuously pervades, sustains, and animates individual existence.
 
 Grammatically, the phrase constitutes an unexpressed-copula clause in which the present tense verb "is" (*asti*) is implied between the subject pronoun *sa* and the predicate noun *ātmā*.
+
+---
 
 ## Sa Ātmā in the Māṇḍūkya Upaniṣad
 
@@ -70,10 +76,12 @@ The brief prose text of the *Māṇḍūkya Upaniṣad* sets forth the core doct
 
 In later Advaita Vedānta literature (such as Sadananda's *Vedāntasāra* and Vidyāraṇya's *Pañcadaśī*), the expression *sa Ātmā* in Māṇḍūkya 7 is treated alongside the Great Sayings (*mahāvākya*), specifically *Ayam Ātmā Brahma* ("This Self is Brahman") from Māṇḍūkya 2. Advaita scholars utilize *sa ātmā* to demonstrate *akhaṇḍārtha*—the direct, indivisible identity of the individual conscious witness (*sākṣin*) with the Supreme Non-dual Reality (*nirguṇa-brahman*), freed from all limiting adjuncts (*upādhi*).
 
+---
+
 ## References
 
-1. **Nikhilananda, Swami** (Trans.). (1949). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (3rd ed.). Mysore: Sri Ramakrishna Ashrama. (Contains Sanskrit text, English translation, and notes for Māṇḍūkya Upaniṣad Mantras 2 and 7, Śaṅkara's *Māṇḍūkyopaniṣad-bhāṣya*, and Gauḍapāda's *Kārikā* 1.10–1.18, 1.28–1.29).
-2. **Max Müller, F.** (Trans.). (1884). *The Sacred Books of the East, Vol. 15: The Upanishads (Part 2 of 2)*. Oxford: Clarendon Press. (Māṇḍūkya Upaniṣad translation and introduction, pp. 27–28).
-3. **Potter, Karl H.** (Ed.). (1981). *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton, NJ: Princeton University Press / Delhi: Motilal Banarsidass. (Analysis of Gauḍapāda's *Gauḍapādīyakārikāḥ* and Śaṅkara's *Māṇḍūkyopaniṣadbhāṣya*, pp. 103–114, 308–312).
-4. **Kale, Moreshwar Ramchandra**. (1894). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Bombay: Sharada Krshna Depository. (Sanskrit Sandhi rules on visarga elision, §12, §108, §183).
-5. **MacDonell, Arthur Anthony**. (1893). *A Sanskrit-English Dictionary*. London: Longmans, Green and Co. (Grammatical derivations for *tad* / *saḥ* and *ātman*).
+1. Nikhilananda, S. (Trans.). (1949). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (3rd ed.). Sri Ramakrishna Ashrama. (Contains Sanskrit text, English translation, and notes for Māṇḍūkya Upaniṣad Mantras 2 and 7, Śaṅkara's *Māṇḍūkyopaniṣad-bhāṣya*, and Gauḍapāda's *Kārikā* 1.10–1.18, 1.28–1.29)
+2. Müller, F. M. (Trans.). (1884). *The sacred books of the East: Vol. 15. The Upanishads (Part 2 of 2)*. Clarendon Press. (Māṇḍūkya Upaniṣad translation and introduction, pp. 27–28)
+3. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press; Motilal Banarsidass. (Analysis of Gauḍapāda's *Gauḍapādīyakārikāḥ* and Śaṅkara's *Māṇḍūkyopaniṣadbhāṣya*, pp. 103–114, 308–312)
+4. Kale, M. R. (1894). *A higher Sanskrit grammar for the use of schools and colleges*. Sharada Krshna Depository. (Sanskrit Sandhi rules on visarga elision, §12, §108, §183)
+5. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green and Co. (Grammatical derivations for *tad* / *saḥ* and *ātman*)

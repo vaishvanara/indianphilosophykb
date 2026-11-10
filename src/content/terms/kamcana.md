@@ -46,8 +46,8 @@ Before the palatal/dental nasal particle *-cana*, the anusvāra *-ṃ* in *kam* 
 
 ## References
 
-- Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords *Prājña*, p. 238; *Suṣupti*, p. 308).
-- Kale, M. R. (1903). *A higher Sanskrit grammar for the use of schools and colleges*. Gopal Narayen & Co. (§ 146–147, p. 105; § 160, p. 116).
-- Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green and Co. (Headwords *ka*, p. 60, col. 2; *katham*, p. 61, col. 3; *kadā*, p. 62, col. 1).
-- Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (4th ed.). Clarendon Press. (§ 227–228, pp. 91–92).
-- Nikhilananda, Swami (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary). Harper & Brothers / Advaita Ashrama. (Māṇḍūkya Upaniṣad, Mantra 5, pp. 228–230).
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords *Prājña*, p. 238; *Suṣupti*, p. 308).
+2. Kale, M. R. (1903). *A higher Sanskrit grammar for the use of schools and colleges*. Gopal Narayen & Co. (§ 146–147, p. 105; § 160, p. 116).
+3. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green and Co. (Headwords *ka*, p. 60, col. 2; *katham*, p. 61, col. 3; *kadā*, p. 62, col. 1).
+4. Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe* (4th ed.). Clarendon Press. (§ 227–228, pp. 91–92).
+5. Nikhilananda, Swami (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary). Harper & Brothers / Advaita Ashrama. (Māṇḍūkya Upaniṣad, Mantra 5, pp. 228–230).

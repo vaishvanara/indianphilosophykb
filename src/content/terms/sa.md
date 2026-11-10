@@ -35,9 +35,9 @@ Etymologically, the prefixial element *sa-* is closely related to the prepositio
 
 ## References
 
-1. Coward, H. G., & Raja, K. K. (Eds.). (1990). *Encyclopedia of Indian Philosophies: Vol. 5. The Philosophy of the Grammarians*. Princeton University Press. (Headwords: *tad*, *liṅga*, pp. 119, 122).
-2. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Longmans, Green, and Co. (Headwords: *ta*, p. 105, col. 1; *sa* 1, p. 324, col. 1; *sa* 2, p. 324, col. 2; *saha* 1, p. 343, col. 3).
-3. Monier-Williams, M. (1857). *A Practical Grammar of the Sanskrit Language, Arranged with Reference to the Classical Languages of Europe, for the Use of Early Students* (2nd ed.). Oxford University Press. (§ 66, p. 25; § 220, p. 96).
-4. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages* (New ed.). Clarendon Press. (Headword: *sa* 1–7, p. 1111, col. 2).
-5. Sivananda, S. (1949). *Glossary of Sanskrit Terms*. Divine Life Society. (Headword: *Sa*, p. 102).
-6. Sri Aurobindo. (2001). *Yoga Glossary: Glossary to the Record of Yoga*. Sri Aurobindo Ashram Publications Department. (Headword: *sa*, p. 1).
+1. Coward, H. G., & Raja, K. K. (Eds.). (1990). *Encyclopedia of Indian philosophies: Vol. 5. The philosophy of the grammarians* (pp. 119, 122, headwords: *tad*, *liṅga*). Princeton University Press.
+2. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages* (Headwords: *ta*, p. 105, col. 1; *sa* 1, p. 324, col. 1; *sa* 2, p. 324, col. 2; *saha* 1, p. 343, col. 3). Longmans, Green, and Co.
+3. Monier-Williams, M. (1857). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe, for the use of early students* (2nd ed., § 66, p. 25; § 220, p. 96). Oxford University Press.
+4. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages* (New ed., p. 1111, col. 2, headword: *sa* 1–7). Clarendon Press.
+5. Sivananda, S. (1949). *Glossary of Sanskrit terms* (p. 102, headword: *Sa*). Divine Life Society.
+6. Sri Aurobindo. (2001). *Yoga glossary: Glossary to the record of yoga* (p. 1, headword: *sa*). Sri Aurobindo Ashram Publications Department.

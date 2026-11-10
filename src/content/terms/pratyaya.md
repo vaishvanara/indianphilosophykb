@@ -16,9 +16,13 @@ See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 In the Māṇḍūkya Upaniṣad, *pratyaya* denotes the cognition or conviction of the single Self (*ekātman*), forming the essence of non-dual realization.
 
+---
+
 ## Definition
 
 In Sanskrit literature and philosophical discourse, *pratyaya* (प्रत्यय) broadly signifies a mental conviction, notion, idea, cause, confidence, or grammatical suffix. In the specific context of the *Māṇḍūkya Upaniṣad* (mantra 7), the term functions as a vital constituent of the compound expression *ekātma-pratyaya-sāram* (एकात्मप्रत्ययसारम्). The constituent words of this compound are *eka* (one or single), *ātman* (the Self), *pratyaya* (cognition, awareness, or conviction), and *sāra* (essence, substrate, or sole evidence). Combined, the expression designates that ultimate reality—*Turīya* (the Fourth)—whose sole essence or valid proof consists in the unbroken cognition and conviction of the non-dual Self. Literally, *pratyaya* means a going towards, turning to, or taking recourse to an object or idea. Idiomatically, it spans subjective belief (*sampratyaya*), conceptual impression, causal dependence (*pratyayatva*), and grammatical affixes. Contextually within Advaita Vedānta, it functions as the inward mental apprehension that leads to the sublation of illusory duality.
+
+---
 
 ## Etymology
 
@@ -29,11 +33,15 @@ In the compound *ekātma-pratyaya-sāram* (एकात्मप्रत्य�
 - *ekātma-pratyaya* (एकात्मप्रत्यय): A Genitive Tatpuruṣa compound (*ekātmanaḥ pratyayaḥ*), signifying "the cognition, awareness, or conviction of the single Self".
 - *ekātma-pratyaya-sāram* (एकात्मप्रत्ययसारम्): A Bahuvrīhi compound (*ekātma-pratyayaḥ sāraḥ yasya tat*), expanded as "that entity whose sole essence or evidence (*sāra*) is the conviction of the single Self".
 
+---
+
 ## Pratyaya in the Māṇḍūkya Upaniṣad
 
 The term occurs in Mantra 7 of the *Māṇḍūkya Upaniṣad*, where it describes *Turīya*, the transcendent Fourth state of Consciousness beyond waking (*viśva*), dream (*taijasa*), and deep sleep (*prājña*). Grammatically, *ekātma-pratyaya-sāram* functions as an adjectival modifier qualifying *Turīya*. Contextually, Mantra 7 defines *Turīya* through a series of negative and positive attributes: it is neither inward-conscious (*nāntaḥ-prajñam*) nor outward-conscious (*na bahis-prajñam*), unseen (*adṛṣṭam*), ungraspable (*agrāhyam*), unthinkable (*acintyam*), the cessation of phenomenal multiplicity (*prapañcopaśamam*), tranquil (*śāntam*), auspicious (*śivam*), and non-dual (*advaitam*). 
 
 Within this surrounding text, *ekātma-pratyaya-sāram* serves as the pivotal positive indicator of the Self. In his commentary (*Bhāṣya*), Śaṅkarācārya explains that *Turīya* is established through the unbroken cognition of the identity of the single Self (*ekātma-pratyaya*), which constitutes its sole valid proof and essence. Just as the true nature of a rope is realized by negating the illusory appearance of a snake, the non-dual Self present across all three states is recognized as *Turīya* by negating illusory *upādhis* through *ekātma-pratyaya*. Gauḍapāda's *Kārikā* further clarifies that while deep sleep (*prājña*) is conditioned by non-apprehension of reality as a cause (*bīja-nidrā*), *Turīya* is ever-seeing (*sarvadṛk*) and untouched by causal ignorance or dreamlike mis-apprehension.
+
+---
 
 ## Pratyaya in Sāṃkhya
 
@@ -52,6 +60,8 @@ In modern scholarship, Gerald J. Larson emphasizes that *pratyayasarga* represen
 
 Furthermore, in Sāṃkhya epistemology as articulated by Vijñānabhikṣu in his *Sāṃkhyapravacanabhāṣya* (under Sūtra I.64 and I.100), *pratyaya* describes the actual modification (*vṛtti*) of the intellect (*buddhi*). Cognition occurs when the intellect takes on the form of the external object (*arthākāra*). Because *puruṣa* (pure consciousness) is unattached (*asaṅga*) and actionless (*niṣkriya*), consciousness appears to experience objects through the reflection (*pratibimba*) of the intellectual *pratyaya* in *puruṣa*, or through the reflection of *puruṣa* in the luminous *sattva* constituent of the intellect.
 
+---
+
 ## Pratyaya in Rāja Yoga
 
 In the *Yogasūtra* of Patañjali and its classic commentaries, *pratyaya* serves as a central technical term denoting the mental content, idea, presentation, thought-state, or total visual/conceptual field occupying consciousness (*citta*) at any given moment.
@@ -69,6 +79,8 @@ The doctrinal role of *pratyaya* is pivotal across the stages of meditative conc
 
 Vyāsa's *Yogasūtrabhāṣya* and Vācaspati Miśra's *Tattvavaiśāradī* clarify that while ordinary *pratyaya*s are transitory modifications of the mind dependent upon objects, the ultimate aim of Rāja Yoga is to transcend all *pratyaya*s, dissolving the mind's identification with mental content (*citta-vṛtti-nirodha*) so that pure consciousness abides in its essential nature (*svarūpe 'vasthānam*).
 
+---
+
 ## Pratyaya in Nyāya
 
 In the Nyāya school of classical Indian logic and epistemology, as founded in Gautama's *Nyāyasūtra* and explicated in Vātsyāyana's *Nyāyasūtrabhāṣya*, Uddyotakara's *Nyāyavārtika*, and Ganganatha Jha's modern translations and annotations, *pratyaya* is consistently employed as a technical synonym for **cognition** (*jñāna*), **perception** (*pratyakṣa*), or **ascertainment** (*adhyavasāya* / *saṃpratyaya*).
@@ -78,6 +90,8 @@ In the opening sections of the *Nyāyasūtrabhāṣya* (under Sūtra 1.1.4), Vā
 In the extended polemics of *Nyāyasūtra* Discourse II (Sūtras 2.1.11–16), Gautama and Vātsyāyana address the temporal relationship between the instrument of cognition (*pramāṇa*) and the object of cognition (*prameya*). Opponents argue that a *pramāṇa* cannot precede, coincide with, or follow its object. In response, the Naiyāyikas clarify that the term *pratyaya* (signifying cognition or apprehension) applies across all three divisions of time (*traikālya*): past (*cognized*), present (*cognizing*), and future (*will be cognized*).
 
 Furthermore, in Nyāya textual commentary (such as Raghuttama's *Bhāṣyacandra* cited in Ganganatha Jha's edition under Sūtra 2.1.33), the word *pratyaya* is frequently glossed directly as *pratyakṣa* (direct sensory awareness or perception). In logical debates regarding the reality of whole entities (*avayavin*) versus mere clusters of atoms, the Naiyāyikas argue that our uncontradicted, direct awareness (*pratyaya*) of composite objects (such as a jar or cloth) proves the objective existence of the composite entity over and above its constituent parts.
+
+---
 
 ## Pratyaya in Vyākaraṇa
 
@@ -92,6 +106,8 @@ Grammatically, a Sanskrit word (*pada*) is formed by affixing a *pratyaya* to a 
 A major semantic debate between Grammarians and Logicians (Naiyāyikas) concerns the relative predominance of the suffix meaning (*pratyayārtha*) versus the root/stem meaning (*prakṛtyārtha*). As Kauṇḍa Bhaṭṭa discusses in *Vaiyākaraṇabhūṣaṇasāra* (Section 9 & 13), the traditional grammatical rule dictates that the meaning conveyed by the suffix is predominant (*pratyayārtha-prādhānyam*). In a word like *pācaka* ("cook"), the *kṛt* suffix denotes the agent (*kartṛ*), qualifying the root action *pac* (cooking). Conversely, in finite verbal forms (*ākhyāta*), Grammarians hold that durative action (*bhāva* / *kriyā*) expressed by the root remains the principal element of sentence meaning, contesting the Nyāya view that nominative agent nouns are always principal.
 
 In Bhartṛhari's philosophy of language (*Vākyapadīya*), while suffixes (*pratyaya*s) and stems are analyzed by grammarians through agreement and difference (*anvaya-vyatireka*) for instructional purposes, ultimate linguistic reality resides in the undivided sentence-burst (*vākya-sphoṭa*). From the perspective of absolute reality, word parts and suffixes are analytical abstractions (*akalpita*) serving as pragmatic means (*upāya*) to reveal the unified meaning (*pratibhā*).
+
+---
 
 ## Pratyaya in Buddhism
 
@@ -111,12 +127,16 @@ In Theravāda scholasticism, Ācariya Buddhaghosa in the *Visuddhimagga* and Bud
 
 In Mahāyāna scriptures, particularly the *Laṅkāvatāra Sūtra* (translated and edited by Daisetz Teitaro Suzuki), *pratyaya* is examined within the framework of the Three Natures (*trisvabhāva*). The relative or dependent nature (*paratantra-svabhāva*) arises from subject-object conditioning (*hetu-pratyaya-ja*). Mahāyāna texts emphasize that all dependently originated phenomena (*pratītyasamutpanna*) lack intrinsic self-existence (*svabhāva*) and are fundamentally empty (*śūnya*). Spiritual liberation consists in transcending attachment to causal conditions (*hetu-pratyaya*) and false conceptualization (*vikalpa*), realizing the perfected, unconditioned nature (*pariniṣpanna-svabhāva*) and the great void of noble wisdom (*paramārtha-āryajñāna-mahāśūnyatā*).
 
+---
+
 ## Interpretations and Disputes
 
 Philosophical traditions interpret *pratyaya* differently depending on their epistemological and ontological frameworks
 
 - **Yogācāra Idealism vs. Advaita Vedānta**: In Buddhist Yogācāra philosophy, *pratyaya* denotes momentary mental impressions or causal streams of consciousness (*pratyaya-sarga* / *pratyaya-paramparā*) within the *ālaya-vijñāna*. In contrast, Advaita Vedānta treats empirical mental states (*vṛtti-pratyaya*) as transitory attributes of the intellect (*buddhi*) rather than the eternal Reality (*astīti pratyayo yaśca yaśca nāstīti vastuni*).
 - **Role of Cognition in Liberation**: While Nyāya and Mīmāṁsā view *pratyaya* as discrete acts of knowledge producing empirical apprehension, Advaita Vedānta holds that the *ekātma-pratyaya* in the *Māṇḍūkya Upaniṣad* is the final sublating cognition that dispels nescience. Later Advaita texts like the *Vivekacūḍāmaṇi* emphasize that the ultimate state of liberation is *pratyayāntara-śūnya*—devoid of any intervening dual thoughts or concepts—and *pratyayāgamyamāna*, being beyond the reach of ordinary mental cognitions.
+
+---
 
 ## Related Terms
 
@@ -131,27 +151,29 @@ Philosophical traditions interpret *pratyaya* differently depending on their epi
 - Turīya (तूरीय)
 - Vṛtti (वृत्ति)
 
+---
+
 ## References
 
-- Avalon, A. (Ed. & Trans.). (1919). The Serpent Power: Being the Ṣaṭ-Cakra-Nīrūpaṇa and Pādukā-Pañcaka. Luzac & Co.
-- Bhikkhu Bodhi, & Narada Maha Thera. (Eds.). (1993). A Comprehensive Manual of Abhidhamma: The Abhidhammattha Sangaha of Ācariya Anuruddha. Buddhist Publication Society.
-- Buddharakkhita, A. (Trans.). (1985). The Dhammapada: The Buddha's Path of Wisdom. Buddhist Publication Society.
-- Coward, H. G., & Kunjunni Raja, K. (Eds.). (1990). Encyclopedia of Indian Philosophies: Vol. 5. The Philosophy of the Grammarians. Motilal Banarsidass.
-- Hartranft, C. (Trans.). (2003). The Yoga-Sūtra of Patañjali: A New Translation with Commentary. Shambhala Publications.
-- Jha, G. (Trans.). (1912–1919). The Nyāya-Sūtras of Gautama with the Bhāṣya of Vātsyāyana and the Vārtika of Uddyotakara (Vols. 1–4). Motilal Banarsidass (Reprint 1984).
-- Kale, M. R. (1969). A Higher Sanskrit Grammar for the Use of Schools and Colleges. Motilal Banarsidass.
-- Larson, G. J., & Bhattacharya, R. S. (Eds.). (1987). Encyclopedia of Indian Philosophies: Vol. 4. Sāṃkhya: A Dualist Tradition in Indian Philosophy. Princeton University Press / Motilal Banarsidass.
-- MacDonell, Arthur A. *A Sanskrit-English Dictionary*. Part 1 & Part 2. London: Longmans, Green & Co., 1893.
-- Mendis, N. K. G. (1985). The Abhidhamma in Practice. Buddhist Publication Society.
-- Monier-Williams, M. (1857). A Practical Grammar of the Sanskrit Language (2nd ed.). Oxford University Press.
-- Narada Maha Thera. (1975). The Abhidhamma. Vajirarama.
-- Ñāṇamoli, B. (Trans.). (1956). The Path of Purification (Visuddhimagga) by Bhadantācariya Buddhaghosa. R. Semage.
-- Nikhilananda, Swami (Trans.). *The Upanishads: Volume II (Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. New York: Harper & Brothers, 1952.
-- Potter, K. H. (Ed.). (1981). Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and His Pupils. Princeton University Press / Motilal Banarsidass.
-- Potter, K. H. (Ed.). (1999). Encyclopedia of Indian Philosophies: Vol. 8. Buddhist Philosophy from 100 to 350 A.D. Motilal Banarsidass.
-- Potter, K. H. (Ed.). (2003). Encyclopedia of Indian Philosophies: Vol. 9. Buddhist Philosophy from 350 to 600 A.D. Motilal Banarsidass.
-- Śaṅkarācārya (Attributed). *Vivekacūḍāmaṇi (With Word-for-Word English Translation by Ācārya Praṇipāta Caitanya)*. Verses 352, 382, 446, 515, 573.
-- Sivananda, Swami. *Brahmasūtra: Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary*. Rishikesh: The Divine Life Society, 1949, Commentary on Sūtras II.2.18, II.2.22, II.3.6.
-- Suzuki, D. T. (Trans.). (1932). The Lankavatara Sutra: A Mahayana Text. Routledge & Kegan Paul.
-- Taimni, I. K. (1961). The Science of Yoga: The Yoga-Sūtras of Patañjali in Sanskrit with Transliteration in Roman, Translation and Commentary in English. Theosophical Publishing House.
-- Thanissaro Bhikkhu. (Trans.). (1995). Maha-Satipatthana Sutta: The Great Frames of Reference (Dīgha Nikāya 22). Metta Forest Monastery.
+1. Avalon, A. (Ed. & Trans.). (1919). *The Serpent Power: Being the Ṣaṭ-Cakra-Nīrūpaṇa and Pādukā-Pañcaka*. Luzac & Co.
+2. Bhikkhu Bodhi, & Narada Maha Thera. (Eds.). (1993). *A Comprehensive Manual of Abhidhamma: The Abhidhammattha Sangaha of Ācariya Anuruddha*. Buddhist Publication Society.
+3. Buddharakkhita, A. (Trans.). (1985). *The Dhammapada: The Buddha's Path of Wisdom*. Buddhist Publication Society.
+4. Coward, H. G., & Kunjunni Raja, K. (Eds.). (1990). *Encyclopedia of Indian Philosophies: Vol. 5. The Philosophy of the Grammarians*. Motilal Banarsidass.
+5. Hartranft, C. (Trans.). (2003). *The Yoga-Sūtra of Patañjali: A New Translation with Commentary*. Shambhala Publications.
+6. Jha, G. (Trans.). (1912–1919). *The Nyāya-Sūtras of Gautama with the Bhāṣya of Vātsyāyana and the Vārtika of Uddyotakara* (Vols. 1–4). Motilal Banarsidass (Reprint 1984).
+7. Kale, M. R. (1969). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Motilal Banarsidass.
+8. Larson, G. J., & Bhattacharya, R. S. (Eds.). (1987). *Encyclopedia of Indian Philosophies: Vol. 4. Sāṃkhya: A Dualist Tradition in Indian Philosophy*. Princeton University Press / Motilal Banarsidass.
+9. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary* (Part 1 & Part 2). Longmans, Green & Co.
+10. Mendis, N. K. G. (1985). *The Abhidhamma in Practice*. Buddhist Publication Society.
+11. Monier-Williams, M. (1857). *A Practical Grammar of the Sanskrit Language* (2nd ed.). Oxford University Press.
+12. Narada Maha Thera. (1975). *The Abhidhamma*. Vajirarama.
+13. Ñāṇamoli, B. (Trans.). (1956). *The Path of Purification (Visuddhimagga) by Bhadantācariya Buddhaghosa*. R. Semage.
+14. Nikhilananda, Swami. (Trans.). (1952). *The Upanishads: Volume II (Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. Harper & Brothers.
+15. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and His Pupils*. Princeton University Press / Motilal Banarsidass.
+16. Potter, K. H. (Ed.). (1999). *Encyclopedia of Indian Philosophies: Vol. 8. Buddhist Philosophy from 100 to 350 A.D.* Motilal Banarsidass.
+17. Potter, K. H. (Ed.). (2003). *Encyclopedia of Indian Philosophies: Vol. 9. Buddhist Philosophy from 350 to 600 A.D.* Motilal Banarsidass.
+18. Śaṅkarācārya. (Attributed). *Vivekacūḍāmaṇi (With Word-for-Word English Translation by Ācārya Praṇipāta Caitanya)* (Verses 352, 382, 446, 515, 573).
+19. Sivananda, Swami. (1949). *Brahmasūtra: Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary* (Commentary on Sūtras II.2.18, II.2.22, II.3.6). The Divine Life Society.
+20. Suzuki, D. T. (Trans.). (1932). *The Lankavatara Sutra: A Mahayana Text*. Routledge & Kegan Paul.
+21. Taimni, I. K. (1961). *The Science of Yoga: The Yoga-Sūtras of Patañjali in Sanskrit with Transliteration in Roman, Translation and Commentary in English*. Theosophical Publishing House.
+22. Thanissaro Bhikkhu. (Trans.). (1995). *Maha-Satipatthana Sutta: The Great Frames of Reference (Dīgha Nikāya 22)*. Metta Forest Monastery.

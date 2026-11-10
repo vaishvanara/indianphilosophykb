@@ -32,8 +32,8 @@ As a verbal root, (√*vā*) is categorized under multiple verbal classes (*ga�
 
 ## References
 
-1. Cappeller, C. (1891). *A Sanskrit-English Dictionary: Based Upon the St. Petersburg Lexicons*. Karl J. Trübner. (Headword: *vā*, p. 522).
-2. Coward, H. G., & Raja, K. K. (Eds.). (1990). *Encyclopedia of Indian Philosophies: Volume 5. The Philosophy of the Grammarians*. Motilal Banarsidass. (pp. 142, 508–509).
-3. Kale, M. R. (1969). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Motilal Banarsidass. (Section 965, p. 570).
-4. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Headwords: *vā*, √vā), p. 274, col. 3–p. 275, col. 1).
-5. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. The Clarendon Press. (Headwords: *vā*, √vā,), p. 934, col. 2; p. 940, col. 1).
+1. Cappeller, C. (1891). *A Sanskrit-English dictionary: Based upon the St. Petersburg lexicons* (Headword: *vā*, p. 522). Karl J. Trübner.
+2. Coward, H. G., & Raja, K. K. (Eds.). (1990). *Encyclopedia of Indian philosophies: Vol. 5. The philosophy of the grammarians* (pp. 142, 508–509). Motilal Banarsidass.
+3. Kale, M. R. (1969). *A higher Sanskrit grammar for the use of schools and colleges* (Section 965, p. 570). Motilal Banarsidass.
+4. Macdonell, A. A. (1893). *A Sanskrit-English dictionary* (Headwords: *vā*, √vā, p. 274, col. 3–p. 275, col. 1). Longmans, Green, and Co.
+5. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages* (Headwords: *vā*, √vā, p. 934, col. 2; p. 940, col. 1). Clarendon Press.

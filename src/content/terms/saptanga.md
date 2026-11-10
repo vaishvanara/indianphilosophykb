@@ -16,11 +16,15 @@ See: [Mandukya Upanishad (Verses 3, 4)](mandukyopanisat.md)
 
 Having seven limbs; descriptive of the Self in the waking state (Vaiśvānara), whose cosmic form integrates seven universal constituents.
 
+---
+
 ## Definition
 
 The term *saptāṅga* (सप्ताङ्ग) is a compound formed from the numeral *sapta* (seven) and the noun *aṅga* (limb, member, or constituent part). Literally, it signifies "having seven limbs" or "consisting of seven parts". 
 
 In general Sanskrit usage, the expression can describe any entity configured with seven constituent components, such as a seven-rayed fire or the traditional seven limbs of sovereign governance in classical political treatises. In its specific philosophical context within Vedānta, however, *saptāṅga* functions not as a literal physical designation of seven anatomical appendages, but as a technical qualification of the Self in the waking state (*vaiśvānara*). Here, it identifies the individual waking consciousness with the macrocosmic person (*virāj*), whose universal embodiment encompasses seven cosmic regions and deities.
+
+---
 
 ## Etymology
 
@@ -31,6 +35,8 @@ The compound *saptāṅga* is formed by the combination of two nominal stems:
 The junction of the final vowel *-a* of *sapta* with the initial *a-* of *aṅga* undergoes standard vocalic coalescence (*savarṇa-dīrgha-sandhi*), yielding the long vowel *-ā-* in *saptāṅga*. 
 
 Grammatically, the term functions as an exocentric possessive compound (*bahuvrīhi-samāsa*). Its classical analytical expansion (*vigraha-vākya*) is *sapta aṅgāni yasya saḥ* ("he whose limbs are seven"). In the *Māṇḍūkya Upaniṣad*, it appears in the masculine nominative singular form as *saptāṅgaḥ* (modified by sandhi to *saptāṅga* before a following vowel), agreeing syntactically with the subject *vaiśvānaraḥ* and the predicate noun *prathamaḥ pādaḥ*.
+
+---
 
 ## Saptāṅga in the Māṇḍūkya Upaniṣad
 
@@ -65,23 +71,27 @@ In Advaita hermeneutics, the attribution of *saptāṅga* to the waking Self ser
 
 Gauḍapāda, in his *Kārikā* on the *Āgama Prakaraṇa*, focuses on establishing the ontological status and non-difference of the states rather than re-listing the seven limbs, taking the Upaniṣad's formula for granted. Later Advaita synthesizers, such as Sadānanda in the *Vedāntasāra*, expressly cite *Māṇḍūkya* 3 to establish the identity between *viśva* (the individual waking ego) and *vaiśvānara* (the cosmic gross soul) as the experiencers of the material world. Similarly, the *Brahma-Sūtra* (I.2.24–32) affirms that the seven-limbed *Vaiśvānara* of the Upaniṣads denotes the Supreme Brahman conceived with cosmic limbs to facilitate comprehensive meditation (*upāsanā*).
 
+---
+
 ## Related Terms
 
-- *Aṅga* (अङ्ग)
-- *Bahiṣprajña* (बहिष्प्रज्ञ)
-- *Ekonaviṃśatimukha* (एकोनविंशतिमुख)
-- *Jāgaritasthāna* (जागरितस्थान)
-- *Pāda* (पाद)
-- *Sthūlabhuk* (स्थूलभुक्)
-- *Vaiśvānara* (वैश्वानर)
-- *Virāj* (विराज्)
-- *Viśva* (विश्व)
+- Aṅga (अङ्ग)
+- Bahiṣprajña (बहिष्प्रज्ञ)
+- Ekonaviṃśatimukha (एकोनविंशतिमुख)
+- Jāgaritasthāna (जागरितस्थान)
+- Pāda (पाद)
+- Sthūlabhuk (स्थूलभुक्)
+- Vaiśvānara (वैश्वानर)
+- Virāj (विराज्)
+- Viśva (विश्व)
+
+---
 
 ## References
 
-1. MacDonell, Arthur Anthony. *A Sanskrit-English Dictionary*. London: Longmans, Green, and Co., 1893 (Part 2, p. 335, entry *saptāṅga*).
-2. Nikhilananda, Swami (trans.). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Ashrama, 1936 (Māṇḍūkya Upaniṣad, Mantra 3, pp. 14–17; Śaṅkara's Commentary and Notes, pp. 1–3, 14–17).
-3. Nikhilananda, Swami (trans.). *The Upanishads: A New Translation*, Volume IV: *Taittirīya and Chhāndogya*. New York: Harper & Brothers, 1959 (Chāndogya Upaniṣad, Chapter V, Section 18, Verse 2, p. 91).
-4. Nikhilananda, Swami (trans.). *Vedāntasāra of Sadānanda*. Mayavati, Almora, Himalayas: Advaita Ashrama, 1931 (Sections 115–116, pp. 68–69).
-5. Sivananda, Swami. *Brahmasūtra: Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary*. Rishikesh: The Divine Life Society, 1949 (Adhikaraṇa VII, Sūtras I.2.24–32, pp. 43–44).
-6. Thibaut, George (trans.). *The Vedānta-Sūtras with the Commentary by Śaṅkarācārya*, Part 1. Sacred Books of the East, Vol. 34. Oxford: Clarendon Press, 1890 (Adhikaraṇa VII, Sūtras I.2.24–32, pp. 143–153).
+1. MacDonell, A. A. (1893). *A Sanskrit-English dictionary* (p. 335, entry *saptāṅga*). Longmans, Green, and Co.
+2. Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (Māṇḍūkya Upaniṣad, Mantra 3, pp. 14–17; Śaṅkara's Commentary and Notes, pp. 1–3, 14–17). Sri Ramakrishna Ashrama.
+3. Nikhilananda, S. (Trans.). (1959). *The Upanishads: A new translation: Vol. IV. Taittirīya and Chhāndogya* (Chāndogya Upaniṣad, Chapter V, Section 18, Verse 2, p. 91). Harper & Brothers.
+4. Nikhilananda, S. (Trans.). (1931). *Vedāntasāra of Sadānanda* (Sections 115–116, pp. 68–69). Advaita Ashrama.
+5. Sivananda, S. (1949). *Brahmasūtra: Sanskrit text, transliteration, word-for-word meaning, English translation, and commentary* (Adhikaraṇa VII, Sūtras I.2.24–32, pp. 43–44). The Divine Life Society.
+6. Thibaut, G. (Trans.). (1890). *The Vedānta-Sūtras with the commentary by Śaṅkarācārya: Part 1* (Sacred Books of the East, Vol. 34; Adhikaraṇa VII, Sūtras I.2.24–32, pp. 143–153). Clarendon Press.

@@ -35,9 +35,9 @@ The first component, *pravivikta*, is derived from the Sanskrit verbal root *vic
 
 ## References
 
-- MacDonell, A. A. (1893). *A Sanskrit-English dictionary: With transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *pṛc*, *vic*, *pra-vi-vic*, *pravivikta*, pp. 169, 181, 281).
-- Nikhilananda, S. (Trans.). (1949). *The Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Sri Ramakrishna Math. (Māṇḍūkya Upaniṣad, Mantra IV, pp. 20–22).
-- Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Volume 3. Advaita Vedānta up to Śaṅkara and his pupils*. Princeton University Press; Motilal Banarsidass. (Gauḍapādakārikās Book One, p. 106).
-- Śaṅkarācārya. (1941). *Upadeśasāhasrī: A thousand teachings* (S. Jagadananda, Trans.). Sri Ramakrishna Math. (Chapter XV, Verse 24, p. 181).
-- Śaṅkarācārya. (1970). *Tattva Bodha* (Central Chinmaya Mission Trust, Trans.). (Section 13-7, p. 13).
-- Śaṅkarācārya. (1977). *Vivekacūḍāmaṇi: The crest-jewel of discrimination* (P. Caitanya, Trans.). Advaitin. (Verse 99, p. 121).
+1. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: With transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *pṛc*, *vic*, *pra-vi-vic*, *pravivikta*, pp. 169, 181, 281).
+2. Nikhilananda, S. (Trans.). (1949). *The Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Sri Ramakrishna Math. (Māṇḍūkya Upaniṣad, Mantra IV, pp. 20–22).
+3. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Volume 3. Advaita Vedānta up to Śaṅkara and his pupils*. Princeton University Press; Motilal Banarsidass. (Gauḍapādakārikās Book One, p. 106).
+4. Śaṅkarācārya. (1941). *Upadeśasāhasrī: A thousand teachings* (S. Jagadananda, Trans.). Sri Ramakrishna Math. (Chapter XV, Verse 24, p. 181).
+5. Śaṅkarācārya. (1970). *Tattva bodha* (Central Chinmaya Mission Trust, Trans.). (Section 13-7, p. 13).
+6. Śaṅkarācārya. (1977). *Vivekacūḍāmaṇi: The crest-jewel of discrimination* (P. Caitanya, Trans.). Advaitin. (Verse 99, p. 121).

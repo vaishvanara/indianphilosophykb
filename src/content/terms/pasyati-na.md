@@ -55,9 +55,9 @@ In the text of *Māṇḍūkya Upaniṣad* Mantra 5, the negative particle *na* 
 
 ## References
 
-- Gauḍapāda. (1956). *Gauḍapāda Kārikā* (Āgama Prakaraṇa). In S. Nikhilananda (Trans.), *The Upanishads: A new translation* (Vol. 3, pp. 239–325). Harper & Brothers.
-- Kale, M. R. (1972). *A higher Sanskrit grammar for the use of schools and colleges*. Gopal Narayen & Co.
-- MacDonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green and Co.
-- *Māṇḍūkya Upaniṣad*. (1956). In S. Nikhilananda (Trans.), *The Upanishads: A new translation* (Vol. 3, pp. 223–238). Harper & Brothers.
-- Monier-Williams, M. (1857). *A practical grammar of the Sanskrit language* (2nd ed.). Oxford University Press.
-- Śaṅkarācārya. (1955). *Māṇḍūkyopaniṣad-bhāṣya* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+1. Gauḍapāda. (1956). Gauḍapāda Kārikā (Āgama Prakaraṇa). In S. Nikhilananda (Trans.), The Upanishads: A New Translation (Vol. 3, pp. 239–325). Harper & Brothers.
+2. Kale, M. R. (1972). A Higher Sanskrit Grammar for the Use of Schools and Colleges. Gopal Narayen & Co.
+3. MacDonell, A. A. (1893). A Sanskrit-English Dictionary. Longmans, Green and Co.
+4. Māṇḍūkya Upaniṣad. (1956). In S. Nikhilananda (Trans.), The Upanishads: A New Translation (Vol. 3, pp. 223–238). Harper & Brothers.
+5. Monier-Williams, M. (1857). A Practical Grammar of the Sanskrit Language (2nd ed.). Oxford University Press.
+6. Śaṅkarācārya. (1955). Māṇḍūkyopaniṣad-bhāṣya (S. Nikhilananda, Trans.). Sri Ramakrishna Math.

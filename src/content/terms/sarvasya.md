@@ -46,5 +46,5 @@ Within Advaita Vedānta exegesis, the term operates on two levels:
 
 1. Kale, M. R. (1894). *A higher Sanskṛt grammar for the use of schools and colleges*. Gopal Narayen & Co. (§ 131, p. 94; § 134, pp. 96–97; § 147, p. 105).
 2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *sarva*, p. 341, col. 2; *sarva-yoni*, p. 342, col. 1).
-3. Nikhilananda, Swami. (Trans. & Annot.). (1949). *The Māṇḍūkyopanishad with Gauḍapāda’s Kārikā and Śaṅkara’s commentary*. Sri Ramakrishna Ashrama. (Chapter I: Āgama Prakaraṇa, Mantra 6, pp. 26–27).
-4. Nikhilananda, Swami. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: *Śvetāśvatara, Praśna, and Māndukya with Gauḍapāda's Kārikā*). Phoenix House. (Māṇḍūkya Upaniṣad, Mantra 6, pp. 229–230).
+3. Nikhilananda, S. (Trans. & Annot.). (1949). *The Māṇḍūkyopanishad with Gauḍapāda’s Kārikā and Śaṅkara’s commentary*. Sri Ramakrishna Ashrama. (Chapter I: Āgama Prakaraṇa, Mantra 6, pp. 26–27).
+4. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation: Vol. 2. Śvetāśvatara, Praśna, and Māndukya with Gauḍapāda's Kārikā*. Phoenix House. (Māṇḍūkya Upaniṣad, Mantra 6, pp. 229–230).

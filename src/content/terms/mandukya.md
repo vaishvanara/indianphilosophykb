@@ -46,10 +46,10 @@ While the derivation of *māṇḍūkya* from *maṇḍūka* via *vṛddhi* suff
 
 ## References
 
-- Kale, M. R. (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Delhi: Motilal Banarsidass.
-- Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co. (Headwords: *maṇḍūka*, p. 213, col. 3; *māṇḍūka*, p. 224, col. 2).
-- Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary*. Mysore: Sri Ramakrishna Ashrama.
-- Nikhilananda, S. (Trans.). (1955). *The Upanishads: A New Translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. London: Phoenix House.
-- Nikhilananda, S. (Trans.). (1956). *The Upanishads: A New Translation (Volume III: Aitareya and Bṛhadāraṇyaka)*. London: Phoenix House. (p. 97).
-- Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies (Volume III: Advaita Vedānta up to Śaṅkara and His Pupils)*. Princeton, NJ: Princeton University Press / Delhi: Motilal Banarsidass. (p. 14).
-- Williams, M. (1877). *A Practical Grammar of the Sanskrit Language Arranged with Reference to the Classical Languages of Europe for the Use of English Students*. Oxford: Clarendon Press.
+1. Kale, M. R. (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Motilal Banarsidass.
+2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout* (Headwords: *maṇḍūka*, p. 213, col. 3; *māṇḍūka*, p. 224, col. 2). Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary*. Sri Ramakrishna Ashrama.
+4. Nikhilananda, S. (Trans.). (1955). *The Upanishads: A New Translation* (Vol. 2, *Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary*). Phoenix House.
+5. Nikhilananda, S. (Trans.). (1956). *The Upanishads: A New Translation* (Vol. 3, *Aitareya and Bṛhadāraṇyaka*, p. 97). Phoenix House.
+6. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies* (Vol. 3, *Advaita Vedānta up to Śaṅkara and His Pupils*, p. 14). Princeton University Press; Motilal Banarsidass.
+7. Williams, M. (1877). *A Practical Grammar of the Sanskrit Language Arranged with Reference to the Classical Languages of Europe for the Use of English Students*. Clarendon Press.

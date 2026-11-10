@@ -46,8 +46,8 @@ This grammatical derivation from prefix ***vi-*** + root ***jñā*** + gerundive
 
 ## References
 
-1. Kale, M. R. (1969). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Motilal Banarsidass. (Declension of masculine nouns, p. 45; Formation of gerundives / kṛtya suffixes, p. 423).
-2. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary* (Part 2). Longmans, Green, and Co. (Headword *vi-jñāna*, p. 282, col. 1; Headword *vi-jñeya*, p. 282, col. 1; Headword *vedya*, p. 298, col. 3).
-3. Nikhilananda, S. (Trans.). (1949). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Sri Ramakrishna Ashrama. (Chapter 1, Text 7, pp. 54–60; Chapter 4, Text 90, pp. 320–321).
-4. Nikhilananda, S. (Trans.). (1954). *The Upanishads: A Second Selection* (Vol. 2). Phoenix House. (Māṇḍūkya Upaniṣad, Text 7, p. 227; Explanatory notes, p. 237).
-5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass. (Commentary on Māṇḍūkyopaniṣad 7, p. 311; Commentary on Gauḍapāda Kārikā 4.90, p. 312).
+1. Kale, M. R. (1969). *A higher Sanskrit grammar for the use of schools and colleges*. Motilal Banarsidass. (Declension of masculine nouns, p. 45; Formation of gerundives / kṛtya suffixes, p. 423).
+2. MacDonell, A. A. (1893). *A Sanskrit-English dictionary* (Part 2). Longmans, Green, and Co. (Headword *vi-jñāna*, p. 282, col. 1; Headword *vi-jñeya*, p. 282, col. 1; Headword *vedya*, p. 298, col. 3).
+3. Nikhilananda, S. (Trans.). (1949). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Sri Ramakrishna Ashrama. (Chapter 1, Text 7, pp. 54–60; Chapter 4, Text 90, pp. 320–321).
+4. Nikhilananda, S. (Trans.). (1954). *The Upanishads: A second selection* (Vol. 2). Phoenix House. (Māṇḍūkya Upaniṣad, Text 7, p. 227; Explanatory notes, p. 237).
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Motilal Banarsidass. (Commentary on Māṇḍūkyopaniṣad 7, p. 311; Commentary on Gauḍapāda Kārikā 4.90, p. 312).

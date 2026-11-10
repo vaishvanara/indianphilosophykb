@@ -16,6 +16,8 @@ See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
 
 The origin and dissolution of all beings, denoting God (Īśvara/Prājñā) as the causal source and resting place of the universe in the Māṇḍūkya Upaniṣad.
 
+---
+
 ## Definition
 
 The Sanskrit compound *prabhavāpyayau* (प्रभवाप्ययौ) literally means "origin and dissolution" or "creation and reabsorption." In the context of Vedic literature and Vedāntic philosophy, it expresses the twin cosmic processes by which the phenomenal universe comes into manifestation from its underlying cause and subsequently resolves back into that same source. 
@@ -25,6 +27,8 @@ The compound is composed of two primary nouns:
 2. *apyaya* (अप्यय): "entering into," "disappearance," "dissolution," or "reabsorption."
 
 When combined in the dual nominative/accusative masculine form (*prabhavāpyayau*), the expression designates a paired dual principle functioning as a composite predicate. Contextually, in the *Māṇḍūkya Upaniṣad* (verse 6), it qualifies the third state of consciousness—*Prājñā* (the causal self in deep sleep, identified macrocosmically with *Īśvara*, the Lord of all)—describing Him as the source (*yoniḥ*) out of which all created beings (*bhūtānām*) emerge and into which they ultimately return.
+
+---
 
 ## Etymology
 
@@ -43,7 +47,9 @@ The compound *prabhavāpyayau* is formed from two nominal derivatives derived fr
    - **Grammatical Expansion (*Vigraha-vākya*)**: *prabhavas ca apyayas ca = prabhavāpyayau* (प्रभवश्च अप्ययश्च = प्रभवाप्ययौ), meaning "both origin and dissolution."
    - **Inflection**: Dual nominative masculine (*-au* suffix).
 
-## prabhavāpyayau in the Māṇḍūkya Upaniṣad
+---
+
+## Prabhavāpyayau in the Māṇḍūkya Upaniṣad
 
 The expression *prabhavāpyayau* appears in verse 6 of the *Māṇḍūkya Upaniṣad*:
 
@@ -69,6 +75,8 @@ Verse 6 defines the third quarter (*Prājñā*), establishing that the causal st
 - **Gauḍapāda's Kārikā**: In the *Āgama Prakaraṇa* (verse 1.6), Gauḍapāda underscores the structural role of *Prāṇa* (the causal self/*Īśvara*) in cosmic projection: "It is thoroughly established that manifestation (*sṛṣṭi*) can be predicated only of existing positive entities (*bhāva*). *Prāṇa* manifests all inanimate objects; the *Puruṣa* manifests the conscious beings (*jīva*) separately." Gauḍapāda notes that while deluded thinkers debate whether creation is the manifestation of divine power (*vibhūti*), a dream (*svapna*), an illusion (*māyā*), or intended for God's enjoyment/sport (*bhoga*/*krīḍā*), the enlightened know creation to be nothing other than the very nature (*svabhāva*) of the Effulgent Self.
 - **Śaṅkara's Commentary (*Bhāṣya*)**: Śaṅkarācārya explains that *Īśvara* is not an extra-cosmic creator separate from the universe. As *Antaryāmin* (inner controller), He directs all things from within. As *prabhavāpyayau*, He is the material and efficient cause (*kāraṇa*) from which the diverse universe proceeds and in which it disappears, just as thread-work resolves into thread or a snake illusion resolves back into the rope substratum.
 
+---
+
 ## Interpretations and Disputes
 
 Within Advaita Vedānta commentary, the occurrence of *prabhavāpyayau* in *Māṇḍūkya Upaniṣad* verse 6 highlights a central hermeneutical distinction between two levels of reality:
@@ -80,6 +88,8 @@ Within Advaita Vedānta commentary, the occurrence of *prabhavāpyayau* in *Mā�
    Gauḍapāda and Śaṅkara clarify that describing *Prājñā* / *Īśvara* as the origin and dissolution of beings is a provisional pedagogical attribution (*adhyāropa*) intended for aspirants who still perceive causality. When elevated to the ultimate standpoint (*Turīya*), no real creation (*sṛṣṭi*) or dissolution (*pralaya*) ever takes place. As Gauḍapāda famously asserts in *Kārikā* 2.32 and 4.57, all origination is illusory (*māyā-mātra*); in the non-dual Absolute (*Turīya*), there is neither dissolution (*nirodha*) nor origination (*utpatti*), neither bondage (*baddha*) nor seeker (*sādhaka*), nor liberation (*mukti*).
 
 Thus, while *prabhavāpyayau* establishes *Īśvara* as the sole material and efficient cause of the universe on the causal/empirical plane, Advaita Vedānta interprets this causal role as ultimately sublated by the realization of the non-dual, birthless (*aja*) *Turīya*.
+
+---
 
 ## Related Terms
 
@@ -96,10 +106,11 @@ Thus, while *prabhavāpyayau* establishes *Īśvara* as the sole material and ef
 - Turīya (तुरीय)
 - Yoni (योनि)
 
+---
+
 ## References
 
-1. MacDonell, Arthur Anthony. *A Sanskrit-English Dictionary*. Part 1 & Part 2. London: Longmans, Green, and Co., 1893. (Entries on *prabhava*, *apyaya*, *samāsa*, *bhū*).
-2. Nikhilananda, Swami (Trans.). *The Māṇḍūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Math, 1936. (*Māṇḍūkya Upaniṣad*, verse 6, pp. 38–42; Gauḍapāda *Kārikā* 1.6–1.9, pp. 40–46).
-3. Nikhilananda, Swami (Trans.). *Upanishads Volume II: Śvetāśvatara, Praśna, and Māṇḍukya with Gauḍapāda's Kārikā*. New York: Harper & Brothers, 1952.
-4. Potter, Karl H. (Ed.). *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṅkara and His Pupils*. Delhi: Motilal Banarsidass, 1981. (Exegesis on *Māṇḍūkya Upaniṣad* and *Gauḍapādīya-Kārikā*, pp. 233–245, 350–351).
-5. Śaṅkarācārya. *Māṇḍūkyopaniṣad-bhāṣya* (Commentary on *Māṇḍūkya Upaniṣad*, Verse 6).
+1. MacDonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. (Entries on *prabhava*, *apyaya*, *samāsa*, *bhū*).
+2. Nikhilananda, S. (Trans.). (1936). *The māṇḍūkyopanishad with Gauḍapāda's kārikā and Śaṅkara's commentary*. Sri Ramakrishna Math. (*Māṇḍūkya Upaniṣad*, verse 6, pp. 38–42; Gauḍapāda *Kārikā* 1.6–1.9, pp. 40–46).
+3. Nikhilananda, S. (Trans.). (1952). *Upanishads volume II: Śvetāśvatara, praśna, and māṇḍukya with Gauḍapāda's kārikā*. Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies, vol. 3: Advaita Vedānta up to Śaṅkara and his pupils*. Motilal Banarsidass. (Exegesis on *Māṇḍūkya Upaniṣad* and *Gauḍapādīya-Kārikā*, pp. 233–245, 350–351).

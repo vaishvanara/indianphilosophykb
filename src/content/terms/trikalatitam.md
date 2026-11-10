@@ -16,11 +16,15 @@ See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
 
 Trikālātītaṃ (त्रिकालातीतं) denotes that which transcends the three divisions of time (past, present, and future), designating the timeless Absolute.
 
+---
+
 ## Definition
 
 The compound *trikālātītaṃ* (त्रिकालातीतं) combines two principal semantic components: *trikāla* (the triad of time, encompassing past, present, and future) and *atīta* (gone beyond, transcended). Literally, the expression signifies "that which has passed beyond or crossed over the three temporal periods."
 
 In its idiomatic and context-dependent usage within Vedāntic exegesis, the term does not merely denote something ancient or long-lasting; rather, it identifies a mode of Being or Consciousness that is entirely unconditioned by temporal succession (*kālāparicchinna*). While the empirical cosmos and its cognitive states operate strictly within temporal boundaries, *trikālātītaṃ* specifies the transcendent Reality—identified with *Turīya* or unconditioned *Brahman*—that serves as the timeless substratum of all temporal experience.
+
+---
 
 ## Etymology
 
@@ -42,6 +46,8 @@ The term *trikālātītaṃ* (त्रिकालातीतं) is a Sanskri
 
 4. **Inflectional Form**:
    - Nominative/Accusative singular neuter ending in the anusvāra/m-kāra (*-ṃ* / *-m*), agreeing syntactically with the neuter relative pronoun *yac cānyat* ("and whatever else") in the opening mantra of the *Māṇḍūkya Upaniṣad*.
+
+---
 
 ## Trikālātītaṃ in the Māṇḍūkya Upaniṣad
 
@@ -67,6 +73,8 @@ Advaita Vedānta tradition distinguishes three complementary layers of text and 
 - **Upaniṣad Text**: Focuses directly on sound/sacred utterance (*oṅkāra*) as the cosmic matrix and supreme reality, bridging temporal existence with timeless transcendence.
 - **Śaṅkarācārya's Commentary (*Māṇḍūkyopaniṣadbhāṣya*)**: Śaṅkara explains that *trikālātītaṃ* refers to the unmanifested causal state (*avyākṛta*) as well as the unconditioned Fourth state (*Turīya* / *Brahman*). He argues that time (*kāla*) is itself an effect (*kārya*) of cosmic manifestation; therefore, the ultimate cause or non-dual substratum of existence cannot be delimited by time (*kālāparicchinna*).
 - **Gauḍapāda's Kārikā (*Āgama Prakaraṇa*)**: Gauḍapāda elaborates the Upaniṣad's fourfold schema by mapping the temporal states of waking (*viśva*), dream (*taijasa*), and deep sleep (*prājña*) to the phonetic mātrās A, U, and M. He identifies the unconditioned, timeless *Turīya* with the soundless *amātra* aspect of AUM, reinforcing the temporal transcendence designated by *trikālātītaṃ*.
+
+---
 
 ## Interpretations and Disputes
 
@@ -94,6 +102,8 @@ As documented in historical surveys of Indian philosophy, there has been scholar
 - Standard Advaita tradition treats the 12 prose passages as the original *śruti* and Gauḍapāda's 215 verses as an expository commentary (*kārikā*).
 - Alternative traditions (including commentators within the Dvaita and Viśiṣṭādvaita schools) treated the first 29 *kārikās* of Book One (*Āgama Prakaraṇa*) as part of the revealed *śruti* text itself, leading to distinct structural boundaries in their textual analysis of Mantra 1 and its immediate context.
 
+---
+
 ## Related Terms
 
 - Amātra (अमात्र)
@@ -105,10 +115,12 @@ As documented in historical surveys of Indian philosophy, there has been scholar
 - Turīya (तूरीय)
 - Viśva (विश्व)
 
+---
+
 ## References
 
-1. Kale, Moreshwar Ramchandra. *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Delhi: Motilal Banarsidass. (Compound classifications: *dvigu*, *tatpuruṣa*, *samāsa* rules).
-2. Macdonell, Arthur Anthony. *A Sanskrit-English Dictionary*. London: Longmans, Green and Co., 1893. (Entries for *tri-kāla*, *atīta*, p. 113).
-3. Nikhilananda, Swami (Trans.). *The Upanishads: A New Translation* (Vol. II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkarācārya's Commentary). New York: Harper & Brothers, 1952; Calcutta: Advaita Ashrama. (*Māṇḍūkya Upaniṣad*, Mantra 1, pp. 223–225; Kārikā & Commentary, pp. 226–240).
-4. Nikhilananda, Swami (Trans. & Ed.). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Ashrama, 1936. (Mantra 1 & Commentary, pp. 1–12).
-5. Potter, Karl H. (Ed.). *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton: Princeton University Press / Delhi: Motilal Banarsidass, 1981. (Gauḍapādakārikās and Māṇḍūkyopaniṣadbhāṣya, pp. 103–114, 308–312).
+1. Kale, M. R. (n.d.). *A higher Sanskrit grammar for the use of schools and colleges* (Compound classifications: *dvigu*, *tatpuruṣa*, *samāsa* rules). Motilal Banarsidass.
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary* (Entries for *tri-kāla*, *atīta*, p. 113). Longmans, Green and Co.
+3. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkarācārya's commentary; *Māṇḍūkya Upaniṣad*, Mantra 1, pp. 223–225; Kārikā & commentary, pp. 226–240). Harper & Brothers; Advaita Ashrama.
+4. Nikhilananda, S. (Ed. & Trans.). (1936). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (Mantra 1 & commentary, pp. 1–12). Sri Ramakrishna Ashrama.
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils* (Gauḍapādakārikās and Māṇḍūkyopaniṣadbhāṣya, pp. 103–114, 308–312). Princeton University Press; Motilal Banarsidass.

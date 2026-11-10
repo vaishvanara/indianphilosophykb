@@ -32,8 +32,8 @@ The stem *ta-* (interchangeable in base forms with *tad*) serves as the primary 
 
 ## References
 
-1. Coward, H. G., & Potter, K. H. (1990). *Encyclopedia of Indian Philosophies: Vol. 5. The Philosophy of the Grammarians*. Motilal Banarsidass. (Headword/Topics: *Tad*, p. 114; Genitive Case / *Śeṣa*, p. 115).
-2. Kale, M. R. (1969). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Motilal Banarsidass. (Section 134, Declension of *Tad*, p. 97).
-3. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Headwords: *Ta*, p. 105; *Tad* / *Tasya*, p. 105 & p. 1121).
-4. Williams, M. (1864). *A Practical Grammar of the Sanskrit Language, Arranged with Reference to the Classical Languages of Europe for the Use of English Students* (3rd ed.). Oxford University Press. (Section 91, Case Endings, p. 56; Section 220, Pronoun *Tat*, p. 97).
-5. Wilson, H. H. (1847). *An Introduction to the Grammar of the Sanskrit Language, for the Use of Early Students* (2nd ed.). J. Madden. (Section 140, Pronoun *Tat*, p. 80).
+1. Coward, H. G., & Potter, K. H. (Eds.). (1990). *Encyclopedia of Indian philosophies: Vol. 5. The philosophy of the grammarians* (Topics: *Tad*, p. 114; Genitive case / *Śeṣa*, p. 115). Motilal Banarsidass.
+2. Kale, M. R. (1969). *A higher Sanskrit grammar for the use of schools and colleges* (Section 134, Declension of *Tad*, p. 97). Motilal Banarsidass.
+3. Macdonell, A. A. (1893). *A Sanskrit-English dictionary* (Headwords: *Ta*, p. 105; *Tad* / *Tasya*, p. 105 & p. 1121). Longmans, Green, and Co.
+4. Williams, M. (1864). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe for the use of English students* (3rd ed., Section 91, Case endings, p. 56; Section 220, Pronoun *Tat*, p. 97). Oxford University Press.
+5. Wilson, H. H. (1847). *An introduction to the grammar of the Sanskrit language, for the use of early students* (2nd ed., Section 140, Pronoun *Tat*, p. 80). J. Madden.

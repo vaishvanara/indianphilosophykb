@@ -16,9 +16,13 @@ See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 In the Māṇḍūkya Upaniṣad, nāprajñam means 'not unconscious,' indicating that the non-dual Self (Turīya) is not a state of insentience.
 
+---
+
 ## Definition
 
 The expression *nāprajñam* (नाप्रज्ञम्) is a negative Sanskrit phrase formed by the euphonic coalition (*sandhi*) of the negative particle *na* (न, "not") and the neuter adjective *aprajñam* (अप्रज्ञम्, "unconscious" or "devoid of consciousness"). Literally, the phrase translates to "not unconscious" or "not non-conscious". In Vedāntic discourse, the nominal stem *prajña* or *prajñā* refers to cognitive awareness, intellect, or consciousness. Prefixing the negative element *a-* produces *aprajña*, which signifies an absence of consciousness, unwareness, or inert insentience (*jaḍatva*). Thus, the double negation in *nāprajñam* establishes a precise contextual meaning: the ultimate Reality (*Turīya*) is not a blank void, a state of deep stupor, or an insentient entity. While *Turīya* transcends empirical, object-directed cognition (*viṣaya-jñāna*), it is simultaneously distinguished from unconsciousness.
+
+---
 
 ## Etymology
 
@@ -32,7 +36,9 @@ The Sanskrit word formation of *nāprajñam* (नाप्रज्ञम्) co
   - **Compound Analysis (*Vigraha-vākya*)**: Interpreted as a *nañ-tatpuruṣa* compound, the uncompounded form is *na prajñam* ("not conscious/wise"). When functioning adjectivally to describe *Turīya*, it operates as a *nañ-bahuvrīhi* compound (*na prajñā yasya tat*, "that which is devoid of conscious awareness").
   - **Inflection**: The neuter inflectional suffix *-am* (-म्) marks the nominative and accusative singular form, agreeing grammatically with the neuter noun *brahma* or the neuter designation *turīyam*.
 
-## nāprajñam in the Māṇḍūkya Upaniṣad
+---
+
+## Nāprajñam in the Māṇḍūkya Upaniṣad
 
 ### Contextual Location and Grammatical Function
 The expression *nāprajñam* occurs in Mantra 7 of the *Māṇḍūkya Upaniṣad*, the fundamental Atharvavedic text analyzing the four quarters (*pādas*) of the Self (*Ātman*) and the sacred syllable *AUM*. Mantra 7 defines the "Fourth" (*Turīya*) quarter through a rigorous apophatic methodology (*via negativa* or *neti neti*) composed of six negative clauses regarding consciousness:
@@ -55,6 +61,8 @@ Having systematically negated all empirical and causal modes of awareness—waki
 - **Gauḍapāda's Kārikā**: In the *Āgama Prakaraṇa* (Kārikās 10–15), Gauḍapāda explains that while *Prajñā* (deep sleep) is bound by cause (*bīja-nidrā*, non-apprehension of reality), and *Viśva* and *Taijasa* are bound by both cause and effect (*svapna*, misapprehension of reality), *Turīya* is entirely free from both cause and effect. Gauḍapāda highlights that non-cognition of duality is common to both deep sleep and *Turīya*, but in *Turīya* there is no seed of ignorance or sleep whatsoever.
 - **Śaṅkara's Advaita Commentary**: Śaṅkara stresses in his *Māṇḍūkyopaniṣad-bhāṣya* that *nāprajñam* refutes the notion that *Turīya* is a vacuum or insentient. Citing the Bṛhadāraṇyaka Upaniṣad (4.3.23), Śaṅkara notes that Pure Consciousness (*caitanya*) is eternal, for "the seeing of the Seer is never destroyed" (*draṣṭur dṛṣṭer viparilopo na vidyate*). *Nāprajñam* thus distinguishes Advaita Vedānta from both the Buddhist *Śūnyavāda* (viewed as positing an absolute void) and the Nyāya-Vaiśeṣika position (which held the Self to be inherently unconscious prior to mental contact).
 
+---
+
 ## Related Terms
 
 - Advaita (अद्वैत)
@@ -65,6 +73,8 @@ Having systematically negated all empirical and causal modes of awareness—waki
 - Prajñā (प्रज्ञा)
 - Prajñānaghana (प्रज्ञानघन)
 - Turīya (तुरीय)
+
+---
 
 ## References
 

@@ -36,10 +36,10 @@ In Sanskrit word formation, *tat* regularly combines as the prior member (*pūrv
 
 ## References
 
-1. Coward, H. G., & Raja, K. K. (Eds.). (1990). *Encyclopedia of Indian Philosophies: Vol. 5. The Philosophy of the Grammarians*. Motilal Banarsidass. (pp. 12, 14, 527)
-2. Larson, G. J., & Bhattacharya, R. S. (Eds.). (1987). *Encyclopedia of Indian Philosophies: Vol. 4. Sāṃkhya: A Dualist Tradition in Indian Philosophy*. Motilal Banarsidass. (p. 236)
-3. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headwords *ta*, *tatas*, *tattva*, *tatra*, *tathā*, *tad*, pp. 105–106)
-4. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. The Clarendon Press. (Headword *tad*, p. 434, col. 1)
-5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and His Pupils*. Motilal Banarsidass. (pp. 7, 75, 125, 132)
-6. Sivananda, S. (1946). *Glossary of Sanskrit Terms*. The Divine Life Society. (Headwords *Tat-tvam-asi*, *Tatastha-lakshana*, *Tattva*, p. 122)
-7. Anonymous. (n.d.). *Lexicon of Names, Essential Terms, and Sanskrit Words to the Srimad Bhagavatam and the Bhagavad Gita*. (Headword *Tat (tad)*, pp. 68–69)
+1. Coward, H. G., & Raja, K. K. (Eds.). (1990). *Encyclopedia of Indian philosophies: Vol. 5. The philosophy of the grammarians* (pp. 12, 14, 527). Motilal Banarsidass.
+2. Larson, G. J., & Bhattacharya, R. S. (Eds.). (1987). *Encyclopedia of Indian philosophies: Vol. 4. Sāṃkhya: A dualist tradition in Indian philosophy* (p. 236). Motilal Banarsidass.
+3. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (Headwords *ta*, *tatas*, *tattva*, *tatra*, *tathā*, *tad*, pp. 105–106). Longmans, Green, and Co.
+4. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages* (Headword *tad*, p. 434, col. 1). The Clarendon Press.
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and his pupils* (pp. 7, 75, 125, 132). Motilal Banarsidass.
+6. Sivananda, S. (1946). *Glossary of Sanskrit terms* (Headwords *Tat-tvam-asi*, *Tatastha-lakshana*, *Tattva*, p. 122). The Divine Life Society.
+7. *Lexicon of names, essential terms, and Sanskrit words to the Srimad Bhagavatam and the Bhagavad Gita* (Headword *Tat (tad)*, pp. 68–69). (n.d.).

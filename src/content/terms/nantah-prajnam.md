@@ -16,11 +16,15 @@ See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 Not inwardly cognitive; denying that Turīya (the Fourth) is characterized by dream consciousness or subjective internal awareness.
 
+---
+
 ## Definition
 
 The expression *nāntaḥ-prajñaṃ* (नान्तःप्रज्ञम्) is a negative Sanskrit phrase composed of the negative particle *na* (न, "not") and the compound adjective *antaḥ-prajñam* (अन्तःप्रज्ञम्, "inwardly conscious" or "cognizing internal objects"). Literally, it means "not inwardly cognitive" or "not conscious of internal states".
 
 In Vedāntic epistemology, *antaḥ-prajña* designates the cognitive condition wherein consciousness is directed inward toward internal mental modes (*antaḥkaraṇa-vṛtti*), subtle impressions (*vāsanās*), or dream projections, rather than external physical objects. When negated as *nāntaḥ-prajñaṃ* in the *Māṇḍūkya Upaniṣad* (mantra 7), the phrase functions apophatically to declare that ultimate Reality (*Turīya*) is not to be identified with dream-based or subjective internal cognition.
+
+---
 
 ## Etymology
 
@@ -35,6 +39,8 @@ The word formation of *nāntaḥ-prajñaṃ* (नान्तःप्रज्�
    - The constituent *antaḥ-prajña* (अन्तःप्रज्ञ) is a possessive relative compound (*Bahuvrīhi samāsa*).
    - Expansion (*vigraha-vākya*): *antaḥ prajñā yasya saḥ / tat* ("that whose consciousness is directed within").
    - In the nominative/accusative singular neuter, it inflects as *antaḥ-prajñam* (अन्तःप्रज्ञम्); when negated by *na*, it forms the negative phrase *na antaḥ-prajñam* / *nāntaḥ-prajñaṃ* ("not possessing internal consciousness").
+
+---
 
 ## Nāntaḥ-prajñaṃ in the Māṇḍūkya Upaniṣad
 
@@ -58,6 +64,8 @@ In his commentary (*Bhāṣya*) on Mantra 7, Śaṅkarācārya explains that *n�
 ### Exegesis in Gauḍapāda's Kārikā
 In the *Āgama Prakaraṇa* of his *Kārikā* (1.11), Gauḍapāda highlights that while *Viśva* and *Taijasa* are bound by both cause (*kāraṇa*, non-apprehension of reality) and effect (*kārya*, misapprehension of reality), and *Prājña* is bound by cause alone, *Turīya* is entirely free from both cause and effect. The clause *nāntaḥ-prajñaṃ* establishes that *Turīya* is free from the subjective misapprehension (*kārya*) characteristic of *Taijasa*.
 
+---
+
 ## Related Terms
 
 - Advaita (अद्वैत)
@@ -67,6 +75,8 @@ In the *Āgama Prakaraṇa* of his *Kārikā* (1.11), Gauḍapāda highlights th
 - Taijasa (तैजस)
 - Turīya (तुरीय)
 - Viśva (विश्व)
+
+---
 
 ## References
 

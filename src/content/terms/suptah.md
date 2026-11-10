@@ -44,6 +44,6 @@ Within this context, the term bears two distinct layers of meaning:
 
 ## References
 
-1. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *supta*, p. 353, col. 3; *svap*, p. 370, col. 3).
-2. Nikhilananda, Swami. (Trans. & Annotator). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (3rd ed.). Sri Ramakrishna Ashrama. (Māṇḍūkya Upaniṣad, Chapter 1, Mantra 5, text, translation, commentary, and notes, pp. 22–25).
-3. Nikhilananda, Swami. (Trans.). (1952). *The Upanishads: A New Translation* (Vol. 2). Phoenix House. (Māṇḍūkya Upaniṣad, Verse 5, translation and notes, pp. 228–229).
+1. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *supta*, p. 353, col. 3; *svap*, p. 370, col. 3).
+2. Nikhilananda, S. (Trans. & Annot.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (3rd ed.). Sri Ramakrishna Ashrama. (Māṇḍūkya Upaniṣad, Chapter 1, Mantra 5, text, translation, commentary, and notes, pp. 22–25).
+3. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2). Phoenix House. (Māṇḍūkya Upaniṣad, Verse 5, translation and notes, pp. 228–229).

@@ -17,11 +17,15 @@ See: [Mandukya Upanishad (Verses 4, 10)](mandukyopanisat.md)
 
 The dream state as the sphere of subtle internal consciousness (*taijasa*), the second quarter (*pāda*) of Ātman in the *Māṇḍūkya Upaniṣad*.
 
+---
+
 ## Definition
 
 The compound *svapna-sthāna* (स्वप्नस्थान) literally signifies the "place," "abode," or "sphere" of dream. Formed from *svapna* (dream or dream state) and *sthāna* (dwelling place, locus, or realm of experience), the expression denotes the subtle plane of consciousness in which the experiencing subject operates when withdrawn from external sensory input. 
 
 In Vedāntic ontology and epistemology, *svapna-sthāna* is the context-dependent state wherein consciousness (*cit*) turns inward (*antaḥ-prajña*). Disengaged from physical sense organs (*indriya*), the self (*taijasa*) does not perceive gross material objects (*sthūla-viṣaya*); instead, it experiences subtle mental projections (*pravivikta-viṣaya*) composed of latencies (*vāsanā*) and memory impressions stored in the inner organ (*antaḥkaraṇa*) from previous waking experiences (*jāgarita-sthāna*). It is distinguished from the waking state (*jāgarita-sthāna*), which interacts with external physical phenomena, and from deep sleep (*suṣupta-sthāna*), in which all mental forms resolve into an undifferentiated mass of consciousness.
+
+---
 
 ## Etymology
 
@@ -37,7 +41,9 @@ In Sanskrit grammar (*vyākaraṇa*), the compound *svapna-sthāna* can be analy
 
 Phonologically, when *svapna-sthānaḥ* connects with the following word *antaḥ-prajñaḥ* in verse 4, it undergoes *visarga-sandhi* (*-aḥ* before a short vowel *a-* becomes *-o* with the elision of the initial vowel, marked by an *avagraha*), yielding *svapnasthāno 'ntaḥprajñaḥ*. Grammatical analysis establishes the structural relationship of the compound's members; it must not be confused with metaphysical doctrine.
 
-## svapna-sthāna in the Māṇḍūkya Upaniṣad
+---
+
+## Svapna-sthāna in the Māṇḍūkya Upaniṣad
 
 The expression *svapna-sthāna* occurs in verse 4 (Mantram 4) of the *Māṇḍūkya Upaniṣad*:
 
@@ -59,6 +65,8 @@ In the first chapter (*Āgama Prakaraṇa*) of the *Gauḍapāda-kārikā*, Gau�
 ### Exegesis in Śaṅkara's Commentary
 In his *Māṇḍūkyopaniṣad-bhāṣya*, Śaṅkarācārya clarifies that in *svapna-sthāna*, the mind (*manas*), like a canvas painted with pictures (*citra-paṭa-vat*), projects an apparent external universe driven by ignorance (*avidyā*), desire (*kāma*), and past action (*karma*). Śaṅkara emphasizes that the dream experience demonstrates the intrinsic self-luminosity (*svayaṃ-jyotistva*) and unattached nature (*asaṅgatva*) of the Ātman: because the Self illumines dream forms without external physical light or bodily organs, and remains untainted by dream actions upon waking, it is proved to be the detached witness (*sākṣin*) distinct from all transitory states.
 
+---
+
 ## Related Terms
 
 - Antaḥ-prajña (अन्तःप्रज्ञ)
@@ -68,6 +76,8 @@ In his *Māṇḍūkyopaniṣad-bhāṣya*, Śaṅkarācārya clarifies that in 
 - Taijasa (तैजस)
 - Turīya (तूरीय)
 - Vaiśvānara (वैश्वानर)
+
+---
 
 ## References
 

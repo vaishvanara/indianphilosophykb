@@ -34,7 +34,7 @@ Grammatically, ***yoniḥ*** is a noun occurring in both **masculine and feminin
 
 ## References
 
-1. MacDonell, A. A. (1892). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Headword: *yoni*, p. 248, col. 2).
-2. Nikhilananda, Swami (Trans.). (1949). *The Māṇḍūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Sri Ramakrishna Math. (Commentary on Mantra 6, pp. 34–35).
+1. MacDonell, A. A. (1892). *A Sanskrit-English dictionary*. Longmans, Green, and Co. (Headword: *yoni*, p. 248, col. 2).
+2. Nikhilananda, Swami. (Trans.). (1949). *The Māṇḍūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Sri Ramakrishna Math. (Commentary on Mantra 6, pp. 34–35).
 3. Śaṅkarācārya. (1890). *The Vedānta Sūtras (Part 1)* (G. Thibaut, Trans.). Clarendon Press. (Commentary on Sūtra I.4.27, p. 288).
-4. Sivananda, Swami. (1949). *Brahmasūtra: Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary*. The Divine Life Society. (Commentary on Sūtra I.4.27, p. 133).
+4. Sivananda, Swami. (1949). *Brahmasūtra: Sanskrit text, transliteration, word-for-word meaning, English translation, and commentary*. The Divine Life Society. (Commentary on Sūtra I.4.27, p. 133).

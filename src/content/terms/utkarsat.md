@@ -39,7 +39,7 @@ The morphological derivation of the nominal stem *utkarṣa* is established in c
 
 ## References
 
-1. Kale, M. R. (1918). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Gopal Narayan & Co. (Declension of ablative singular *-āt*, § 339, p. 210; Root *kṛṣ*, p. 530).
-2. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headword *utkarṣa*, p. 48, col. 3; Root *kṛṣ*, p. 77, col. 1).
-3. Nikhilananda, S. (Trans.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śankara's Commentary*. Sri Ramakrishna Ashrama. (Māṇḍūkya Upaniṣad, Mantra 10 and Gauḍapāda Kārikā I.20, pp. 77–78).
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass. (Summary of Māṇḍūkyopaniṣadbhāṣya, pp. 106, 308–312).
+1. Kale, M. R. (1918). *A higher Sanskrit grammar for the use of schools and colleges* (Declension of ablative singular *-āt*, § 339, p. 210; Root *kṛṣ*, p. 530). Gopal Narayan & Co.
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (Headword *utkarṣa*, p. 48, col. 3; Root *kṛṣ*, p. 77, col. 1). Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śankara's commentary* (Māṇḍūkya Upaniṣad, Mantra 10 and Gauḍapāda Kārikā I.20, pp. 77–78). Sri Ramakrishna Ashrama.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils* (Summary of Māṇḍūkyopaniṣadbhāṣya, pp. 106, 308–312). Motilal Banarsidass.

@@ -35,7 +35,7 @@ Grammatically, *tṛtīya* is classified as an adjectival ordinal numeral (`mfn.
 
 ## References
 
-1. Abhyankar, K. V. (1961). *A Dictionary of Sanskrit Grammar*. Oriental Institute. (Headwords: *Tīya*, p. 175; *Tṛtīya*, p. 177; *Tṛtīyā*, p. 177).
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press. (Headword: *Māṇḍūkya Upaniṣad*, p. 185).
-3. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headwords: *Tīrtha*–*Tṛtīyin*, pp. 110–111).
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and His Pupils*. Motilal Banarsidass. (Gauḍapāda's *Māṇḍūkyakārikās*, pp. 89–91, 106–107; Śaṅkara's *Māṇḍūkyopaniṣadbhāṣya*, pp. 311–313).
+1. Abhyankar, K. V. (1961). *A dictionary of Sanskrit grammar*. Oriental Institute. (Headwords: *Tīya*, p. 175; *Tṛtīya*, p. 177; *Tṛtīyā*, p. 177).
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headword: *Māṇḍūkya Upaniṣad*, p. 185).
+3. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords: *Tīrtha*–*Tṛtīyin*, pp. 110–111).
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and his pupils*. Motilal Banarsidass. (Gauḍapāda's *Māṇḍūkyakārikās*, pp. 89–91, 106–107; Śaṅkara's *Māṇḍūkyopaniṣadbhāṣya*, pp. 311–313).

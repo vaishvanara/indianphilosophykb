@@ -16,11 +16,15 @@ See: [Mandukya Upanishad (Verses 8, 11)](mandukyopanisat.md)
 
 In the *Māṇḍūkya Upaniṣad*, *makāra* (मकार) denotes the letter 'm', the third *mātrā* of *AUM*, symbolizing *Prājña* and the state of deep sleep (*suṣupti*).
 
+---
+
 ## Definition
 
 *Makāra* (मकार) is a Sanskrit grammatical and phonetic designation for the labial nasal sound *m* (म्). In classical linguistic analysis, the suffix *-kāra* is appended to an individual letter or sound to denote its explicit name or pronunciation. Contextually within the *Māṇḍūkya Upaniṣad*, *makāra* signifies the third constituent letter or measure (*mātrā*) of the sacred monosyllable *AUM* (ॐ), succeeding *akāra* ('a') and *ukāra* ('u'). 
 
 Phonetically, *makāra* represents the closing nasal resonance of the audible chant before it subsides into silence. Philosophically, the *Māṇḍūkya Upaniṣad* equates *makāra* with the third quarter (*pāda*) of the Self (*Ātman*), designated as *Prājña*—the manifestation of consciousness in dreamless deep sleep (*suṣupti*) where all empirical distinctions merge into an undifferentiated causal state (*kāraṇa*).
+
+---
 
 ## Etymology
 
@@ -29,6 +33,8 @@ The expression *makāra* (मकार) is a compound term formed in Sanskrit gr
 2. The primary nominal suffix *-kāra* (कार), derived from the verbal root *kṛ* (कृ, "to do" or "to make"), used extensively in Sanskrit to denote a specific sound, letter, or vocalization (e.g., *akāra*, *ukāra*, *gaka-kāra*).
 
 In formal Sanskrit grammar (*vyākaraṇa*), as documented in standard traditional treatises, *makāra* functions as a masculine noun (*makāraḥ*). Etymologically, it denotes "the sound or letter *m*." In Vedic metrics (*chandas*) and phonetics (*śikṣā*), it designates the terminal labial closure that concludes the triple-mātrā structure of *Oṁkāra* prior to its resolution into the soundless (*amātra*) state.
+
+---
 
 ## Makāra in the Māṇḍūkya Upaniṣad
 
@@ -50,6 +56,8 @@ The Upaniṣad states that one who meditates on this identity achieves a spiritu
 
 Śaṅkarācārya, in his *Māṇḍūkyopaniṣad-bhāṣya*, explains that *makāra* represents the causal state (*kāraṇa*), which retains the latent seed (*bīja*) of ignorance (*avidyā*) and potential desire. However, *makāra* is not the final goal; it serves as the ultimate phonetic boundary that leads the aspirant to *Amātra* (the soundless Fourth or *Turīya*, Mantra 12), which is non-dual (*advaita*), peaceful (*śānta*), and beyond all causation.
 
+---
+
 ## Interpretations and Disputes
 
 1. **Causal Seed vs. Ultimate Reality**:
@@ -60,6 +68,8 @@ The Upaniṣad states that one who meditates on this identity achieves a spiritu
 
 3. **Phonetic Distinction: Makāra vs. Makara**:
    Lexicographical works (such as Macdonell's *Sanskrit-English Dictionary*) note the necessity of distinguishing *makāra* (मकार, with long *ā*, "the letter 'm'") from *makara* (मकर, with short *a*, denoting a mythical sea-creature or aquatic animal). For instance, in the *Bhagavad Gītā* (10.31, *jaṣāṇāṁ makaraścāsmi*), the text refers to *makara*, which is entirely distinct from the phonetic term *makāra* employed in the *Māṇḍūkya Upaniṣad*.
+
+---
 
 ## Related Terms
 
@@ -75,11 +85,13 @@ The Upaniṣad states that one who meditates on this identity achieves a spiritu
 - Ukāra (उकार)
 - Viśva (विश्व)
 
+---
+
 ## References
 
-- Kale, Moreshwar Ramchandra (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Delhi: Motilal Banarsidass.
-- Macdonell, Arthur A. (1893). *A Sanskrit-English Dictionary*. London: Longmans, Green, and Co.
-- Nikhilananda, Swami (Trans.) (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary*. Mysore: Sri Ramakrishna Ashrama.
-- Nikhilananda, Swami (Trans.) (1955). *The Upanishads: A New Translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. London: Phoenix House.
-- Potter, Karl H. (Ed.) (1981). *Encyclopedia of Indian Philosophies (Volume III: Advaita Vedānta up to Śaṅkara and His Pupils)*. Princeton, NJ: Princeton University Press / Delhi: Motilal Banarsidass.
-- Williams, Monier (1877). *A Practical Grammar of the Sanskrit Language*. Oxford: Clarendon Press.
+1. Kale, M. R. (1972). *A higher Sanskrit grammar for the use of schools and colleges*. Motilal Banarsidass.
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's commentary*. Sri Ramakrishna Ashrama.
+4. Nikhilananda, S. (Trans.). (1955). *The Upanishads: A new translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's commentary)*. Phoenix House.
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies (Volume III: Advaita Vedānta up to Śaṅkara and his pupils)*. Princeton University Press; Motilal Banarsidass.
+6. Williams, M. (1877). *A practical grammar of the Sanskrit language*. Clarendon Press.

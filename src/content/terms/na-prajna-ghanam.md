@@ -16,6 +16,8 @@ See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 Not a mass of consciousness; in the Māṇḍūkya Upaniṣad (Mantra 7), negating the deep sleep state (Prājña) as a causal attribute of the non-dual Self (Turīya).
 
+---
+
 ## Definition
 
 *Na prajñā-ghanaṃ* (न प्रज्ञाघनम्)—also appearing in manuscript and commentary traditions as *na prajñānaghanaṃ* (न प्रज्ञानघनम्)—is a negative Sanskrit phrasal expression meaning "not a mass of consciousness," "not massed sentiency," or "not an undifferentiated bulk of cognition."
@@ -23,6 +25,8 @@ Not a mass of consciousness; in the Māṇḍūkya Upaniṣad (Mantra 7), negati
 Lexically, the phrase combines the negative particle *na* ("not") with the compound *prajñā-ghana* or *prajñāna-ghana*. The noun *prajñā* (or *prajñāna*) denotes consciousness, wisdom, or cognitive awareness, while *ghana* signifies a compact mass, solid lump, or dense collection.
 
 Contextually within the *Māṇḍūkya Upaniṣad*, *na prajñā-ghanaṃ* forms an essential part of the apophatic neti-neti ("not this, not this") definition of *Turīya* (the Fourth) in Mantra 7. In Mantra 5, the state of deep dreamless sleep (*suṣupti*) or *Prājña* is defined as *prajñānaghana eva* ("verily a mass of unified consciousness"), wherein all waking and dream mental modifications (*vṛtti*) collapse into an undifferentiated, dark causal seed state (*kāraṇāvasthā*). In Mantra 7, *na prajñā-ghanaṃ* explicitly negates this deep-sleep state from *Turīya*, establishing that the ultimate non-dual Self is neither an empirical state of awareness nor a dormant mass of causal unconsciousness.
+
+---
 
 ## Etymology
 
@@ -34,6 +38,8 @@ The expression *na prajñā-ghanaṃ* (न प्रज्ञाघनम्) is
 4. **Compound Classification (*Samāsa*)**: *Prajñā-ghana* is classified in traditional grammar (*vyākaraṇa*) as a *Karmadhāraya* (descriptive determinative compound) or a *Ṣaṣṭhī-tatpuruṣa* (genitive determinative compound).
 5. **Compound Expansion (*Vigraha-vākya*)**: *prajñāyāḥ ghanaḥ* ("a mass of consciousness") or *prajñā-mātra-ghanaḥ* ("that which is a dense, solid mass consisting of nothing but consciousness").
 6. **Inflection & Syntax**: The compound takes the neuter nominative/accusative singular termination *-am* (*prajñā-ghanam* / *prajñānaghanam*), agreeing in gender, number, and case with *caturtham* (*Turīya*, the Fourth).
+
+---
 
 ## na prajñā-ghanaṃ in the Māṇḍūkya Upaniṣad
 
@@ -53,6 +59,8 @@ Philosophically, Śaṅkarācārya explains in his *Māṇḍūkyopaniṣad-bhā
 
 Gauḍapāda, in his *Gauḍapādīya Kārikā* (1.11–1.15), underscores this distinction by noting that while *Viśva* and *Taijasa* are bound by both cause and effect (misapprehension and non-apprehension), *Prājña* (*prajñānaghana*) is bound by cause alone (*bīja-baddha*). *Turīya*, indicated by *na prajñā-ghanaṃ*, is bound by neither.
 
+---
+
 ## Interpretations and Disputes
 
 1. **Orthographic and Textual Variants**:
@@ -63,6 +71,8 @@ Gauḍapāda, in his *Gauḍapādīya Kārikā* (1.11–1.15), underscores this 
 
 3. **Method of Superimposition and Rescission (*Adhyāropa-Apavāda*)**:
    Commentators highlight the pedagogical structure of the Upaniṣad: Mantra 5 superimposes *prajñānaghana* as the third quarter (*pāda*) of the Self for the purpose of meditation (*upāsanā*), while Mantra 7 rescinds (*apavāda*) this attribute via *na prajñā-ghanaṃ* to reveal the unconditioned nature of *Turīya*.
+
+---
 
 ## Related Terms
 
@@ -79,9 +89,11 @@ Gauḍapāda, in his *Gauḍapādīya Kārikā* (1.11–1.15), underscores this 
 - Suṣupti (सुषुप्ति)
 - Turīya (तूरीय)
 
+---
+
 ## References
 
-- Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co. (Headwords: *ghana*, p. 89, col. 1; *prajñā*, p. 176, col. 2).
-- Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary*. Mysore: Sri Ramakrishna Ashrama. (Mantras 5 & 7, pp. 33–35, 50–54).
-- Nikhilananda, S. (Trans.). (1955). *The Upanishads: A New Translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. London: Phoenix House. (Mantras 5 & 7, pp. 228–229, 231–234).
-- Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies (Volume III: Advaita Vedānta up to Śaṅkara and His Pupils)*. Princeton, NJ: Princeton University Press / Delhi: Motilal Banarsidass. (pp. 14–16).
+1. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (Headwords: *ghana*, p. 89, col. 1; *prajñā*, p. 176, col. 2). Longmans, Green, and Co.
+2. Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's commentary* (Mantras 5 & 7, pp. 33–35, 50–54). Sri Ramakrishna Ashrama.
+3. Nikhilananda, S. (Trans.). (1955). *The Upanishads: A new translation: Vol. II. Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's commentary* (Mantras 5 & 7, pp. 228–229, 231–234). Phoenix House.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. III. Advaita Vedānta up to Śaṅkara and his pupils* (pp. 14–16). Princeton University Press; Motilal Banarsidass.

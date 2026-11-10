@@ -32,6 +32,6 @@ Lexicographically and phonetically, *ya* also designates the first semivowel of 
 
 ## References
 
-1. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Headword: *ya*, p. 237, col. 1).
-2. Monier-Williams, M. (1857). *A Practical Grammar of the Sanskrit Language, Arranged with Reference to the Classical and Vedic Dialects*. Oxford University Press. (pp. 114, 158, §§ 217, 223).
-3. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. (Headwords: *ya*, *yad*, *yā*, pp. 838, 844, 850).
+1. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. (Headword: *ya*, p. 237, col. 1).
+2. Monier-Williams, M. (1857). *A practical grammar of the Sanskrit language, arranged with reference to the classical and Vedic dialects*. Oxford University Press. (pp. 114, 158, §§ 217, 223).
+3. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. (Headwords: *ya*, *yad*, *yā*, pp. 838, 844, 850).

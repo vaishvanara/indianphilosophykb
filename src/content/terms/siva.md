@@ -17,11 +17,15 @@ See: [Mandukya Upanishad (Verses 7, 12)](mandukyopanisat.md)
 
 Auspicious, propitious, or gracious; in Indian philosophy, the supreme static consciousness, transcendent reality, and ultimate principle of liberation.
 
+---
+
 ## Definition
 
 In its primary lexical sense, *Śiva* denotes that which is auspicious, propitious, benign, or gracious, as well as welfare, happiness, and final emancipation. The term evolved from a Vedic adjectival epithet applied propitiatingly to the fierce divinity Rudra into the proper name of the supreme deity associated with cosmic dissolution, regeneration, and ascetic transcendence. 
 
 In extended philosophical discourse, *Śiva* shifts from a personal deity to denote pure, unconditioned Consciousness (*cit*, *caitanya*), the changeless substratum and witness of all manifestation. In non-dual Tantric metaphysics and Śaivism, *Śiva* designates the ultimate, formless reality (*paramaśiva*, *nirguṇa-śiva*) prior to all polarization into subject and object, contrasted with and complemented by *Śakti*, the dynamic, creative power that brings forth the cosmos. Figuratively, the term is also used to signify the state of spiritual liberation (*mokṣa*), the sacred sign of the formless absolute (*śivaliṅga*), and the perfected soul that has realized identity with the supreme principle.
+
+---
 
 ## Etymology
 
@@ -30,6 +34,8 @@ Grammatically, *Śiva* is an *a*-stem masculine noun (nominative singular *śiva
 2. Alternatively, ancient etymological glosses connect it with the root *śvi* (श्वि, "to swell," "to prosper," or "to increase"), highlighting the auspicious potency of growth, well-being, and graciousness.
 
 In Tantric esoteric etymology, *Śiva* is associated with the seed-syllables and phonetic elements of the Sanskrit alphabet, where the letter *ha* (*hakāra*) represents the supreme spirit or masculine divine principle (*Śiva*), in contrast to *sa* (*sakāra*) representing *Śakti*. When shorn of dynamic vitality (*śakti*), the consonantal base is symbolically characterized as *śava* ("a corpse"), demonstrating that within the tradition's semantic logic, *Śiva* embodies the illumination of consciousness whose active manifestation is entirely dependent upon *Śakti*.
+
+---
 
 ## Śiva in Śākta Tantra and Kuṇḍalinī Yoga
 
@@ -45,15 +51,21 @@ Microcosmically, *Śiva* resides in the human body in two chief centers:
 
 The mechanics of Kuṇḍalinī Yoga (*ṣaṭcakrabheda* or *layayoga*) consist of awakening *Kuṇḍalinī* from the *mūlādhāra* through breath control (*prāṇāyāma*), mantra, and mental concentration, guiding Her through the six psychic centers to pierce the three knots (*brahmagranthi*, *viṣṇugranthi*, and *rudragranthi*). As *Śakti* ascends, She dissolves the twenty-four cosmic principles into Herself, culminating in ecstatic union (*maithuna* or *sāmarasya*) with *Paramaśiva* in the *sahasrāra*. This union causes an ambrosial nectar (*amṛta*) to flow through the subtle channels (*nāḍī*s), flooding the practitioner's body and producing supreme liberation while embodied (*jīvanmukti*).
 
+---
+
 ## Śiva in Śaiva Siddhānta and Kashmir Śaivism
 
 In the broader schools of Śaivism, *Śiva* is the foundational reality, but the traditions differ on ontology:
 - In dualistic Śaiva Siddhānta, *Śiva* is the efficient cause of the cosmos and the supreme soul who remains distinct from bound individual souls (*paśu*) and the material world (*pāśa*). The connection between *Śiva* and the soul is structured through the six pathways (*ṣaḍ-adhvan*): *mantra*, *varṇa*, *pada*, *bhuvana*, *tattva*, and *kalā*. Bondage is caused by innate impurities (*mala*s)—namely *āṇava*, *māyā*, and *karma*—which veil the soul's innate *śivatva* (Śiva-nature) until *Śiva*'s descent of grace (*śaktipāta*) effects release.
 - In non-dual Kashmir Śaivism (*Trika*), *Śiva* is the autonomous, self-luminous absolute (*parasaṃvit*, *prakāśa*) whose innate freedom (*svātantrya*) radiates as cosmic manifestation through His own *śakti*. The universe is not an external creation but an expansion (*prasāra*) of *Śiva* Himself. Through five divine coverings (*kañcuka*s: *kāla*, *niyati*, *rāga*, *vidyā*, and *kalā*), *Śiva* freely contracts Himself into the limited individual soul (*jīva* or *aṇu*). Liberation is the spontaneous recognition (*pratyabhijñā*) that one's true identity has always been *Śiva*.
 
+---
+
 ## Śiva in Nyāya-Vaiśeṣika
 
 Within classical Nyāya and Vaiśeṣika, the concept of God (*Īśvara*) was historically affiliated with theological Śaivism. Early Nyāya commentaries identify the supreme efficient cause of the universe as *Śiva*. Unlike the non-dual systems where *Śiva* is identical with the world and individual consciousness, Nyāya posits *Īśvara* (understood as *Śiva*) as a distinct individual soul (*puruṣaviśeṣa* or *ātmā*) characterized by eternal omniscience (*sarvajñatva*), sovereignty, and freedom from demerit, who arranges eternal atoms into a created universe in accordance with the unseen moral deserts (*adṛṣṭa*) of living beings. Later Śaiva Naiyāyikas, such as Bhāsarvajña (ca. 800 CE) in the *Nyāyasāra*, explicitly synthesized formal Nyāya epistemology with Śaiva theology and yogic disciplines.
+
+---
 
 ## Primary Texts and Commentaries
 
@@ -70,6 +82,8 @@ Primary textual traditions and their traditional commentaries provide specific t
 - **Modern Scholarship**:
   - Sir John Woodroffe (Arthur Avalon) analyzes the Tantrik polar conception of reality, elucidating how *Śiva* represents the static background of unpolarized consciousness without which kinetic cosmic manifestation (*Śakti*) cannot occur. Woodroffe contextualizes this dynamic in relation to non-dual Vedānta, showing that while Advaita treats cosmic manifestation as inexplicable appearance (*māyā* / *vivarta*), Śākta philosophy treats it as the real projection of *Śiva*'s inherent power (*śakti*).
 
+---
+
 ## Interpretations and Disputes
 
 Significant doctrinal and textual disputes surround the conception of *Śiva*:
@@ -77,6 +91,8 @@ Significant doctrinal and textual disputes surround the conception of *Śiva*:
 1. **Monism vs. Dualism / Pluralism**: A major sectarian debate exists between the non-dualism of Kashmir Śaivism and Śākta Tantra versus the pluralistic realism of Śaiva Siddhānta and Nyāya-Vaiśeṣika. Śākta Tantrikas and Trika Śaivas maintain that *Śiva* is both transcendent consciousness and the material and efficient cause of the universe through His inseparable *Śakti*. In contrast, Śaiva Siddhānta insists on an irreducible ontological distinction between Lord (*pati*), soul (*paśu*), and matter (*pāśa*), denying that the world is an emanation of *Śiva*'s substance. Nyāya theologians similarly restrict *Śiva* to the role of an operative/efficient cause (*nimittakāraṇa*), rejecting pantheistic identity with creation.
 2. **Primacy of Śiva vs. Primacy of Śakti**: In Śākta traditions, although *Śiva* is recognized as the ultimate witness consciousness, He is functionally inactive without *Śakti* (*śivaḥ śaktyā yukto yadi bhavati śaktaḥ prabhavituṃ / na ced evaṃ devo na khalu kuśalaḥ spanditum api*). Some Śākta texts subordinate *Śiva* to the position of a passive pedestal or couch (*mahāpreta*) for the Goddess, whereas orthodox Śaiva schools maintain the absolute ontological supremacy of *Śiva*, regarding *Śakti* merely as His dependent attribute or power.
 3. **Nomenclature of the Supreme Abode**: Commentaries on *Ṣaṭ-Cakra-Nīrūpaṇa* (verse 49) acknowledge disputes among different sects regarding the nature of the *sahasrāra*: Śaivas designate it as the place of *Śiva* (*śivasthāna*), Śāktas as the place of *Devī*, Vaiṣṇavas as the abode of *Viṣṇu* or *Parama-puruṣa*, and Vedāntins as *Brahman*, though the text harmonizes these as sectarian designations for the one ineffable state of liberation.
+
+---
 
 ## Related terms
 
@@ -106,11 +122,13 @@ Significant doctrinal and textual disputes surround the conception of *Śiva*:
 - Svātantrya (स्वातन्त्र्य)
 - Vimarśa (विमर्श)
 
+---
+
 ## References
 
-1. Avalon, A. (Ed. & Trans.). (1913). *Tantra of the great liberation (Mahānirvāṇa Tantra)*. London: Luzac & Co. (Introduction, pp. xxiv–xxix, lvii–lxiii; Text, Chapter 1, pp. 1–8; Chapter 3, pp. 33–40).
-2. Avalon, A. (Woodroffe, J.). (1919). *The serpent power: Being the Ṣaṭ-cakra-nirūpaṇa and Pādukā-pañcaka: Two works on Laya-Yoga*. London: Luzac & Co. (Introduction, pp. 1–48, 80–145, 183–250; Text and Commentary, vv. 29–51, pp. 386–476).
-3. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (New and rev. ed.). Albany, NY: State University of New York Press. (Headwords: *Adhvan*, p. 12; *Ādinātha*, p. 14; *Bhairava*, p. 82; *Bindu*, p. 93; *Cit*, p. 105; *Cit-śakti*, p. 105; *Kañcuka*, p. 158; *Kriyā-śakti*, p. 168; *Kuṇḍalinī*, p. 171; *Liṅga*, p. 175; *Mahādeva*, p. 180; *Maheśvara*, p. 183; *Mala*, p. 183).
-4. Jha, G. (Trans.). (1984). *The Nyāya-sūtras of Gautama: With the Bhāṣya of Vātsyāyana and the Vārtika of Uddyotakara* (Vol. 1). Delhi: Motilal Banarsidass. (Introduction, pp. x, xviii).
-5. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Oxford: Clarendon Press. (Headword: *Śiva*, p. 1074, cols. 1–2).
-6. Pūrṇānanda Svāmī. (1919). *Ṣaṭ-cakra-nirūpaṇa* (with the commentaries of Śaṅkara and Viśvanātha). In A. Avalon (Ed. & Trans.), *The serpent power* (pp. 318–485). London: Luzac & Co. (Verses 29, 30, 41, 42, 49, 50, 51).
+1. Avalon, A. (Ed. & Trans.). (1913). *Tantra of the great liberation (Mahānirvāṇa Tantra)* (pp. xxiv–xxix, lvii–lxiii, 1–8, 33–40). Luzac & Co.
+2. Avalon, A. (1919). *The serpent power: Being the Ṣaṭ-cakra-nirūpaṇa and Pādukā-pañcaka: Two works on Laya-Yoga* (pp. 1–48, 80–145, 183–250, 386–476). Luzac & Co.
+3. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (New and rev. ed., pp. 12, 14, 82, 93, 105, 158, 168, 171, 175, 180, 183). State University of New York Press.
+4. Jha, G. (Trans.). (1984). *The Nyāya-sūtras of Gautama: With the Bhāṣya of Vātsyāyana and the Vārtika of Uddyotakara* (Vol. 1, pp. x, xviii). Motilal Banarsidass.
+5. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages* (p. 1074). Clarendon Press.
+6. Pūrṇānanda Svāmī. (1919). Ṣaṭ-cakra-nirūpaṇa (with the commentaries of Śaṅkara and Viśvanātha). In A. Avalon (Ed. & Trans.), *The serpent power* (pp. 318–485, vv. 29–30, 41–42, 49–51). Luzac & Co.

@@ -17,11 +17,15 @@ See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
 
 In the *Māṇḍūkya Upaniṣad*, *Vaiśvānara* (वैश्वानर) denotes the first quarter (*pāda*) of Self/Brahman, active in the waking state and conscious of external objects.
 
+---
+
 ## Definition
 
 *Vaiśvānara* (वैश्वानर) is an ancient Sanskrit term that literally signifies "relating or belonging to all men," "common to all human beings," or "he who leads all men". In its general Vedic and philosophical usage, the word denotes universal fire, the cosmic deity Agni, or the cosmic totality of gross physical existence (*Virāj*). 
 
 In the specific context of the *Māṇḍūkya Upaniṣad*, *Vaiśvānara* designates the first quarter (*prathamaḥ pādaḥ*) of Ātman/Brahman. It represents the Supreme Consciousness conditioned by the aggregate of gross physical embodiment (*sthūla-śarīra*) and operating through the waking state (*jāgarita-sthāna*). Idiomatically and contextually, while the individual waking entity is often termed *Viśva*, *Vaiśvānara* emphasizes the non-differentiation between the individual soul (*adhyātma*) and the cosmic realm (*adhidaiva* / *Virāj*), pointing to the universal macrocosmic Self operating through all waking beings.
+
+---
 
 ## Etymology
 
@@ -32,6 +36,8 @@ Grammatically, the derivative is formed by applying the *taddhita* suffix *aṇ*
 1. **Taddhita / Genitive Relation**: *viśveṣāṁ narāṇām ayam* ("he who belongs or relates to all men"), classifying it as a universal entity residing in or pertaining to all human beings.
 2. **Upapada / Tatpuruṣa Derivation**: *viśvān narān nayati* ("he who leads all men or creatures"), deriving the second element from the verbal root *nī* (नी, "to lead"), thus signifying the divine principle that leads all living beings to their respective fruits of action and physical experiences.
 3. **Karmadhāraya Expansion**: *viśvaś cāsau naraś ca* ("he who is simultaneously the universe and the leader/man"), expressing the identity of the cosmic whole (*Virāj*) with the individual embodied conscious entity.
+
+---
 
 ## Vaiśvānara in the Māṇḍūkya Upaniṣad
 
@@ -60,6 +66,8 @@ Textual and historical nuances distinguish the Upaniṣad's original phrasing fr
 - **Śaṅkarācārya's Bhāṣya**: Śaṅkara explicitly synthesizes the macrocosmic entity (*Virāj*) and the microcosmic individual (*Viśva*) into a single quarter under *Vaiśvānara*. Śaṅkara stresses that applying macrocosmic limbs to the individual self serves to destroy the illusion of dualism (*dvaita*) and reveal the non-dual reality (*advaita*) of Brahman.
 - **Later Advaita Manuals**: Works such as the *Vedāntasāra* of Sadānanda and the *Tattva Bodha* formalize a distinction between *Viśva* (consciousness conditioned by an individual gross body) and *Vaiśvānara* / *Virāj* (consciousness conditioned by aggregate gross bodies), while asserting their fundamental ontological identity (*aikya*).
 
+---
+
 ## Interpretations and Disputes
 
 The interpretation of *Vaiśvānara* has been a focal point of doctrinal and exegematical discussion across Vedāntic literature:
@@ -67,6 +75,8 @@ The interpretation of *Vaiśvānara* has been a focal point of doctrinal and exe
 1. **The Brahmasūtra Debate (Vaiśvānara-adhikaraṇa)**: In *Brahmasūtra* I.2.24–32, Bādarāyaṇa addresses an objector's view (*pūrvapakṣa*) claiming that the word *Vaiśvānara* in scriptural texts (such as *Chāndogya Upaniṣad* V.11–18) refers merely to the digestive fire of the stomach (*jaṭharāgni*), the physical element of fire (*bhūtāgni*), or the elemental fire deity. Śaṅkara and other Vedāntic commentators establish the *siddhānta* (final conclusion) that *Vaiśvānara* signifies Supreme Brahman (*Paramātman*), because cosmic descriptions—such as having heaven for its head and earth for its feet—cannot apply to physical fire or an individual soul (*jīva*), but apply exclusively to Brahman.
 
 2. **Textual Relationship between Prose Mantras and Kārikās**: Modern scholarship and traditional Vedāntic schools have debated the relationship between the prose text of the *Māṇḍūkya Upaniṣad* and Gauḍapāda's *Kārikās*. While the classical Advaita tradition of Śaṅkara and Ānandagiri treats the twelve prose passages as scriptural *Śruti* and the 215 verses as Gauḍapāda's commentary (*bhaṣya/kārikā*), other traditions—including Rāmānuja's Viśiṣṭādvaita and Madhva's Dvaita—regard the first twenty-nine *Kārikās* (*Āgama Prakaraṇa*) as part of the canonical *Śruti* text itself. Certain modern scholars (such as Vidhusekhara Bhattacharya and B. N. K. Sharma) proposed that the *Kārikās* predated the prose text, though traditional Advaitins reject this thesis, maintaining that Gauḍapāda composed the verse commentary directly upon the pre-existing Upaniṣadic mantras.
+
+---
 
 ## Related Terms
 
@@ -82,11 +92,13 @@ The interpretation of *Vaiśvānara* has been a focal point of doctrinal and exe
 - Virāj (विराज्)
 - Viśva (विश्व)
 
+---
+
 ## References
 
-1. MacDonell, A. A. (1892). *A Practical Sanskrit Dictionary with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green and Co. (Headword: *vaiśvā-nará*, p. 301).
-2. Nikhilananda, S. (Trans.). (1949). *The Upanishads: A New Translation (Vol. III: Māṇḍūkya Upanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. New York: Harper & Brothers.
-3. Nikhilananda, S. (Trans.). (1956). *The Upanishads: A New Translation (Vol. I: Chāndogya Upanishad)*. New York: Harper & Brothers.
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies (Vol. III: Advaita Vedānta up to Śaṁkara and His Pupils)*. Princeton, NJ: Princeton University Press / Delhi: Motilal Banarsidass.
-5. Sadānanda, S. (1934). *Vedāntasāra: Sanskrit Text with English Translation* (S. Nikhilananda, Trans.). Almora: Advaita Ashrama.
-6. Sivananda, S. (1949). *Brahma Sutras: Text, Word-for-Word Meaning, Translation, and Commentary*. Rishikesh: The Divine Life Society.
+1. MacDonell, A. A. (1892). *A practical Sanskrit dictionary with transliteration, accentuation, and etymological analysis throughout* (Headword: *vaiśvā-nará*, p. 301). Longmans, Green and Co.
+2. Nikhilananda, S. (Trans.). (1949). *The Upanishads: A new translation: Vol. III. Māṇḍūkya Upanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary*. Harper & Brothers.
+3. Nikhilananda, S. (Trans.). (1956). *The Upanishads: A new translation: Vol. I. Chāndogya Upanishad*. Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. III. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press; Motilal Banarsidass.
+5. Sadānanda, S. (1934). *Vedāntasāra: Sanskrit text with English translation* (S. Nikhilananda, Trans.). Advaita Ashrama.
+6. Sivananda, S. (1949). *Brahma sutras: Text, word-for-word meaning, translation, and commentary*. The Divine Life Society.

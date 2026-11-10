@@ -41,7 +41,7 @@ Grammatically, the word is structured as a genitive determinative compound (*ṣ
 
 ## References
 
-1. Kale, M. R. (1900). *A Higher Sanskrit Grammar for the Use of Schools and Colleges* (2nd ed.). Gopal Narayen & Co. (Compound Classification, § 202, p. 131; Rules of Sandhi, § 24, p. 12).
-2. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headwords: *īś*, p. 47, col. 3; *īśvara*, p. 47, col. 3; *sarva*, p. 341, col. 2; *sarveśvara*, p. 342, col. 2).
-3. Nikhilananda, Swami. (Trans.). (1936). *The Mandukyopanishad with Gaudapada's Karika and Sankara's Commentary*. Sri Ramakrishna Ashrama. (Māṇḍūkya Upaniṣad, Mantra 6, pp. 26–27).
-4. Sadananda, Swami. (1931). *Vedantasara of Sadananda* (Swami Nikhilananda, Trans.). Advaita Ashrama. (Section 38, p. 28).
+1. Kale, M. R. (1900). *A higher Sanskrit grammar for the use of schools and colleges* (2nd ed., Compound Classification, § 202, p. 131; Rules of Sandhi, § 24, p. 12). Gopal Narayen & Co.
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (Headwords: *īś*, p. 47, col. 3; *īśvara*, p. 47, col. 3; *sarva*, p. 341, col. 2; *sarveśvara*, p. 342, col. 2). Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans.). (1936). *The Mandukyopanishad with Gaudapada's Karika and Sankara's commentary* (Māṇḍūkya Upaniṣad, Mantra 6, pp. 26–27). Sri Ramakrishna Ashrama.
+4. Sadananda, S. (1931). *Vedantasara of Sadananda* (S. Nikhilananda, Trans.; Section 38, p. 28). Advaita Ashrama.

@@ -17,6 +17,8 @@ See: [Mandukya Upanishad (Verse 5, 11)](mandukyopanisat.md)
 
 In the *Māṇḍūkya Upaniṣad*, *suṣupti* (सुषुप्ति) denotes the state of deep, dreamless sleep wherein experiences unify into a mass of consciousness.
 
+---
+
 ## Definition
 
 The Sanskrit term *suṣupti* (सुषुप्ति) literally signifies "deep sleep," "profound slumber," or "dreamless sleep". Morphologically, it is a prefixal noun formed from the intensifying prefix *su-* (सु-, meaning "well," "thoroughly," or "deeply") and the noun *supti* (सुप्ति, meaning "sleep"), derived from the verbal root √*svap* (स्वप्, "to sleep").
@@ -27,6 +29,8 @@ In Advaita Vedānta and specifically within the *Māṇḍūkya Upaniṣad*, *su
 
 Idiomatically, while *supti* or *nidrā* can denote ordinary sleep or drowsiness, *suṣupti* explicitly denotes the complete cessation of objective duality and mental projection, representing the causal condition (*kāraṇāvasthā*) of human experience.
 
+---
+
 ## Etymology
 
 The etymological structure of *suṣupti* (सुषुप्ति) is grounded in standard Sanskrit nominal derivation and sandhi rules:
@@ -34,6 +38,8 @@ The etymological structure of *suṣupti* (सुषुप्ति) is grounded
 - **Prefixation and Sandhi**: The prefix *su-* (सु-, "well," "thoroughly") is attached to *supti*. Under the Pāṇinian rule of retroflexion (*ṣatva*), the initial dental sibilant *s-* of *supti* is converted into the retroflex sibilant *-ṣ-* when preceded by the vowel *-u-* of the prefix *su-*, producing the compound form *suṣupti* (सुषुप्ति).
 - **Classical Word Plays and Interpretations**: The Upaniṣadic tradition frequently provides semantic etymologies (*nirukta*) for the related verbal form *svapiti* ("he sleeps"). In the *Chāndogya Upaniṣad* (VI.8.1) and *Bṛhadāraṇyaka Upaniṣad* (II.1.17), *svapiti* is etymologized as *svam apīto bhavati* ("he has merged into his own Self"), playing on *sva* ("own self") and *apīta* ("merged" or "gone into").
 - **Related Morphological Formations**: Cognate nominal and adjectival forms documented in grammatical and lexical sources include *suṣupta* (past participle, "deeply slept" or "fast asleep"), *suṣuptasthāna* (bahuvrīhi compound, "having deep sleep as one's locus or sphere"), *suṣupsā* (desiderative noun, "desire to sleep"), and *svāpyaya* (abstract noun, "involution or absorption into oneself").
+
+---
 
 ## Suṣupti in the Māṇḍūkya Upaniṣad
 
@@ -67,6 +73,8 @@ While the Upaniṣadic text presents *suṣupti* in terms of bliss and unified c
   - Śaṅkara emphasizes that the bliss of deep sleep is experienced through a subtle function of nescience (*avidyā-vṛtti*), wherein consciousness is veiled by tamas.
   - Śaṅkara underscores that *suṣupti* is a causal state (*kāraṇāvasthā*) containing the latent impressions (*vāsanā*) that drive future empirical transmigrations.
 
+---
+
 ## Interpretations and Disputes
 
 ### 1. *Suṣupti* as Causal Ignorance vs. Absolute Liberation
@@ -94,6 +102,8 @@ Philosophical schools dispute the interpretation of the universal post-waking re
 
 In his commentary on the *Bṛhadāraṇyaka Upaniṣad* (IV.3.19–22), the early Vedāntin Bhartṛprapañca interpreted deep sleep as a state of partial ontological modification (*parīṇāma*) where the self becomes unified with Brahman yet retains real dual-nondual (*bhedābheda*) traits. In the *Bṛhadāraṇyakopaniṣad-bhāṣya-vārtika*, Sureśvara and Śaṅkara reject Bhartṛprapañca's view, maintaining that the Self is unattached (*asaṅga*) and immutable (*kūṭastha*). The apparent absence of perception in deep sleep is not due to ontological transformation, but due to the temporary non-operation of external instruments of knowledge (*pramāṇa*) and objective targets of vision.
 
+---
+
 ## Related Terms
 
 - Ekībhūta (एकीभूत)
@@ -103,26 +113,28 @@ In his commentary on the *Bṛhadāraṇyaka Upaniṣad* (IV.3.19–22), the ear
 - Svapna (स्वप्न)
 - Turīya (तुरीय)
 
+---
+
 ## References
 
-1. *Aṣṭavakra Gītā*. Translated by Svāmi Nityaswarupananda. Mayavati: Advaita Ashrama.
-2. *Bhagavan Śrī Ramana Maharshi: Talks with Sri Ramana Maharshi*. Tiruvannamalai: Sri Ramanasramam.
-3. *Brahmasūtra (Prasthāna-Traya)*. Sanskrit Text, Transliteration, Word-for-Word Meaning, English Translation, and Commentary by Svāmi Sivananda. Rishikesh: The Divine Life Society.
-4. MacDonell, Arthur Anthony. *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co., 1893.
-5. Monier Williams, Monier. *A Practical Grammar of the Sanskrit Language*. 4th ed. Oxford: Clarendon Press, 1877.
-6. Potter, Karl H., ed. *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṅkara and His Pupils*. Delhi: Motilal Banarsidass, 1981.
-7. Śrī Sadāśiva Brahmendra. *Dṛg-Dṛśya Vivekaḥ*. Sanskrit Text with Word-for-Word English Translation and Notes by Svāmi Nikhilānanda. Mysore: Sri Ramakrishna Ashrama.
-8. Śrī Śaṅkarācārya. *Aparokṣānubhūti (Self-Realization)*. Translated by Svāmi Vimuktananda. Almora: Advaita Ashrama.
-9. Śrī Śaṅkarācārya. *Tattva Bodha*. Sanskrit Text with English Translation. Central Chinmaya Mission Trust.
-10. Śrī Śaṅkarācārya. *Upadeśasāhasrī*. Sanskrit Text with English Translation by Swami Jagadananda. Madras: Sri Ramakrishna Math.
-11. Śrī Śaṅkarācārya. *Vivekacūḍāmaṇi*. Sanskrit Text with Word-for-Word English Translation by Ācārya Praṇipāta Caitanya.
-12. Śrī Vidyāraṇya Svāmi. *Pañcadaśī*. English Translation by Svāmi Swahananda. Madras: Sri Ramakrishna Math.
-13. *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Translated by Swāmi Nikhilānanda. Mysore: Sri Ramakrishna Ashrama, 1936.
-14. *The Sacred Books of the East, Vol. 1: The Upanishads (Part 1)*. Translated by F. Max Müller. Oxford: Clarendon Press, 1879 (*Chāndogya Upaniṣad*).
-15. *The Sacred Books of the East, Vol. 15: The Upanishads (Part 2)*. Translated by F. Max Müller. Oxford: Clarendon Press, 1884 (*Bṛhadāraṇyaka Upaniṣad*, *Praṣna Upaniṣad*).
-16. *The Sacred Books of the East, Vol. 34: The Vedânta-Sûtras with the Commentary by Śaṅkarācārya (Part 1)*. Translated by George Thibaut. Oxford: Clarendon Press, 1890.
-17. *The Sacred Books of the East, Vol. 38: The Vedânta-Sûtras with the Commentary by Śaṅkarācārya (Part 2)*. Translated by George Thibaut. Oxford: Clarendon Press, 1896.
-18. *The Sacred Books of the East, Vol. 48: The Vedânta-Sûtras with the Commentary of Rāmānuja (Part 3)*. Translated by George Thibaut. Oxford: Clarendon Press, 1904.
-19. *Tripura Rahasya (The Mystery Beyond the Trinity)*. Translated by Svami Ramanananda Saraswathi. Tiruvannamalai: Sri Ramanasramam.
-20. *Vedāntasāra*. Sanskrit Text with English Translation by Swami Nikhilananda. Almora: Advaita Ashrama.
-21. *Yoga Vāsiṣṭha of Valmiki*. Translated by Vihari Lala Mitra. Calcutta: Kahnu Charan Banerjee, 1891.
+1. Nityaswarupananda, S. (Trans.). (n.d.). *Aṣṭavakra gītā*. Advaita Ashrama.
+2. Ramana Maharshi, Ś. (n.d.). *Talks with Sri Ramana Maharshi*. Sri Ramanasramam.
+3. Sivananda, S. (Trans. & Comm.). (n.d.). *Brahmasūtra (Prasthāna-traya)*. The Divine Life Society.
+4. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co.
+5. Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language* (4th ed.). Clarendon Press.
+6. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṅkara and his pupils*. Motilal Banarsidass.
+7. Śrī Sadāśiva Brahmendra. (n.d.). *Dṛg-dṛśya vivekaḥ* (S. Nikhilānanda, Trans. & Notes). Sri Ramakrishna Ashrama.
+8. Śrī Śaṅkarācārya. (n.d.). *Aparokṣānubhūti (Self-realization)* (S. Vimuktananda, Trans.). Advaita Ashrama.
+9. Śrī Śaṅkarācārya. (n.d.). *Tattva bodha*. Central Chinmaya Mission Trust.
+10. Śrī Śaṅkarācārya. (n.d.). *Upadeśasāhasrī* (S. Jagadananda, Trans.). Sri Ramakrishna Math.
+11. Śrī Śaṅkarācārya. (n.d.). *Vivekacūḍāmaṇi* (Ā. P. Caitanya, Trans.).
+12. Śrī Vidyāraṇya Svāmi. (n.d.). *Pañcadaśī* (S. Swahananda, Trans.). Sri Ramakrishna Math.
+13. Nikhilānanda, S. (Trans.). (1936). *The Māṇḍūkyopaniṣad with Gauḍapāda's kārikā and Śaṅkara's commentary*. Sri Ramakrishna Ashrama.
+14. Müller, F. M. (Trans.). (1879). *The sacred books of the East: Vol. 1. The Upanishads (Part 1)* (Chāndogya Upaniṣad). Clarendon Press.
+15. Müller, F. M. (Trans.). (1884). *The sacred books of the East: Vol. 15. The Upanishads (Part 2)* (Bṛhadāraṇyaka Upaniṣad, Praṣna Upaniṣad). Clarendon Press.
+16. Thibaut, G. (Trans.). (1890). *The sacred books of the East: Vol. 34. The Vedânta-Sûtras with the commentary by Śaṅkarācārya (Part 1)*. Clarendon Press.
+17. Thibaut, G. (Trans.). (1896). *The sacred books of the East: Vol. 38. The Vedânta-Sûtras with the commentary by Śaṅkarācārya (Part 2)*. Clarendon Press.
+18. Thibaut, G. (Trans.). (1904). *The sacred books of the East: Vol. 48. The Vedânta-Sûtras with the commentary of Rāmānuja (Part 3)*. Clarendon Press.
+19. Ramanananda Saraswathi, S. (Trans.). (n.d.). *Tripura rahasya (The mystery beyond the trinity)*. Sri Ramanasramam.
+20. Nikhilananda, S. (Trans.). (n.d.). *Vedāntasāra*. Advaita Ashrama.
+21. Valmiki. (1891). *Yoga Vāsiṣṭha of Valmiki* (V. L. Mitra, Trans.). Kahnu Charan Banerjee.

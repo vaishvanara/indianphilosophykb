@@ -46,8 +46,8 @@ Lexicographical sources (such as Macdonell's *Sanskrit-English Dictionary*) reco
 
 ## References
 
-- Kale, M. R. (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Delhi: Motilal Banarsidass.
-- Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co. (Headwords: *mi*, p. 223, col. 3; *mā*, p. 223, col. 2).
-- Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary*. Mysore: Sri Ramakrishna Ashrama. (Mantra 11, pp. 78–79).
-- Nikhilananda, S. (Trans.). (1955). *The Upanishads: A New Translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)*. London: Phoenix House. (Mantra 11, pp. 246–247).
-- Williams, M. (1877). *A Practical Grammar of the Sanskrit Language Arranged with Reference to the Classical Languages of Europe for the Use of English Students*. Oxford: Clarendon Press.
+1. Kale, M. R. (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Motilal Banarsidass.
+2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout* (Headwords: *mi*, p. 223, col. 3; *mā*, p. 223, col. 2). Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans.). (1936). *The Māndūkyopanishad with Gauḍāpada's Kārikā and Śankara's Commentary* (Mantra 11, pp. 78–79). Sri Ramakrishna Ashrama.
+4. Nikhilananda, S. (Trans.). (1955). *The Upanishads: A New Translation (Volume II: Śvetāśvatara, Praśna, and Māṇḍūkya with Gauḍapāda's Kārikā and Śaṅkara's Commentary)* (Mantra 11, pp. 246–247). Phoenix House.
+5. Williams, M. (1877). *A Practical Grammar of the Sanskrit Language Arranged with Reference to the Classical Languages of Europe for the Use of English Students*. Clarendon Press.

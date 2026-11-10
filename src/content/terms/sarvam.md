@@ -43,8 +43,8 @@ Philosophically, the Upanisad and its classical commentaries distinguish between
 
 ## References
 
-1. Kale, M. R. (1894). *A higher Sanskṛt grammar for the use of schools and colleges*. Gopal Narayen & Co. (Chapter IV: Pronouns and their declension, § 131, p. 94; § 146–147, pp. 104–105).
-2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headword *sarva*, p. 341, col. 2).
-3. Nikhilananda, Swami. (Trans. & Annot.). (1949). *The Māṇḍūkyopanishad with Gauḍapāda’s Kārikā and Śaṅkara’s commentary*. Sri Ramakrishna Ashrama. (Chapter I: Āgama Prakaraṇa, Mantras 1–2, pp. 10–13).
-4. Nikhilananda, Swami. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: *Śvetāśvatara, Praśna, and Māndukya with Gauḍapāda's Kārikā*). Phoenix House. (Māṇḍūkya Upaniṣad, Mantras 1–2, pp. 223–225).
-5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies* (Vol. 3: *Advaita Vedānta up to Śaṃkara and his pupils*). Motilal Banarsidass. (pp. 104–107).
+1. Kale, M. R. (1894). *A higher Sanskṛt grammar for the use of schools and colleges* (Chapter IV: Pronouns and their declension, § 131, p. 94; § 146–147, pp. 104–105). Gopal Narayen & Co.
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (Headword *sarva*, p. 341, col. 2). Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans. & Annot.). (1949). *The Māṇḍūkyopanishad with Gauḍapāda’s Kārikā and Śaṅkara’s commentary* (Chapter I: Āgama Prakaraṇa, Mantras 1–2, pp. 10–13). Sri Ramakrishna Ashrama.
+4. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation: Vol. 2. Śvetāśvatara, Praśna, and Māndukya with Gauḍapāda's Kārikā* (Māṇḍūkya Upaniṣad, Mantras 1–2, pp. 223–225). Phoenix House.
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and his pupils* (pp. 104–107). Motilal Banarsidass.

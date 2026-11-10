@@ -43,7 +43,7 @@ Standard nominal cognates formed from the same prefix-root combination include t
 
 ## References
 
-1. MacDonell, A. A. (1892). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords: *utkarṣa*, *utkarṣin*, *utkṛṣṭa*, p. 48, col. 3 & p. 49, col. 1).
-2. Monier-Williams, M. (1864). *A practical grammar of the Sanskrit language, arranged with reference to the Classical or Vaidik dialects* (3rd ed.). Oxford University Press. (Verbal Root Conjugations: √*kṛṣ*, p. 72).
-3. Śaṅkarācārya. (1936). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śankara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math. (Māṇḍūkya Upaniṣad, Mantra 10 & Śaṅkara's Commentary, pp. 77–78).
-4. Sivananda, S. (1949). *Brahma Sūtras: Sanskrit text, transliteration, word-for-word meaning, English translation, and commentary*. The Divine Life Society. (Adhyāya III, Pāda III, Sūtra 38, p. 480).
+1. MacDonell, A. A. (1892). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (Headwords: *utkarṣa*, *utkarṣin*, *utkṛṣṭa*, p. 48, col. 3 & p. 49, col. 1). Longmans, Green, and Co.
+2. Monier-Williams, M. (1864). *A practical grammar of the Sanskrit language, arranged with reference to the Classical or Vaidik dialects* (3rd ed., Verbal Root Conjugations: √*kṛṣ*, p. 72). Oxford University Press.
+3. Śaṅkarācārya. (1936). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (S. Nikhilananda, Trans.; Māṇḍūkya Upaniṣad, Mantra 10 & Śaṅkara's Commentary, pp. 77–78). Sri Ramakrishna Math.
+4. Sivananda, S. (1949). *Brahma Sūtras: Sanskrit text, transliteration, word-for-word meaning, English translation, and commentary* (Adhyāya III, Pāda III, Sūtra 38, p. 480). The Divine Life Society.

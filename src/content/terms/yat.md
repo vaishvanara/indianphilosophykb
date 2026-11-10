@@ -38,8 +38,8 @@ In its pronominal and conjunctional role, the stem undergoes standard morphophon
 
 ## References
 
-1. Cappeller, C. (1891). *A Sanskrit-English Dictionary*. Karl J. Trübner. (Headword: *yat*, p. 427)
-2. Coward, H. G., & Raja, K. K. (Eds.). (1990). *Encyclopedia of Indian Philosophies: Vol. 5. The Philosophy of the Grammarians*. Motilal Banarsidass. (p. 542)
-3. Kale, M. R. (1894). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Radhabai Atmaram Sagoon. (p. 99, 521)
-4. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Headwords: *i*, p. 44, col. 1; *ā-yati*, p. 45, col. 1; *ya*, p. 237, col. 1; *yat*, p. 238, col. 3; *yati*, p. 239, col. 1; *yatna*, p. 239, col. 2)
-5. Monier Williams, M. (1857). *A Practical Grammar of the Sanskrit Language*. Oxford University Press. (p. 49, 114)
+1. Cappeller, C. (1891). *A Sanskrit-English dictionary*. Karl J. Trübner. (Headword: *yat*, p. 427)
+2. Coward, H. G., & Raja, K. K. (Eds.). (1990). *Encyclopedia of Indian philosophies: Vol. 5. The philosophy of the grammarians*. Motilal Banarsidass. (p. 542)
+3. Kale, M. R. (1894). *A higher Sanskrit grammar for the use of schools and colleges*. Radhabai Atmaram Sagoon. (pp. 99, 521)
+4. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. (Headwords: *i*, p. 44, col. 1; *ā-yati*, p. 45, col. 1; *ya*, p. 237, col. 1; *yat*, p. 238, col. 3; *yati*, p. 239, col. 1; *yatna*, p. 239, col. 2)
+5. Monier-Williams, M. (1857). *A practical grammar of the Sanskrit language*. Oxford University Press. (pp. 49, 114)

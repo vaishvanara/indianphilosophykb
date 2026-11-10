@@ -17,6 +17,8 @@ See: [Mandukya Upanishad (Verses 7, 12)](mandukyopanisat.md)
 
 In the *Māṇḍūkya Upaniṣad*, **prapañcopaśamaṃ** denotes the total cessation or stillness of all phenomenal multiplicity in the non-dual Self (*turīya*).
 
+---
+
 ## Definition
 
 The Sanskrit compound **prapañcopaśamaṃ** (प्रपञ्चोपशमं) is an adjectival epithet formed from two primary nominal components: **prapañca** (प्रपञ्च) and **upaśama** (उपशम). 
@@ -25,6 +27,8 @@ The Sanskrit compound **prapañcopaśamaṃ** (प्रपञ्चोपशम
 * **Upaśama** (उपशम) denotes quietude, pacification, abatement, or complete cessation and stilling.
 
 Combined, **prapañcopaśama** literally means "the stilling or cessation of phenomenal manifestation". Contextually, as used in Mantra 7 of the *Māṇḍūkya Upaniṣad*, **prapañcopaśamaṃ** functions as a descriptive attribute of **turīya** (the "Fourth" state of consciousness or pure Ātman). It conveys that in the supreme reality of the Self, the entire empirical universe of duality—encompassing waking, dream, and deep-sleep experiences—ceases to exist as an independent entity. Epistemologically and ontologically, this does not imply a physical destruction of external objects, but rather the **dissolution of world-delusion** upon realizing the non-dual substratum (*advaita*).
+
+---
 
 ## Etymology
 
@@ -38,6 +42,8 @@ The Sanskrit term **prapañcopaśamaṃ** exhibits a precise compound word forma
    * **Genitive Tatpuruṣa (*Ṣaṣṭhī-tatpuruṣa*)**: Analyzed in its expanded form (*vigraha-vākya*) as *prapañcasya upaśamaḥ* ("the cessation of phenomenal multiplicity").
    * **Adjectival Bahuvrīhi**: When functioning as a modifier of *turīya* or Ātman, it is resolved as *prapañcaḥ upaśāmyati yasmin saḥ* ("that in which all phenomenal multiplicity is stilled").
 4. **Inflection**: The neuter nominative singular inflection **-m** (*prapañcopaśamaṃ*) reflects syntactic agreement with the implied neuter subject **brahma** or the unconditioned aspects of **turīya** described in the seventh mantra.
+
+---
 
 ## prapañcopaśamaṃ in the Māṇḍūkya Upaniṣad
 
@@ -60,6 +66,8 @@ The surrounding text systematically negates all empirical attributes: *turīya* 
 * **Upaniṣadic Text vs. Gauḍapāda's Kārikā**: The Upaniṣadic mantra concisely states the ultimate truth (*paramārtha*). Gauḍapāda, in his *Kārikā* (particularly Books 1 and 2), expands this by demonstrating through logic (*upapatti*) that the manifold world (*prapañca*) is illusory (*vaitathya*) like a dream or a rope mistaken for a snake. In *Kārikā* 1.18 and 2.35, Gauḍapāda establishes that once the non-dual Reality is known, the imagined duality (*dwaita*) of master, student, and scripture disappears, leaving only **prapañcopaśama**.
 * **Śaṅkarācārya's Bhāṣya**: Śaṅkara explains that **prapañcopaśamaṃ** does not mean that a real world existed previously and was later destroyed. Rather, just as the illusory snake vanishes when the rope is recognized for what it is, the world of duality (*prapañca*) is recognized as having never been produced separately from Brahman. **Turīya** is the eternal, unchanging substratum (*adhiṣṭhāna*) free from all superimpositions (*adhyāsa*).
 
+---
+
 ## Interpretations and Disputes
 
 1. **Sublation vs. Physical Annihilation**:
@@ -75,6 +83,8 @@ The surrounding text systematically negates all empirical attributes: *turīya* 
    * **Swami Nikhilananda**: Renders it as "the cessation of all phenomena".
    * **Arthur A. MacDonell**: Defines the compound components as "abatement/cessation of expansion or multiformity".
 
+---
+
 ## Related Terms
 
 - Acintya (अचिन्त्य)
@@ -89,12 +99,14 @@ The surrounding text systematically negates all empirical attributes: *turīya* 
 - Turīya (तूरीय)
 - Upaśama (उपशम)
 
+---
+
 ## References
 
-* **Kale, Moreshwar Ramchandra** (1894/1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Bombay: Gopal Narayan & Co. / Delhi: Motilal Banarsidass, pp. 182–184, 190.
-* **MacDonell, Arthur A.** (1893). *A Sanskrit-English Dictionary*. London: Longmans, Green, and Co. / Oxford University Press. Part 1, pp. 54, 145, 175, 182; Part 2, pp. 194, 280, 335, 337.
-* **Müller, F. Max** (Trans.) (1884). *Sacred Books of the East, Vol. 15: The Upanishads, Part 2*. Oxford: Clarendon Press, pp. 27–45 [188–193].
-* **Nikhilananda, Swami** (Trans.) (1946). *Ātma Bodha (Self-Knowledge)*. New York: Ramakrishna-Vivekananda Center, pp. 63–64.
-* **Nikhilananda, Swami** (Trans.) (1949). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Ashrama, pp. 6, 22, 28, 42, 72, 136, 333.
-* **Nikhilananda, Swami** (Trans.) (1956). *The Upanishads: A New Translation* (Vol. II: Śvetāśvatara, Praśna, Māṇḍūkya). New York: Harper & Brothers / Bonanza Books, pp. 223–230.
-* **Potter, Karl H.** (Ed.) (1981). *Encyclopedia of Indian Philosophies, Volume 3: Advaita Vedānta up to Śaṅkara and His Pupils*. Princeton: Princeton University Press / Delhi: Motilal Banarsidass, pp. 12–14, 103–105, 308–312 [45–48, 385, 386, 389–391].
+1. Kale, M. R. (1972). *A higher Sanskrit grammar for the use of schools and colleges* (pp. 182–184, 190). Motilal Banarsidass. (Original work published 1894)
+2. MacDonell, A. A. (1893). *A Sanskrit-English dictionary* (Part 1, pp. 54, 145, 175, 182; Part 2, pp. 194, 280, 335, 337). Longmans, Green, and Co.; Oxford University Press.
+3. Müller, F. M. (Trans.). (1884). *Sacred books of the East, vol. 15: The Upanishads, part 2* (pp. 27–45, 188–193). Clarendon Press.
+4. Nikhilananda, S. (Trans.). (1946). *Ātma Bodha (Self-knowledge)* (pp. 63–64). Ramakrishna-Vivekananda Center.
+5. Nikhilananda, S. (Trans.). (1949). *The Māṇḍūkyopaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (pp. 6, 22, 28, 42, 72, 136, 333). Sri Ramakrishna Ashrama.
+6. Nikhilananda, S. (Trans.). (1956). *The Upanishads: A new translation* (Vol. II: Śvetāśvatara, Praśna, Māṇḍūkya, pp. 223–230). Harper & Brothers; Bonanza Books.
+7. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies, volume 3: Advaita Vedānta up to Śaṅkara and his pupils* (pp. 12–14, 103–105, 308–312, 45–48, 385, 386, 389–391). Princeton University Press; Motilal Banarsidass.

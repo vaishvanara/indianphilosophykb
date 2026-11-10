@@ -16,11 +16,15 @@ See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
 
 In the Māṇḍūkya Upaniṣad, prajñāna-ghana denotes a unified mass of consciousness characteristic of deep sleep (suṣupti), where manifold perception ceases.
 
+---
+
 ## Definition
 
 The Sanskrit expression *prajñāna-ghana* (प्रज्ञानघन) is a compound formed by two primary elements: *prajñāna* (प्रज्ञान) and *ghana* (घन). The word *prajñāna* signifies consciousness, cognisance, or full knowledge, while *ghana* denotes a solid mass, aggregate, or dense shape. Combined literally, the expression signifies a "solid mass of consciousness" or "compacted awareness".
 
 Idiomatically and contextually, *prajñāna-ghana* describes a state of undifferentiated awareness in which all pluralistic mental modifications (*vṛtti*), sensory impressions, and dualistic distinctions of subject and object dissolve into a unified whole. In Vedāntic metaphysics, it characterizes the causal state of the Self (*Prājña*) during deep dreamless sleep (*suṣupti*). In this state, consciousness is not absent or destroyed; rather, the diverse cognitions of the waking (*jāgrat*) and dream (*svapna*) states are withdrawn and consolidated into a single, homogeneous matrix of consciousness.
+
+---
 
 ## Etymology
 
@@ -29,6 +33,8 @@ Morphologically, *prajñāna-ghana* (प्रज्ञानघन) is analyzed
 2. *Ghana* (घन): Derived from the root *han* (हन्, "to strike" or "to solidify"), functioning as a noun meaning a dense mass, shape, or compact aggregate (*saṅghāta* or *mūrta*).
 
 In Sanskrit grammar (*vyākaraṇa*), the compound is classified as a *karmadhāraya-samāsa* (descriptive determinative compound) or a *tatpuruṣa-samāsa*. Its structural expansion (*vigraha-vākya*) is expressed either as *prajñānam eva ghanaḥ* ("consciousness itself as a solid mass") or as *prajñānasya ghanaḥ* ("a mass consisting of consciousness"). Classical commentaries emphasize the particle *eva* ("verily" or "alone") to stress that no non-conscious or material element enters into this state, indicating pure, undifferentiated consciousness excluding external or internal mental objects. A parallel scriptural usage occurs in the *Bṛhadāraṇyaka Upaniṣad* with the compound *saindhava-ghana* ("a mass of salt"), where a lump of salt is uniform in taste inside and out; similarly, *ghana* indicates complete homogeneity without internal differentiation.
+
+---
 
 ## prajñāna-ghana in the Māṇḍūkya Upaniṣad
 
@@ -53,6 +59,8 @@ Philosophically, *prajñāna-ghana* represents the causal state (*bīja*) of con
 2. **Gauḍapāda's Kārikā**: Gauḍapāda clarifies that while *Prājña* is free from mis-apprehension of reality (*anyathāgrahaṇa* or dream/waking illusion), it remains bound by non-apprehension of reality (*agrahaṇa* or causal darkness). Thus, *Prājña* is associated with causal sleep (*bījanidrā*), whereas the fourth quarter (*Turīya*) transcends both non-apprehension and mis-apprehension.
 3. **Śaṅkara's Commentary**: Śaṅkara notes that the particle *eva* in *prajñānaghana eva* emphasizes that in deep sleep there is no non-conscious or material entity present, but only consciousness itself unified into a mass. Śaṅkara also points out that while *Prājña* is endowed with bliss (*ānandamaya*), it is not the ultimate, unconditioned Bliss (*Turīya*), because it remains encased in nescience (*avidyā*).
 
+---
+
 ## Interpretations and Disputes
 
 In classical Advaita Vedānta, *prajñāna-ghana* (and its variant *vijñāna-ghana*) has been interpreted across different levels of reality (*vyāvahārika* versus *pāramārthika*):
@@ -70,6 +78,8 @@ Scholarly translators render *prajñānaghana* based on context:
 3. **Relation to Bṛhadāraṇyaka Upaniṣad (*saindhava-ghana* / *vijñānaghana*)**:
 Commentators compare *prajñāna-ghana* with the *Bṛhadāraṇyaka Upaniṣad* text (II.iv.12 / IV.v.13), where the Self is described as *saindhava-ghana-vat*—like a lump of salt that has neither inside nor outside, but is entirely a mass of taste. Śaṅkara uses this Vedic parallel to show that *ghana* signifies the total absence of heterogeneous parts or external boundaries.
 
+---
+
 ## Related Terms
 
 - Ānandamaya (आनन्दमय)
@@ -82,12 +92,14 @@ Commentators compare *prajñāna-ghana* with the *Bṛhadāraṇyaka Upaniṣad*
 - Turīya (तुरीय)
 - Viśva (विश्व)
 
+---
+
 ## References
 
-1. MacDonell, Arthur A. *A Sanskrit-English Dictionary*. Part 1 & Part 2. London: Longmans, Green and Co., 1893. (Entry: *prajñāna*, p. 172).
-2. Nikhilananda, Swami (Trans.). *The Upaniṣads: A New Translation* (Volume III: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkarācārya's Commentary). New York: Harper & Brothers, 1956 / Calcutta: Advaita Ashrama. (Māṇḍūkya Upaniṣad, Verse 5, pp. 22–24; Śaṅkara's Commentary on Verse 5, 6, 11; Kārikā I.12–13).
-3. Nikhilananda, Swami (Trans.). *The Upaniṣads: A New Translation* (Volume III: Bṛhadāraṇyaka Upaniṣad). New York: Harper & Brothers, 1956 / Calcutta: Advaita Ashrama. (Bṛhadāraṇyaka Upaniṣad II.iv.12, p. 182; IV.v.13).
-4. Potter, Karl H. (Ed.). *Encyclopedia of Indian Philosophies*, Volume III: *Advaita Vedānta up to Śaṁkara and His Pupils*. Delhi: Motilal Banarsidass, 1981. (p. 173, 272).
-5. Ramana Maharshi, Śrī. *Talks with Sri Ramana Maharshi* (Complete). Tiruvannamalai: Sri Ramanasramam. (Talk 481).
-6. Śaṅkarācārya, Śrī. *Vivekacūḍāmaṇi* (Sanskrit Text with Word-for-Word English Translation by Ācārya Praṇipāta Caitanya / Ed. Satinder Dhiman). (Verses 237, 562).
-7. Vidyāraṇya Svāmi, Śrī. *Pañcadaśī* (English Translation by Svāmi Swahānanda). Madras: Sri Ramakrishna Math. (Chapter I, Verse 68).
+1. MacDonell, A. A. (1893). *A Sanskrit-English dictionary* (Part 1 & Part 2). Longmans, Green and Co. (Entry: *prajñāna*, p. 172).
+2. Nikhilananda, S. (Trans.). (1956). *The Upaniṣads: A New Translation* (Vol. III: Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkarācārya's Commentary). Harper & Brothers; Advaita Ashrama. (Māṇḍūkya Upaniṣad, Verse 5, pp. 22–24; Śaṅkara's Commentary on Verse 5, 6, 11; Kārikā I.12–13).
+3. Nikhilananda, S. (Trans.). (1956). *The Upaniṣads: A New Translation* (Vol. III: Bṛhadāraṇyaka Upaniṣad). Harper & Brothers; Advaita Ashrama. (Bṛhadāraṇyaka Upaniṣad II.iv.12, p. 182; IV.v.13).
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies* (Vol. III: Advaita Vedānta up to Śaṁkara and His Pupils). Motilal Banarsidass. (pp. 173, 272).
+5. Ramana Maharshi, Ś. (n.d.). *Talks with Sri Ramana Maharshi* (Complete). Sri Ramanasramam. (Talk 481).
+6. Śaṅkarācārya, Ś. (n.d.). *Vivekacūḍāmaṇi* (Sanskrit Text with Word-for-Word English Translation by Ācārya Praṇipāta Caitanya; S. Dhiman, Ed.). (Verses 237, 562).
+7. Vidyāraṇya Svāmi, Ś. (n.d.). *Pañcadaśī* (English Translation by Svāmi Swahānanda). Sri Ramakrishna Math. (Chapter I, Verse 68).

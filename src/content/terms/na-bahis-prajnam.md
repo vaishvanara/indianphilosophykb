@@ -17,13 +17,19 @@ See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
 
 In the Māṇḍūkya Upaniṣad, na bahiṣ prajñaṃ means 'not conscious of external objects,' negating waking awareness in defining turīya (the Fourth state).
 
+---
+
 ## Definition
 
 The expression *na bahiṣ prajñaṃ* combines the negative particle *na* ("not") with the compound adjective *bahiṣprajñam* ("externally conscious"). In Sanskrit syntactic structure, *bahiṣprajña* describes an entity whose cognitive awareness is directed toward external sensory objects. Literally, the phrase signifies "not having outward-directed consciousness". Idiomatically, it denotes the complete negation of empirical waking awareness (*jāgaritasthāna*), wherein consciousness appears related to outward physical objects through the sense organs. In the textual context of the *Māṇḍūkya Upaniṣad*, the phrase functions negatively to characterize the transcendental Self (*turīya*) by asserting that pure Consciousness is intrinsically unconditioned by external objective perceptions.
 
+---
+
 ## Etymology
 
 The expression *na bahiṣ prajñaṃ* comprises three morphological components: the negative particle *na* ("not"), the indeclinable prefix/adverb *bahis* ("outward" or "outside"), and the nominal stem *prajñā* ("consciousness" or "cognition"). Combining *bahis* and *prajñā* forms the possessive exocentric compound (*bahuvrīhi samāsa*) *bahiṣprajña*. The established compound expansion (*vigraha-vākya*) for this Bahuvrīhi form is *bahiḥ prajñā yasya saḥ* ("he whose consciousness is directed outward"). Grammatically, under Sanskrit euphonic combination rules (*sandhi*), the final sibilant/visarga of *bahis* transforms into the retroflex sibilant *ṣ* before the voiceless labial stop *p* when preceded by the vowel *i*. The neuter nominative singular form *bahiṣprajñam* agrees grammatically with the implicit subject representing the Fourth quarter (*turīya-pāda*) or *brahman*. The independent negative particle *na* modifies the compound phrase externally without forming a single compound word, providing explicit clausal negation.
+
+---
 
 ## na bahiṣ prajñaṃ in the Māṇḍūkya Upaniṣad
 
@@ -32,6 +38,8 @@ The phrase *na bahiṣ prajñaṃ* occurs in Mantra 7 of the *Māṇḍūkya Upa
 Mantra 7 systematically sublates each of these conditioned states by declaring *turīya* to be *na antaḥprajñam* (not internally conscious), *na bahiṣprajñam* (not externally conscious), *na ubhayataḥprajñam* (not conscious of both), *na prajñānaghanam* (not a mass of consciousness), *na prajñam* (not simple cognition), and *na aprajñam* (not unconscious). By explicitly stating *na bahiṣprajñam*, the Upaniṣad denies that the Self in its true nature possesses the outward-directed cognition characteristic of the waking state.
 
 In Gauḍapāda's *Kārikā* (Āgama Prakaraṇa) and Śaṅkara's commentary (*bhāṣya*), this negation is central to Advaita Vedānta philosophy. Śaṅkara explains that *bahiṣprajñatva* is an illusion caused by ignorance (*avidyā*), which superimposes external objects onto pure Consciousness. Negating outward consciousness removes the limiting adjunct (*upādhi*) of the waking state without reducing *turīya* to a mere void (*śūnya*). Instead, *turīya* is realized as the immutable, non-dual substratum (*adhiṣṭhāna*) underlying all three states of experience.
+
+---
 
 ## Related Terms
 
@@ -42,6 +50,8 @@ In Gauḍapāda's *Kārikā* (Āgama Prakaraṇa) and Śaṅkara's commentary (*
 - prajñānaghana (प्रज्ञानघन)
 - turīya (तुरीय)
 - vaiśvānara (वैश्वानर)
+
+---
 
 ## References
 

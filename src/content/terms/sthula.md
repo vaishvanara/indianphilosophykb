@@ -40,8 +40,8 @@ In the *Māṇḍūkya Upaniṣad* (mantra 3), the word appears in the compound 
 
 ## References
 
-1. Gauḍapāda. (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans. & Ed.; 3rd ed.). Sri Ramakrishna Ashrama. (Original work composed ca. 6th–8th century; Kārikā 1.3, 1.5, pp. 30, 38–39).
-2. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headwords *sthū*, p. 364, col. 1; *sthūla*, p. 366, col. 2).
-3. Monier-Williams, M. (1877). *A Practical Grammar of the Sanskrit Language, Arranged with Reference to the Classical Languages of Europe, for the Use of English Students* (4th ed.). Oxford University Press. (p. 77).
-4. Nikhilananda, S. (Trans. & Ed.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (3rd ed.). Sri Ramakrishna Ashrama. (Māṇḍūkya Upaniṣad, mantra 3, pp. 14–17; Śaṅkara's Commentary on mantra 3, pp. 14–18).
+1. Gauḍapāda. (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (S. Nikhilananda, Trans. & Ed.; 3rd ed.). Sri Ramakrishna Ashrama. (Original work composed ca. 6th–8th century; Kārikā 1.3, 1.5, pp. 30, 38–39).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *sthū*, p. 364, col. 1; *sthūla*, p. 366, col. 2).
+3. Monier-Williams, M. (1877). *A practical grammar of the Sanskrit language, arranged with reference to the classical languages of Europe, for the use of English students* (4th ed.). Oxford University Press. (p. 77).
+4. Nikhilananda, S. (Ed. & Trans.). (1949). *The Māndūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (3rd ed.). Sri Ramakrishna Ashrama. (Māṇḍūkya Upaniṣad, mantra 3, pp. 14–17; Śaṅkara's Commentary on mantra 3, pp. 14–18).
 5. Sadānanda. (1949). *Vedāntasāra of Sadānanda* (S. Nikhilananda, Trans. & Ed.). Advaita Ashrama. (Paragraphs 111–115, pp. 66–69).

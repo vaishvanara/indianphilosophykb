@@ -43,10 +43,10 @@ The primary derivation from root *pad* ("to step/go/attain") is standard across 
 
 ## References
 
-- Gauḍapāda. (1956). *Gauḍapāda Kārikā* (Āgama Prakaraṇa). In S. Nikhilananda (Trans.), *The Upanishads: A new translation* (Vol. 3). Harper & Brothers.
-- Kale, M. R. (1972). *A higher Sanskrit grammar for the use of schools and colleges*. Gopal Narayen & Co.
-- MacDonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green and Co.
-- *Māṇḍūkya Upaniṣad*. (1956). In S. Nikhilananda (Trans.), *The Upanishads: A new translation* (Vol. 3). Harper & Brothers.
-- Śaṅkarācārya. (1955). *Māṇḍūkyopaniṣad-bhāṣya* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
-- Śaṅkarācārya. (1962). *Brahmasūtra-bhāṣya* (G. Thibaut, Trans.). Sacred Books of the East (Vols. 34 & 38). Oxford University Press.
-- Sivananda, Swami. (1949). *Brahma Sutras: Text, word-for-word meaning, translation and commentary*. The Divine Life Society.
+1. Gauḍapāda. (1956). *Gauḍapāda Kārikā* (Āgama Prakaraṇa). In S. Nikhilananda (Trans.), *The Upanishads: A New Translation* (Vol. 3). Harper & Brothers.
+2. Kale, M. R. (1972). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Gopal Narayen & Co.
+3. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green and Co.
+4. *Māṇḍūkya Upaniṣad*. (1956). In S. Nikhilananda (Trans.), *The Upanishads: A New Translation* (Vol. 3). Harper & Brothers.
+5. Śaṅkarācārya. (1955). *Māṇḍūkyopaniṣad-Bhāṣya* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+6. Śaṅkarācārya. (1962). *Brahmasūtra-Bhāṣya* (G. Thibaut, Trans.). Sacred Books of the East (Vols. 34 & 38). Oxford University Press.
+7. Sivananda, Swami. (1949). *Brahma Sutras: Text, Word-for-Word Meaning, Translation and Commentary*. The Divine Life Society.

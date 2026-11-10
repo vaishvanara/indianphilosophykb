@@ -17,17 +17,23 @@ See: [Mandukya Upanishad (Verses 4, 5, 10)](mandukyopanisat.md)
 
 In the Māṇḍūkya Upaniṣad, *svapna* denotes the dream state of consciousness, the sphere of Taijasa, characterized by inward cognition of subtle mental impressions.
 
+---
+
 ## Definition
 
 Literally meaning "sleep" or "dreaming", *svapna* (स्वप्न) in Vedāntic terminology denotes the second of the four primary states of consciousness (*svapna-sthāna*). In contrast to the waking state (*jāgrat*), which cognizes external physical objects through bodily senses, and deep sleep (*suṣupti*), in which all object-differentiation subsides into a causal mass of consciousness, *svapna* is defined as an intermediate state wherein the mind functions independently of external sense organs. 
 
 In this state, the experiencing subject—termed *Taijasa* ("the luminous one")—cognizes subtle internal objects (*antaḥprajña*, *praviviktabhuk*). These dream objects are mental representations constructed from the latent impressions (*vāsanā*) left behind by prior waking experiences, illuminated solely by the self-luminous light of pure Consciousness.
 
+---
+
 ## Etymology
 
 The noun *svápnaḥ* (स्वप्नः) is a primary nominal derivative formed from the Sanskrit verbal root *svap* (स्वप्), meaning "to sleep" or "to lie down", combined with the primary nominal suffix *-na* (kṛt-pratyaya). In classical Sanskrit grammar, the root *svap* belongs to the 2nd class of roots (*adādi-gaṇa*). Under specific grammatical operations before weak suffixes, the radical syllable undergoes *samprasāraṇa* (vocalic reduction of the semivowel *va* to the vowel *u*), yielding related forms such as the past passive participle *supta* (सुप्त, "slept") and the abstract noun *suṣupti* (सुषुप्ति, "deep sleep").
 
 In traditional Vedāntic etymological reflections (such as those recorded in *Chāndogya Upaniṣad* VI.8.1 and the *Brahma Sūtra-bhāṣya*), the state of sleep is also symbolically linked to *svāpyaya* (स्वाप्यय: *sva* + *apyaya*), meaning "returning or merging into one's own Self" (*svaṃ dṛṣṭvā apito bhavati*).
+
+---
 
 ## svapna in the Māṇḍūkya Upaniṣad
 
@@ -63,6 +69,8 @@ Subsequent Advaita Vedānta manuals further refine the concept of *svapna*:
 - ***Vivekacūḍāmaṇi***: Declares in verse 170 that in dream, devoid of external objects (*artha-śūnye*), the mind alone projects by its own power (*sva-śaktyā*) the entire universe of enjoyer and enjoyed (*bhoktrādi-viśvaṃ mana eva sarvam*), demonstrating that the waking world is likewise a projection of the mind.
 - ***Pañcadaśī***: Emphasizes that while waking objects depend on gross physical matter, dream objects consist of subtle mental modifications (*vṛtti*) reflecting consciousness (*chidābhāsa*).
 
+---
+
 ## Interpretations and Disputes
 
 ### Ontological Status of Dreams: Brahma Sūtra vs. Radical Advaita
@@ -77,6 +85,8 @@ Non-Advaitic Vedāntins interpret the dream state differently:
 - Rāmānuja (Viśiṣṭādvaita) and Madhva (Dvaita) reject the view that dream objects are false mental projections of the individual *jīva*. They maintain that dream objects are real, transient creations brought into existence directly by the Supreme Lord (*Īśvara*) for the specific, private experience of the individual soul according to its minor past karma. 
 - While Advaita admits that dreams can be prophetic (*sūcaka*) of future events while remaining illusory in themselves (*māyāmātra*), Viśiṣṭādvaita and Dvaita view the prophetic accuracy of dreams as evidence of divine agency and objective truth.
 
+---
+
 ## Related Terms
 
 - Antaḥprajña (अन्तःप्रज्ञ)
@@ -90,18 +100,20 @@ Non-Advaitic Vedāntins interpret the dream state differently:
 - Vaiśvānara (वैश्वानर)
 - Vaitathya (वैतथ्य)
 
+---
+
 ## References
 
-1. Jagadananda, Swami (Trans.). (1941). *Upadeśasāhasrī of Śrī Śaṅkarācārya*. Madras: Sri Ramakrishna Math, Chapter 17, Verses 24–25, pp. 180–182.
-2. Kale, Moreshwar Ramchandra. (1918). *A Higher Sanskrit Grammar for the Use of Schools and Colleges*. Bombay: Gopal Narayan & Co., § 502, p. 327.
-3. MacDonell, Arthur Anthony. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. London: Longmans, Green, and Co., pp. 370, 373.
-4. Madhavananda, Swami (Trans.). (1935). *Vedāntasāra of Sadānanda*. Almora: Advaita Ashrama, Verses 94–95, pp. 59–61.
-5. Nikhilananda, Swami (Trans.). (1931). *Dṛg-Dṛśya Vivekaḥ of Śrī Sadāśiva Brahmendra*. Mysore: Sri Ramakrishna Ashrama, Verse 10, pp. 14, 55–57.
-6. Nikhilananda, Swami (Trans.). (1944). *Atmabodha (Self-Knowledge) of Śrī Śaṅkarācārya*. Madras: Sri Ramakrishna Math, Invocation & pp. 64–65.
-7. Nikhilananda, Swami (Trans.). (1949). *The Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary*. Mysore: Sri Ramakrishna Ashrama, Mantras 4–5, pp. 19–26; Kārikā II.1–15, pp. 93–111.
-8. Nikhilananda, Swami (Trans.). (1956). *The Upanishads: A New Translation* (Vol. III: Aitareya and Brihadaranyaka). New York: Harper & Brothers, pp. 159, 164–167.
-9. Potter, Karl H. (Ed.). (1981). *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṃkara and His Pupils*. Princeton: Princeton University Press, pp. 14, 56–59.
-10. Pranipata Chaitanya, Acharya (Trans.). *Vivekacūḍāmaṇi of Śrī Śaṅkarācārya*. Verses 98–99, 170, pp. 121, 186.
-11. Sivananda, Swami. (1949). *Brahma Sutras: Text, Word-for-Word Meaning, Translation, and Commentary*. Rishikesh: Divine Life Society, Adhyāya III, Pāda 2, Sūtras 1–6, pp. 331–335.
-12. Swahananda, Swami (Trans.). (1967). *Pañcadaśī of Śrī Vidyāraṇya Svāmi*. Madras: Sri Ramakrishna Math, Chapter 1, Verses 67–69; Chapter 8, Verses 86–90.
-13. Vimuktananda, Swami (Trans.). (1938). *Aparokṣānubhūti (Self-Realization) of Śrī Śaṅkarācārya*. Almora: Advaita Ashrama, Verse 57, p. 27.
+1. Jagadananda, S. (Trans.). (1941). *Upadeśasāhasrī of Śrī Śaṅkarācārya* (Chapter 17, Verses 24–25, pp. 180–182). Sri Ramakrishna Math.
+2. Kale, M. R. (1918). *A higher Sanskrit grammar for the use of schools and colleges* (§ 502, p. 327). Gopal Narayan & Co.
+3. MacDonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout* (pp. 370, 373). Longmans, Green, and Co.
+4. Madhavananda, S. (Trans.). (1935). *Vedāntasāra of Sadānanda* (Verses 94–95, pp. 59–61). Advaita Ashrama.
+5. Nikhilananda, S. (Trans.). (1931). *Dṛg-dṛśya vivekaḥ of Śrī Sadāśiva Brahmendra* (Verse 10, pp. 14, 55–57). Sri Ramakrishna Ashrama.
+6. Nikhilananda, S. (Trans.). (1944). *Atmabodha (Self-knowledge) of Śrī Śaṅkarācārya* (Invocation & pp. 64–65). Sri Ramakrishna Math.
+7. Nikhilananda, S. (Trans.). (1949). *The Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (Mantras 4–5, pp. 19–26; Kārikā II.1–15, pp. 93–111). Sri Ramakrishna Ashrama.
+8. Nikhilananda, S. (Trans.). (1956). *The Upanishads: A new translation: Vol. III. Aitareya and Brihadaranyaka* (pp. 159, 164–167). Harper & Brothers.
+9. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and his pupils* (pp. 14, 56–59). Princeton University Press.
+10. Pranipata Chaitanya, A. (Trans.). (n.d.). *Vivekacūḍāmaṇi of Śrī Śaṅkarācārya* (Verses 98–99, 170, pp. 121, 186).
+11. Sivananda, S. (1949). *Brahma sutras: Text, word-for-word meaning, translation, and commentary* (Adhyāya III, Pāda 2, Sūtras 1–6, pp. 331–335). Divine Life Society.
+12. Swahananda, S. (Trans.). (1967). *Pañcadaśī of Śrī Vidyāraṇya Svāmi* (Chapter 1, Verses 67–69; Chapter 8, Verses 86–90). Sri Ramakrishna Math.
+13. Vimuktananda, S. (Trans.). (1938). *Aparokṣānubhūti (Self-realization) of Śrī Śaṅkarācārya* (Verse 57, p. 27). Advaita Ashrama.
