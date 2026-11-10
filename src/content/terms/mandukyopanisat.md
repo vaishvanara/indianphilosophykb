@@ -251,7 +251,7 @@ Adṛṣya-Avyavahāryam-Agrāhyam-Alakṣaṇam-Acintyam-Avyapadeśyam Ekātma-
 **Translation**
 
 Not consciousness inward, not consciousness outward, not consciousness of both, not a mass of consciousness, not consciousness, and not unconsciousness.
-The Fourth (*Turīya*) is considered as invisible, unrelated, ungraspable, indefinable, inconceivable, ineffable, the Essence of the consciousness of Selfhood and Oneness, the negation of all relative existence, peaceful, auspicious, and non-dual; that is the Self; that is to be realized.
+The fourth (*Turīya*) is considered as invisible, unrelated, ungraspable, indefinable, inconceivable, ineffable, the Essence of the consciousness of Selfhood and Oneness, the negation of all relative existence, peaceful, auspicious, and non-dual; that is the Self; that is to be realized.
 
 **Word-for-word meaning**
 
@@ -272,7 +272,7 @@ The Fourth (*Turīya*) is considered as invisible, unrelated, ungraspable, indef
 15. [Śānta - शान्त](santa.md) - peaceful  
 16. [Śiva - शिव](siva.md) - auspicious  
 17. [Advaita - अद्वैत](advaita.md) - non-dual  
-18. [Caturthaḥ - चतुर्थ](caturthah.md) - the fourth  
+18. [Caturthaḥ - चतुर्थः](caturthah.md) - the fourth  
 19. [Manyante - मन्यन्ते](manyante.md) - consider  
 20. [Sa - स](sa.md) - that  
 21. [Ātman - आत्मन्](atman.md) - the Self  
@@ -439,14 +439,14 @@ Evam-Oṅkāra Ātmaiva Saṃviśaty-Ātmanā’tmānaṃ Ya Evaṃ Veda.*
 
 **Translation**
 
-*Turīya* is without measure, unrelated, the negation of all relative existence, auspicious, and non-dual.
+The fourth (*Turīya*) is without measure, unrelated, the negation of all relative existence, auspicious, and non-dual.
 Thus, *Oṃkāra* is verily the Self.
 He who knows thus by the Self enters the Self.
 
 **Word-for-word meaning**
 
 1. [Amātrā - अमात्रा](amatra.md) - without measure  
-2. [Caturthaḥ - चतुर्थ](caturthah.md) - the fourth  
+2. [Caturthaḥ - चतुर्थः](caturthah.md) - the fourth  
 3. [Avyavahāryam - अव्यवहार्यम्](avyavaharyam.md) - unrelated  
 4. [Prapañcopaśamaṃ - प्रपञ्चोपशमं](prapancopasamam.md) - the negation of all relative existence  
 5. [Śiva - शिव](siva.md) - auspicious  
