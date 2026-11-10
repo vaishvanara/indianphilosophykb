@@ -19,6 +19,7 @@ See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
 Lexically, *sarvasya* is the masculine/neuter genitive singular of the pronominal adjective stem *sarva* ("all," "every," "whole," "entire"). As an inflectional genitive form, it expresses the possessive, objective, or partitive relationship "of all" or "of everything."
 
 In the *Māṇḍūkya Upaniṣad*, *sarvasya* occurs in mantra 6 in the description of *Prājña*, the third quarter (*pāda*) of the Self (*Ātman*), corresponding to the condition of deep dreamless sleep (*suṣupti*) macrocosmically identified with the unmanifested causal deity, *Īśvara*:
+
 > *eṣa sarveśvara eṣa sarvajña eṣo 'ntaryāmy eṣa yoniḥ sarvasya prabhavāpyayau hi bhūtānām*  
 > ("This is the Lord of all; this is the knower of all; this is the inner controller; this is the source of all; for from this all beings originate and in this they finally disappear.")
 

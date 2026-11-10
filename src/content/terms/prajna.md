@@ -39,7 +39,7 @@ Grammatically, the prefix *pra-* heightens the root meaning of *jñā*, suggesti
 
 In the *Māṇḍūkya Upaniṣad*, the term occurs primarily in Mantra 5 (defining the third quarter of Ātman) and Mantra 11 (correlating this quarter with the sound *M* in the sacred syllable *AUM*).
 
-### Textual Context and Verse Analysis
+### Textual context and verse analysis
 
 Mantra 5 of the *Māṇḍūkya Upaniṣad* defines *Prajñā* as follows:
 > *yatra supto na kaṃcana kāmaṃ kāmayate na kaṃcana svapnaṃ paśyati tat suṣuptam / ekībhūtaḥ prajñānaghana evānandamayo hyānandabhug cetomukhaḥ prājñas tṛtīyaḥ pādaḥ //*
@@ -58,7 +58,7 @@ In Mantra 11, the Upaniṣad identifies *Prajñā* with the letter *M* (मक�
 
 It is termed *miti* ("measure") because *Prajñā* acts as the container or benchmark into which the waking (*Vaiśvānara*) and dream (*Taijasa*) states submerge during involution and from which they emerge during creation. It is termed *apiti* ("merging") because all distinctions merge into *Prajñā* during deep sleep just as the sound of *A* and *U* merge into *M* at the conclusion of chanting *AUM*.
 
-### Exegetical Distinctions in Later Literature
+### Exegetical distinctions in later literature
 
 Advaita Vedānta literature carefully distinguishes the original Upaniṣadic statement from later systematic formulations:
 
@@ -68,7 +68,7 @@ Advaita Vedānta literature carefully distinguishes the original Upaniṣadic st
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Within Indian philosophy and Vedāntic hermeneutics, several key points of interpretation surround *Prajñā*:
 
@@ -78,7 +78,7 @@ Within Indian philosophy and Vedāntic hermeneutics, several key points of inter
 
 ---
 
-## Related Terms
+## Related terms
 
 - Ānandamaya (आनन्दमय)
 - Avyākṛta (अव्याकृत)

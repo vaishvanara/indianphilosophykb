@@ -55,7 +55,7 @@ The expression *prabhavāpyayau* appears in verse 6 of the *Māṇḍūkya Upani
 > 
 > "He is the Lord of all (*sarveśvara*); He is omniscient (*sarvajña*); He is the inner controller (*antaryāmin*); He is the source of all (*yoniḥ sarvasya*)—for He is the origin and dissolution (*prabhavāpyayau*) of all beings (*bhūtānām*)."
 
-### Grammatical Function and Textual Context
+### Grammatical function and textual context
 
 In this verse, *prabhavāpyayau* serves as a dual predicate nominative in apposition to the demonstrative pronoun *eṣa* ("This One"), modifying the entity designated as *Prājñā* or *Īśvara*. The *Māṇḍūkya Upaniṣad* outlines four quarters (*pāda*) of Ātman/Brahman:
 
@@ -66,14 +66,14 @@ In this verse, *prabhavāpyayau* serves as a dual predicate nominative in apposi
 
 Verse 6 defines the third quarter (*Prājñā*), establishing that the causal state of unmanifested consciousness is macrocosmically identical with *Īśvara* (the Personal God). *Prājñā* is called *yoniḥ sarvasya* (the womb/womb-source of all) because from this seed-state of non-apprehension (*agrahana*), the entire objective manifold of waking and dream experiences originates and into it dissolves.
 
-### Exegesis in Gauḍapāda's Kārikā and Śaṅkara's Commentary
+### Exegesis in Gauḍapāda's Kārikā and Śaṅkara's Bhāṣya
 
 - **Gauḍapāda's Kārikā**: In the *Āgama Prakaraṇa* (verse 1.6), Gauḍapāda underscores the structural role of *Prāṇa* (the causal self/*Īśvara*) in cosmic projection: "It is thoroughly established that manifestation (*sṛṣṭi*) can be predicated only of existing positive entities (*bhāva*). *Prāṇa* manifests all inanimate objects; the *Puruṣa* manifests the conscious beings (*jīva*) separately." Gauḍapāda notes that while deluded thinkers debate whether creation is the manifestation of divine power (*vibhūti*), a dream (*svapna*), an illusion (*māyā*), or intended for God's enjoyment/sport (*bhoga*/*krīḍā*), the enlightened know creation to be nothing other than the very nature (*svabhāva*) of the Effulgent Self.
 - **Śaṅkara's Commentary (*Bhāṣya*)**: Śaṅkarācārya explains that *Īśvara* is not an extra-cosmic creator separate from the universe. As *Antaryāmin* (inner controller), He directs all things from within. As *prabhavāpyayau*, He is the material and efficient cause (*kāraṇa*) from which the diverse universe proceeds and in which it disappears, just as thread-work resolves into thread or a snake illusion resolves back into the rope substratum.
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Within Advaita Vedānta commentary, the occurrence of *prabhavāpyayau* in *Māṇḍūkya Upaniṣad* verse 6 highlights a central hermeneutical distinction between two levels of reality:
 
@@ -87,7 +87,7 @@ Thus, while *prabhavāpyayau* establishes *Īśvara* as the sole material and ef
 
 ---
 
-## Related Terms
+## Related terms
 
 - Antaryāmin (अन्तर्यामिन्)
 - Apyaya (अप्यय)

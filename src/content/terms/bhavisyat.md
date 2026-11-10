@@ -42,7 +42,7 @@ Gauḍapāda's *Kārikā* systematically correlates the three temporal states an
 
 ---
 
-## Primary Text and Commentaries
+## Primary text and commentaries
 
 The primary text establishing the usage of *bhaviṣyat* in this context is Mantra 1 of the *Māṇḍūkya Upaniṣad*:
 
@@ -57,7 +57,7 @@ Beyond the *Māṇḍūkya Upaniṣad*, parallel formulations of the temporal tr
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 In Vedantic exegesis, the interpretation of *bhaviṣyat* and its place within the time triad (*trikāla*) has been a subject of careful distinction between empirical (*vyāvahārika*) and ultimate (*pāramārthika*) standpoints.
 
@@ -67,7 +67,7 @@ In Vedantic exegesis, the interpretation of *bhaviṣyat* and its place within t
 
 ---
 
-## Related Terms
+## Related terms
 
 - [Amatra (अमात्र)](amatra.md)
 - Avyākṛta (अव्याकृत)

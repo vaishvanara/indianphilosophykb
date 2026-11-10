@@ -61,7 +61,7 @@ Grammatically, *sarveśvaraḥ* operates as a nominative singular masculine pred
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Significant differences in interpretation regarding *Īśvara* in the *Māṇḍūkya* context are documented across philosophical traditions and modern scholarship
 
@@ -73,13 +73,13 @@ In Advaita Vedānta, *Īśvara* is recognized as *Saguṇa Brahman* (*Brahman* w
 
 Śaṅkarācārya explicitly refutes dualistic views (*syād anyeṣāṃ mataṃ*) that treat *Īśvara* as an extra-cosmic agent distinct from the world and individual souls. Śaṅkara asserts that *Īśvara* is both the material and efficient cause (*abhinna-nimittopādāna-kāraṇa*), operating as the non-different Inner Ruler (*antaryāmī*).
 
-### Relationship between *Prājña*, *Īśvara*, and *Turīya*
+### Relationship between Prājña, Īśvara, and Turīya
 
 Classical commentators debate the status of *Prājña* in verse 6. While *Prājña* in deep sleep is *ceto-mukhaḥ* and *sarveśvaraḥ*, it carries the seed of potential duality (*bīja-nidrā* / *kāraṇa-baddha*). Some modern interpreters confuse *Īśvara* with *Turīya*, but Advaita Vedānta maintains a strict distinction: *Īśvara* is the Lord of the causal state (*suṣupti* / *māyā*), whereas *Turīya* is the non-dual Absolute beyond all causal and effectual conditions.
 
 ---
 
-## Related Terms
+## Related terms
 
 - [Antaryāmin - अन्तर्यामिन्](antaryamin.md)
 - [Avidyā (अविद्या)](avidya.md)

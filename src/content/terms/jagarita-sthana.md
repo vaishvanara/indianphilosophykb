@@ -65,7 +65,7 @@ Exegetical Distinctions:
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Significant exegetical differences surrounding *jāgarita-sthāna* center on ontology, grammar, and methodology:
 
@@ -81,7 +81,7 @@ Significant exegetical differences surrounding *jāgarita-sthāna* center on ont
 
 ---
 
-## Related Terms
+## Related terms
 
 - Advaita (अद्वैत)
 - Annamaya-kośa (अन्नमयकोश)

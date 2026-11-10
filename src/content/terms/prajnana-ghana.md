@@ -45,19 +45,21 @@ Grammatically, *prajñānaghanaḥ* functions as a nominative singular masculine
 Contextually, the *Māṇḍūkya Upaniṣad* analyzes the totality of human experience across four quarters or states: the waking state (*Viśva*), the dream state (*Taijasa*), the deep sleep state (*Prājña*), and the transcendental state (*Turīya*). In verse 5, the Upaniṣad explains that during deep sleep (*suṣuptasthāna*), the dualistic experiences of the waking and dream states—consisting of mental forms and sense perceptions—reach a state of non-differentiation (*ekībhūta*). Just as daytime objects become enveloped into a single mass of darkness at night, all distinct cognitions merge into a single, concentrated mass of consciousness (*prajñānaghana*).
 
 Philosophically, *prajñāna-ghana* represents the causal state (*bīja*) of consciousness. The surrounding epithets in verse 5 clarify its nature:
+
 - *Ekībhūta* ("become unified"): The multiplicity of waking and dreaming mental modifications (*vṛtti*) resolves into an undifferentiated state.
 - *Ānandamaya* ("endowed with bliss"): Free from the miseries and strain caused by subject-object duality, the mind experiences an abundance of peace.
 - *Ānandabhuk* ("enjoyer of bliss"): It experiences the natural, effortless quietude of non-duality.
 - *Cetomukha* ("doorway to consciousness"): It serves as the gateway through which consciousness transitions back into dream and waking states.
 
 **Distinction Between Textual Layers:**
+
 1. **Upaniṣadic Text**: The Upaniṣad uses *prajñāna-ghana* to characterize *Prājña*, the third quarter of Ātman presiding over deep sleep.
 2. **Gauḍapāda's Kārikā**: Gauḍapāda clarifies that while *Prājña* is free from mis-apprehension of reality (*anyathāgrahaṇa* or dream/waking illusion), it remains bound by non-apprehension of reality (*agrahaṇa* or causal darkness). Thus, *Prājña* is associated with causal sleep (*bījanidrā*), whereas the fourth quarter (*Turīya*) transcends both non-apprehension and mis-apprehension.
 3. **Śaṅkara's Commentary**: Śaṅkara notes that the particle *eva* in *prajñānaghana eva* emphasizes that in deep sleep there is no non-conscious or material entity present, but only consciousness itself unified into a mass. Śaṅkara also points out that while *Prājña* is endowed with bliss (*ānandamaya*), it is not the ultimate, unconditioned Bliss (*Turīya*), because it remains encased in nescience (*avidyā*).
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 In classical Advaita Vedānta, *prajñāna-ghana* (and its variant *vijñāna-ghana*) has been interpreted across different levels of reality (*vyāvahārika* versus *pāramārthika*):
 
@@ -76,7 +78,7 @@ Commentators compare *prajñāna-ghana* with the *Bṛhadāraṇyaka Upaniṣad*
 
 ---
 
-## Related Terms
+## Related terms
 
 - Ānandamaya (आनन्दमय)
 - Cetomukha (चेतोमुख)

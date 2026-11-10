@@ -37,7 +37,7 @@ Grammatically, when applied to speech, *akṣara* denotes a syllable or phoneme 
 
 In Advaita Vedānta, *akṣara* plays a fundamental role in both scriptural exegesis (*mīmāṁsā*) and contemplative practice (*upāsanā* / *jñāna*), operating simultaneously as the primary verbal symbol of the Absolute and as the Absolute itself.
 
-### Symbolic and meditative dimension (*Praṇava*)
+### Symbolic and meditative dimension (Praṇava)
 
 As the sacred syllable *AUM* (*OM* or *Praṇava*), *akṣara* serves as the supreme sound-support (*ālambana*) for spiritual contemplation. In texts like the *Māṇḍūkya Upaniṣad*, *Kaṭha Upaniṣad* (1.2.15–17), and *Chāndogya Upaniṣad* (1.1.1), *AUM* as *akṣara* is identified with all time (past, present, future) and that which transcends time. Advaita Vedānta explains that meditating on *akṣara* enables the aspirant to progress from gross manifestations to the soundless, non-dual Reality (*Turīya* / *Amātrā*).
 
@@ -49,7 +49,7 @@ In the exegesis of major Upanishadic texts, Śaṅkarācārya and the Advaita tr
 2. ***Muṇḍaka Upaniṣad* (1.1.5–6, 2.1.2):** Higher knowledge (*parā vidyā*) is defined as that by which the Imperishable (*Akṣara*) is comprehended. This *Akṣara* is described apophatically: imperceivable, ungraspable, without family or caste, without eyes or ears, eternal, all-pervading, and extremely subtle. Where the text speaks of *Puruṣa* as "higher than the high Imperishable" (*akṣarāt parataḥ paraḥ*), Advaita commentary clarifies that the lower *akṣara* refers to the unmanifest seed-state of name and form (*avyakta* / *māyā*), whereas the higher *Akṣara* / *Puruṣa* is the transcendent Self.
 3. ***Bhagavad Gītā* (8.3, 15.16–17):** The text explicitly equates *akṣara* with Supreme *Brahman* (*akṣaraṁ brahma paramam*). In Chapter 15, a distinction is drawn between the perishable (*kṣara*, the entire realm of changing effects) and the imperishable (*akṣara*, the changeless, *kūṭastha*), both of which are transcended by the Supreme Self (*Uttama Puruṣa* / *Paramātman*).
 
-### Synthesis of negative attributes (*akṣarādhy-upasaṁhāra*)
+### Synthesis of negative attributes (akṣarādhy-upasaṁhāra)
 
 In *Brahmasūtra* (3.3.33), Advaita Vedānta establishes that all negative descriptions of *akṣara* across different Upanishads, such as "neither gross nor subtle" (*asthūlam anaṇu*), must be combined in meditations on the Absolute, as the non-dual object (*Brahman*) behind all such apophatic teachings is identical.
 

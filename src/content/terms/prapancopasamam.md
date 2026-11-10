@@ -47,7 +47,7 @@ The expression *prapañcopaśamaṃ* occurs directly in Mantra 7 of the *Māṇ�
 
 > *nāntaḥprajñaṃ na bahiṣprajñaṃ nobhayataḥprajñaṃ na prajñānaghanaṃ na prajñaṃ nāprajñam | adṛṣṭam avyavahāryam agrāhyam alakṣaṇam acintyam avyapadeśyam ekātmapratyayasāraṃ prapañcopaśamaṃ śāntaṃ śivam advaitaṃ caturthaṃ manyante sa ātmā sa vijñeyaḥ* ||
 
-### Grammatical Function and Context
+### Grammatical function and context
 
 Within Mantra 7, *prapañcopaśamaṃ* serves as a vital negative qualifying attribute (*viśeṣaṇa*) modifying the Fourth (*caturtha* / *turīya*). The *Māṇḍūkya Upaniṣad* structures Ātman into four quarters (*pāda*): 
 1. **Viśva** (waking state, *jāgarita-sthāna*), experiencing gross objects;
@@ -57,14 +57,14 @@ Within Mantra 7, *prapañcopaśamaṃ* serves as a vital negative qualifying att
 
 The surrounding text systematically negates all empirical attributes: *turīya* is neither conscious of the internal dream world (*na antaḥprajñam*), nor of the external waking world (*na bahiṣprajñam*), nor of both (*na ubhayataḥprajñam*), nor a dormant mass of consciousness (*na prajñānaghanam*). It is unperceived (*adṛṣṭam*), unhandleable (*avyavahāryam*), incomprehensible (*agrāhyam*), uninferable (*alakṣaṇam*), unthinkable (*acintyam*), and indescribable (*avyapadeśyam*). Following these apophatic negations, *prapañcopaśamaṃ* declares that in this state, all world-manifestation ceases completely. It is complemented by positive ontological indicators: tranquility (*śāntam*), auspiciousness (*śivam*), and non-duality (*advaitam*).
 
-### Gauḍapāda's Kārikā and Śaṅkara's Commentary
+### Gauḍapāda's Kārikā and Śaṅkara's Bhāṣya
 
 * **Upaniṣadic Text vs. Gauḍapāda's Kārikā**: The Upaniṣadic mantra concisely states the ultimate truth (*paramārtha*). Gauḍapāda, in his *Kārikā* (particularly Books 1 and 2), expands this by demonstrating through logic (*upapatti*) that the manifold world (*prapañca*) is illusory (*vaitathya*) like a dream or a rope mistaken for a snake. In *Kārikā* 1.18 and 2.35, Gauḍapāda establishes that once the non-dual Reality is known, the imagined duality (*dwaita*) of master, student, and scripture disappears, leaving only *prapañcopaśama*.
 * **Śaṅkarācārya's Bhāṣya**: Śaṅkara explains that *prapañcopaśamaṃ* does not mean that a real world existed previously and was later destroyed. Rather, just as the illusory snake vanishes when the rope is recognized for what it is, the world of duality (*prapañca*) is recognized as having never been produced separately from Brahman. *Turīya* is the eternal, unchanging substratum (*adhiṣṭhāna*) free from all superimpositions (*adhyāsa*).
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 1. **Sublation vs. Physical Annihilation**:
    * **Advaita Vedānta View**: Traditional Advaitins (Gauḍapāda, Śaṅkara, Ānandagiri) maintain that *prapañcopaśama* represents sublation through knowledge (*bādha*) rather than physical destruction (*pralaya*). The world is an illusory projection (*māyā* / *kalpanā*); hence, its "cessation" means the termination of ignorance (*avidyā*) and false attribution.
@@ -81,7 +81,7 @@ The surrounding text systematically negates all empirical attributes: *turīya* 
 
 ---
 
-## Related Terms
+## Related terms
 
 - Acintya (अचिन्त्य)
 - Adhiṣṭhāna (अधिष्ठान)

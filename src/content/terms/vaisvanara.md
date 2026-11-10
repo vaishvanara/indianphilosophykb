@@ -40,6 +40,7 @@ Grammatically, the derivative is formed by applying the *taddhita* suffix *aṇ*
 The term *Vaiśvānara* occurs prominently in the prose text of the *Māṇḍūkya Upaniṣad*, specifically in Mantra 3 and Mantra 9. 
 
 In Mantra 3, *Vaiśvānara* is syntactically positioned as the nominative subject defining the first quarter of Ātman:
+
 > *jāgaritasthāno bahiṣprajñaḥ saptāṅga ekonavimśatimukhaḥ sthūlabhug vaiśvānaraḥ prathamaḥ pādaḥ*.
 
 The Upaniṣad outlines five primary structural characteristics and attributes of *Vaiśvānara*:
@@ -57,6 +58,7 @@ The Upaniṣad outlines five primary structural characteristics and attributes o
 In Mantra 9, *Vaiśvānara* is correlated with the first mora or letter *A* (*akāra*) of the sacred syllable *AUM* (*Omkara*). The Upaniṣad establishes this meditation based on two common features (*sāmānya*): *āpti* (pervasion/attainment), because the sound *a* pervades all speech just as *Vaiśvānara* pervades the waking universe; and *ādimattva* (being the beginning), because *a* is the initial letter of *AUM* just as *Vaiśvānara* is the first quarter of Ātman.
 
 Textual and historical nuances distinguish the Upaniṣad's original phrasing from subsequent commentaries:
+
 - **Upaniṣad Text**: Employs *Vaiśvānara* to describe the first quarter of Ātman as a cosmic-individual unity.
 - **Gauḍapāda's Kārikā**: In Book I (*Āgama Prakaraṇa*), Gauḍapāda equates *Vaiśvānara* with the term *Viśva* (*viśvo hi sthūlabhug nityaṁ*). Gauḍapāda identifies *Viśva's* primary seat of cognition in the human body as the right eye (*dakṣiṇākṣi-mukhe viśvo*) during the waking state.
 - **Śaṅkarācārya's Bhāṣya**: Śaṅkara explicitly synthesizes the macrocosmic entity (*Virāj*) and the microcosmic individual (*Viśva*) into a single quarter under *Vaiśvānara*. Śaṅkara stresses that applying macrocosmic limbs to the individual self serves to destroy the illusion of dualism (*dvaita*) and reveal the non-dual reality (*advaita*) of Brahman.
@@ -64,7 +66,7 @@ Textual and historical nuances distinguish the Upaniṣad's original phrasing fr
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 The interpretation of *Vaiśvānara* has been a focal point of doctrinal and exegematical discussion across Vedāntic literature:
 
@@ -74,7 +76,7 @@ The interpretation of *Vaiśvānara* has been a focal point of doctrinal and exe
 
 ---
 
-## Related Terms
+## Related terms
 
 - Akāra (अकार)
 - Antaḥkaraṇa (अन्तःकरण)

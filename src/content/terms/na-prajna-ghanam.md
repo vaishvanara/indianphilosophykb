@@ -57,7 +57,7 @@ Gauḍapāda, in his *Gauḍapādīya Kārikā* (1.11–1.15), underscores this 
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 1. **Orthographic and Textual Variants**:
    Editions of the *Māṇḍūkya Upaniṣad* and its commentaries record two orthographic forms for this negation: *na prajñā-ghanaṃ* (न प्रज्ञाघनम्) and *na prajñānaghanaṃ* (न प्रज्ञानघनम्). Both variants express the exact same philosophical meaning—namely, the negation of the compound *prajñānaghana* introduced in Mantra 5.
@@ -70,7 +70,7 @@ Gauḍapāda, in his *Gauḍapādīya Kārikā* (1.11–1.15), underscores this 
 
 ---
 
-## Related Terms
+## Related terms
 
 - Advaita (अद्वैत)
 - Amātra (अमात्र)

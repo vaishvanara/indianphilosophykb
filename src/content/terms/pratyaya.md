@@ -125,7 +125,7 @@ In Mahāyāna scriptures, particularly the *Laṅkāvatāra Sūtra* (translated 
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Philosophical traditions interpret *pratyaya* differently depending on their epistemological and ontological frameworks
 
@@ -134,7 +134,7 @@ Philosophical traditions interpret *pratyaya* differently depending on their epi
 
 ---
 
-## Related Terms
+## Related terms
 
 - Avidyā (अविद्या)
 - Ātman (आत्मन्)

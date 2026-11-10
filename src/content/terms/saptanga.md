@@ -41,7 +41,7 @@ The term occurs in Mantra 3 of the *Māṇḍūkya Upaniṣad*:
 > *jāgaritasthāno bahiṣprajñaḥ saptāṅga ekonaviṃśatimukhaḥ sthūlabhug vaiśvānaraḥ prathamaḥ pādaḥ* // 3 //  
 > ("The first quarter is Vaiśvānara, whose sphere of activity is the waking state, who is conscious of external objects, who has seven limbs and nineteen mouths, and who experiences gross objects.")
 
-### Contextual Meaning and Scriptural Correlation
+### Contextual meaning and scriptural correlation
 
 The Upaniṣad begins by defining the non-dual Brahman as the Ātman, declaring that this Self has four quarters (*catuṣpāt*). Mantra 3 introduces the first quarter, operating in the waking state (*jāgaritasthāna*), oriented toward external phenomena (*bahiṣprajña*), enjoying gross objects (*sthūlabhuk*), endowed with nineteen cognitive and conative instruments (*ekonaviṃśatimukha*), and possessing seven limbs (*saptāṅga*).
 
@@ -55,7 +55,7 @@ While the *Māṇḍūkya Upaniṣad* itself does not enumerate the individual s
 6. **Feet**: The physical earth (*pṛthivī*).
 7. **Mouth**: The sacrificial fire (*āhavanīya* fire), included to complete the symbolic structure of the inner Agnihotra sacrifice.
 
-### Philosophical Significance in Advaita Vedānta
+### Philosophical significance in Advaita Vedānta
 
 In Advaita hermeneutics, the attribution of *saptāṅga* to the waking Self serves crucial pedagogical and metaphysical functions:
 
@@ -63,13 +63,13 @@ In Advaita hermeneutics, the attribution of *saptāṅga* to the waking Self ser
 2. **Superimposition and Sublation**: Śaṅkara notes that outward awareness and embodiment are apparent superimpositions (*adhyāsa*) born of nescience (*avidyā*). The waking Self experiences gross objects through instruments because consciousness appears externally oriented through ignorance.
 3. **The Fourfold Resolution**: The Upaniṣad's pedagogy is designed to resolve empirical duality into the transcendent Fourth (*turīya*). The gross waking experience (*vaiśvānara*, characterized by the seven limbs) is resolved into the subtle dreaming state (*taijasa*), which is in turn resolved into the unmanifest causal state (*prājña*), culminating in the realization of the attributeless Self (*brahman* / *turīya*) represented by the silence following the sacred syllable *Aum*.
 
-### Relation to Gauḍapāda and Later Exegesis
+### Relation to Gauḍapāda and later exegesis
 
 Gauḍapāda, in his *Kārikā* on the *Āgama Prakaraṇa*, focuses on establishing the ontological status and non-difference of the states rather than re-listing the seven limbs, taking the Upaniṣad's formula for granted. Later Advaita synthesizers, such as Sadānanda in the *Vedāntasāra*, expressly cite *Māṇḍūkya* 3 to establish the identity between *viśva* (the individual waking ego) and *vaiśvānara* (the cosmic gross soul) as the experiencers of the material world. Similarly, the *Brahma-Sūtra* (I.2.24–32) affirms that the seven-limbed *Vaiśvānara* of the Upaniṣads denotes the Supreme Brahman conceived with cosmic limbs to facilitate comprehensive meditation (*upāsanā*).
 
 ---
 
-## Related Terms
+## Related terms
 
 - Aṅga (अङ्ग)
 - Bahiṣprajña (बहिष्प्रज्ञ)

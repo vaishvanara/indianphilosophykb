@@ -19,10 +19,12 @@ See: [Mandukya Upanishad (Verses 1, 2, 9, 11)](mandukyopanisat.md)
 Lexically, *sarva* is a pronominal adjective signifying "all," "every," "whole," or "entire". In its neuter nominative and accusative singular form, *sarvam* (सर्वम् / सर्वं), it is used substantively to mean "everything," "the whole," or "totality".
 
 In the *Māṇḍūkya Upaniṣad*, the term *sarvaṃ* appears at the beginning of the text as an essential ontological designation:
+
 1. **Mantra 1:** *om ity etad akṣaram idaṃ sarvam* ("*Aum*, the word, is all this").
 2. **Mantra 2:** *sarvaṃ hy etad brahma* ("All this is, indeed, *Brahman*").
 
 Philosophically, the Upanisad and its classical commentaries distinguish between the literal and extended metaphysical meanings of the term:
+
 * **Literal meaning:** *Sarvaṃ* denotes the empirical aggregate of all diversified objects, names, forms, and temporal distinctions. In Mantra 1, the demonstrative phrase *idaṃ sarvam* ("all this") encompasses the totality of phenomenal existence—all that is past, present, and future, as well as whatever lies beyond the threefold division of time (the unmanifested, *avyākṛta*).
 * **Extended / Metaphysical meaning in Advaita:** In his commentary on Mantras 1 and 2, Śaṅkarācārya explains that *sarvam* does not designate an ultimate multiplicity of independently existing entities. Empirical objects are non-different from their identifying names; all names and sounds are non-different from their matrix sound *Aum*; and *Aum* is non-different from *Brahman*. Therefore, when the Upanisad proclaims that "all this is verily *Brahman*" (*sarvaṃ hy etad brahma*), the apparent totality (*sarvam*) is sublated into its underlying, non-dual substratum (*adhiṣṭhāna*). The universe denoted by *sarvam* has no reality separate from Consciousness (*Ātman* / *Brahman*).
 

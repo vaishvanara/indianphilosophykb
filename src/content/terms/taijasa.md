@@ -47,7 +47,7 @@ The textual presentation of *Taijasa* develops across several historical layers 
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 - **Ontological Status of Dream Projections**: Vedāntic commentators discuss whether the objects perceived by *Taijasa* have objective reality. In his *Brahmasūtra-bhāṣya* (BS 3.2.1–3.2.6), Śaṅkara demonstrates that dream objects created during the *Taijasa* state are *māyāmātra* (mere illusion). They lack the spatial, temporal, and causal consistency of waking experience, even though they appear real to *Taijasa* during the dream itself.
 - **Causality Between Waking and Dream**: While secondary Vedāntic treatises treat waking experience (*Viśva*) as the generative cause of dream impressions (*Taijasa*), Gauḍapāda's *Alātaśānti Prakaraṇa* (GK 4.38–4.42) refutes absolute causality between the two states. Gauḍapāda contends that both waking and dream objects are mutually dependent mental constructions (*vikalpa*), neither of which possesses ultimate origination (*ajāti*).
@@ -55,7 +55,7 @@ The textual presentation of *Taijasa* develops across several historical layers 
 
 ---
 
-## Related Terms
+## Related terms
 
 - Antaḥkaraṇa (अन्तःकरण)
 - Antaḥprajña (अन्तःप्रज्ञ)

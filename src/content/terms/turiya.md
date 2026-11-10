@@ -41,7 +41,7 @@ The *Māṇḍūkya Upaniṣad* introduces *Turīya* explicitly in Verse 7 and i
 
 Verses 8–12 correlate these four quarters with the sacred syllable *AUM* (*Pranava*): the letter *A* corresponds to *Viśva*, *U* to *Taijasa*, *M* to *Prājña*, while the unlettered soundless silence (*amātra*) corresponds to *Turīya*.
 
-### Interpretative Layers in Gauḍapāda's Kārikā and Śaṅkara's Bhāṣya
+### Interpretative layers in Gauḍapāda's Kārikā and Śaṅkara's Bhāṣya
 
 Advaita Vedānta scholarship distinguishes the original Upaniṣadic text from its classical commentary layers:
 
@@ -52,18 +52,21 @@ Advaita Vedānta scholarship distinguishes the original Upaniṣadic text from i
 
 ## Interpretations and Disputes
 
-### 1. Numerical State vs. Transcendental Substratum
+### 1. Numerical state vs. transcendental substratum
+
 A persistent point of clarification in Vedāntic literature concerns whether *Turīya* is a fourth temporal state of mind or the underlying witness (*sākṣin*). While popular or mystical interpretations treat *Turīya* as a fourth state to be attained in yogic samādhi, classical Advaita scholars (such as Śaṅkara, Gauḍapāda, Vidyāraṇya, and Sadānanda) emphasize that *Turīya* is the non-relational substratum present throughout all three states. Later texts, such as the *Laghu Yoga Vāsiṣṭha* and Sri Sadhu Om's commentary on Ramana Maharshi, employ the term *Turīyātīta* ("transcending the fourth") to resolve this linguistic ambiguity, highlighting that once the three illusory states are sublated, calling the Absolute "fourth" becomes redundant.
 
-### 2. Textual Stratification of the Māṇḍūkya Text
+### 2. Textual stratification of the Māṇḍūkya text
+
 Modern scholars (e.g., Karl Potter, Vidhushekhara Bhattacharya) note textual disputes regarding the relationship between the prose *Māṇḍūkya Upaniṣad* and Gauḍapāda’s first 29 metrical stanzas. While dualist traditions (such as Madhva's Dvaita) and qualified non-dualist traditions (such as Rāmānuja's Viśiṣṭādvaita) historically accepted both the prose verses and Gauḍapāda's first chapter as canonical śruti, classical Advaita tradition treats the 12 prose passages as Upaniṣadic śruti and Gauḍapāda's stanzas as authoritative commentary (*kārikā*).
 
-### 3. Philosophical Relationship to Buddhist Terminology
+### 3. Philosophical relationship to Buddhist terminology
+
 Scholarship has debated Gauḍapāda's use of vocabulary shared with Mahāyāna Buddhism (e.g., *asparśa-yoga*, *samvṛti*, *dharma*) in analyzing non-origination (*ajāti*) and *Turīya*. Academic commentators such as S. N. Dasgupta suggested Buddhist structural influence, whereas traditional Advaitins and scholars such as Swami Nikhilananda emphasize that Gauḍapāda uses dialectical methods to refute both Buddhist subjective idealism (*vijñānavāda*) and nihilism (*śūnyavāda*), affirming *Turīya* as the uncontradicted Upaniṣadic Absolute.
 
 ---
 
-## Related Terms
+## Related terms
 
 - Advaita (अद्वैत)
 - Amātra (अमात्र)

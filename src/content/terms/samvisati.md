@@ -26,11 +26,13 @@ Within the *Māṇḍūkya Upaniṣad* (Mantra 12), the word occurs in the sandh
 ## Etymology
 
 *Saṃviśati* is a prefixed verb formed by combining:
+
 - The verbal prefix (*upasarga*) *sam* (सम्), signifying "together," "completely," or "wholly."
 - The root verb *viś* (विश्), belonging to the sixth class (*tudādi-gaṇa*, Cl. 6 P), meaning "to enter," "settle on or in," "go into," or "go to rest."
 - The present stem *viśa-* formed with the thematic class suffix *-a* (*śap*), to which the primary active third-person singular present indicative termination *-ti* (*tip*) is suffixed (*sam* + *viś* + *a* + *ti* = *saṃviśati*).
 
 **Grammatical Analysis in Context:**
+
 - **Part of Speech**: Verb (finite, transitive).
 - **Tense, Mood, Voice, Person, Number**: Present indicative active (*laṭ*, *parasmaipada*), 3rd person singular.
 - **Sandhi Modification**: In Mantra 12 (*saṃviśaty ātmanā...*), the final vowel *-i* of *saṃviśati* changes to the semivowel *-y* before the dissimilar initial vowel *ā-* of the instrumental noun *ātmanā*, according to the rule of *yaṇ-sandhi* (*i*/*ī* + dissimilar vowel \\(\rightarrow\\) *y*).

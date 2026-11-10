@@ -54,7 +54,7 @@ The Upaniṣad states that one who meditates on this identity achieves a spiritu
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 1. **Causal Seed vs. Ultimate Reality**:
    A primary point of exegesis in Vedāntic literature is whether *makāra* (*Prājña* / *suṣupti*) represents the ultimate state or a subordinate causal state. Gauḍapāda, in his *Gauḍapādīya Kārikā* (1.11–1.15), explicitly distinguishes *Prājña* from *Turīya*. Gauḍapāda notes that while *Viśva* and *Taijasa* are bound by both cause and effect (non-apprehension and misapprehension of Reality), *Prājña* (represented by *makāra*) is bound by cause alone (*bīja-baddha* / *kāraṇa*). In contrast, *Turīya* is free from both cause and effect. Advaita tradition emphasizes that *makāra* embodies the unmanifested causal seed state (*bīja-bhāva*), whereas full liberation requires transcending *makāra* into the soundless *amātra* (*Turīya*).
@@ -67,7 +67,7 @@ The Upaniṣad states that one who meditates on this identity achieves a spiritu
 
 ---
 
-## Related Terms
+## Related terms
 
 - Akāra (अकार)
 - Amātra (अमात्र)

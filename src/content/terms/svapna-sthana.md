@@ -31,9 +31,10 @@ The Sanskrit term *svapna-sthāna* is a compound formed from two nominal stems:
 2. **sthāna** (स्थान, n.): Derived from the verbal root *sthā* (स्था, "to stand," "to abide," or "to remain") combined with the nominal suffix *-ana* (*lyuṭ* suffix denoting location), meaning "standing place," "abode," "locus," "position," or "sphere of activity".
 
 In Sanskrit grammar (*vyākaraṇa*), the compound *svapna-sthāna* can be analyzed in three primary ways depending on its syntactical environment:
-* As a genitive deterministic compound (*ṣaṣṭhī-tatpuruṣa*): *svapnasya sthānam* (स्वप्नस्य स्थानम्, "the place or sphere of dream").
-* As a locative deterministic compound (*saptamī-tatpuruṣa*): *svapne sthānam* (स्वप्ने स्थानम्, "abiding or standing in dream").
-* As used in verse 4 of the *Māṇḍūkya Upaniṣad* (*svapna-sthānaḥ* modifying *taijasaḥ*), it functions as an attributive possessive compound (*bahuvrīhi*): *svapnaḥ sthānaṃ yasya saḥ* (स्वप्नः स्थानं यस्य सः, "he whose sphere or abode is the dream state").
+
+- As a genitive deterministic compound (*ṣaṣṭhī-tatpuruṣa*): *svapnasya sthānam* (स्वप्नस्य स्थानम्, "the place or sphere of dream").
+- As a locative deterministic compound (*saptamī-tatpuruṣa*): *svapne sthānam* (स्वप्ने स्थानम्, "abiding or standing in dream").
+- As used in verse 4 of the *Māṇḍūkya Upaniṣad* (*svapna-sthānaḥ* modifying *taijasaḥ*), it functions as an attributive possessive compound (*bahuvrīhi*): *svapnaḥ sthānaṃ yasya saḥ* (स्वप्नः स्थानं यस्य सः, "he whose sphere or abode is the dream state").
 
 Phonologically, when *svapna-sthānaḥ* connects with the following word *antaḥ-prajñaḥ* in verse 4, it undergoes *visarga-sandhi* (*-aḥ* before a short vowel *a-* becomes *-o* with the elision of the initial vowel, marked by an *avagraha*), yielding *svapnasthāno 'ntaḥprajñaḥ*. Grammatical analysis establishes the structural relationship of the compound's members; it must not be confused with metaphysical doctrine.
 
@@ -51,19 +52,22 @@ In this verse, *svapna-sthānaḥ* serves grammatically as a nominative singular
 Parallel to *vaiśvānara* in the waking state, *taijasa* is described symbolically as possessing "seven limbs" (*saptāṅga*—the cosmic regions from heaven to earth) and "nineteen mouths" (*ekonaviṃśati-mukha*—the five sensory organs, five motor organs, five vital breaths, and four inner faculties: *manas*, *buddhi*, *ahaṅkāra*, and *citta*). Through these subtle instruments, *taijasa* experiences subtle objects (*pravivikta-bhuk*).
 
 The surrounding text outlines a systematic hierarchy of consciousness across the four quarters (*pāda*):
-* Verse 3 presents the first quarter: *jāgarita-sthāna* (the waking state), where *vaiśvānara* experiences gross physical objects (*sthūla-bhuk*) via outward consciousness (*bahiṣprajña*).
-* Verse 5 presents the third quarter: *suṣupta-sthāna* (deep dreamless sleep), where *prājña* merges all dual perceptions into an undifferentiated mass of consciousness (*prajñānaghana*) and experiences bliss (*ānanda-bhuk*).
-* Verse 7 reveals *turīya* ("the fourth"), which transcends both *bahiṣprajña* and *antaḥ-prajña*, standing as the unconditioned, non-dual (*advaita*), transcendent Reality (*Ātman*/*Brahman*).
+
+- Verse 3 presents the first quarter: *jāgarita-sthāna* (the waking state), where *vaiśvānara* experiences gross physical objects (*sthūla-bhuk*) via outward consciousness (*bahiṣprajña*).
+- Verse 5 presents the third quarter: *suṣupta-sthāna* (deep dreamless sleep), where *prājña* merges all dual perceptions into an undifferentiated mass of consciousness (*prajñānaghana*) and experiences bliss (*ānanda-bhuk*).
+- Verse 7 reveals *turīya* ("the fourth"), which transcends both *bahiṣprajña* and *antaḥ-prajña*, standing as the unconditioned, non-dual (*advaita*), transcendent Reality (*Ātman*/*Brahman*).
 
 ### Exegesis in Gauḍapāda's Kārikā
+
 In the first chapter (*Āgama Prakaraṇa*) of the *Gauḍapāda-kārikā*, Gauḍapāda correlates *svapna-sthāna* (*taijasa*) with the second sound-element *U* (*u-mātrā*) of the sacred syllable *AUM*, placing it between the waking state (*A*) and deep sleep (*M*). In the subsequent chapters (*Vaitathya* and *Advaita Prakaraṇas*), Gauḍapāda employs the analysis of *svapna-sthāna* epistemologically: he argues that because dream objects are recognized as unreal (*vaitathya*) upon waking, and because waking objects share the same subject-object structure projected by mental activity (*citta-spandana* / *māyā*), waking objects are likewise illusory. This analysis serves as a foundational argument for his doctrine of absolute non-origination (*ajātivāda*).
 
 ### Exegesis in Śaṅkara's Commentary
+
 In his *Māṇḍūkyopaniṣad-bhāṣya*, Śaṅkarācārya clarifies that in *svapna-sthāna*, the mind (*manas*), like a canvas painted with pictures (*citra-paṭa-vat*), projects an apparent external universe driven by ignorance (*avidyā*), desire (*kāma*), and past action (*karma*). Śaṅkara emphasizes that the dream experience demonstrates the intrinsic self-luminosity (*svayaṃ-jyotistva*) and unattached nature (*asaṅgatva*) of the Ātman: because the Self illumines dream forms without external physical light or bodily organs, and remains untainted by dream actions upon waking, it is proved to be the detached witness (*sākṣin*) distinct from all transitory states.
 
 ---
 
-## Related Terms
+## Related terms
 
 - Antaḥ-prajña (अन्तःप्रज्ञ)
 - Jāgarita-sthāna (जागरितस्थान)

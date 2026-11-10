@@ -48,7 +48,7 @@ Regarding the second sound-measure *ukāra* ('U'), corresponding to *Taijasa* (t
 
 Regarding the third sound-measure *makāra* ('M'), corresponding to *Prājña* (the Self in deep sleep, *suṣupti*), the text declares: *mīte ha vā idaṁ sarvam apītiś ca bhavati ya evaṁ veda*. Meaning: "He who knows this measures all this and becomes (*bhavati*) the place of merger". Here, *bhavati* denotes the realization of the causal substratum wherein all phenomenal distinctions are resolved.
 
-### Doctrinal and Exegetical Role
+### Doctrinal and exegetical role
 
 In Advaita Vedānta commentary, Śaṅkarācārya explains that the usage of *bhavati* in these verses reflects the progressive stages of contemplative absorption (*upāsanā*). While the empirical results expressed with *bhavati* in verses 9–11 reward lower or qualitative meditations (*saguṇa-upāsanā*), they serve as pedagogical steps leading the seeker to the soundless fourth state (*amātrā* / *Turīya*), where all process of "becoming" (*bhavana*) ceases in the realization of the eternal, non-dual Self (*Ātman*).
 

@@ -52,7 +52,7 @@ In Advaita doctrine, the individual transmigrating soul (*jīva*) is essentially
 
 ---
 
-## Primary Texts and Commentaries
+## Primary texts and commentaries
 
 Primary passages establishing the nature of *Brahman* appear throughout the *Prasthānatrayī* (the Upaniṣad, *Brahmasūtra*, and *Bhagavad Gītā*):
 
@@ -77,7 +77,7 @@ Key commentaries and secondary treatises further elaborate this doctrine:
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Significant philosophical disputes exist both between Vedantic schools and within the Advaita tradition regarding the interpretation of *Brahman*:
 
@@ -87,7 +87,7 @@ Significant philosophical disputes exist both between Vedantic schools and withi
    - Rāmānuja's Viśiṣṭādvaita (*Śrībhāṣya*) rejects the concept of an attributeless Absolute and the doctrine of an undefinable illusion (*anirvacanīya-māyā*). Rāmānuja argues that *Brahman* is eternally a personal God (*Puruṣottama*) endowed with infinite auspicious qualities (*saguṇa*), and that individual souls and material nature constitute the real, structural body (*śarīra*) of *Brahman*.
    - Madhva's Dvaita Vedānta rejects non-duality entirely, positing an absolute, unbridgeable difference (*bheda*) between *Brahman*, individual souls, and material objects.
 
-### Intra-Advaita Disputes
+### Intra-Advaita disputes
 
    - **Refutation of Bhedābheda**: Śaṅkarācārya and Sureśvara explicitly refute the earlier Vedantic interpretation of Bhartṛprapañca, who proposed an identity-in-difference (*bhedābheda*) model wherein *Brahman* is simultaneously one and many, analogous to an ocean and its waves. Śaṅkara demonstrates that a partless, immutable entity cannot possess dual contradictory natures.
    - **Status of the Māṇḍūkya text**: Modern scholarship and traditional commentators note historical debates concerning whether Gauḍapāda's first twenty-nine verses (*Āgama Prakaraṇa*) were originally a commentary on the *Māṇḍūkya Upaniṣad* prose text or were regarded as part of the revealed *śruti* text itself.

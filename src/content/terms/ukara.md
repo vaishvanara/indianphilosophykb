@@ -45,24 +45,28 @@ The Upaniṣad articulates two specific grounds of resemblance (*sāmānya*) tha
 2. **Ubhayatva (उभयत्व — Intermediate Position or Dual Relation)**: Derived from *ubhaya* ("both" or "intermediate"), *ubhayatva* denotes the condition of standing in the middle. Phonetically, *ukāra* occupies the central position between *a-kāra* and *ma-kāra*. Phenomenologically, *Taijasa* occupies the middle state between *Viśva* (waking) and *Prājña* (deep sleep).
 
 Gauḍapāda explicates these two grounds in Book One (*Āgama Prakaraṇa*) of his *Māṇḍūkyakārikā* (Verse 1.20):
+
 > *utkarṣād ubhayatvādvā taijasasyokārasampratipattau |*  
 > ("The clear ground of realizing Taijasa as of the same nature as U is the common feature of 'superiority' [utkarṣa]. Similarly another plain reason of such identity is being in 'the middle' [ubhayatva].")
 
 Gauḍapāda further emphasizes the soteriological function of meditating on *ukāra* in *Kārikā* 1.23:
+
 > *akāro nayate viśvam ukāraś cāpi taijasam | makāraśca punaprājñam amātre nāsty agatiḥ ||*  
 > ("The letter A helps its worshipper to attain to Viśva, U to Taijasa, and M to Prājña. In the 'Soundless' [Amātra] there is no attainment.")
 
 Śaṅkarācārya, in his *Māṇḍūkyopaniṣad-bhāṣya*, clarifies that *Taijasa* represents consciousness aware of internal mental states (*antaḥprajña*). Śaṅkara notes that when *ukāra* is meditated upon as *Taijasa*, the practitioner's continuum of knowledge (*jñāna-santati*) expands, enabling them to perceive friendship and enmity with equal poise (*samāna*), ensuring that spiritual illumination persists within their lineage.
 
-#### Advaita Vedānta Interpretation
+#### Advaita Vedānta interpretation
+
 In Advaita Vedānta as expounded by Gauḍapāda and Śaṅkarācārya, *ukāra* serves as an intermediate symbol (*upāsanā-pratīka*). The mapping (*sampratipatti*) of *ukāra* to *Taijasa* guides the seeker from gross external identification (*Viśva*) to subtle internal awareness (*Taijasa*), preparing the mind to dissolve causal nescience (*Prājña*) and realize the unconditioned, partless *Turīya* (*Amātra*).
 
-#### Dvaita and Viśiṣṭādvaita Perspectives
+#### Dvaita and Viśiṣṭādvaita perspectives
+
 As documented in Karl H. Potter's *Encyclopedia of Indian Philosophies* (Vol. 3), non-Advaitic schools interpret the constituent letters of *AUM* through personalistic theology. In Dvaita Vedānta (Madhva) and Viśiṣṭādvaita Vedānta (Rāmānuja), *a-kāra*, *u-kāra*, and *ma-kāra* represent distinct divine manifestations (such as Vāsudeva, Pradyumna, and Aniruddha) or specific cosmic functions of Viṣṇu, rather than temporary illusory states (*upādhi*) to be sublated in partless non-dual consciousness.
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Textual and historical scholarship on the *Māṇḍūkya Upaniṣad* highlights several key areas of debate regarding *ukāra* and its overarching text:
 
@@ -72,7 +76,7 @@ Textual and historical scholarship on the *Māṇḍūkya Upaniṣad* highlights
 
 ---
 
-## Related Terms
+## Related terms
 
 - Akāra (अकार)
 - Amātra (अमात्र)

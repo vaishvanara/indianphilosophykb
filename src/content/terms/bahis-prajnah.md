@@ -38,11 +38,11 @@ Etymologically, *bahiṣ-prajñaḥ* is a Sanskrit possessive compound (*bahuvr�
 
 In the *Māṇḍūkya Upaniṣad* (verse 3) and its classical commentary tradition (*Gauḍapāda Kārikā* and Śaṅkarācārya's *Bhāṣya*), *bahiṣ-prajñaḥ* plays an essential role in mapping the four quarters (*pāda*) of Consciousness.
 
-### Textual Definition (Mantra 3)  
+### Textual definition (Mantra 3)  
 
 Verse 3 introduces the first quarter of the Self: "The first quarter is *Vaiśvānara*, whose sphere of activity is the waking state (*jāgrat-sthāna*), who is conscious of external objects (*bahiṣ-prajñaḥ*), who has seven limbs and nineteen mouths, and who is the experiencer of gross objects (*sthūla-bhuk*)."
 
-### Doctrinal Role and Cognitive Architecture  
+### Doctrinal role and cognitive architecture  
 
 1. **External orientation (*bāhya-viṣaya*):** Advaita commentary explains that while Consciousness in its essential nature is unconditioned and non-different in all states, in the waking state it appears to move outward through ignorance (*avidyā*). The mind (*antaḥkaraṇa*) projects itself through the sense organs onto physical entities, giving rise to the illusion that objects exist independently outside the perceiver.
 2. **Instruments of cognition:** *Vaiśvānara* experiences gross external objects through nineteen "mouths" or instruments: the five organs of perception (*jñānendriya*: ear, skin, eye, tongue, nose), five organs of action (*karmendriya*: speech, hands, feet, organ of excretion, organ of generation), five vital airs (*prāṇa*, *apāna*, *vyāna*, *udāna*, *samāna*), and four internal mental faculties (*manas*, *buddhi*, *ahaṅkāra*, *citta*).

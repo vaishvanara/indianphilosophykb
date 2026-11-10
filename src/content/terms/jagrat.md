@@ -46,7 +46,7 @@ Textual and Exegetical Analysis:
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Significant differences in translation, grammatical analysis, and philosophical interpretation surrounding *jāgrat* are documented across Indian traditions and modern scholarship:
 
@@ -62,7 +62,7 @@ Significant differences in translation, grammatical analysis, and philosophical 
 
 ---
 
-## Related Terms
+## Related terms
 
 - Advaita (अद्वैत)
 - Avasthā-traya (अवस्थात्रय)

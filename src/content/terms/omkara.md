@@ -50,7 +50,7 @@ In his commentary (*Bhāṣya*), Śaṅkarācārya explains that *Oṃkāra* is 
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 In classical and modern Indian philosophy, several notable interpretative and structural disputes center around *Oṃkāra* and the text of the *Māṇḍūkya Upaniṣad*:
 
@@ -62,7 +62,7 @@ In classical and modern Indian philosophy, several notable interpretative and st
 
 ---
 
-## Related Terms
+## Related terms
 
 - Advaita (अद्वैत)
 - Akṣara (अक्षर)

@@ -67,7 +67,7 @@ Textual and Exegetical Distinctions:
 
 ---
 
-## Primary Texts and Commentaries
+## Primary texts and commentaries
 
 The primary textual locator for *ekātma-pratyaya-sāraṃ* is verse 7 of the *Māṇḍūkya Upaniṣad*:
 
@@ -83,7 +83,7 @@ Key commentaries and treatises clarifying the expression include:
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Differences in translation, grammatical parsing, and philosophical interpretation of *ekātma-pratyaya-sāraṃ* are documented across classical commentaries and modern scholarship:
 
@@ -102,7 +102,7 @@ Differences in translation, grammatical parsing, and philosophical interpretatio
 
 ---
 
-## Related Terms
+## Related terms
 
 - [Advaita (अद्वैत)](advaita.md)
 - [Ātman (आत्मन्)](atman.md)

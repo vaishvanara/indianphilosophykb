@@ -76,9 +76,9 @@ Grammatically, *ekonaviṃśati-mukhaḥ* functions in both verses as a nominati
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
-### Variations in the classification of *antaḥ-karaṇa*
+### Variations in the classification of antaḥ-karaṇa
 
 While Śaṅkara's commentary on *Māṇḍūkya Upaniṣad* verse 3 explicitly enumerates four distinct functions of the inner organ (*manas*, *buddhi*, *ahaṃkāra*, and *citta*) to arrive at the count of nineteen, other Vedantic and Sāṃkhya texts group *antaḥkaraṇa* into two (*manas* and *buddhi*) or three (*manas*, *buddhi*, and *ahaṃkāra*), yielding seventeen items for the subtle body (*sūkṣma-śarīra* or *liṅga-śarīra*). In the *Māṇḍūkya* context, commentators emphasize that *ahaṃkāra* (egoity) and *citta* (memory/recollection) are listed separately from *manas* and *buddhi* specifically to complete the nineteen distinct instruments of experience.
 
@@ -88,7 +88,7 @@ Early modern translations sometimes render *ekonaviṃśati-mukhaḥ* literally 
 
 ---
 
-## Related Terms
+## Related terms
 
 - [Antaḥ-Kāraṇa (अन्तःकारण)](antah-karana.md)
 - [Karmendriya (कर्मेन्द्रिय)](karmendriya.md)

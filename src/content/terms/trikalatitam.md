@@ -52,17 +52,17 @@ The expression *trikālātītaṃ* occurs in the very first verse (Mantra 1) of 
 > ओमित्येतदक्षरमिदं सर्वं तस्योपव्याख्यानं भूतं भवद्भविष्यदिति सर्वमोङ्कार एव । यच्चान्‍यत् त्रिकालातीतं तदप्योङ्कार एव ॥ १ ॥
 > *oṃ ity etad akṣaram idaṃ sarvaṃ tasyopavyākhyānaṃ bhūtaṃ bhavad bhaviṣyad iti sarvam oṅkāra eva | yac cānyat trikālātītaṃ tad apy oṅkāra eva || 1 ||*
 
-### Grammatical Function and Textual Context
+### Grammatical function and textual context
 
 Grammatically, *trikālātītaṃ* functions as a neuter adjectival predicate in apposition to *yac cānyat* ("whatever else [there is]"). The verse establishes a comprehensive exposition (*upavyākhyāna*) of the sacred syllable *Oṅkāra* (AUM) as coextensive with all existence (*idaṃ sarvam*). 
 
 The text first defines *sarvam* ("everything") across the three empirical dimensions of time: *bhūtaṃ* (the past), *bhavad* (the present), and *bhaviṣyad* (the future), declaring that all temporal manifestations are nothing other than *Oṅkāra* (*sarvam oṅkāra eva*). Immediately following this temporal taxonomy, the Upaniṣad introduces the clause *yac cānyat trikālātītaṃ tad apy oṅkāra eva*—asserting that whatever reality exists beyond or transcendent of the threefold division of time is likewise verily *Oṅkāra*.
 
-### Philosophical Significance
+### Philosophical significance
 
 The inclusion of *trikālātītaṃ* in Mantra 1 resolves a central metaphysical question in Vedāntic ontology: whether sacred sound (*Oṅkāra*) is merely a finite symbol bound to phenomenal creation or the ultimate Reality itself. By framing *Oṅkāra* as both the totality of empirical time and that which transcends time (*trikālātītaṃ*), the *Māṇḍūkya Upaniṣad* bridges the immanent cosmos with the transcendent Absolute.
 
-### Exegetical Layers: Upaniṣad, Śaṅkara, and Gauḍapāda
+### Exegetical layers: Upaniṣad, Śaṅkara, and Gauḍapāda
 
 Advaita Vedānta tradition distinguishes three complementary layers of text and commentary when interpreting this passage:
 
@@ -72,35 +72,39 @@ Advaita Vedānta tradition distinguishes three complementary layers of text and 
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
-### Translation Nuances
+### Translation nuances
 
 Scholars and translators exhibit subtle differences in rendering *trikālātītaṃ*:
+
 - Swami Nikhilananda translates the clause as "whatever else there is, beyond the threefold division of time."
 - Other academic renders emphasize the verbal action of the participle, translating it as "that which has transcended the three times" or "the timeless Reality."
 
-### Causal Unmanifest (*Avyākṛta*) vs. Absolute Transcendent (*Turīya*)
+### Causal Unmanifest (Avyākṛta) vs. Absolute Transcendent (Turīya)
 
 A key exegetical debate within Advaita circles concerns whether *trikālātītaṃ* in Mantra 1 refers primarily to the unmanifested causal principle (*avyākṛta* / *kāraṇātman*) or directly to the ultimate Fourth (*Turīya*):
+
 - Some commentators note that *avyākṛta* (the unmanifest state preceding cosmic projection) is *trikālātīta* in the sense of being unconditioned by empirical past, present, or future, yet it still contains the seed of time (*kāla-bīja*).
 - Śaṅkara clarifies that while the unmanifest causal state may be described as beyond empirical time, true liberation (*mokṣa*) pertains only to *Turīya*, which is entirely free from both cause (*kāraṇa*) and effect (*kārya*).
 
-### Ontological Status of Oṅkāra (*Nāma-Nāmī-Abheda*)
+### Ontological status of Oṅkāra (Nāma-Nāmī-Abheda)
 
 A major philosophical dispute exists between Advaita Vedānta and dualistic traditions regarding the semantic relationship between the name (*nāma*) and the named object (*nāmī*):
+
 - **Advaita Vedānta (Śaṅkara & Gauḍapāda)**: Asserts the absolute identity (*abheda*) of *Oṅkāra* and *Brahman*. *Oṅkāra* is not a mere arbitrary indicator; the sound-substratum and the ontological substratum are identical.
 - **Dualistic & Theistic Traditions (Dvaita / Viśiṣṭādvaita)**: As noted in comparative treatises (e.g., Potter's *Encyclopedia*), non-Advaitic commentators treat *Oṅkāra* primarily as a symbolic emblem (*pratīka*) or reverential designation of the personal Godhead (*Īśvara*), rejecting complete ontological identity between the linguistic symbol and the transcendent Absolute.
 
-### Textual Status of the Māṇḍūkya Text and Kārikā
+### Textual status of the Māṇḍūkya text and Kārikā
 
 As documented in historical surveys of Indian philosophy, there has been scholarly debate concerning the textual boundary of the *Māṇḍūkya Upaniṣad*:
+
 - Standard Advaita tradition treats the 12 prose passages as the original *śruti* and Gauḍapāda's 215 verses as an expository commentary (*kārikā*).
 - Alternative traditions (including commentators within the Dvaita and Viśiṣṭādvaita schools) treated the first 29 *kārikās* of Book One (*Āgama Prakaraṇa*) as part of the revealed *śruti* text itself, leading to distinct structural boundaries in their textual analysis of Mantra 1 and its immediate context.
 
 ---
 
-## Related Terms
+## Related terms
 
 - Amātra (अमात्र)
 - Avyākṛta (अव्याकृत)

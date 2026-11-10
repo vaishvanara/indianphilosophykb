@@ -36,7 +36,8 @@ The Sanskrit word formation of *nāprajñam* (नाप्रज्ञम्) co
 
 ## Nāprajñam in the Māṇḍūkya Upaniṣad
 
-### Contextual Location and Grammatical Function
+### Contextual location and grammatical function
+
 The expression *nāprajñam* occurs in Mantra 7 of the *Māṇḍūkya Upaniṣad*, the fundamental Atharvavedic text analyzing the four quarters (*pādas*) of the Self (*Ātman*) and the sacred syllable *AUM*. Mantra 7 defines the "Fourth" (*Turīya*) quarter through a rigorous apophatic methodology (*via negativa* or *neti neti*) composed of six negative clauses regarding consciousness:
 
 1. *nāntaḥprajñam* ("not conscious of the internal subjective world", negating the dream state, *Taijasa*);
@@ -48,10 +49,11 @@ The expression *nāprajñam* occurs in Mantra 7 of the *Māṇḍūkya Upaniṣa
 
 In this textual setting, *nāprajñam* functions as a predicate adjective in the neuter singular qualifying *Turīya*.
 
-### Contextual Meaning and Philosophical Significance
+### Contextual meaning and philosophical significance
+
 Having systematically negated all empirical and causal modes of awareness—waking perception, dream imagination, and dreamless massed ignorance—the seeker might incorrectly conclude that *Turīya* is total unconsciousness or an absolute void (*śūnya*). The Upaniṣad specifically appends *nāprajñam* to prevent this nihilistic misinterpretation, establishing that *Turīya* is neither a state of unconsciousness nor an insentient entity.
 
-### Exegetical Developments
+### Exegetical developments
 
 - **Upaniṣadic Text**: The Upaniṣad presents *Turīya* not as a discrete fourth state succeeding three states, but as the changeless, non-dual Substratum (*ekātmapratyayasāra*) underlying all three transient states of experience.
 - **Gauḍapāda's Kārikā**: In the *Āgama Prakaraṇa* (Kārikās 10–15), Gauḍapāda explains that while *Prajñā* (deep sleep) is bound by cause (*bīja-nidrā*, non-apprehension of reality), and *Viśva* and *Taijasa* are bound by both cause and effect (*svapna*, misapprehension of reality), *Turīya* is entirely free from both cause and effect. Gauḍapāda highlights that non-cognition of duality is common to both deep sleep and *Turīya*, but in *Turīya* there is no seed of ignorance or sleep whatsoever.
@@ -59,7 +61,7 @@ Having systematically negated all empirical and causal modes of awareness—waki
 
 ---
 
-## Related Terms
+## Related terms
 
 - Advaita (अद्वैत)
 - Antaḥprajña (अन्तःप्रज्ञ)

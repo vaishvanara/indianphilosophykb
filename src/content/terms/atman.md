@@ -81,7 +81,7 @@ In all sub-schools of Advaita, liberation (*mokṣa*) is attained not by perform
 
 ---
 
-## Ātman in Other Indian Traditions
+## Ātman in other indian traditions
 
 To clarify the precise Vedantic meaning of *Ātman*, Advaita texts systematically contrast their doctrine with rival philosophical systems:
 
@@ -91,7 +91,7 @@ To clarify the precise Vedantic meaning of *Ātman*, Advaita texts systematicall
 
 ---
 
-## Primary Texts and Commentaries
+## Primary texts and commentaries
 
 ### Upanishads
 
@@ -100,7 +100,7 @@ To clarify the precise Vedantic meaning of *Ātman*, Advaita texts systematicall
    - *Chāndogya Upaniṣad*: Formulates the doctrine of the Infinite Self (*Bhūmā*, VII.23–24) and the identity of *jīva* and *Brahman* (VI.8.7: *"Tat Tvam Asi"*).
    - *Īśa Upaniṣad*: Declares the unity of *Ātman* in all beings (Verse 6).
 
-### Karikas and Classical Treatises
+### Kārikā and classical treatises
 
    - Gauḍapāda, *Māṇḍūkya-kārikā* (also known as *Āgama-śāstra*): Comprising four chapters (*Āgama*, *Vaitathya*, *Advaita*, and *Alātaśānti*), this foundational text uses reason and Vedic testimony to establish *Ajātivāda* and the sole reality of *Turīya-ātman*.
    - Śaṅkarācārya, *Māṇḍūkyopaniṣad-bhāṣya* and *Gauḍapādakārikā-bhāṣya*: Classical commentaries establishing the non-dual interpretation of *Ātman* and refuting dualist and Buddhist objections.
@@ -109,24 +109,24 @@ To clarify the precise Vedantic meaning of *Ātman*, Advaita texts systematicall
    - Vidyāraṇya, *Pañcadaśī*: Comprehensive treatise detailing the five sheaths, three bodies, and the witness-nature of *Kūṭastha-ātman*.
    - Sadānanda, *Vedāntasāra*: Textual manual detailing the process of superimposition (*adhyāropa*) and de-superimposition (*apavāda*).
 
-### Modern Scholarship and Translations
+### Modern scholarship and translations
 
    - Potter, Karl H. (Ed.), *Encyclopedia of Indian Philosophies, Vol. 3: Advaita Vedānta up to Śaṁkara and His Pupils*: Historical and analytical summary of primary Advaita literature.
    - Nikhilananda, Swami, *The Upanishads* (Vols. I–IV) and *Atmabodha*: English translations providing Śaṅkara's traditional commentarial perspectives.
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
-### The Nature of Turīya
+### The nature of Turīya
 
 A major interpretative issue concerns whether *Turīya* represents a fourth temporal state of consciousness that succeeds waking, dream, and deep sleep, or whether it is the transcendent Absolute underlying all three. Śaṅkara explicitly clarifies in his *Māṇḍūkyopaniṣad-bhāṣya* that *Turīya* is not a numerical fourth state, but the changeless substratum (*adhiṣṭhāna*) of all states, designated as "fourth" only sequentially relative to the three empirical quarters.
 
-### Advaita vs. Buddhist Dialectics in Gauḍapāda
+### Advaita vs. Buddhist dialectics in Gauḍapāda
 
 Modern scholars (such as Vidhushekhara Bhattacharya and Karl Potter) and traditional Vedantins have debated Gauḍapāda's relationship to Mahāyāna Buddhism (specifically Madhyamaka and Yogācāra). While Gauḍapāda uses dialectical terms common to Buddhist philosophy (e.g., *alāta-śānti*, *samvṛti*, *dharma*), Śaṅkara and orthodox Advaitins maintain that Gauḍapāda's ontology is distinctly Upanishadic, affirming the positive, eternal Reality of the self-luminous *Ātman*, whereas Buddhism rejects an enduring *Ātman* altogether (*Māṇḍūkyopaniṣad-bhāṣya* IV.99–100).
 
-### Inter-Vedantic Disputes on Jīva and Brahman
+### Inter-Vedantic disputes on Jīva and Brahman
 
 While Advaita Vedānta asserts the absolute identity (*abheda*) of *Ātman* and *Brahman*, the Viśiṣṭādvaita school of Rāmānuja holds that the individual self (*jīva*) is an organic mode or part (*aṁśa*) of God, and the Dvaita school of Madhva asserts an eternal, real difference (*bheda*) between God and individual souls. Advaitins respond that scriptural passages declaring difference are secondary descriptions of empirical conditions (*upādhi*), whereas passages asserting identity express the ultimate purport (*tātparya*) of revelation.
 

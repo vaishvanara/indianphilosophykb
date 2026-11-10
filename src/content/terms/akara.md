@@ -38,7 +38,7 @@ In the *Māṇḍūkya Upaniṣad* (verses 8–9) and its accompanying commentar
 
 The Upaniṣad identifies *akāra*, the first letter of *AUM*, with *Vaiśvānara* (or *Viśva*), the first quarter of the Self. *Vaiśvānara* is the consciousness operating in the waking state (*jāgrat-sthāna*), conscious of external objects (*bahiṣ-prajña*), endowed with seven limbs and nineteen mouths, and experiencing the gross physical universe (*sthūlabhug*).
 
-### Grounds of equivalence (*Sāmānya*)
+### Grounds of equivalence (sāmānya)
 
 The *Māṇḍūkya Upaniṣad* establishes the correspondence between *akāra* and *Vaiśvānara* on two explicit shared features:
 

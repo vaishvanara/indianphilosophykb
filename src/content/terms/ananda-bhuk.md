@@ -32,7 +32,7 @@ Etymologically, *ānanda-bhuk* is a Sanskrit agentive compound (*upapada-tatpuru
 
 ---
 
-## Ānanda-Bhuk in the Māṇḍūkya Upaniṣad
+## Ānanda-bhuk in the Māṇḍūkya Upaniṣad
 
 In the *Māṇḍūkya Upaniṣad* (verse 5) and its classical commentary tradition (*Gauḍapāda Kārikā*, Śaṅkarācārya's *Bhāṣya*, Śrī Sadananda's *Vedāntasāra*, and Śrī Vidyāraṇya Svāmī's *Pañcadaśī*), *ānanda-bhuk* plays an essential role in defining the cognitive and experiential nature of *Prājña* in deep sleep (*suṣupti*).
 
@@ -47,11 +47,11 @@ Advaita Vedānta exegesis explains how *Prājña* functions as *ānanda-bhuk*:
 1. **Resolution of subject-object duality:** In the waking (*jāgrat*) and dream (*svapna*) states, Consciousness experiences gross and subtle objects through the dualistic, active modifications of the intellect (*antaḥkaraṇa-vṛtti*), resulting in fleeting, object-dependent pleasures (*viṣayānanda*). In deep sleep, the mind and sense organs fold back into their causal source, seed-ignorance (*kāraṇa-śarīra* / *mūla-avidyā*).
 2. **Reflected bliss (*ānandābhāsa*):** Devoid of mental agitation (*vikalpa*) and objectification, *Prājña* experiences the tranquil reflection of *Brahman*'s intrinsic bliss through extremely subtle, non-differentiated modifications of nescience (*ajñāna-vṛtti*) illumined by Pure Consciousness (*caitanya*).
 
-### Epistemological proof (*smarana*)
+### Epistemological proof (smarana)
 
 The reality of *Prājña* as *ānanda-bhuk* is established through the universal post-waking recollection: "I slept happily; I knew nothing" (*sukham aham asvāpsam na kiñcid avediṣam*). Because recollection presupposes prior direct experience, this memory confirms that an unconditioned, peaceful bliss was experienced during deep sleep by *Prājña* via subtle awareness.
 
-### Distinction from Supreme Liberation (*Turīya*)
+### Distinction from Supreme Liberation (Turīya)
 
 Advaita commentary emphasizes that while *Prājña* as *ānanda-bhuk* enjoys bliss free from mental grief, this state is not the ultimate transcendent Liberation (*mokṣa* or *Turīya*). In deep sleep, bliss remains veiled by causal ignorance (*avidyā*), containing latent impressions (*saṁskāra*) that impel the individual back into dream and waking states upon reawakening. In *Turīya* (the "Fourth"), this seed-ignorance is completely sublated by Self-knowledge (*jñāna*), revealing eternal, unconditioned Non-dual Bliss (*Nirguṇa Brahman*).
 

@@ -26,10 +26,12 @@ In its specific textual context in the *Māṇḍūkya Upaniṣad* (mantra 5), *
 ## Etymology
 
 The compound *suṣupta-sthāna* comprises two nominal members:
+
 1. *suṣupta* (सुषुप्त): A past passive participle derived from the verbal root *svap* (स्वप्, "to sleep") prefixed with the intensive/approbatory particle *su-* (सु-, "well", "profoundly") and the *kta* suffix (*-ta*). Through standard rules of Sanskrit phonology (*sandhi*), the dental sibilant *s* shifts to the retroflex *ṣ* following the vowel *u* (*nati* rule).
 2. *sthāna* (स्थान): A neuter noun formed from the verbal root *sthā* (स्था, "to stand", "abide") combined with the nominalizing suffix *-ana* (*lyuṭ*), meaning an abode, standing place, or sphere.
 
 In Sanskrit grammatical analysis (*samāsa*), the compound exhibits two distinct structural interpretations based on syntactic function:
+
 - As an abstract noun designating the state itself, it is analyzed as a Dependent Determinative (*Tatpuruṣa*) compound—specifically a Genitive Determinative (*Ṣaṣṭhī-tatpuruṣa*): *suṣuptasya sthānam* ("the place/locus of deep sleep")—or as a Descriptive Determinative (*Karmadhāraya*): *suṣuptaṃ ca tat sthānaṃ ca* ("the place which is deep sleep").
 - As an adjectival epithet applied to *Prājña* in *Māṇḍūkya Upaniṣad* 5, Śaṅkarācārya establishes its compound classification as a Possessive/Attributive Compound (*Bahuvrīhi*). Śaṅkara provides the explicit analytical expansion (*vigraha-vākya*): *suṣuptaṃ sthānam asyeti suṣuptasthānaḥ* ("he whose locus or sphere of existence is deep sleep").
 
@@ -45,13 +47,14 @@ Syntactically, *suṣuptasthānaḥ* serves as a nominative masculine singular a
 The surrounding text defines the state of *suṣupta* as that condition wherein the sleeping person entertains no desires (*na kaṃcana kāmaṃ kāmayate*) and beholds no dreams (*na kaṃcana svapnaṃ paśyati*). The Upaniṣad further characterizes *Prājña* residing in *suṣupta-sthāna* through a series of significant attributes: *ekībhūtaḥ* (become unified), *prajñānaghanaḥ* (a dense mass of consciousness), *ānandamayaḥ* (consisting of bliss), *ānandabhuk* (experiencer of bliss), and *cetomukhaḥ* (the gateway to awareness).
 
 **Philosophical Significance and Textual Layering:**
+
 - **The Upaniṣadic Core**: The *Māṇḍūkya Upaniṣad* presents a four-fold framework (*catuṣpād*) of Reality. While the first quarter (*Vaiśvānara*) operates in the waking sphere (*jāgarita-sthāna*) experiencing gross objects, and the second quarter (*Taijasa*) operates in the dream sphere (*svapna-sthāna*) experiencing subtle mental forms, *Prājña* in *suṣupta-sthāna* represents the resolution of all duality into an undifferentiated mass of cognition.
 - **Gauḍapāda's Kārikā**: In the *Āgama Prakaraṇa* (Kārikā I.1 & I.15), Gauḍapāda contrasts the three states by analyzing their cognitive defects. Gauḍapāda asserts that waking and dream are characterized by *anyathā-grahaṇa* (misapprehension or false projection of reality), whereas deep sleep (*suṣupti*) is characterized by *tattvājñāna* or *agrahaṇa* (non-apprehension of reality). *Prājña* in *suṣupta-sthāna* is bound by causal ignorance (*kāraṇa-baddha*), whereas the fourth state (*Turīya*) transcends both non-apprehension and misapprehension.
 - **Śaṅkarācārya's Commentary**: Śaṅkara clarifies that *Prājña* is called *ānandamaya* in *suṣupta-sthāna* not because it has attained ultimate liberation or absolute Bliss (*mukhyam ānandatvam*), but because the mind is relieved from the strain of subject-object dualistic effort (*viṣaya-viṣayi-sambandha-janita-anāyāsa*). Śaṅkara also interprets *cetomukhaḥ* as indicating that the consciousness of *suṣupta-sthāna* serves as the doorway (*mukha*) for entering into the waking and dream states.
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Documented differences concerning *suṣupta-sthāna* and its associated concepts center on three key areas:
 
@@ -68,7 +71,7 @@ Documented differences concerning *suṣupta-sthāna* and its associated concept
 
 ---
 
-## Related Terms
+## Related terms
 
 - Ānandamaya (आनन्दमय)
 - Cetomukha (चेतोमुख)

@@ -36,12 +36,14 @@ In Tantric esoteric etymology, *Śiva* is associated with the seed-syllables and
 ## Śiva in Śākta Tantra and Kuṇḍalinī Yoga
 
 In Śākta Tantra and Kuṇḍalinī Yoga, *Śiva* represents pure transcendental consciousness, the static, unchanging pole of reality (*prakāśa*), whereas *Śakti* constitutes its dynamic, kinetic, and self-referential power (*vimarśa*). The school affirms a non-dual monism (*advaita*) wherein *Śiva* and *Śakti* are inseparably united (*yamalarūpa*), like a grain of gram (*caṇaka*) containing two cotyledons enclosed in a single sheath. *Śiva* exists in two fundamental aspects:
+
 1. *Niṣkala* (or *Nirguṇa*) *Śiva*: The transcendent, undivided absolute devoid of manifested *śakti*, existing as pure Being-Consciousness-Bliss (*sat-cit-ānanda*).
 2. *Sakala* (or *Saguṇa*) *Śiva*: The immanent Lord accompanied by kinetic energy, functioning as the source of cosmic sound (*śabdabrahman*), categories (*tattva*s), and cosmic manifestation.
 
 Cosmologically, in *Mahānirvāṇa Tantra*, *Paramaśiva* manifests as a septenary hierarchy beginning with *Śambhu* (the associate of time), followed by *Sadāśiva*, *Īśāna*, and the triad *Rudra*, *Viṣṇu*, and *Brahmā*. Together with *Īśāna* and *Sadāśiva*, these constitute the five *Śiva*s known as the *mahāpreta*, who form the base and seat upon which the transcendent *Devī* unites with *Paramaśiva*. 
 
 Microcosmically, *Śiva* resides in the human body in two chief centers:
+
 - At the base of the spine, in the *mūlādhāracakra*, He resides as the *svayambhūliṅga*, around which the dormant *kuṇḍalinī-śakti* lies coiled three-and-a-half times, closing the entrance to the central channel (*brahmadvāra*).
 - At the crown of the head, in the thousand-petalled lotus (*sahasrārapadma*), He abides in the pericarp as *Paramaśiva* in the *baindava* seat of *candramaṇḍala*. 
 
@@ -52,6 +54,7 @@ The mechanics of Kuṇḍalinī Yoga (*ṣaṭcakrabheda* or *layayoga*) consist
 ## Śiva in Śaiva Siddhānta and Kashmir Śaivism
 
 In the broader schools of Śaivism, *Śiva* is the foundational reality, but the traditions differ on ontology:
+
 - In dualistic Śaiva Siddhānta, *Śiva* is the efficient cause of the cosmos and the supreme soul who remains distinct from bound individual souls (*paśu*) and the material world (*pāśa*). The connection between *Śiva* and the soul is structured through the six pathways (*ṣaḍ-adhvan*): *mantra*, *varṇa*, *pada*, *bhuvana*, *tattva*, and *kalā*. Bondage is caused by innate impurities (*mala*s)—namely *āṇava*, *māyā*, and *karma*—which veil the soul's innate *śivatva* (Śiva-nature) until *Śiva*'s descent of grace (*śaktipāta*) effects release.
 - In non-dual Kashmir Śaivism (*Trika*), *Śiva* is the autonomous, self-luminous absolute (*parasaṃvit*, *prakāśa*) whose innate freedom (*svātantrya*) radiates as cosmic manifestation through His own *śakti*. The universe is not an external creation but an expansion (*prasāra*) of *Śiva* Himself. Through five divine coverings (*kañcuka*s: *kāla*, *niyati*, *rāga*, *vidyā*, and *kalā*), *Śiva* freely contracts Himself into the limited individual soul (*jīva* or *aṇu*). Liberation is the spontaneous recognition (*pratyabhijñā*) that one's true identity has always been *Śiva*.
 
@@ -63,9 +66,10 @@ Within classical Nyāya and Vaiśeṣika, the concept of God (*Īśvara*) was hi
 
 ---
 
-## Primary Texts and Commentaries
+## Primary texts and commentaries
 
 Primary textual traditions and their traditional commentaries provide specific technical elaborations of *Śiva*:
+
 - **Ṣaṭ-Cakra-Nīrūpaṇa of Pūrṇānanda Svāmī**:
   - *Verse 29*: Describes *Sadāśiva* in the *viśuddha-cakra* as five-faced, ten-armed, snow-white, united with *Girijā* (Pārvatī), and clothed in a tiger skin (*sadāpūrvo devaḥ śiva iti ca samākhyānasiddhaḥ prasiddhaḥ*).
   - *Verse 42*: Details the subtle *bindu* in the *sahasrāra*, identifying it as the abode of the deity known to all as *Paramaśiva*, the supreme *Brahman* and *Ātman* of all beings (*paramashiva-samākhyāna-siddha*).
@@ -80,7 +84,7 @@ Primary textual traditions and their traditional commentaries provide specific t
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Significant doctrinal and textual disputes surround the conception of *Śiva*:
 

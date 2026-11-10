@@ -67,7 +67,7 @@ The surrounding text of the *Māṇḍūkya Upaniṣad* sets up a four-fold fram
 
 ---
 
-## Primary Texts and Commentaries
+## Primary texts and commentaries
 
 The primary textual locator for *ceto-mukhaḥ* is verse 5 of the *Māṇḍūkya Upaniṣad*:
 
@@ -83,7 +83,7 @@ Key commentaries and treatises explicating the expression include:
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 Differences in translation, grammatical analysis, and philosophical interpretation of *ceto-mukhaḥ* are documented across classical and modern sources:
 

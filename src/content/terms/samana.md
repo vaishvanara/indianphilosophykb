@@ -48,38 +48,46 @@ The term occurs in Mantra 10 of the *Māṇḍūkya Upaniṣad*:
 > 
 > "Taijasa, whose sphere of activity is the dream state, is *U*, the second letter [of *AUM*], on account of superiority [*utkarṣa*] or on account of intermediateness [*ubhayatva*]. He who knows this exalts the continuum of knowledge, becomes equal / is treated equally by all [*samānaś ca bhavati*], and in his family no one is born who is not a knower of Brahman—[thus it is for him] who knows this."
 
-### Surrounding Context and Grammatical Function
+### Surrounding context and grammatical function
+
 The *Māṇḍūkya Upaniṣad* correlates the four quarters (*pādas*) of the Self (*Ātman*) with the measures (*mātrās*) of *AUM* (Mantras 8–12). Mantra 9 equates *Vaiśvānara* (the waking self) with the letter *A* on the grounds of pervasiveness (*āpti*) and precedence (*ādimattva*), granting as its fruit that the knower obtains all desires and becomes foremost (*ādiś ca bhavati*). 
 
 Mantra 10 turns to the second quarter, *Taijasa*, and identifies it with the second measure, the vowel *U* (*ukāra*). The Upaniṣad offers two structural grounds for this equation:
+
 1. *Utkarṣāt* (from superiority/elevation): Sequentially and acoustically, *U* appears elevated after *A*; epistemologically, *Taijasa* cognizes subtle, internal mental impressions (*vāsanās*), which represent an inward advance over the gross external perceptions of *Vaiśvānara*.
 2. *Ubhayatvāt* (from intermediateness / being intermediate): The letter *U* stands in the middle between *A* and *M*; correspondingly, the dream consciousness (*Taijasa*) occupies an intermediate position between waking (*Vaiśvānara*) and dreamless sleep (*Prājña*).
 
 Following this analysis, the text proclaims a three-part *phala-śruti* (declaration of meditative reward) for the practitioner who realizes this identity:
+
 1. *Utkarṣati ha vai jñānasantatim*: his stream of knowledge increases and exalts.
 2. *Samānaś ca bhavati*: he becomes equal or is treated with equality by all.
 3. *Nāsya abrahmavit kule bhavati*: no one lacking knowledge of Brahman is born in his lineage.
 
-### Distinction Between Textual Layers
+### Distinction between textual layers
 
-#### The Upaniṣadic Text
+#### Upanishadic text
+
 The Upaniṣadic prose formulates *samānaś ca bhavati* as a direct consequence of understanding intermediateness (*ubhayatva*) and elevation (*utkarṣa*). It marks the transition of the meditator from external dispersion toward non-dual balance.
 
 #### Gauḍapāda's Kārikā
+
 In the *Āgama Prakaraṇa*, Gauḍapāda restates and analyzes the rationale of Mantra 10 in Kārikā 1.20:
+
 > उत्कर्षात्संप्रतिपत्तिरुकारस्योभयत्वतः ।  
 > *utkarṣāt sampratipattir ukārasyobhayatvataḥ |*  
 > "The clear ground of realizing Taijasa as of the same nature as U is the common feature of 'superiority'; similarly another plain reason of such identity is being in 'the middle'."
 
 Gauḍapāda focuses his verse commentary on the philosophical justification for the correspondence (*sāmya* / common features) rather than repeating the full *phala-śruti* phrase. In Kārikā 1.22, Gauḍapāda summarizes the fruit of comprehending these commonalities across all three states, noting that one who understands these relationships with certainty is adored and respected by all beings (*sarvabhūtaiḥ pūjyaḥ*), echoing the exalted, harmonious status signified by *samāna*.
 
-#### Śaṅkara’s Commentary
+#### Śaṅkara’s Bhāṣya
+
 In his commentary (*Bhāṣya*) on Mantra 10, Śaṅkarācārya explains the contextual meaning of *samānaś ca bhavati* specifically in terms of freedom from malice and mutual enmity:
 > "He is regarded in the same way by all, i.e., his enemies, like his friends, do not envy [or injure] him."
 
 Śaṅkara glosses *samānaḥ* as being an object of equal, non-hostile regard across opposing groups (*mitra-pakṣa* and *ari-pakṣa*). Because the meditator has understood the intermediate nature of subtle consciousness, which bridges and reconciles outer and inner divisions, the empirical polarities of friend and foe subside into uniform impartiality.
 
-### Philosophical Significance in Advaita Vedānta
+### Philosophical significance in Advaita Vedānta
+
 In Advaita Vedānta, the dream state demonstrated by *Taijasa* reveals that experienced phenomena are essentially mental appearances projected upon consciousness. Meditating on *Taijasa* as the intermediate syllable *U* loosens attachment to gross objectivity and leads the mind toward the stillness of *Prājña* and ultimately the non-dual transcendence of *Turīya*. The realization of *samāna* reflects the dawn of *samadarśana* (equal vision) and *samatva* (equanimity), wherein the knower transcends personal partiality and abides in the flawless, impartial reality of Brahman.
 
 In Karl H. Potter's survey of early Vedāntic literature, *samāna* constitutes one of the fivefold functional modifications of the cosmic vital energy (*prāṇa*) operating within the individual subtle body (*liṅgaśarīra*). Together with the five organs of action (*karmendriya*), the five vital airs form the vital sheath (*prāṇamayakośa*).
@@ -124,7 +132,7 @@ Commenting on this sūtra, Vātsyāyana’s *Nyāyasūtrabhāṣya* and Uddyotak
 
 ---
 
-## Related Terms
+## Related terms
 
 - jñānasantati (ज्ञानसंतति)
 - mātrā (मात्रा)

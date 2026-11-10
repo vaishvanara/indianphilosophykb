@@ -21,6 +21,7 @@ The Sanskrit term *pāda* (पाद) primarily denotes the physical "foot" or "
 In the specific philosophical context of the *Māṇḍūkya Upaniṣad* (Mantra 2: *so 'yam ātmā catuṣpāt*), *pāda* is employed metaphorically to describe the four "quarters" or dimensions of the Self (*Ātman*) and ultimate Reality (*Brahman*). These four quarters comprise the three relative states of experience—the waking state (*Viśva* / *Vaiśvānara*), the dream state (*Taijasa*), and the deep-sleep state (*Prajñā*)—and the unconditioned fourth state (*Turīya*), which is partless, serene, and the sublation of all phenomenal duality (*prapañcopaśama*).
 
 In his commentary (*Bhāṣya*), Śaṅkarācārya clarifies the hermeneutical function of *pāda* in the *Māṇḍūkya* by contrasting two analogies:
+
 1. **The Cow Analogy (*Gao-vat*)**: *Ātman* does not possess four *pādas* like the physical feet of a cow, which exist simultaneously as separate, independent limbs.
 2. **The Currency Coin Analogy (*Kārṣāpaṇa-vat*)**: Rather, *pāda* operates like the four quarters of a currency coin (a *kārṣāpaṇa*). Just as a quarter-coin is absorbed into a half-coin, a half into three-quarters, and three-quarters into the full coin, the waking quarter (*Viśva*) is merged into the dream quarter (*Taijasa*), dream into deep sleep (*Prajñā*), and deep sleep into the non-dual fourth quarter (*Turīya*).
 

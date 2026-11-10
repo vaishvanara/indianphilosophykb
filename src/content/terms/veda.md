@@ -37,19 +37,26 @@ Additionally, homonymous nominal forms exist, such as *vedá* (masculine), desig
 
 In Advaita Vedānta, as formulated by Śaṅkarācārya and his commentary tradition, *Veda* holds a supreme epistemological position as the primary verbal testimony (*śabda-pramāṇa* or *śruti-pramāṇa*) for the realization of non-dual Reality (*Brahman*). Because the Supreme Self (*Ātman*/*Brahman*) is unattached, formless, and beyond the reach of sensory perception (*atīndriya*), empirical means of knowledge like perception (*pratyakṣa*) and inference (*anumāna*) cannot independently establish the non-difference of *Jīva* and *Brahman*. The function of the *Veda* is not to create a new object, but to remove the innate ignorance (*avidyā*) that veils the self-luminous Reality.
 
-### *Apauruṣeyatva* and Cosmic Eternity
+### Apauruṣeyatva and cosmic eternity
+
 Advaita Vedānta affirms the uncreated (*apauruṣeya*) and eternal (*nitya*) character of the *Veda*. The primary text of the *Bṛhadāraṇyaka Upaniṣad* establishes that the *Veda* issued forth as the effortless breath of the Supreme Lord (*Īśvara*). In his commentary on the *Brahma Sūtras* (1.3.28–29), Śaṅkarācārya clarifies that while individual manifestations of world-forms undergo creation and dissolution (*pralaya*), the Vedic words represent eternal species-archetypes (*ākṛti*) and their relationship with their signified meanings is constant. The ancient seers (*ṛṣis*) are thus not authors (*kartā*) of the *Veda*, but intuitive discoverers (*draṣṭā*) who apprehended the eternal Vedic mantras through meditative austerity.
 
-### Structure: *Karma-kāṇḍa* versus *Jñāna-kāṇḍa*
+### Structure: Karma-kāṇḍa vs. jñāna-kāṇḍa
+
 Advaita Vedānta acknowledges the traditional division of the *Veda* into two main functional sections:
+
 * **The *Karma-kāṇḍa* (Work Portion)**: Comprising the *Saṃhitās* and *Brāhmaṇas*, this section deals with sacrificial duties, rituals, and moral injunctions (*vidhi*). It operates within the realm of relative duality and ignorance, providing means for mental purification (*citta-śuddhi*) and heavenly rewards.
 * **The *Jñāna-kāṇḍa* (Knowledge Portion)**: Comprising the *Upaniṣads* (or *Vedānta*), this section presents direct instruction on the identity of *Jīva* and *Brahman* through declarative statements (*mahāvākyas*) like *Tat Tvam Asi* ("That Thou Art").
 
-### Ontological Status and Ultimate Sublation
+### Ontological status and ultimate sublation
+
 A distinctive doctrine of Advaita Vedānta is the relative (*vyāvahārika*) validity of scriptural authority. While the *Veda* is the highest *pramāṇa* for spiritual instruction, its authority belongs to the empirical sphere dominated by ignorance. When non-dual intuition (*aparokṣānubhūti*) is realized, the distinction between knower, knowledge, and object of knowledge dissolves. At this ultimate level (*pāramārthika-satya*), the *Veda* fulfills its purpose and is sublated, leaving only the self-luminous, unconditioned *Brahman*.
 
-### Comparison with Other Traditions
-In contrast to the Mīmāṃsā school, which maintains that every Vedic passage must enjoin an action (*kriyā*) to be meaningful, Advaita Vedānta argues that the *Jñāna-kāṇḍa* reveals an already accomplished Reality (*siddha-vastu*) without requiring any action or ritual command. Furthermore, unlike dualistic (*Dvaita*) or qualified non-dualistic (*Viśiṣṭādvaita*) interpretations, Advaita asserts that statements of difference in the *Karma-kāṇḍa* are pedagogical adaptations (*anuvāda*) for those bound by duality, whereas the ultimate purport (*samanvaya*) of all Vedic texts converges solely on non-dual *Brahman*.
+### Comparison with other traditions
+
+In contrast to the Mīmāṃsā school, which maintains that every Vedic passage must enjoin an action (*kriyā*) to be meaningful, Advaita Vedānta argues that the *Jñāna-kāṇḍa* reveals an already accomplished Reality (*siddha-vastu*) without requiring any action or ritual command. 
+
+Furthermore, unlike dualistic (*Dvaita*) or qualified non-dualistic (*Viśiṣṭādvaita*) interpretations, Advaita asserts that statements of difference in the *Karma-kāṇḍa* are pedagogical adaptations (*anuvāda*) for those bound by duality, whereas the ultimate purport (*samanvaya*) of all Vedic texts converges solely on non-dual *Brahman*.
 
 ---
 

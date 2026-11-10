@@ -45,8 +45,10 @@ The phrase *nāntaḥ-prajñaṃ* occurs at the beginning of mantra 7 of the *M�
 > *Nāntaḥ-prajñaṃ na bahis-prajñaṃ nobhayataḥ-prajñaṃ na prajñāna-ghanaṃ na prajñam nāprajñam / adṛṣṭam avyavahāryam agrāhyam alakṣaṇam acintyam avyapadeśyam ekātma-pratyaya-sāraṃ prapañcopaśamaṃ śāntaṃ śivam advaitaṃ caturthaṃ manyante sa ātmā sa vijñeyaḥ //*
 > ("Not conscious of the internal world, nor conscious of the external world, nor conscious of both, nor a mass of consciousness, nor simple consciousness, nor unconsciousness; unseen, beyond empirical deal, inapprehensible, featureless, unthinkable, indescribable, the essence of the single experience of the Self, the cessation of phenomena, peaceful, blissful, non-dual—this they consider to be the Fourth (*Turīya*). That is the Self; that is to be known.")
 
-### Contextual Function and Textual Structure
+### Contextual function and textual structure
+
 In the *Māṇḍūkya Upaniṣad*, the Self (*Ātman*) is described as having four quarters (*pādas*):
+
 1. **Viśva / Vaiśvānara** (mantra 3): The waking state (*jāgarita-sthāna*), characterized as *bahiṣ-prajñaḥ* ("conscious of external objects").
 2. **Taijasa** (mantra 4): The dream state (*svapna-sthāna*), characterized as *antaḥ-prajñaḥ* ("conscious of internal objects").
 3. **Prājña** (mantra 5): The deep sleep state (*suṣupta-sthāna*), characterized as *prajñāna-ghanaḥ* ("a mass of consolidated consciousness").
@@ -54,15 +56,17 @@ In the *Māṇḍūkya Upaniṣad*, the Self (*Ātman*) is described as having f
 
 The opening clause *nāntaḥ-prajñaṃ* systematically negates the defining attribute of the second quarter (*Taijasa* / dream state). It is immediately followed by *na bahis-prajñam* (negating *Viśva* / waking state), *nobhayataḥ-prajñam* (negating intermediate or twilight states), *na prajñāna-ghanam* (negating *Prājña* / deep sleep state), *na prajñam* (negating simultaneous all-at-once cognition), and *na aprajñam* (negating insentience or unconsciousness).
 
-### Exegesis in Śaṅkarācārya's Commentary (*Bhāṣya*)
+### Exegesis in Śaṅkarācārya's commentary (Bhāṣya)
+
 In his commentary (*Bhāṣya*) on Mantra 7, Śaṅkarācārya explains that *nāntaḥ-prajñaṃ* refutes any identification of *Turīya* with *Taijasa*. Śaṅkara addresses the objection that defining *Turīya* purely through negative predicates reduces it to a mere void (*śūnya*). He responds that negation (*pratiṣedha*) necessarily presupposes a real substratum (*adhiṣṭhāna*), just as the illusory appearance of a snake requires a rope. The negation of *antaḥ-prajña* and other relative conditions does not eliminate the Self; rather, it removes superimposed limiting adjuncts (*upādhis*). The removal of these false attributions occurs simultaneously (*yugapat*) with the revelation of the changeless *Ātman*, establishing *Turīya* as peaceful (*śānta*), auspicious (*śiva*), and non-dual (*advaita*).
 
 ### Exegesis in Gauḍapāda's Kārikā
+
 In the *Āgama Prakaraṇa* of his *Kārikā* (1.11), Gauḍapāda highlights that while *Viśva* and *Taijasa* are bound by both cause (*kāraṇa*, non-apprehension of reality) and effect (*kārya*, misapprehension of reality), and *Prājña* is bound by cause alone, *Turīya* is entirely free from both cause and effect. The clause *nāntaḥ-prajñaṃ* establishes that *Turīya* is free from the subjective misapprehension (*kārya*) characteristic of *Taijasa*.
 
 ---
 
-## Related Terms
+## Related terms
 
 - Advaita (अद्वैत)
 - Bahiṣ-prajña (बहिष्प्रज्ञ)

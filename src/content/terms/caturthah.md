@@ -48,7 +48,7 @@ Vedantic literature establishes a clear distinction between the core prose *Upan
 
 ---
 
-## Primary Texts and Commentaries
+## Primary texts and commentaries
 
 Primary textual locators and commentary passages establishing the term *caturthaḥ* include:
 

@@ -50,7 +50,7 @@ In Advaita Vedānta, the term *adhyakṣaram* plays a crucial methodological and
 
 ---
 
-## Upāsanā vs. direct realization (*jñāna*)
+## Upāsanā vs. direct realization (jñāna)
 
 A central interpretive discussion in Advaita scholarship concerns whether meditation on *Oṁkāra* from the *adhyakṣaram* standpoint is a symbolic, preliminary exercise (*upāsanā*) or a direct vehicle for non-dual liberation (*jñāna*). 
 

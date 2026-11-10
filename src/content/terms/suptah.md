@@ -30,11 +30,11 @@ Within this context, the term bears two distinct layers of meaning:
 
 ## Etymology
 
-* **Root**: Derived from the Sanskrit verbal root √*svap* (Class II *svapiti*, Class I *svapa*), meaning "to sleep" or "to fall asleep."
-* **Derivation**: Formed by appending the past passive participle suffix *-ta* (*kta*) directly to the root √*svap*. Under standard grammatical rules of internal sandhi, the root vowel and semi-vowel undergo *samprasāraṇa* (vocalic reduction of *va* to *u*), yielding the base *sup-tá*.
-* **Part of Speech & Grammatical Form**: Verbal adjective / past passive participle used substantively in the masculine nominative singular (*suptaḥ*).
-* **Phonetic Environment in Text**: In *Māṇḍūkya Upaniṣad* 5, the visarga of *suptaḥ* is replaced with *o* before the voiced consonant *na* (*suptaḥ* + *na* → *supto na*).
-* **Status**: The etymology and morphological derivation from √*svap* + *-ta* are fully established by Sanskrit lexicographers and grammarians.
+- **Root**: Derived from the Sanskrit verbal root √*svap* (Class II *svapiti*, Class I *svapa*), meaning "to sleep" or "to fall asleep."
+- **Derivation**: Formed by appending the past passive participle suffix *-ta* (*kta*) directly to the root √*svap*. Under standard grammatical rules of internal sandhi, the root vowel and semi-vowel undergo *samprasāraṇa* (vocalic reduction of *va* to *u*), yielding the base *sup-tá*.
+- **Part of Speech & Grammatical Form**: Verbal adjective / past passive participle used substantively in the masculine nominative singular (*suptaḥ*).
+- **Phonetic Environment in Text**: In *Māṇḍūkya Upaniṣad* 5, the visarga of *suptaḥ* is replaced with *o* before the voiced consonant *na* (*suptaḥ* + *na* → *supto na*).
+- **Status**: The etymology and morphological derivation from √*svap* + *-ta* are fully established by Sanskrit lexicographers and grammarians.
 
 ---
 

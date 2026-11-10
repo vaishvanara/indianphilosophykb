@@ -33,7 +33,7 @@ In Mantra 7 of the *Māṇḍūkya Upaniṣad*, the word takes the neuter nomina
 
 ---
 
-## *Na prajñaṃ* in the Māṇḍūkya Upaniṣad
+## Na prajñaṃ in the Māṇḍūkya Upaniṣad
 
 The expression *na prajñaṃ* occurs in Mantra 7 of the *Māṇḍūkya Upaniṣad*, which defines *Turīya*—the non-dual Supreme Reality—through a series of rigorous negative predicates (*neti neti*):
 
@@ -56,7 +56,7 @@ Within this surrounding structure, *na prajñaṃ* denies that *Turīya* is a st
 
 ---
 
-### Commentarial Interpretations
+### Commentarial interpretations
 
 In Śaṅkarācārya's commentary (*Māṇḍūkyopaniṣad-bhāṣya*), Śaṅkara explicitly clarifies that *na prajñaṃ* means *Turīya* is not a state of simultaneous perception of all objects (*na yugapad eva sarvaviṣaya-jñātṛ*). Śaṅkara notes that while *Prājña* (deep sleep) represents the causal seed state (*bīja-nidrā*) where duality is unperceived due to ignorance (*avidyā*), *Turīya* is the ever-illumined, non-dual Reality (*sarva-dṛk*) free from both cause (non-apprehension) and effect (misapprehension).
 
@@ -64,13 +64,13 @@ Gauḍapāda, in his *Māṇḍūkya-kārikā* (Book I, *Āgama Prakaraṇa*), f
 
 ---
 
-### Advaita Vedānta School Perspective
+### Advaita Vedānta school perspective
 
 In the Advaita Vedānta tradition of Śaṅkara and Gauḍapāda, *na prajñaṃ* is essential for preventing the reification of *Turīya* into a relational God (*Īśvara*) or an active mental state. It establishes that *Turīya* is not an object to be known by an instrument of knowledge (*pramāṇa*), but Pure, unconditioned Consciousness (*Caitanya*) in which the subject-object distinction is completely dissolved.
 
 ---
 
-## Related Terms
+## Related terms
 
 - Advaita (अद्वैत)
 - Antaḥ-prajña (अन्तःप्रज्ञ)

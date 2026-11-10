@@ -45,6 +45,7 @@ The expression occurs in Mantra 7 of the *Māṇḍūkya Upaniṣad*, which pres
 > *nāntaḥprajñaṁ na bahiṣprajñaṁ nobhayataḥprajñaṁ na prajñānaghanaṁ na prajñaṁ nāprajñam | adṛṣṭam avyavahāryam agrāhyam alakṣaṇam acintyam avyapadeśyam ekātmapratyayasāraṁ prapañcopaśamaṁ śāntaṁ śivam advaitaṁ caturthaṁ manyante sa ātmā sa vijñeyaḥ ||* (Māṇḍūkya Upaniṣad, 7)
 
 Grammatically, *nobhayataḥprajñaṃ* functions as the third of six negative adjectival predicates modifying the unconditioned Self (*Ātman* / *Turīya*). The surrounding text establishes a systematic negation of all empirical modalities of experience described in earlier mantras:
+
 - *nāntaḥprajñam*: Not conscious of the internal subjective world (negating *Taijasa*, the dream state, Mantra 4).
 - *na bahiṣprajñam*: Not conscious of the external objective world (negating *Viśva* / *Vaiśvānara*, the waking state, Mantra 3).
 - *nobhayataḥprajñam*: Not conscious of both simultaneously (negating intermediate twilight states between waking and dream).
@@ -58,7 +59,7 @@ Gauḍapāda, in his *Gauḍapādīya Kārikā* (Agama Prakaraṇa), underscores
 
 ---
 
-## Interpretations and Disputes
+## Interpretations and disputes
 
 1. **Translation and Exegetical Nuances**:
    Translators and commentators render *nobhayataḥprajñaṃ* with slight stylistic variations. Swami Nikhilananda translates it as "nor that which is conscious of both," while traditional glosses specify "not conscious of what is between the two." Śaṅkarācārya explicitly clarifies that the term negates an intermediate state (*antarālavastā*) between the waking state (*jāgaritasthāna*) and the dream state (*svapnasthāna*).
@@ -68,7 +69,7 @@ Gauḍapāda, in his *Gauḍapādīya Kārikā* (Agama Prakaraṇa), underscores
 
 ---
 
-## Related Terms
+## Related terms
 
 - Advaita (अद्वैत)
 - Amātra (अमात्र)

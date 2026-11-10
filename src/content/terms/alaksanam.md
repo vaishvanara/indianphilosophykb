@@ -49,7 +49,7 @@ Verse 7 defines *Turīya* by systematically negating the attributes of the three
 - ***Acintyam* (unthinkable):** Beyond the realm of mental deliberation, imagination, or conceptual thought (*manas*).
 - ***Avyapadeśyam* (inexpressible):** Beyond verbal designation, naming, or spoken description (*vāc*).
 
-### Epistemological significance (*liṅga-rāhitya*)
+### Epistemological significance (liṅga-rāhitya)
 
 In classical Indian epistemology (*pramāṇa-śāstra*), an unperceived object is typically known through inference (*anumāna*), which requires an inferential mark (*hetu* or *liṅga*), such as inferring fire from the presence of smoke. 
 
@@ -61,7 +61,7 @@ Because *Turīya* is *alakṣaṇa* (devoid of features), words (*śabda*) canno
 
 Advaita Vedānta establishes that scriptural Great Sayings (*mahāvākyas*) reveal *Brahman* only indirectly through secondary implication (*lakṣaṇā-vṛtti*, specifically *jahad-ajahal-lakṣaṇā*), negating false superimposed adjuncts (*upādhi*) while pointing to the self-luminous substratum.
 
-### Positive grounding (*ekātma-pratyaya-sāra*)
+### Positive grounding (ekātma-pratyaya-sāra)
 
 Advaita commentary cautions that *alakṣaṇam* and related negations do not imply that *Turīya* is a void (*śūnya*) or non-entity. Following the negative qualifications, verse seven affirms *Turīya* positively as *ekātma-pratyaya-sāra*—that whose sole essence is the uninterrupted, self-certifying awareness of the one Self—and as *prapañcopaśamam* (the total quietude of phenomenal multiplicity), peaceful (*śāntam*), auspicious (*śivam*), and non-dual (*advaitam*).
 
