@@ -8,13 +8,9 @@ aliases:
   - "Jnana-Santatim"
 ---
 
-**Jñāna-Santatiṃ**
-Meaning: "the flow of knowledge"
+Meaning: "the flow of knowledge" or "the stream or continuum of cognitions," describing a continuous series of momentary mental states.
+
 See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
-
-## Meaning
-
-In Indian philosophy, *jñāna-santatiṃ* means "the stream or continuum of cognitions," describing a continuous series of momentary mental states.
 
 ---
 

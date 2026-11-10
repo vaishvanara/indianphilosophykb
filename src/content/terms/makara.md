@@ -8,13 +8,9 @@ aliases:
   - "मकार"
 ---
 
-**Makāra** 
-Meaning: "the letter M"
+Meaning: the letter 'm', the third *mātrā* of *AUM*, symbolizing *Prājña* and the state of deep sleep (*suṣupti*).
+
 See: [Mandukya Upanishad (Verses 8, 11)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *makāra* (मकार) denotes the letter 'm', the third *mātrā* of *AUM*, symbolizing *Prājña* and the state of deep sleep (*suṣupti*).
 
 ---
 

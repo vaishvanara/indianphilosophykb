@@ -8,13 +8,9 @@ aliases:
   - "सुप्तः"
 ---
 
-**Suptaḥ**
-Meaning: "the one who sleeps", the sleeping (man)
+Meaning: "asleep, sleeping; a sleeping person, the sleeper; (philosophically) one characterized by the absence of the knowledge of Reality."
+
 See: [Mandukya Upanishad (Verse 5) ](mandukyopanisat.md)
-
-## Meaning
-
-[Meaning: "Asleep, sleeping; a sleeping person, the sleeper; (philosophically) one characterized by the absence of the knowledge of Reality."]
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
   - "वा"
 ---
 
-Meaning: "o", "either...or", "optionally", "like/as"; also a verbal root meaning "to blow".
+Meaning: "o", "either...or", "optionally", "like/as;" also a verbal root meaning "to blow."
 
 See: [Mandukya Upanishad (Verses 9, 10, 11)](mandukyopanisat.md)
 
@@ -16,7 +16,7 @@ See: [Mandukya Upanishad (Verses 9, 10, 11)](mandukyopanisat.md)
 
 ## Definition
 
-In Sanskrit literature and grammar, *vā* serves primarily as an enclitic disjunctive particle and conjunction meaning "or", "either...or", "whether...or", or "optionally". As an enclitic word, it ordinarily follows the specific word or phrase to which it refers within a sentence. In disjunctive clauses, *vā* is frequently repeated (*vā...vā*) to express the construction "either...or", or combined with negative particles (*na vā...vā*) to express "neither...nor". 
+In Sanskrit literature and grammar, *vā* serves primarily as an enclitic disjunctive particle and conjunction meaning "or", "either...or", "whether...or", or "optionally." As an enclitic word, it ordinarily follows the specific word or phrase to which it refers within a sentence. In disjunctive clauses, *vā* is frequently repeated (*vā...vā*) to express the construction "either...or", or combined with negative particles (*na vā...vā*) to express "neither...nor". 
 
 Beyond its primary disjunctive function, lexical sources record extended and contextual usages where *vā* functions as a comparative particle equivalent to *iva* ("like", "as"), an emphatic particle equivalent to *eva* ("just", "indeed"), or an adversative conjunction ("but", "however"). In Paninian grammatical literature, *vā* is employed technical-structurally to indicate option or optionality (*vā-vacana*) in the application of a grammatical rule. In addition to its particle usage, *vā* exists as a distinct homonymous verbal root (√*vā*) denoting the literal action of blowing (as the wind), emitting an odor, or growing weary.
 

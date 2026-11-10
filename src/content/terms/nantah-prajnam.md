@@ -8,13 +8,9 @@ aliases:
   - "नान्तः प्रज्ञं"
 ---
 
-**Nāntaḥ-Prajñaṃ** 
-Meaning: "not consciousness inward"
+Meaning: "not consciousness inward" or "not inwardly cognitive;" denying that *Turīya* (the Fourth) is characterized by dream consciousness or subjective internal awareness.
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md) 
-
-## Meaning
-
-Not inwardly cognitive; denying that Turīya (the Fourth) is characterized by dream consciousness or subjective internal awareness.
 
 ---
 

@@ -9,13 +9,9 @@ aliases:
   - "सर्वेश्वरः"
 ---
 
-**Sarveśvaraḥ**
-Meaning: "Lord of All"
+Meaning: "Lord of all; the sovereign ruler and inner controller of the universe."
+
 See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
-
-## Meaning
-
-[Meaning: "Lord of all; the sovereign ruler and inner controller of the universe." (75 characters)]
 
 ---
 

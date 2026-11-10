@@ -8,13 +8,9 @@ aliases:
   - "Sa Atma"
 ---
 
-**Sa Ātmā**
-Meaning: "that is the Self"
+Meaning: "that is the Self" referring to *Turīya*, the non-dual, transcendent Reality to be realized.
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *sa Ātmā* (स आत्मा) means "That is the Self"—referring to Turīya, the non-dual, transcendent Reality to be realized.
 
 ---
 

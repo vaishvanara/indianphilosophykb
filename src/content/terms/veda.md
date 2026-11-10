@@ -8,13 +8,9 @@ aliases:
   - "Veda"
 ---
 
-**Veda**
-Meaning: "Knowledge"
+Meaning: "knowledge; sacred spiritual knowledge, divine revelation, or the foundational scriptural text corpus of Hindu philosophical tradition."
+
 See: [Mandukya Upanishad (Verse 9, 10, 11, 12)](mandukyopanisat.md)
-
-## Meaning
-
-The term *Veda* (वेद) denotes sacred spiritual knowledge, divine revelation, or the foundational scriptural text corpus of Hindu philosophical tradition.
 
 ---
 

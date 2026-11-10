@@ -8,13 +8,9 @@ aliases:
   - "सर्वस्य"
 ---
 
-**Sarvasya**
-Meaning: "of all"
+Meaning: "of all; of everything; of the whole; the genitive relation denoting the source of the entire universe."
+
 See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
-
-## Meaning
-
-[Meaning: "Of all; of everything; of the whole; the genitive relation denoting the source of the entire universe."]
 
 ---
 

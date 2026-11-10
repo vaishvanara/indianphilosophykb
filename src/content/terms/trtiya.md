@@ -9,13 +9,9 @@ aliases:
   - "Tritiya"
 ---
 
-**Tṛtīya** 
-Meaning: "the third"
+Meaning: "the third; the third quarter of the Self (deep sleep / *Prājña*) corresponding to the sound 'm' in *AUM*.
+
 See: [Mandukya Upanishad (Verses 5, 11)](mandukyopanisat.md)
-
-## Meaning
-
-Meaning: "Third" or "third part"; in the Māṇḍūkya Upaniṣad, the third quarter of the Self (deep sleep / prājña) corresponding to the sound 'm' in AUM.
 
 ---
 

@@ -9,13 +9,9 @@ aliases:
   - "शिव"
 ---
 
-**Śiva**
-Meaning: "auspicious"
+Meaning: "auspicious, propitious, or gracious; in Indian philosophy, the supreme static consciousness, transcendent reality, and ultimate principle of liberation."
+
 See: [Mandukya Upanishad (Verses 7, 12)](mandukyopanisat.md)
-
-## Meaning
-
-Auspicious, propitious, or gracious; in Indian philosophy, the supreme static consciousness, transcendent reality, and ultimate principle of liberation.
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
   - "Yat"
 ---
 
-Meaning: "1. To strive, endeavor, exert oneself; 2. (relative pronoun/conjunction) which, what, that, because; 3. (participle) going, moving."
+Meaning: "to strive, endeavor, exert oneself; (relative pronoun/conjunction) which, what, that, because; (participle) going, moving."
 
 See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
 

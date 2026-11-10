@@ -9,13 +9,9 @@ aliases:
   - "Na Bahish Prajnam"
 ---
 
-**Na Bahiṣ Prajñaṃ**
-Meaning: "not consciousness outward"
+Meaning: "not consciousness outward" or "not conscious of external objects," negating waking awareness in defining *Turīya* (the Fourth state).
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
-
-## Meaning
-
-In the Māṇḍūkya Upaniṣad, na bahiṣ prajñaṃ means 'not conscious of external objects,' negating waking awareness in defining turīya (the Fourth state).
 
 ---
 
@@ -31,7 +27,7 @@ The expression *na bahiṣ prajñaṃ* comprises three morphological components:
 
 ---
 
-## na bahiṣ prajñaṃ in the Māṇḍūkya Upaniṣad
+## Na bahiṣ prajñaṃ in the Māṇḍūkya Upaniṣad
 
 The phrase *na bahiṣ prajñaṃ* occurs in Mantra 7 of the *Māṇḍūkya Upaniṣad*, where it serves as an essential negative attribute in describing *turīya*, the non-dual Fourth quarter of the Self. Grammatically, it functions as a nominative neuter predicate describing *turīya*. In the structural progression of the Upaniṣad, Mantra 3 defines the waking state (*jāgaritasthāna*), embodied as *vaiśvānara*, as *bahiṣprajñaḥ* ("externally conscious") because it perceives gross physical objects through nineteen instruments of experience. Mantra 4 defines the dream state (*svapnasthāna*), embodied as *taijasa*, as *antaḥprajñaḥ* ("internally conscious") because it cognizes subtle mental impressions. Mantra 5 defines deep sleep (*suṣuptasthāna*), embodied as *prājña*, as *prajñānaghanaḥ* ("a mass of unified consciousness").
 

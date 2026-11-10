@@ -8,13 +8,9 @@ aliases:
   - "समान"
 ---
 
-**Samāna**
-Meaning: "equalized"
+Meaning: "equalized;" equal, impartial, or treated with equal regard by all; denoting one who attains equanimity and is viewed without enmity by friends and foes alike.
+
 See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
-
-## Meaning
-
-Equal, impartial, or treated with equal regard by all; denoting one who attains equanimity and is viewed without enmity by friends and foes alike.
 
 ---
 

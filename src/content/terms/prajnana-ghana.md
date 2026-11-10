@@ -8,13 +8,9 @@ aliases:
   - "Prajnana-Ghana"
 ---
 
-**Prajñāna-Ghana**
-Meaning: "a mass of consciousness"
+Meaning: "a mass of consciousness;" a unified mass of consciousness characteristic of deep sleep (*suṣupti*), where manifold perception ceases.
+
 See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
-
-## Meaning
-
-In the Māṇḍūkya Upaniṣad, prajñāna-ghana denotes a unified mass of consciousness characteristic of deep sleep (suṣupti), where manifold perception ceases.
 
 ---
 
@@ -36,7 +32,7 @@ In Sanskrit grammar (*vyākaraṇa*), the compound is classified as a *karmadhā
 
 ---
 
-## prajñāna-ghana in the Māṇḍūkya Upaniṣad
+## Prajñāna-ghana in the Māṇḍūkya Upaniṣad
 
 The compound *prajñāna-ghana* (प्रज्ञानघन) occurs in Verse 5 of the *Māṇḍūkya Upaniṣad*:
 

@@ -8,13 +8,9 @@ aliases:
   - "न प्रज्ञं"
 ---
 
-**Na Prajñaṃ**
-Meaning: "not consciousness"
+Meaning: "not consciousness" or "not conscious," denoting that *Turīya* is not a state of simultaneous or omniscient cognition.
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *na prajñaṃ* means "not conscious," denoting that Turīya is not a state of simultaneous or omniscient cognition.
 
 ---
 
@@ -37,7 +33,7 @@ In Mantra 7 of the *Māṇḍūkya Upaniṣad*, the word takes the neuter nomina
 
 ---
 
-## na prajñaṃ in the Māṇḍūkya Upaniṣad
+## *Na prajñaṃ* in the Māṇḍūkya Upaniṣad
 
 The expression *na prajñaṃ* occurs in Mantra 7 of the *Māṇḍūkya Upaniṣad*, which defines *Turīya*—the non-dual Supreme Reality—through a series of rigorous negative predicates (*neti neti*):
 

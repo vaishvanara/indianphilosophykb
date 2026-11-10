@@ -8,13 +8,9 @@ aliases:
   - "Taijasa"
 ---
 
-**Taijasa**
-Meaning: "the self of the dream state"
+Meaning: "the Self in the dream state, experiencing internal, subtle mental impressions through light-like mind-stuff."
+
 See: [Mandukya Upanishad (Verse 4, 10)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *Taijasa* (तैजस) denotes the Self in the dream state, experiencing internal, subtle mental impressions through light-like mind-stuff.
 
 ---
 

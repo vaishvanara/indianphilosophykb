@@ -8,13 +8,9 @@ aliases:
   - "कुले"
 ---
 
-**Kule** 
-Meaning: "in the family"
+Meaning: "in a family, house, lineage, or abode (locative singular form of *kula*)."
+
 See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
-
-## Meaning
-
-Meaning: "In a family, house, lineage, or abode (locative singular form of *kula*)."
 
 ---
 

@@ -8,13 +8,9 @@ aliases:
   - "Trikalatitam"
 ---
 
-**Trikālātītaṃ**
-Meaning: "the threefold division of time"
+Meaning: "the threefold division of time; that which transcends the three divisions of time (past, present, and future), designating the timeless Absolute (*Brahman*).
+
 See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
-
-## Meaning
-
-Trikālātītaṃ (त्रिकालातीतं) denotes that which transcends the three divisions of time (past, present, and future), designating the timeless Absolute.
 
 ---
 

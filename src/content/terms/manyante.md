@@ -8,13 +8,9 @@ aliases:
   - "मन्यन्ते"
 ---
 
-**Manyante**
-Meaning: "consider"
+Meaning: "they consider," "they deem," or "they regard," specifically in the *Māṇḍūkya Upaniṣad* (verse 7), where sages regard the non-dual Self (*Turīya*) as the Fourth.
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
-
-## Meaning
-
-They consider, deem, or regard; specifically in the Māṇḍūkya Upaniṣad (Mantra 7), where sages regard the non-dual Self (Turīya) as the Fourth.
 
 ---
 

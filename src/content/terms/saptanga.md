@@ -8,13 +8,9 @@ aliases:
   - "सप्ताङग"
 ---
 
-**Saptāṅga**
-Meaning: "seven-limbed"
+Meaning: "having seven limbs; descriptive of the Self in the waking state (*Vaiśvānara*), whose cosmic form integrates seven universal constituents."
+
 See: [Mandukya Upanishad (Verses 3, 4)](mandukyopanisat.md)
-
-## Meaning
-
-Having seven limbs; descriptive of the Self in the waking state (Vaiśvānara), whose cosmic form integrates seven universal constituents.
 
 ---
 

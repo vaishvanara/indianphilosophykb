@@ -8,13 +8,9 @@ aliases:
   - "Jagrat"
 ---
 
-**Jāgrat**
-Meaning: "The Waking State"
+Meaning: "the waking state;" the waking state of consciousness, the empirical sphere in which the Self as *Vaiśvānara* cognizes external objects.
+
 See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *jāgrat* denotes the waking state of consciousness, the empirical sphere in which the Self as Vaiśvānara cognizes external objects.
 
 ---
 
@@ -39,7 +35,7 @@ Morphological details include:
 
 ---
 
-## jāgrat in the Māṇḍūkya Upaniṣad
+## Jāgrat in the Māṇḍūkya Upaniṣad
 
 In the textual tradition of the *Māṇḍūkya Upaniṣad*, the waking state is expressed in the principal Upaniṣadic mantras through the nominal compound *jāgarita-sthānaḥ* (Mantras 3 and 9) and the noun *jāgarita* (Mantra 9). In Gauḍapāda’s *Kārikā* (e.g., I.1, I.7, I.14–16, II.1–15, IV.33–40) and Śaṅkarācārya’s commentary (*Māṇḍūkyopaniṣad-bhāṣya*), the participle *jāgrat* is adopted as the primary technical term for this first quarter (*prathamaḥ pādaḥ*) of *Ātman*.
 

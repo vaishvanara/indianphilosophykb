@@ -9,13 +9,9 @@ aliases:
   - "Swapna-Sthana"
 ---
 
-**Svapna-Sthāna**
-Meaning: "the dream state"
+Meaning: "the dream state; the dream state as the sphere of subtle internal consciousness (*Taijasa*), the second quarter (*pāda*) of *Ātman* in the *Māṇḍūkya Upaniṣad*.
+
 See: [Mandukya Upanishad (Verses 4, 10)](mandukyopanisat.md)
-
-## Meaning
-
-The dream state as the sphere of subtle internal consciousness (*taijasa*), the second quarter (*pāda*) of Ātman in the *Māṇḍūkya Upaniṣad*.
 
 ---
 

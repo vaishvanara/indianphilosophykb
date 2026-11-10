@@ -8,13 +8,9 @@ aliases:
   - "उकार"
 ---
 
-**Ukāra**
-Meaning: "the letter U"
+Meaning: "the letter U; the second mora of *AUM*, representing *Taijasa* and the dream state (*svapna-sthāna*)."
+
 See: [Mandukya Upanishad (Verses 8, 10)](mandukyopanisat.md)
-
-## Meaning
-
-In the Māṇḍūkya Upaniṣad, *ukāra* (उकार) denotes the letter *u*, the second mora of AUM, representing Taijasa and the dream state (svapnasthāna).
 
 ---
 

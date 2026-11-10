@@ -9,13 +9,9 @@ aliases:
   - "Shanta"
 ---
 
-Śānta
-Meaning: "peaceful"
+Meaning: "peaceful, calm, tranquil, pacified, ceased; in the Māṇḍūkya Upaniṣad, the peaceful, immutable nature of the Self (*Turīya*) free from all phenomenal change."
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
-
-## Meaning
-
-Meaning: "Calm, tranquil, pacified, ceased; in the Māṇḍūkya Upaniṣad, the peaceful, immutable nature of Turīya (the Self) free from all phenomenal change."
 
 ---
 

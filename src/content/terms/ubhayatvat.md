@@ -8,13 +8,9 @@ aliases:
   - "Ubhayatvat"
 ---
 
-**Ubhayatvāt**
-Meaning: "on account of being the middle between the two"
+Meaning: "on account of being the middle between the two," "on account of bothness," "because of being perceived in both states," or "owing to two-foldness."
+
 See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
-
-## Meaning
-
-[Meaning: "On account of bothness," "because of being perceived in both states," or "owing to two-foldness."]
 
 ---
 

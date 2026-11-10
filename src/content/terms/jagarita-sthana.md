@@ -8,13 +8,9 @@ aliases:
   - "जागरितास्थान"
 ---
 
-**Jāgarita-Sthāna**
-Meaning: "the waking state"
+Meaning: "the waking state;" in the *Māṇḍūkya Upaniṣad*, *jāgarita-sthāna* denotes the waking state as the sphere of activity of *Vaiśvānara*, the first quarter of *Ātman*.
+
 See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *jāgarita-sthāna* denotes the waking state as the sphere of activity of Vaiśvānara, the first quarter of Ātman.
 
 ---
 
@@ -43,7 +39,7 @@ In the Upaniṣadic text, the stem *jāgarita-sthāna* takes the nominative sing
 
 ---
 
-## jāgarita-sthāna in the Māṇḍūkya Upaniṣad
+## Jāgarita-sthāna in the Māṇḍūkya Upaniṣad
 
 The compound *jāgarita-sthānaḥ* appears twice in the *Māṇḍūkya Upaniṣad*, occurring in Mantra 3 and Mantra 9:
 

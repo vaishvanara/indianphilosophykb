@@ -8,13 +8,9 @@ aliases:
   - "Miteh"
 ---
 
-**Miteḥ**
-Meaning: "from its being a measure"
+Meaning: "from its being a measure" or "on account of measuring or comprehending;" in the *Māṇḍūkya Upaniṣad*, state of ablative cause linking *makāra* ('M') and *Prājña* to measurement.
+
 See: [Mandukya Upanishad (Verse 11)](mandukyopanisat.md)
-
-## Meaning
-
-On account of measuring or comprehending; in the Māṇḍūkya Upaniṣad (Mantra 11), state of ablative cause linking makāra ('M') and Prājña to measurement.
 
 ---
 

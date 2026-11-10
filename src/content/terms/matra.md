@@ -8,13 +8,9 @@ aliases:
   - "मात्रा"
 ---
 
-**Mātrā** 
-Meaning: "measure"
+Meaning: "measure;" a measure, quantity, or metrical mora; in the *Māṇḍūkya Upaniṣad*, a constituent sound-measure or letter (A, U, M) of the sacred syllable AUM.
+
 See: [Mandukya Upanishad (Verses 8, 9, 10, 11)](mandukyopanisat.md)
-
-## Meaning
-
-A measure, quantity, or metrical mora; in the Māṇḍūkya Upaniṣad, a constituent sound-measure or letter (A, U, M) of the sacred syllable AUM.
 
 ---
 

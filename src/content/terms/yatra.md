@@ -8,7 +8,7 @@ aliases:
   - "Yatra"
 ---
 
-Meaning: "where, in which place, whither; when, on which occasion, if, in order that"
+Meaning: "where, in which place, whither; when, on which occasion, if, in order that."
 
 See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
 

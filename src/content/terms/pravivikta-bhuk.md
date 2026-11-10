@@ -8,12 +8,10 @@ aliases:
   - "प्रविविक्तभुक्"
 ---
 
-**Pravivikta-Bhuk**
+
+Meaning: "enjoyer or experiencer of subtle objects; the aspect of Consciousness (*Taijasa*) that experiences internal mental impressions during the dream state."
+
 See: [Mandukya Upanishad (Verse 4)](mandukyopanisat.md) 
-
-## Meaning
-
-[Meaning: "Enjoyer or experiencer of subtle objects; the aspect of Consciousness (Taijasa) that experiences internal mental impressions during the dream state."]
 
 ---
 

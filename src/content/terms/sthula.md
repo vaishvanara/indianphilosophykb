@@ -8,13 +8,9 @@ aliases:
   - "सथूल"
 ---
 
-Sthūla
-Meaning: "material"
+Meaning: "gross, material, physical, tangible; bulky, thick, stout, massive; coarse, dull."
+
 See: [Mandukya Upanishad (Verse 3)](mandukyopanisat.md)
-
-## Meaning
-
-[Meaning: "Gross, material, physical, tangible; bulky, thick, stout, massive; coarse, dull."]
 
 ---
 

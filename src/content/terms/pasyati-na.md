@@ -9,13 +9,9 @@ aliases:
   - "पश्यति न"
 ---
 
-**Paśyati Na**
-Meaning: "does not see"
+Meaning: "does not see;" the complete absence of dream vision and mental projection during deep sleep (*suṣupti*).
+
 See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *paśyati na* ("does not see") denotes the complete absence of dream vision and mental projection during deep sleep (*suṣupti*).
 
 ---
 

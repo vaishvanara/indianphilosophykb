@@ -8,13 +8,9 @@ aliases:
   - "प्रज्ञा"
 ---
 
-**Prajñā** 
-Meaning: "wisdom/the self of the sleep state"
+Meaning: "wisdom" or "the self of the sleep state;" the third quarter of *Ātman*, representing unified consciousness in dreamless deep sleep (*suṣupti*).
+
 See: [Mandukya Upanishad (Verses 5, 11)](mandukyopanisat.md)
-
-## Meaning
-
-In the Māṇḍūkya Upaniṣad, Prajñā denotes the third quarter of Ātman, representing unified consciousness in dreamless deep sleep (suṣupti).
 
 ---
 

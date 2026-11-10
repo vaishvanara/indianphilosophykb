@@ -8,13 +8,9 @@ aliases:
   - "Kama"
 ---
 
-**Kāma** 
-Meaning: "desire"
+Meaning: "desire" or object of desire, whose total absence defines the state of deep sleep (*suṣupti*) and *Prājña*.
+
 See: [Mandukya Upanishad (Verse 5, 9)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *kāma* denotes desire or object of desire, whose total absence defines the state of deep sleep (*suṣupti*) and *prājña*.
 
 ---
 

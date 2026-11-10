@@ -8,13 +8,9 @@ aliases:
   - "न प्रज्ञाघनम्"
 ---
 
-**Na Prajñā-Ghanaṃ**
-Meaning: "not a mass of consciousness"
+Meaning: "not a mass of consciousness;" in the *Māṇḍūkya Upaniṣad*, negating the deep sleep state (*Prājña*) as a causal attribute of the non-dual Self (*Turīya*).
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
-
-## Meaning
-
-Not a mass of consciousness; in the Māṇḍūkya Upaniṣad (Mantra 7), negating the deep sleep state (Prājña) as a causal attribute of the non-dual Self (Turīya).
 
 ---
 
@@ -41,7 +37,7 @@ The expression *na prajñā-ghanaṃ* (न प्रज्ञाघनम्) is
 
 ---
 
-## na prajñā-ghanaṃ in the Māṇḍūkya Upaniṣad
+## Na prajñā-ghanaṃ in the Māṇḍūkya Upaniṣad
 
 The expression occurs in Mantra 7 of the *Māṇḍūkya Upaniṣad*, which presents the definitive text on *Turīya*:
 

@@ -8,13 +8,9 @@ aliases:
   - "नोभयातःप्रज्ञं"
 ---
 
-**Nobhayataḥ-Prajñaṃ**
-Meaning: "not consciousness of both"
+Meaning: "not consciousness of both" or "not conscious of both internal and external objects;" in the *Māṇḍūkya Upaniṣad*, negating twilight or intermediate cognition between waking and dream.
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
-
-## Meaning
-
-Not conscious of both internal and external objects; in the Māṇḍūkya Upaniṣad (Mantra 7), negating twilight or intermediate cognition between waking and dream.
 
 ---
 

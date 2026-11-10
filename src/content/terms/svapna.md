@@ -9,13 +9,9 @@ aliases:
   - "Swapna"
 ---
 
-Svapna
-Meaning: "dream"
+Meaning: "dream; the dream state of consciousness, the sphere of *Taijasa*, characterized by inward cognition of subtle mental impressions.
+
 See: [Mandukya Upanishad (Verses 4, 5, 10)](mandukyopanisat.md)
-
-## Meaning
-
-In the Māṇḍūkya Upaniṣad, *svapna* denotes the dream state of consciousness, the sphere of Taijasa, characterized by inward cognition of subtle mental impressions.
 
 ---
 
@@ -35,7 +31,7 @@ In traditional Vedāntic etymological reflections (such as those recorded in *Ch
 
 ---
 
-## svapna in the Māṇḍūkya Upaniṣad
+## Svapna in the Māṇḍūkya Upaniṣad
 
 The term *svapna* appears in Mantra 4 of the *Māṇḍūkya Upaniṣad*:
 

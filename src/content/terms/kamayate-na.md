@@ -8,13 +8,9 @@ aliases:
   - "कामयते न"
 ---
 
-**Kāmayate Na** 
-Meaning: "does not desire for"
+Meaning: "does not desire for" or "desires not," expressing the total absence of desire that defines deep sleep (*suṣupti*) and *Prājña*.
+
 See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *kāmayate na* means "desires not," expressing the total absence of desire that defines deep sleep (*suṣupti*) and *prājña*.
 
 ---
 

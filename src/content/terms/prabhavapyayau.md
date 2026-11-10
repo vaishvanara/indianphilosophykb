@@ -8,13 +8,9 @@ aliases:
   - "प्रभवाप्ययौ"
 ---
 
-**Prabhavāpyayau**
-Meaning: "the cause and dissolution"
+Meaning: "the cause and dissolution;" the origin and dissolution of all beings, denoting God (*Īśvara*/*Prājñā*) as the causal source and resting place of the universe.
+
 See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
-
-## Meaning
-
-The origin and dissolution of all beings, denoting God (Īśvara/Prājñā) as the causal source and resting place of the universe in the Māṇḍūkya Upaniṣad.
 
 ---
 

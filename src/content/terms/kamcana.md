@@ -9,13 +9,9 @@ aliases:
   - "कंचन"
 ---
 
-**Kaṃcana**
-Meaning: "any"
+Meaning: "any whatever" or "anything," emphasizing the absolute absence of desire or dream in deep sleep.
+
 See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *kaṃcana* means "any whatever" or "at all," emphasizing the absolute absence of desire or dream in deep sleep.
 
 ---
 

@@ -9,13 +9,9 @@ aliases:
   - "संविशति"
 ---
 
-**Saṃviśati**
-Meaning: "enters"
+Meaning: "enters, merges, or dissolves into; specifically denoting the knower's dissolution of individual selfhood into the Supreme Self"
+
 See: [Mandukya Upanishad (Verse 12)](mandukyopanisat.md)
-
-## Meaning
-
-[Enters, merges, or dissolves into; specifically denoting the knower's dissolution of individual selfhood into the Supreme Self]
 
 ---
 

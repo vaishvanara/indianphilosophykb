@@ -8,13 +8,9 @@ aliases:
   - "Omkara"
 ---
 
-**Oṃkāra**
-Meaning: "The Word; The Eternal"
+Meaning: "The Word" or "The Eternal;" *Oṃkāra* denotes the sacred sound *Oṃ*, representing all temporal existence, the unmanifest beyond time, and non-dual *Brahman*.
+
 See: [Mandukya Upanishad (Verses 1, 8, 12)](mandukyopanisat.md)
-
-## Meaning
-
-In the Māṇḍūkya Upaniṣad, Oṃkāra denotes the sacred sound Oṃ, representing all temporal existence, the unmanifest beyond time, and non-dual Brahman.
 
 ---
 

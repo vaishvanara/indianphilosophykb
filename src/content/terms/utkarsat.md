@@ -9,13 +9,9 @@ aliases:
   - "Utkarshat"
 ---
 
-**Utkarṣāt**
-Meaning: "on account of superiority"
+Meaning: "on account of superiority; elevation, exaltation, increase, pre-eminence, or superiority; in the *Māṇḍūkya Upaniṣad*, the ground of superiority of the second *mātrā* (U)."
+
 See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
-
-## Meaning
-
-[Meaning: "Elevation, exaltation, increase, pre-eminence, or superiority; in the Māṇḍūkya Upaniṣad, the ground of superiority of the second mātrā (U)."]
 
 ---
 

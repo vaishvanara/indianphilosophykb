@@ -9,13 +9,9 @@ aliases:
   - "सुषुप्ति"
 ---
 
-**Suṣupti**
-Meaning: "Deep Sleep"
+Meaning: "deep sleep; the state of deep, dreamless sleep wherein experiences unify into a mass of consciousness.
+
 See: [Mandukya Upanishad (Verse 5, 11)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *suṣupti* (सुषुप्ति) denotes the state of deep, dreamless sleep wherein experiences unify into a mass of consciousness.
 
 ---
 

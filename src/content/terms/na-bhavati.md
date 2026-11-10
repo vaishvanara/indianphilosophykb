@@ -8,13 +8,9 @@ aliases:
   - "Na Bhavati"
 ---
 
-**Na Bhavati** 
-Meaning: "not born"
+Meaning: "not born," "does not become," or "is not," denoting non-origination and non-existence in context.
+
 See: [Mandukya Upanishad (Verses 10)](mandukyopanisat.md)
-
-## Meaning
-
-The phrase *na bhavati* (न भवति) means 'does not become' or 'is not', denoting non-origination and non-existence in context.
 
 ---
 

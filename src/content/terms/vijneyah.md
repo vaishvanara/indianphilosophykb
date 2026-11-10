@@ -8,13 +8,9 @@ aliases:
   - "विज्ञेयः"
 ---
 
-**Vijñeyaḥ**
-Meaning: "to be realized"
+Meaning: "to be realized," "to be known," "knowable," "that which should be realized or comprehended," or "to be recognized or regarded as."
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
-
-## Meaning
-
-[Meaning: "To be known," "knowable," "that which should be realized or comprehended," or "to be recognized or regarded as."]
 
 ---
 

@@ -9,13 +9,9 @@ aliases:
   - "उत्कर्षति"
 ---
 
-**Utkarṣati**
-Meaning: "increases"
+Meaning: "increases; to exalt, elevate, or cause to increase; to attain superior or elevated knowledge."
+
 See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
-
-## Meaning
-
-"To exalt, elevate, or cause to increase; to attain superior or elevated knowledge."
 
 ---
 

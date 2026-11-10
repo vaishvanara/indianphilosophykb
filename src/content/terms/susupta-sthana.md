@@ -9,13 +9,9 @@ aliases:
   - "Sushupta-Sthana"
 ---
 
-**Suṣupta-Sthāna**
-Meaning: "the state of deep sleep"
+Meaning: "the state of deep sleep; the third quarter of *Ātman* (*Prājña*) whose locus or sphere of experience is the state of deep dreamless sleep.
+
 See: [Mandukya Upanishad (Verses 5, 11)](mandukyopanisat.md)
-
-## Meaning
-
-In the Māṇḍūkya Upaniṣad, *suṣupta-sthāna* designates the third quarter of Ātman (Prājña) whose locus or sphere of experience is the state of deep dreamless sleep.
 
 ---
 

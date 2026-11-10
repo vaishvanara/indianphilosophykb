@@ -8,13 +8,9 @@ aliases:
   - "उपव्याख्यानं"
 ---
 
-**Upavyākhyānaṃ**
-Meaning: "explanation"
+Meaning: "explanation; clear explanation; detailed exposition."
+
 See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
-
-## Meaning
-
-[Meaning: "clear explanation; detailed exposition"]
 
 ---
 

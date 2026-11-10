@@ -8,12 +8,9 @@ aliases:
   - "पाद"
 ---
 
-Meaning: "quarter"
+Meaning: "quarter;" in the *Māṇḍūkya Upaniṣad*, *pāda* signifies a foot or quarter, denoting the four structural aspects of the Self (*Ātman*) and *Brahman*.
+
 See: [Mandukya Upanishad (Verse 3, 4, 5, 8)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *pāda* signifies a foot or quarter, denoting the four structural aspects of the Self (*Ātman*) and *Brahman*.
 
 ---
 

@@ -8,13 +8,9 @@ aliases:
   - "सर्वं"
 ---
 
-Sarvaṃ
-Meaning: "all"
+Meaning: "all; everything; the whole universe; the totality of phenomenal existence."
+
 See: [Mandukya Upanishad (Verses 1, 2, 9, 11)](mandukyopanisat.md)
-
-## Meaning
-
-Meaning: "All; everything; the whole universe; the totality of phenomenal existence."
 
 ---
 

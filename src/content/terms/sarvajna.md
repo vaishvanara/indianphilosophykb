@@ -8,13 +8,9 @@ aliases:
   - "सर्वज्ञ"
 ---
 
-**Sarvajña**
-Meaning: "all-knowing"
+Meaning: "all-knowing; omniscient; the knower of all beings and states."
+
 See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
-
-## Meaning
-
-Meaning: "All-knowing; omniscient; the knower of all beings and states."
 
 ---
 

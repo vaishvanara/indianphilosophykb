@@ -8,13 +8,9 @@ aliases:
   - "Turiya"
 ---
 
-**Turīya** 
-Meaning: "the fourth"
+Meaning: "the fourth; the non-dual, partless Absolute Self (*Ātman*/*Brahman*) transcending the three states of consciousness."
+
 See: [Mandukya Upanishad (Verse 7, 12)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *Turīya* (तुरीय) signifies the non-dual, partless Absolute Self (*Ātman*/*Brahman*) transcending the three states of consciousness.
 
 ---
 

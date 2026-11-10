@@ -8,14 +8,10 @@ aliases:
   - "Pratyaya"
 ---
 
-**Pratyaya**
-Meaning: “condition”
+Meaning: “condition;” the cognition or conviction of the single Self (*ekātman*), forming the essence of non-dual realization.
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md) 
  
-## Meaning
-
-In the Māṇḍūkya Upaniṣad, *pratyaya* denotes the cognition or conviction of the single Self (*ekātman*), forming the essence of non-dual realization.
-
 ---
 
 ## Definition

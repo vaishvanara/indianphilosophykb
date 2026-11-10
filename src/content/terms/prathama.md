@@ -8,19 +8,15 @@ aliases:
   - "Prathama"
 ---
 
-**Prathamā**
-Meaning: "the first"
+Meaning: "the first, primary, or initial;" specifically, the first mora ('A') of *AUM* in the *Māṇḍūkya Upaniṣad*, and the nominative case in Sanskrit grammar."
+
 See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
-
-## Meaning
-
-[Meaning: "First, primary, initial; specifically, the first mora ('A') of AUM in the Māṇḍūkya Upaniṣad, and the nominative case in Sanskrit grammar."]
 
 ---
 
 ## Definition
 
-In standard Sanskrit lexicography and grammar, ***prathamā*** (प्रथमा) is the feminine form of the adjective *prathama* (प्रथम), which signifies "first," "earliest," "original," "prior," or "foremost/chief". As a technical term in Sanskrit grammar (*vyākaraṇa*), *prathamā* functions as a feminine noun denoting the "first case" or nominative case (which includes the vocative inflection).
+In standard Sanskrit lexicography and grammar, *prathamā* (प्रथमा) is the feminine form of the adjective *prathama* (प्रथम), which signifies "first," "earliest," "original," "prior," or "foremost/chief". As a technical term in Sanskrit grammar (*vyākaraṇa*), *prathamā* functions as a feminine noun denoting the "first case" or nominative case (which includes the vocative inflection).
 
 In the *Māṇḍūkya Upaniṣad*, *prathamā* occurs as a key technical designation within the analytical exposition of the sacred syllable *AUM* (OM) and its symbolic identification with the states of consciousness (*Ātman*). Specifically, in Mantra 9, *prathamā* qualifies *mātrā* (a mora, constituent sound-measure, or letter unit), forming the compound phrase *prathamā mātrā* ("the first mora" or "first letter"). This refers to the vowel *akāra* (the letter 'A'), which constitutes the initial phonetic element of *AUM*.
 

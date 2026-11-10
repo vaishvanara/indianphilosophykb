@@ -8,13 +8,9 @@ aliases:
   - "मिनोति"
 ---
 
-**Minoti**
-Meaning: "measures (by his knowledge)"
+Meaning: "measures (by his knowledge)" or "he measures;" in the *Māṇḍūkya Upaniṣad*, describing one who realizes *Prājña* as the third letter ('M') of AUM.
+
 See: [Mandukya Upanishad (Verse 11)](mandukyopanisat.md)
-
-## Meaning
-
-He measures, comprehends, or bounds; in the Māṇḍūkya Upaniṣad (Mantra 11), describing one who realizes Prājña as the third letter ('M') of AUM.
 
 ---
 

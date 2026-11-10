@@ -8,13 +8,9 @@ aliases:
   - "माण्डूक्य"
 ---
 
-**Māṇḍūkya** 
-Meaning: "frog"
+Meaning: relating to the sage Maṇḍūka or his Vedic lineage; specifically denoting the *Māṇḍūkya Upaniṣad* of the Atharva Veda expounding *AUM* and *Ātman*.
+
 See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
-
-## Meaning
-
-Relating to the sage Maṇḍūka or his Vedic lineage; specifically denoting the *Māṇḍūkya Upaniṣad* of the Atharva Veda expounding *AUM* and *Ātman*.
 
 ---
 

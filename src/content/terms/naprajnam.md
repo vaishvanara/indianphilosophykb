@@ -8,13 +8,9 @@ aliases:
   - "Naprajnam"
 ---
 
-**Nāprajñam**
-Meaning: "not unconsciousness"
+Meaning: "not unconsciousness" or "not unconscious," indicating that the non-dual Self (*Turīya*) is not a state of insentience.
+
 See: [Mandukya Upanishad (Verse 7)](mandukyopanisat.md)
-
-## Meaning
-
-In the Māṇḍūkya Upaniṣad, nāprajñam means 'not unconscious,' indicating that the non-dual Self (Turīya) is not a state of insentience.
 
 ---
 

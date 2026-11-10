@@ -9,13 +9,9 @@ aliases:
   - "Vaishvanara"
 ---
 
-**Vaiśvānara**
-Meaning: "the self of the waking state"
+Meaning: "the self of the waking state; the first quarter (*pāda*) of Self/*Brahman*, active in the waking state and conscious of external objects.
+
 See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
-
-## Meaning
-
-In the *Māṇḍūkya Upaniṣad*, *Vaiśvānara* (वैश्वानर) denotes the first quarter (*pāda*) of Self/Brahman, active in the waking state and conscious of external objects.
 
 ---
 
