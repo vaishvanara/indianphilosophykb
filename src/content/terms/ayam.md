@@ -32,7 +32,7 @@ Etymologically, it derives from the pronominal demonstrative root base *a-* / *i
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (New and Revised ed.). State University of New York Press. (Headwords: *Ayam-ātmā brahma*, p. 77; *Mahāvākya*, p. 182).
-2. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A New Translation* (Vol. 2). Harper & Brothers. (Māṇḍūkya Upaniṣad, Mantra II, p. 223).
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (New and revised ed.). State University of New York Press. (Headwords: *Ayam-ātmā brahma*, p. 77; *Mahāvākya*, p. 182).
+2. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2). Harper & Brothers. (Māṇḍūkya Upaniṣad, Mantra II, p. 223).
 3. Sadananda, S. (1974). *Vedāntasāra* (S. Nikhilananda, Trans.). Advaita Ashrama. (Paragraphs 152–153, pp. 92–93).
 4. Vidyāraṇya, S. (1967). *Pañcadaśī* (S. Swahananda, Trans.). Sri Ramakrishna Math. (Chapter V, Verse 7, p. 147).

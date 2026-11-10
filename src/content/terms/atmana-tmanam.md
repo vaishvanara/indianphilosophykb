@@ -8,7 +8,7 @@ aliases:
   - "Atmana’tmanam"
 ---
 
-[Meaning: "the Self by the Self; the supreme Self projecting or realizing Himself by Himself."
+Meaning: "the Self by the Self; the supreme Self projecting or realizing Himself by Himself."
 
 See: [Mandukya Upanishad (Verse 12)](mandukyopanisat.md)
 
@@ -48,7 +48,7 @@ Doctrinally, *ātmanā’tmānaṃ* also characterizes the direct, non-relationa
 ## References
 
 1. Caitanya, A. P. (Trans.). (2009). *Vivekacūḍāmaṇi of Śrī Śaṅkarācārya*. Advaitin.
-2. Gauḍapāda. (1951). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Ramakrishna-Vivekananda Center.
-3. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press.
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies, Volume 3: Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton University Press.
-5. Vimuktananda, S. (Trans.). (1938). *Aparokṣānubhūti (Self-Realization) of Śrī Śaṅkarācārya*. Advaita Ashrama.
+2. Gauḍapāda. (1951). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (S. Nikhilananda, Trans.). Ramakrishna-Vivekananda Center.
+3. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies, volume 3: Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
+5. Vimuktananda, S. (Trans.). (1938). *Aparokṣānubhūti (Self-realization) of Śrī Śaṅkarācārya*. Advaita Ashrama.

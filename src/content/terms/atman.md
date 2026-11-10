@@ -157,14 +157,14 @@ While Advaita Vedānta asserts the absolute identity (*abheda*) of *Ātman* and 
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press.
-2. MacDonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co.
-3. Nikhilananda, S. (Trans.). (1946). *Atmabodha (Self-Knowledge) of Sankaracharya*. Ramakrishna-Vivekananda Center.
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press.
+2. MacDonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co.
+3. Nikhilananda, S. (Trans.). (1946). *Atmabodha (Self-knowledge) of Sankaracharya*. Ramakrishna-Vivekananda Center.
 4. Nikhilananda, S. (Trans.). (1949). *The Upanishads: Katha, Isa, Kena, and Mundaka* (Vol. I). Harper & Brothers.
 5. Nikhilananda, S. (Trans.). (1952). *The Upanishads: Svetasvatara, Prasna, and Mandukya with Gaudapada's Karika* (Vol. II). Harper & Brothers.
 6. Nikhilananda, S. (Trans.). (1956). *The Upanishads: Aitareya and Brihadaranyaka* (Vol. III). Harper & Brothers.
 7. Nikhilananda, S. (Trans.). (1959). *The Upanishads: Taittiriya and Chhandogya* (Vol. IV). Harper & Brothers.
-8. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton University Press.
-9. Sadananda, S. (1911). *Vedāntasāra (The Essence of Vedānta)* (S. Nikhilananda, Trans.). Advaita Ashrama.
-10. Sivananda, S. (1949). *Brahma Sutras: Text, Word-for-Word Meaning, Translation, and Commentary*. The Divine Life Society.
+8. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
+9. Sadananda, S. (1911). *Vedāntasāra (The essence of Vedānta)* (S. Nikhilananda, Trans.). Advaita Ashrama.
+10. Sivananda, S. (1949). *Brahma sutras: Text, word-for-word meaning, translation, and commentary*. The Divine Life Society.
 11. Swahananda, S. (Trans.). (1967). *Pañcadaśī of Śrī Vidyāraṇya Svāmī*. Sri Ramakrishna Math.

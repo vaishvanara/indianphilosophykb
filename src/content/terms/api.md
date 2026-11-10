@@ -34,7 +34,7 @@ As a preposition or prefix in Vedic and Classical Sanskrit, it denotes placement
 
 ## References
 
-1. Apte, V. S. (1884). *The Student’s English-Sanskrit Dictionary*. Motilal Banarsidass. (Headwords "Also", p. 12, col. 2; "Any", p. 16, col. 2).
-2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *api*, p. 20, col. 3 – p. 21, col. 1; _i_, p. 44a, col. 3).
-3. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. 
-4. Sharvananda, Swami (1920). *Mundaka and Mandukya Upanishads: With Sanskrit Text; Paraphrase with Word-For-Word Literal Translation, English, Rendering and Comments*. Mylapore, Madras: Sri Ramakrishna Math
+1. Apte, V. S. (1884). *The student’s English-Sanskrit dictionary*. Motilal Banarsidass. (Headwords "Also", p. 12, col. 2; "Any", p. 16, col. 2).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords *api*, p. 20, col. 3 – p. 21, col. 1; *i*, p. 44a, col. 3).
+3. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. 
+4. Sharvananda, Swami (1920). *Mundaka and Mandukya Upanishads: With Sanskrit text; paraphrase with word-for-word literal translation, English rendering and comments*. Mylapore, Madras: Sri Ramakrishna Math

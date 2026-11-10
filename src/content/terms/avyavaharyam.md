@@ -48,8 +48,8 @@ Doctrinally, *avyavahāryam* underscores the fundamental Advaita distinction bet
 
 ## References
 
-1. Gauḍapāda. (1951). *The Māṇḍūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Ramakrishna-Vivekananda Center.
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press.
-3. Nikhilananda, S. (Trans.). (1955). *The Upanishads: A New Translation* (Vol. 3). Harper & Brothers.
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies, Volume 3: Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton University Press.
+1. Gauḍapāda. (1951). *The Māṇḍūkyopanishad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (S. Nikhilananda, Trans.). Ramakrishna-Vivekananda Center.
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press.
+3. Nikhilananda, S. (Trans.). (1955). *The Upanishads: A new translation* (Vol. 3). Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies, volume 3: Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
 5. Śaṅkarācārya. (1927). *Māṇḍūkyopaniṣadbhāṣya* (H. R. Bhagavat, Ed.). Tilak Maharashtra Vidyapeeth.
