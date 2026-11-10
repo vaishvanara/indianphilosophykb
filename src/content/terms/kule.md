@@ -14,7 +14,7 @@ See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
 
 ## Meaning
 
-[Meaning: "In a family, house, lineage, or abode (locative singular form of *kula*)." (Maximum 160 characters)]
+Meaning: "In a family, house, lineage, or abode (locative singular form of *kula*)."
 
 ---
 
