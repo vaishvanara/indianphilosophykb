@@ -39,7 +39,7 @@ The word *acintya* is a primary nominal derivative (*kṛdanta*) formed as a neg
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press. Headwords "*Acintya*" (p. 9), "*Māṇḍūkya Upaniṣad*" (p. 186), and "*Turīya*" (p. 328).
-2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. Headwords "*a-cintya*" (Part 1, p. 4, col. 3) and "*cint*" (Part 1, p. 94, col. 3 / p. 95, col. 1).
-3. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. Headwords "*a-cintya*" (p. 9, col. 1) and "*cint*" (p. 398, col. 3).
-4. Sivananda, S. (2004). *Glossary of Sanskrit Terms*. The Divine Life Society. Headwords "*Achintya*" (p. 2) and "*Mahavakya*" (p. 73).
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press. Headwords "*Acintya*" (p. 9), "*Māṇḍūkya Upaniṣad*" (p. 186), and "*Turīya*" (p. 328).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. Headwords "*a-cintya*" (Part 1, p. 4, col. 3) and "*cint*" (p. 94, col. 3 / p. 95, col. 1).
+3. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. Headwords "*a-cintya*" (p. 9, col. 1) and "*cint*" (p. 398, col. 3).
+4. Sivananda, S. (2004). *Glossary of Sanskrit terms*. The Divine Life Society. Headwords "*Achintya*" (p. 2) and "*Mahavakya*" (p. 73).

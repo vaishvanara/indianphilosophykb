@@ -36,10 +36,10 @@ Lexicographical sources analyze the compound structure and derivation of *adbhut
 
 ## References
 
-1. Cappeller, C. (1891). *A Sanskrit-English Dictionary*. Strassburg: Karl J. Trübner. (Headword: अद्भुत, p. 12)
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). Albany: State University of New York Press. (Headword: Adbhuta, p. 10)
-3. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. London: Longmans, Green, and Co. (Headword: ádbhuta, p. 9, col. 2)
-4. Sivananda, S. (1969). *Glossary of Sanskrit Terms*. Rishikesh: The Divine Life Society. (Headword: Adbhuta, p. 2)
-5. Aadhar, Enschede. (2011). *Lexicon of Names, Essential Terms, and Sanskrit Words to the Srimad Bhagavatam and the Bhagavad Gita*. (Headword: Rasa / Adbhuta, pp. 62–63)
+1. Cappeller, C. (1891). *A Sanskrit-English Dictionary*. Karl J. Trübner. (Headword: अद्भुत, p. 12)
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press. (Headword: Adbhuta, p. 10)
+3. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Longmans, Green, and Co. (Headword: ádbhuta, p. 9, col. 2)
+4. Sivananda, S. (1969). *Glossary of Sanskrit terms*. The Divine Life Society. (Headword: Adbhuta, p. 2)
+5. Aadhar, Enschede. (2011). *Lexicon of names, essential terms, and Sanskrit words to the Srimad Bhagavatam and the Bhagavad Gita*. (Headword: Rasa / Adbhuta, pp. 62–63)
   
  

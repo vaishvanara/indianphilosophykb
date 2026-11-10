@@ -40,7 +40,7 @@ Literal derivation yields "that which is not to be grasped" or "incapable of bei
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press. (Headword: Agrāhyam, p. 19).
-2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headword: a-grāhya, p. 3, col. 3).
-3. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. (Headword: a-grāhya, p. 6, col. 3).
-4. Sivananda, S. (1946). *Glossary of Sanskrit Terms*. Divine Life Society. (Headword: Agrahya, p. 6).
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headword: Agrāhyam, p. 19).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headword: a-grāhya, p. 3, col. 3).
+3. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. (Headword: a-grāhya, p. 6, col. 3).
+4. Sivananda, S. (1946). *Glossary of Sanskrit terms*. Divine Life Society. (Headword: Agrahya, p. 6).

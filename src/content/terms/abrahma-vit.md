@@ -38,8 +38,8 @@ The term *abrahma-vit* is a negative deterministic compound (*nañ-tatpuruṣa-s
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian philosophy: Sanskrit Terms Defined in English*. State University of New York Press.
-2. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
-3. Śaṅkarācārya, Śrī. (1978). *Brahma Sutras: Text, word-for-word meaning, translation, and commentary* (S. Sivananda, Trans.). Divine Life Society.
-4. Śaṅkarācārya, Śrī. (1952). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press.
+2. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
+3. Śaṅkarācārya, Śrī. (1978). *Brahma sutras: Text, word-for-word meaning, translation, and commentary* (S. Sivananda, Trans.). Divine Life Society.
+4. Śaṅkarācārya, Śrī. (1952). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
 

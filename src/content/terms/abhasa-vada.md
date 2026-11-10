@@ -79,7 +79,7 @@ Attributed to Śrī Sadāśiva Brahmendra or Śaṅkara, this text elucidates *c
 
 ### Ābhāsa-vāda vs. pratibimba-vāda
 
-A major dispute in post-Śaṅkara Advaita concerns the ontological status of the reflection. Followers of Sureśvara (Abhasavadins) argue that the reflection is purely illusory (*mithyā*), whereas the Vivaraṇa tradition (Pratibimbavadins) asserts that the reflection is real and identical with *Brahman*, with falsity attaching only to the limiting medium (*upādhi*).
+A major dispute in post-Śaṅkara Advaita concerns the ontological status of the reflection. Followers of Sureśvara (*ābhāsa-vādins*) argue that the reflection is purely illusory (*mithyā*), whereas the Vivaraṇa tradition (*pratibimba-vādins*) asserts that the reflection is real and identical with *Brahman*, with falsity attaching only to the limiting medium (*upādhi*).
 
 ### Locus and nature of avidyā
 
@@ -110,10 +110,10 @@ Modern scholars (e.g., Sacchidanandendra Saraswati, Karl Potter) and traditional
 
 ## References
 
-1. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
-2. Sadāśiva Brahmendra, Śrī. (1931). *Dṛg-Dṛśya Viveka: An inquiry into the nature of the 'seer' and the 'seen'* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+1. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
+2. Sadāśiva Brahmendra, Śrī. (1931). *Dṛg-Dṛśya viveka: An inquiry into the nature of the 'seer' and the 'seen'* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
 3. Sadananda, Śrī. (1934). *Vedāntasāra: Sanskrit text with English translation* (S. Nikhilananda, Trans.). Advaita Ashrama.
 4. Śaṅkarācārya, Śrī. (1941). *Upadeśasāhasrī of Śrī Śaṅkarācārya: A thousand teachings* (S. Jagadananda, Trans.). Sri Ramakrishna Math.
-5. Śaṅkarācārya, Śrī. (1978). *Brahma Sutras: Text, word-for-word meaning, translation, and commentary* (S. Sivananda, Trans.). Divine Life Society.
+5. Śaṅkarācārya, Śrī. (1978). *Brahma sutras: Text, word-for-word meaning, translation, and commentary* (S. Sivananda, Trans.). Divine Life Society.
 6. Sureśvarācārya, Śrī. (1925). *The Naiṣkarmyasiddhi of Sureśvarācārya* (G. A. Jacob, Ed.; M. Hiriyanna, Rev.). Bhandarkar Oriental Research Institute.
 7. Vidyāraṇya, Śrī. (1967). *Pañcadaśī of Śrī Vidyāraṇya Svāmī* (S. Swahananda, Trans.). Sri Ramakrishna Math.

@@ -111,9 +111,9 @@ Dualistic (*dvaita*) and qualified non-dualistic (*viśiṣṭādvaita*) schools
 
 ## References
 
-1. Jagadananda, S. (Trans.). (1949). *Upadeśasāhasrī of Śrī Śaṅkarācārya: A Thousand Teachings in Two Parts—Prose and Poetry*. Sri Ramakrishna Math.
-2. Nikhilananda, S. (Trans.). (1931). *Vedāntasāra of Sadānanda: With Introduction, Text, English Translation and Comments*. Advaita Ashrama.
-3. Nikhilananda, S. (Trans.). (1944). *Atmabodha (Self-Knowledge) of Śrī Śaṅkarācārya*. Advaita Ashrama.
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton University Press.
-5. Sivananda, S. (1999). *Brahma Sutras: Text, Word-for-Word Meaning, Translation and Commentary*. Divine Life Society.
+1. Jagadananda, S. (Trans.). (1949). *Upadeśasāhasrī of Śrī Śaṅkarācārya: A thousand teachings in two parts—Prose and poetry*. Sri Ramakrishna Math.
+2. Nikhilananda, S. (Trans.). (1931). *Vedāntasāra of Sadānanda: With introduction, text, English translation and comments*. Advaita Ashrama.
+3. Nikhilananda, S. (Trans.). (1944). *Atmabodha (Self-knowledge) of Śrī Śaṅkarācārya*. Advaita Ashrama.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
+5. Sivananda, S. (1999). *Brahma sutras: Text, word-for-word meaning, translation and commentary*. Divine Life Society.
 6. Swahananda, S. (Trans.). (1967). *Pañcadaśī of Śrī Vidyāraṇya Swami*. Sri Ramakrishna Math.

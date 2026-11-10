@@ -86,14 +86,14 @@ Doctrinally, *adhyāsa* serves as the indispensable prerequisite (*adhikāra*) f
 
 ## References
 
-1. Caitanya, P. (Ed.). (2004). *Vivekachudamani: Sanskrit Text With Word-for-Word English Translation* (S. Dhiman, Rev. ed.). Advaita Vedanta Library.
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (New & Rev. ed.). State University of New York Press.
-3. Jagadananda, S. (Trans.). (1949). *Upadeśasāhasrī of Śrī Śaṅkarācārya: A Thousand Teachings in Two Parts—Prose and Poetry*. Sri Ramakrishna Math.
-4. Nikhilananda, S. (Trans.). (1931). *Vedāntasāra of Sadānanda: With Introduction, Text, English Translation and Comments*. Advaita Ashrama.
-5. Nikhilananda, S. (Trans.). (1936). *Drg-Drsya Viveka: An Inquiry Into the Nature of the 'Seer' and the 'Seen'*. Sri Ramakrishna Ashrama.
-6. Nityaswarupananda, S. (Trans.). (1953). *Aṣṭavakra Gītā: Sanskrit Text with Word-for-Word Translation, English Rendering, and Comments*. Advaita Ashrama.
-7. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton University Press.
-8. Sivananda, S. (1999). *Brahma Sutras: Text, Word-for-Word Meaning, Translation and Commentary*. Divine Life Society.
+1. Caitanya, P. (Ed.). (2004). *Vivekachudamani: Sanskrit text with word-for-word English translation* (S. Dhiman, Rev. ed.). Advaita Vedanta Library.
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (New & rev. ed.). State University of New York Press.
+3. Jagadananda, S. (Trans.). (1949). *Upadeśasāhasrī of Śrī Śaṅkarācārya: A thousand teachings in two parts—Prose and poetry*. Sri Ramakrishna Math.
+4. Nikhilananda, S. (Trans.). (1931). *Vedāntasāra of Sadānanda: With introduction, text, English translation and comments*. Advaita Ashrama.
+5. Nikhilananda, S. (Trans.). (1936). *Drg-Drsya viveka: An inquiry into the nature of the 'seer' and the 'seen'*. Sri Ramakrishna Ashrama.
+6. Nityaswarupananda, S. (Trans.). (1953). *Aṣṭavakra gītā: Sanskrit text with word-for-word translation, English rendering, and comments*. Advaita Ashrama.
+7. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
+8. Sivananda, S. (1999). *Brahma sutras: Text, word-for-word meaning, translation and commentary*. Divine Life Society.
 9. Swahananda, S. (Trans.). (1967). *Pañcadaśī of Śrī Vidyāraṇya Swami*. Sri Ramakrishna Math.
 10. Venkataramiah, M. S. (Ed.). (1955). *Talks with Sri Ramana Maharshi*. Sri Ramanasramam.
-11. Veda Vyāsa. (n.d.). *Rama Gita* (English Translation). Central Chinmaya Mission Trust.
+11. Veda Vyāsa. (n.d.). *Rama Gita* (English translation). Central Chinmaya Mission Trust.

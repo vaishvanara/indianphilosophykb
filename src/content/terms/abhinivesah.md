@@ -123,10 +123,10 @@ Outside the dualistic Sāṃkhya-Yoga matrix, the term *abhiniveśa* exhibits br
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (New and Rev. ed.). State University of New York Press.
-2. Hartranft, C. (2003). *The Yoga-Sūtras of Patañjali: A Compact Guide to the Core Text of Yoga*. Shambhala Publications.
-3. Larson, G. J., & Bhattacharya, R. S. (Eds.). (1987). *Encyclopedia of Indian Philosophies: Volume 4. Sāṃkhya: A Dualist Tradition in Indian Philosophy*. Princeton University Press; Motilal Banarsidass.
-4. Potter, K. H. (Ed.). (1995). *Encyclopedia of Indian Philosophies: Volume 1. Bibliography* (3rd ed.). Motilal Banarsidass.
-5. Taimni, I. K. (1961). *The Science of Yoga: The Yoga-Sūtras of Patañjali in Sanskrit with Transliteration in Roman, Translation in English and Commentary*. Theosophical Publishing House.
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (New and rev. ed.). State University of New York Press.
+2. Hartranft, C. (2003). *The Yoga-sūtras of Patañjali: A compact guide to the core text of yoga*. Shambhala Publications.
+3. Larson, G. J., & Bhattacharya, R. S. (Eds.). (1987). *Encyclopedia of Indian philosophies: Volume 4. Sāṃkhya: A dualist tradition in Indian philosophy*. Princeton University Press; Motilal Banarsidass.
+4. Potter, K. H. (Ed.). (1995). *Encyclopedia of Indian philosophies: Volume 1. Bibliography* (3rd ed.). Motilal Banarsidass.
+5. Taimni, I. K. (1961). *The science of yoga: The Yoga-sūtras of Patañjali in Sanskrit with transliteration in Roman, translation in English and commentary*. Theosophical Publishing House.
 6. Vācaspati Miśra. (1937). *Sāṅkhyakārikā of Īśvarakṛṣṇa with Tattva-kaumudī* (S. Virupakshananda, Trans.). Sri Ramakrishna Math.
 7. Vijñānabhikṣu. (1966). *Sāṃkhyapravacanabhāṣya* (R. S. Bhattacharya, Ed.). Bharatiya Vidya Prakashan.

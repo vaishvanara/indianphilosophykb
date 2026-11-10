@@ -74,11 +74,11 @@ In *Brahmasūtra* (3.3.33), Advaita Vedānta establishes that all negative descr
 
 ## References
 
-1. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press.
-3. Nikhilananda, Swami. (Trans.). (1955). *The Upaniṣads: A New Translation* (Vols. 1–4). Harper & Brothers.
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass.
-5. Radhakrishnan, S. (1953). *The Bhagavadgītā: With an Introductory Essay, Sanskrit Text, English Translation, and Notes*. Harper & Row.
+1. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press.
+3. Nikhilananda, Swami (Trans.). (1955). *The Upaniṣads: A new translation* (Vols. 1–4). Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Motilal Banarsidass.
+5. Radhakrishnan, S. (1953). *The Bhagavadgītā: With an introductory essay, Sanskrit text, English translation, and notes*. Harper & Row.
 6. Śaṅkarācārya. (1947). *Vivekacūḍāmaṇi* (S. Madhavananda, Trans.). Advaita Ashrama.
-7. Śaṅkarācārya. (1949). *Ātma Bodha (Self-Knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
-8. Sivananda, Swami. (1949). *Brahma Sūtras: Text, Word-for-Word Meaning, Translation, and Commentary*. Divine Life Society.
+7. Śaṅkarācārya. (1949). *Ātma Bodha (self-knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
+8. Sivananda, Swami. (1949). *Brahma sūtras: Text, word-for-word meaning, translation, and commentary*. Divine Life Society.

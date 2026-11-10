@@ -37,6 +37,6 @@ When joined, the compound structure explicitly denotes "the vision, perception, 
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press. Headwords "*Abheda*" and "*Abheda darśana*", p. 4.
-2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. Headwords "*a-bheda*" (p. 24, col. 2), "*darśana*" (p. 117, col. 1), "dṛś" (p. 124, col. 2), and "*bhedana*" (p. 210, col. 1).
-3. Sivananda, S. (2004). *Glossary of Sanskrit Terms*. The Divine Life Society. Headword "*Abheda*", p. 1.
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press. Headwords "*Abheda*" and "*Abheda darśana*", p. 4.
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. Headwords "*a-bheda*" (p. 24, col. 2), "*darśana*" (p. 117, col. 1), "dṛś" (p. 124, col. 2), and "*bhedana*" (p. 210, col. 1).
+3. Sivananda, S. (2004). *Glossary of Sanskrit terms*. The Divine Life Society. Headword "*Abheda*", p. 1.

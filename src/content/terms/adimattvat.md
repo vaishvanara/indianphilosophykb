@@ -38,6 +38,6 @@ The inflectional ablative ending *-āt* (*-tvāt*) expresses cause, source, or l
 
 ## References
 
-1. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headword: Ādi-mat, p. 39, col. 1).
-2. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. (Headword: Ādi-mat-tva, p. 137, col. 1).
-3. Potter, K. H. (Ed.). (1997). *Encyclopedia of Indian Philosophies: Vol. 2. Indian Metaphysics and Epistemology—The Tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa*. Motilal Banarsidass.
+1. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headword: Ādi-mat, p. 39, col. 1).
+2. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. (Headword: Ādi-mat-tva, p. 137, col. 1).
+3. Potter, K. H. (Ed.). (1997). *Encyclopedia of Indian philosophies: Vol. 2. Indian metaphysics and epistemology—The tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa*. Motilal Banarsidass.

@@ -133,12 +133,12 @@ Rival Vedantic traditions (such as Rāmānuja's Viśiṣṭādvaita and Madhva's
 ## References
 
 1. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press. (Headwords: Advaya, p. 16; Advayam-ajātam, p. 16; Ajāti-vāda, p. 22).
-3. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headwords: a-dvaya, p. 9, col. 2; a-jāta, p. 5, col. 1).
-4. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. (Headwords: a-dvaya, p. 19, col. 2; a-jāta, p. 10, col. 1).
-5. Nikhilananda, Swami. (Trans.). (1955). *The Upaniṣads: A New Translation* (Vol. 2: Śvetāśvatara, Praśna, and Māṇḍukya with Gauḍapāda's Kārikā). Harper & Brothers.
-6. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass. (Gauḍapāda's Ajātivāda and Māṇḍūkya-kārikā, pp. 63–65, 108–112).
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headwords: Advaya, p. 16; Advayam-ajātam, p. 16; Ajāti-vāda, p. 22).
+3. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headwords: a-dvaya, p. 9, col. 2; a-jāta, p. 5, col. 1).
+4. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. (Headwords: a-dvaya, p. 19, col. 2; a-jāta, p. 10, col. 1).
+5. Nikhilananda, Swami. (Trans.). (1955). *The Upaniṣads: A new translation* (Vol. 2: Śvetāśvatara, Praśna, and Māṇḍukya with Gauḍapāda's Kārikā). Harper & Brothers.
+6. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Motilal Banarsidass. (Gauḍapāda's Ajātivāda and Māṇḍūkya-kārikā, pp. 63–65, 108–112).
 7. Ramana Maharshi, Śrī. (1955). *Talks with Sri Ramana Maharshi*. Sri Ramanasramam.
-8. Śaṅkarācārya. (1949). *Ātma Bodha (Self-Knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
-9. Sivananda, S. (1946). *Glossary of Sanskrit Terms*. Divine Life Society. (Headwords: Advaita, p. 5; Ajati vada, p. 5).
-10. Sivananda, Swami. (1949). *Brahma Sūtras: Text, Word-for-Word Meaning, Translation, and Commentary*. Divine Life Society.
+8. Śaṅkarācārya. (1949). *Ātma bodha (Self-knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
+9. Sivananda, S. (1946). *Glossary of Sanskrit terms*. Divine Life Society. (Headwords: Advaita, p. 5; Ajati vada, p. 5).
+10. Sivananda, Swami. (1949). *Brahma sūtras: Text, word-for-word meaning, translation, and commentary*. Divine Life Society.

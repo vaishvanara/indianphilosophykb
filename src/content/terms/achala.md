@@ -48,8 +48,8 @@ By prefixing *a-* to *cala*, the derivative *a-cala* literally denotes "that whi
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press. Headwords "*Asaṃskṛta-dharma*" (p. 59) and "*Bodhisattva*" (p. 94).
-2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. Headwords "*a-cala*" (Part 1, p. 4, col. 3) and "*cal*" (Part 1, p. 93, col. 1).
-3. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. Headwords "*a-cala*" (p. 8, col. 3) and "*cal*" (p. 391, col. 1).
-4. Sivananda, S. (2004). *Glossary of Sanskrit Terms*. The Divine Life Society. Headword "*Achala*", p. 2.
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press. Headwords "*Asaṃskṛta-dharma*" (p. 59) and "*Bodhisattva*" (p. 94).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. Headwords "*a-cala*" (Part 1, p. 4, col. 3) and "*cal*" (Part 1, p. 93, col. 1).
+3. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. Headwords "*a-cala*" (p. 8, col. 3) and "*cal*" (p. 391, col. 1).
+4. Sivananda, S. (2004). *Glossary of Sanskrit terms*. The Divine Life Society. Headword "*Achala*", p. 2.
  

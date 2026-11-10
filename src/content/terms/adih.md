@@ -34,7 +34,7 @@ Etymologically, this compound structure (*ā + √dā + i*) literally signifies 
 
 ## References
 
-1. Abhyankar, K. V. (1961). *A Dictionary of Sanskrit Grammar*. Oriental Institute. (Headword: आदि, p. 53, col. 2; अदादि, p. 13, col. 1).
-2. Apte, V. S. (1884). *The Student's English-Sanskrit Dictionary*. Mrs. Radhabai Atmaram Sagoon. (Headword: Begin, p. 31, col. 2).
-3. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press. (Headword: Ādi, p. 14).
-4. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary: Being a Practical Handbook with Transliteration, Accentuation, and Etymological Analysis Throughout*. Longmans, Green, and Co. (Headword: Ādi, p. 39, col. 1).
+1. Abhyankar, K. V. (1961). *A dictionary of Sanskrit grammar*. Oriental Institute. (Headword: आदि, p. 53, col. 2; अदादि, p. 13, col. 1).
+2. Apte, V. S. (1884). *The student's English-Sanskrit dictionary*. Mrs. Radhabai Atmaram Sagoon. (Headword: Begin, p. 31, col. 2).
+3. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headword: Ādi, p. 14).
+4. Macdonell, A. A. (1893). *A Sanskrit-English dictionary: Being a practical handbook with transliteration, accentuation, and etymological analysis throughout*. Longmans, Green, and Co. (Headword: Ādi, p. 39, col. 1).

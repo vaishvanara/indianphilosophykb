@@ -101,12 +101,12 @@ The text identifies the senses (*indriyas*), the mind (*manas*), and the intelle
 
 ## References
 
-1. Besant, A., & Das, B. (Trans.). (1905). *The Bhagavad-Gītā: Sanskrit Text, Free Translation into English, Word-for-Word Translation, and an Introduction*. Theosophical Publishing House.
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (New & Rev. ed.). State University of New York Press.
-3. Nikhilananda, S. (Trans.). (1931). *Vedāntasāra of Sadānanda: With Introduction, Text, English Translation and Comments*. Advaita Ashrama.
-4. Nikhilananda, S. (Trans.). (1944). *Atmabodha (Self-Knowledge) of Śrī Śaṅkarācārya*. Advaita Ashrama.
-5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton University Press.
-6. Radhakrishnan, S. (1948). *The Bhagavadgītā: With an Introductory Essay, Sanskrit Text, English Translation and Notes*. George Allen & Unwin Ltd.
-7. Sivananda, S. (1999). *Brahma Sutras: Text, Word-for-Word Meaning, Translation and Commentary*. Divine Life Society.
+1. Besant, A., & Das, B. (Trans.). (1905). *The Bhagavad-Gītā: Sanskrit text, free translation into English, word-for-word translation, and an introduction*. Theosophical Publishing House.
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (New & rev. ed.). State University of New York Press.
+3. Nikhilananda, S. (Trans.). (1931). *Vedāntasāra of Sadānanda: With introduction, text, English translation and comments*. Advaita Ashrama.
+4. Nikhilananda, S. (Trans.). (1944). *Atmabodha (Self-knowledge) of Śrī Śaṅkarācārya*. Advaita Ashrama.
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
+6. Radhakrishnan, S. (1948). *The Bhagavadgītā: With an introductory essay, Sanskrit text, English translation and notes*. George Allen & Unwin Ltd.
+7. Sivananda, S. (1999). *Brahma sutras: Text, word-for-word meaning, translation and commentary*. Divine Life Society.
 8. Swahananda, S. (Trans.). (1967). *Pañcadaśī of Śrī Vidyāraṇya Swami*. Sri Ramakrishna Math.
 9. Venkataramiah, M. S. (Ed.). (1955). *Talks with Sri Ramana Maharshi*. Sri Ramanasramam.

@@ -45,5 +45,5 @@ In grammatical terminology, *antaḥstha* (literally "standing in between") desi
 6. Potter, K. H. (Ed.). (1977). *Encyclopedia of Indian philosophies: Vol. 2. Indian metaphysics and epistemology: The tradition of Nyāya-Vaiśeṣika up to Gaṅgeśa*. Motilal Banarsidass. (pp. 93–94)
 7. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and his pupils*. Princeton University Press. (p. 319)
 8. Sivananda, S. (1973). *Glossary of Sanskrit terms*. The Divine Life Society. (Headwords: *Anta*, p. 13; *Antaḥkarana*, p. 13; *Antaḥ-prajna*, p. 14; *Antar*, p. 14)
-9. Sri Aurobindo Ashram. (1978). *Glossary to the Record of Yoga*. Sri Aurobindo Ashram Trust. (Headwords: *antah.*, p. 19; *antahkarana*, p. 19; *antahsukha*, p. 19)
+9. Sri Aurobindo Ashram. (1978). *Glossary to the record of Yoga*. Sri Aurobindo Ashram Trust. (Headwords: *antah.*, p. 19; *antahkarana*, p. 19; *antahsukha*, p. 19)
 10. Wilson, H. H. (1841). *An introduction to the grammar of the Sanskrit language*. Wm. H. Allen and Co. (p. 98)

@@ -37,9 +37,9 @@ The compound formation *abhi-* + *muc* + *-ti* yields *abhimukti*, literally "th
 
 ## References
 
-1. Cappeller, C. (1891). *A Sanskrit-English Dictionary*. Chowkhamba Sanskrit Series Office. Headwords "*abhi*" (p. 33) and "*mukti*" (p. 230).
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press. Headwords "*Apavarga*" (p. 49) and "*Mukti*" (p. 195).
-3. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. Headword "*abhi-muc*" (Part 1, p. 23, col. 2) and headwords "*mukta*" and "*mukti*" (Part 2, p. 229, col. 3 & p. 230, col. 1).
-4. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. Headwords "*abhi-muc*" (p. 67, col. 2) and "*mukti*" (p. 822, col. 3).
-5. Sivananda, S. (2004). *Glossary of Sanskrit Terms*. The Divine Life Society. Headwords "*Abhi*" (p. 1) and "*Mukti*" (p. 79).
+1. Cappeller, C. (1891). *A Sanskrit-English dictionary*. Chowkhamba Sanskrit Series Office. Headwords "*abhi*" (p. 33) and "*mukti*" (p. 230).
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press. Headwords "*Apavarga*" (p. 49) and "*Mukti*" (p. 195).
+3. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. Headword "*abhi-muc*" (Part 1, p. 23, col. 2) and headwords "*mukta*" and "*mukti*" (Part 2, p. 229, col. 3 & p. 230, col. 1).
+4. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. Headwords "*abhi-muc*" (p. 67, col. 2) and "*mukti*" (p. 822, col. 3).
+5. Sivananda, S. (2004). *Glossary of Sanskrit terms*. The Divine Life Society. Headwords "*Abhi*" (p. 1) and "*Mukti*" (p. 79).
  

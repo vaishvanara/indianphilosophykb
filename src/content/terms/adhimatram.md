@@ -76,9 +76,9 @@ Later Advaita texts, such as Vidyāraṇya’s *Pañcadaśī* (5.158) and the *R
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press.
-2. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A New Translation* (Vol. 2: Śvetāśvatara, Praśna, and Māndukya with Gauḍapāda's Kārikā). Harper & Brothers.
-3. Nikhilananda, S. (Trans.). (1956). *The Upanishads: A New Translation* (Vol. 3: Aitareya and Brihadāraṇyaka). Harper & Brothers.
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Princeton University Press.
-5. Sivananda, S. (1999). *Brahma Sutras: Text, Word-for-Word Meaning, Translation and Commentary*. Divine Life Society.
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press.
+2. Nikhilananda, S. (Trans.). (1952). *The Upanishads: A new translation* (Vol. 2: Śvetāśvatara, Praśna, and Māndukya with Gauḍapāda's Kārikā). Harper & Brothers.
+3. Nikhilananda, S. (Trans.). (1956). *The Upanishads: A new translation* (Vol. 3: Aitareya and Brihadāraṇyaka). Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
+5. Sivananda, S. (1999). *Brahma sutras: Text, word-for-word meaning, translation and commentary*. Divine Life Society.
 6. Swahananda, S. (Trans.). (1967). *Pañcadaśī of Śrī Vidyāraṇya Swami*. Sri Ramakrishna Math.

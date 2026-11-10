@@ -93,15 +93,15 @@ Ultimate Reality is characterized as Pure Consciousness (*cit*) possessing inher
 
 ## References
 
-1. Dattatreya. (1938). *Avadhūta Gītā* (S. Ashokananda, Trans.). Sri Ramakrishna Math.
-2. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
-3. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press.
-4. Muruganar, Śrī. (1979). *Guru Vācaka Kovai* (Sadhu Om, Trans.). Sri Ramanasramam.
-5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass.
+1. Dattatreya. (1938). *Avadhūta gītā* (S. Ashokananda, Trans.). Sri Ramakrishna Math.
+2. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's kārikā and Śaṅkara's commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+3. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press.
+4. Muruganar, Śrī. (1979). *Guru vācaka kovai* (Sadhu Om, Trans.). Sri Ramanasramam.
+5. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Motilal Banarsidass.
 6. Ramana Maharshi, Śrī. (1955). *Talks with Sri Ramana Maharshi*. Sri Ramanasramam.
-7. Śaṅkarācārya. (1941). *Upadeśasāhasrī: A Thousand Teachings* (S. Jagadananda, Trans.). Sri Ramakrishna Math.
+7. Śaṅkarācārya. (1941). *Upadeśasāhasrī: A thousand teachings* (S. Jagadananda, Trans.). Sri Ramakrishna Math.
 8. Śaṅkarācārya. (1947). *Vivekacūḍāmaṇi* (S. Madhavananda, Trans.). Advaita Ashrama.
-9. Śaṅkarācārya. (1949). *Ātma Bodha (Self-Knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
+9. Śaṅkarācārya. (1949). *Ātma bodha (Self-knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
 10. Śrī Sadananda. (1934). *Vedāntasāra* (S. Nikhilananda, Trans.). Advaita Ashrama.
-11. Śrī Sadāśiva Brahmendra. (1931). *Dṛg-Dṛśya Vivekaḥ* (S. Nikhilananda, Trans.). Sri Ramakrishna Ashrama.
+11. Śrī Sadāśiva Brahmendra. (1931). *Dṛg-dṛśya vivekaḥ* (S. Nikhilananda, Trans.). Sri Ramakrishna Ashrama.
 12. Śrī Vidyāraṇya Svāmī. (1967). *Pañcadaśī* (S. Swahananda, Trans.). Sri Ramakrishna Math.

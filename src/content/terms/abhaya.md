@@ -48,9 +48,9 @@ In philosophical systems, the term transitions from a relative psychological sta
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press. (Headword "*Abhaya*", p. 4).
-2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. (Part 1: Headword "*a-bhaya*", p. 22, col. 3; Part 2: Headword "*bhaya*", p. 202, col. 1; Headword "BHĪ", p. 206, col. 1).
-3. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and His Pupils*. Princeton University Press. (Section 1.21, p. 112).
-4. Potter, K. H. (Ed.). (1996). *Encyclopedia of Indian Philosophies: Vol. 7. Abhidharma Buddhism to 150 A.D.* Motilal Banarsidass. (Section 845 gloss, p. 308).
-5. Sivananda, S. (1997). *Glossary of Sanskrit Terms*. The Divine Life Society. (Headword "*Abhayam*", p. 1).
-6. Sri Aurobindo. (2004). *Glossary to the Record of Yoga*. Sri Aurobindo Ashram Trust. (Headword "*abhaya*", p. 3).
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press. (Headword "*Abhaya*", p. 4).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. (Part 1: Headword "*a-bhaya*", p. 22, col. 3; Part 2: Headword "*bhaya*", p. 202, col. 1; Headword "BHĪ", p. 206, col. 1).
+3. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṃkara and his pupils*. Princeton University Press. (Section 1.21, p. 112).
+4. Potter, K. H. (Ed.). (1996). *Encyclopedia of Indian philosophies: Vol. 7. Abhidharma Buddhism to 150 A.D.* Motilal Banarsidass. (Section 845 gloss, p. 308).
+5. Sivananda, S. (1997). *Glossary of Sanskrit terms*. The Divine Life Society. (Headword "*Abhayam*", p. 1).
+6. Sri Aurobindo. (2004). *Glossary to the record of yoga*. Sri Aurobindo Ashram Trust. (Headword "*abhaya*", p. 3).

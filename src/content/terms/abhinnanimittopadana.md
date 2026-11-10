@@ -135,9 +135,9 @@ Internal discussions focus on the precise relation between *Brahman* and *māyā
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press.
-2. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press.
+2. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Princeton University Press.
 3. Sadānanda, Śrī. (1934). *Vedāntasāra: Sanskrit text with English translation* (S. Nikhilananda, Trans.). Advaita Ashrama.
-4. Śaṅkarācārya, Śrī. (1978). *Brahma Sutras: Text, word-for-word meaning, translation, and commentary* (S. Sivananda, Trans.). Divine Life Society.
-5. Saraswathi, S. R. (Trans.). (1959). *Tripura Rahasya (The mystery beyond the trinity)*. Sri Ramanasramam.
+4. Śaṅkarācārya, Śrī. (1978). *Brahma sutras: Text, word-for-word meaning, translation, and commentary* (S. Sivananda, Trans.). Divine Life Society.
+5. Saraswathi, S. R. (Trans.). (1959). *Tripura rahasya (The mystery beyond the trinity)*. Sri Ramanasramam.
 6. Vidyāraṇya, Śrī. (1967). *Pañcadaśī of Śrī Vidyāraṇya Svāmī* (S. Swahananda, Trans.). Sri Ramakrishna Math.

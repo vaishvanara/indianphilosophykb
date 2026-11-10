@@ -129,15 +129,15 @@ Modern scholars of Advaita Vedānta (such as Paul Hacker, Sengaku Mayeda, and Ka
 
 ## References
 
-1. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's Commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
-2. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press.
-3. Nikhilananda, Swami. (Trans.). (1955). *The Upaniṣads: A New Translation* (Vols. 1–4). Harper & Brothers.
-4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian Philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and His Pupils*. Motilal Banarsidass.
+1. Gauḍapāda. (1949). *Māṇḍūkya Upaniṣad with Gauḍapāda's Kārikā and Śaṅkara's commentary* (S. Nikhilananda, Trans.). Sri Ramakrishna Math.
+2. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press.
+3. Nikhilananda, Swami. (Trans.). (1955). *The Upaniṣads: A new translation* (Vols. 1–4). Harper & Brothers.
+4. Potter, K. H. (Ed.). (1981). *Encyclopedia of Indian philosophies: Vol. 3. Advaita Vedānta up to Śaṁkara and his pupils*. Motilal Banarsidass.
 5. Ramana Maharshi, Śrī. (1955). *Talks with Sri Ramana Maharshi*. Sri Ramanasramam.
 6. Sadananda, Śrī. (1934). *Vedāntasāra* (S. Nikhilananda, Trans.). Advaita Ashrama.
 7. Sadāśiva Brahmendra, Śrī. (1931). *Dṛg-Dṛśya Vivekaḥ* (S. Nikhilananda, Trans.). Sri Ramakrishna Ashrama.
-8. Śaṅkarācārya. (1941). *Upadeśasāhasrī: A Thousand Teachings* (S. Jagadananda, Trans.). Sri Ramakrishna Math.
+8. Śaṅkarācārya. (1941). *Upadeśasāhasrī: A thousand teachings* (S. Jagadananda, Trans.). Sri Ramakrishna Math.
 9. Śaṅkarācārya. (1947). *Vivekacūḍāmaṇi* (S. Madhavananda, Trans.). Advaita Ashrama.
-10. Śaṅkarācārya. (1949). *Ātma Bodha (Self-Knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
-11. Sivananda, Swami. (1949). *Brahma Sūtras: Text, Word-for-Word Meaning, Translation, and Commentary*. Divine Life Society.
+10. Śaṅkarācārya. (1949). *Ātma bodha (Self-knowledge)* (S. Nikhilananda, Trans. & Ed.). Sri Ramakrishna Math.
+11. Sivananda, Swami. (1949). *Brahma sūtras: Text, word-for-word meaning, translation, and commentary*. Divine Life Society.
 12. Vidyāraṇya Svāmī, Śrī. (1967). *Pañcadaśī* (S. Swahananda, Trans.). Sri Ramakrishna Math.

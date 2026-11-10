@@ -36,7 +36,7 @@ The compound literal structure (*ādi* + *nātha*) signifies "the lord/master at
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English*. State University of New York Press. (Headword: Ādinātha, p. 14).
-2. Malvania, D., & Soni, J. (Eds.). (2007). *Encyclopedia of Indian Philosophies: Vol. 10. Jain Philosophy (Part I)*. Motilal Banarsidass. (Introduction by J. Soni, p. 3).
-3. Monier-Williams, M. (1899). *A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European Languages*. Clarendon Press. (Headword: Ādi-nātha, p. 137, col. 1).
-4. Potter, K. H. (Ed.). (1995). *Encyclopedia of Indian Philosophies: Vol. 1. Bibliography* (3rd ed.). Motilal Banarsidass. (Headwords: Ādinātha Mahāyogin & Ādinātha Pārvatīputra, p. 649).
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English*. State University of New York Press. (Headword: Ādinātha, p. 14).
+2. Malvania, D., & Soni, J. (Eds.). (2007). *Encyclopedia of Indian philosophies: Vol. 10. Jain philosophy (Part I)*. Motilal Banarsidass. (Introduction by J. Soni, p. 3).
+3. Monier-Williams, M. (1899). *A Sanskrit-English dictionary: Etymologically and philologically arranged with special reference to cognate Indo-European languages*. Clarendon Press. (Headword: Ādi-nātha, p. 137, col. 1).
+4. Potter, K. H. (Ed.). (1995). *Encyclopedia of Indian philosophies: Vol. 1. Bibliography* (3rd ed.). Motilal Banarsidass. (Headwords: Ādinātha Mahāyogin & Ādinātha Pārvatīputra, p. 649).

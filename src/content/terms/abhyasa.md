@@ -32,14 +32,14 @@ The noun *abhyāsa* is an established primary nominal derivation (*ghañ-anta*) 
 
 1. **Prefix**: *abhi-* (अभि), an indeclinable prefix indicating "towards", "upon", "facing", or "repeatedly".
 2. **Primary root**: *as* (अस्), a primary verbal root meaning "to throw", "to cast", or "to project". When combined with the prefix (*abhi-√as*), the compound verbal base means "to throw towards", "to apply oneself to", "to practice", or "to repeat".
-3. **Nominal Formation**: The nominalizing process transforms *abhi* + *as* into the masculine noun *abhyāsa* (*m.*), literally signifying "the act of repeatedly throwing or applying oneself toward a target or activity," giving rise to the meanings "exercise", "discipline", and "habitual practice".
+3. **Nominal formation**: The nominalizing process transforms *abhi* + *as* into the masculine noun *abhyāsa* (*m.*), literally signifying "the act of repeatedly throwing or applying oneself toward a target or activity," giving rise to the meanings "exercise", "discipline", and "habitual practice".
 
 ---
 
 ## References
 
-1. Grimes, J. (1996). *A Concise Dictionary of Indian Philosophy: Sanskrit Terms Defined in English* (Rev. ed.). State University of New York Press. Headwords "*Abhyāsa*" (p. 8) and "*Ṣaḍ-liṅga*" (p. 263).
-2. Macdonell, A. A. (1893). *A Sanskrit-English Dictionary*. Longmans, Green, and Co. Headwords "*an-abhyāsa*" (Part 1, p. 12, col. 3), "*abhi-as*" (Part 1, p. 33, col. 3), and "*abhi-āsa*" (Part 1, p. 24, col. 3).
-3. Sivananda, S. (2004). *Glossary of Sanskrit Terms*. The Divine Life Society. Headword "Abhyasa", p. 1.
-4. Sri Aurobindo Ashram. (1952). *Glossary to the Record of Yoga*. Sri Aurobindo Ashram. Headword "*Abhyāsa*", p. 3.
+1. Grimes, J. (1996). *A concise dictionary of Indian philosophy: Sanskrit terms defined in English* (Rev. ed.). State University of New York Press. Headwords "*Abhyāsa*" (p. 8) and "*Ṣaḍ-liṅga*" (p. 263).
+2. Macdonell, A. A. (1893). *A Sanskrit-English dictionary*. Longmans, Green, and Co. Headwords "*an-abhyāsa*" (Part 1, p. 12, col. 3), "*abhi-as*" (Part 1, p. 33, col. 3), and "*abhi-āsa*" (Part 1, p. 24, col. 3).
+3. Sivananda, S. (2004). *Glossary of Sanskrit terms*. The Divine Life Society. Headword "Abhyasa", p. 1.
+4. Sri Aurobindo Ashram. (1952). *Glossary to the record of yoga*. Sri Aurobindo Ashram. Headword "*Abhyāsa*", p. 3.
  
