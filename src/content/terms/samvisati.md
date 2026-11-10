@@ -15,7 +15,7 @@ See: [Mandukya Upanishad (Verse 12)](mandukyopanisat.md)
 
 ## Meaning
 
-[Enters, merges, or dissolves into; specifically denoting the knower's dissolution of individual selfhood into the Supreme Self (Maximum: 135 characters)]
+[Enters, merges, or dissolves into; specifically denoting the knower's dissolution of individual selfhood into the Supreme Self]
 
 ---
 
