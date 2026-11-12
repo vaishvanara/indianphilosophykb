@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-13-26"
 title: "Veda (वेद)"
 devanagari: "वेद"
 iast: "Veda"
@@ -16,9 +16,9 @@ See: [Mandukya Upanishad (Verse 9, 10, 11, 12)](mandukyopanisat.md)
 
 ## Definition
 
-In Sanskrit literature, the term *Veda* primarily signifies sacred knowledge, ritual lore, or divine revelation. Lexically and historically, it designates the body of canonical scriptures originally categorized as the threefold knowledge (*trayī vidyā*), comprising the *Ṛg-Veda*, *Yajur-Veda*, and *Sāma-Veda*, to which the *Atharva-Veda* was appended as the fourth collection.
+In Sanskrit literature, the term *Veda* (Sanskrit: वेद) primarily signifies sacred knowledge, ritual lore, or divine revelation. Lexically and historically, it designates the body of canonical scriptures originally categorized as the threefold knowledge (*trayī vidyā*), comprising the *Ṛg-Veda*, *Yajur-Veda*, and *Sāma-Veda*, to which the *Atharva-Veda* was appended as the fourth collection.
 
-Beyond its literal definition as "knowledge" or "lore," *Veda* extends textually and figuratively to encompass the entire body of revealed literature, including the *Saṃhitās* (hymnal collections), *Brāhmaṇas* (prose ritual texts), *Āraṇyakas* (forest treatises), and *Upaniṣads* (philosophical dialogues on *Brahman*). Primary Upaniṣadic texts describe these works as having emanated spontaneously like the breath of the infinite Reality. In classical enumeration, secondary traditional literature such as *Itihāsa* (epics) and *Purāṇa* (mythological compendia) is sometimes figuratively termed a "fifth Veda" (*pañcama-veda*) to emphasize its instructional authority.
+Beyond its literal definition as "knowledge" or "lore," *Veda* extends textually and figuratively to encompass the entire body of revealed literature, including the *Saṃhitā* (hymnal collections), *Brāhmaṇa* (prose ritual texts), *Āraṇyaka* (forest treatises), and *Upaniṣad* (philosophical dialogues on *Brahman*). Primary Upanishadic texts describe these works as having emanated spontaneously like the breath of the infinite Reality. In classical enumeration, secondary traditional literature such as *Itihāsa* (epics) and *Purāṇa* (mythological compendia) is sometimes figuratively termed a "fifth Veda" (*pañcama-veda*) to emphasize its instructional authority.
 
 ---
 
@@ -26,8 +26,8 @@ Beyond its literal definition as "knowledge" or "lore," *Veda* extends textually
 
 The noun *Veda* is derived from the primary Sanskrit verbal root *vid* (विद्). In traditional Sanskrit grammar, this root operates across distinct conjugational classes:
 
-1. **Root *vid* (2nd Conjugation, *adādi-gaṇa*)**: Functions as a Parasmaipada verb (*vetti* / *veda*), meaning "to know," "to comprehend," "to perceive," or "to become acquainted with". The nominal stem *veda* is formed from this root through the addition of the primary suffix *ghañ*, yielding the literal noun meaning "knowing," "knowledge," or "sacred lore".
-2. **Root *vid* (6th Conjugation, *tudādi-gaṇa*)**: Functions as an Ātmanepada/Parasmaipada verb (*vindati*), meaning "to find," "to acquire," or "to obtain". From this homonymous root, lexicographers derive a secondary nominal meaning of *veda* as "finding" or "obtainment".
+1. **Root *vid* (2nd conjugation, *adādi-gaṇa*):** Functions as a *Parasmaipada* verb (*vetti* / *veda*), meaning "to know," "to comprehend," "to perceive," or "to become acquainted with". The nominal stem *veda* is formed from this root through the addition of the primary suffix *ghañ*, yielding the literal noun meaning "knowing," "knowledge," or "sacred lore".
+2. **Root *vid* (6th conjugation, *tudādi-gaṇa*):** Functions as an *Ātmanepada*/*Parasmaipada* verb (*vindati*), meaning "to find," "to acquire," or "to obtain". From this homonymous root, lexicographers derive a secondary nominal meaning of *veda* as "finding" or "obtainment".
 
 Additionally, homonymous nominal forms exist, such as *vedá* (masculine), designating a tied bundle or tuft of sacred grass (*kuśa* or *muñja*) utilized in Vedic sacrificial rites. The derivation of *Veda* meaning "sacred knowledge" from the 2nd conjugation root *vid* ("to know") is an established, non-uncertain etymology in both classical indigenous grammar and modern Sanskrit lexicography.
 
@@ -45,8 +45,8 @@ Advaita Vedānta affirms the uncreated (*apauruṣeya*) and eternal (*nitya*) ch
 
 Advaita Vedānta acknowledges the traditional division of the *Veda* into two main functional sections:
 
-* **The *Karma-kāṇḍa* (Work Portion)**: Comprising the *Saṃhitās* and *Brāhmaṇas*, this section deals with sacrificial duties, rituals, and moral injunctions (*vidhi*). It operates within the realm of relative duality and ignorance, providing means for mental purification (*citta-śuddhi*) and heavenly rewards.
-* **The *Jñāna-kāṇḍa* (Knowledge Portion)**: Comprising the *Upaniṣads* (or *Vedānta*), this section presents direct instruction on the identity of *Jīva* and *Brahman* through declarative statements (*mahāvākyas*) like *Tat Tvam Asi* ("That Thou Art").
+- ***Karma-kāṇḍa* (work portion):** Comprising the *Saṃhitā* and *Brāhmaṇa*, this section deals with sacrificial duties, rituals, and moral injunctions (*vidhi*). It operates within the realm of relative duality and ignorance, providing means for mental purification (*citta-śuddhi*) and heavenly rewards.
+- ***Jñāna-kāṇḍa* (knowledge portion):** Comprising the *Upaniṣad* (or *Vedānta*), this section presents direct instruction on the identity of *Jīva* and *Brahman* through declarative statements (*mahāvākyas*) like *Tat Tvam Asi* ("That Thou Art").
 
 ### Ontological status and ultimate sublation
 
@@ -65,11 +65,11 @@ Furthermore, unlike dualistic (*Dvaita*) or qualified non-dualistic (*Viśiṣ�
 - Apauruṣeyatva (अपौरुषेयत्व)
 - Jñānakāṇḍa (ज्ञानकाण्ड)
 - Karmakāṇḍa (कर्मकाण्ड)
-- Pramāṇa (प्रमाण)
-- Śabda (शब्द)
-- Śruti (श्रुति)
-- Vedānta (वेदान्त)
-- Vidyā (विद्या)
+- [Pramāṇa (प्रमाण)](pramana.md)
+- [Śabda (शब्द)](sabda.md)
+- [Śruti (श्रुति)](sruti.md)
+- [Vedānta (वेदान्त)](vedanta.md)
+- [Vidyā (विद्या)](vidya.md)
 
 ---
 
