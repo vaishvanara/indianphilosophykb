@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-12-26"
 title: "Prathamā (प्रथमा)"
 devanagari: "प्रथमा"
 iast: "Prathamā"
@@ -16,11 +16,11 @@ See: [Mandukya Upanishad (Verses 3, 9)](mandukyopanisat.md)
 
 ## Definition
 
-In standard Sanskrit lexicography and grammar, *prathamā* (प्रथमा) is the feminine form of the adjective *prathama* (प्रथम), which signifies "first," "earliest," "original," "prior," or "foremost/chief". As a technical term in Sanskrit grammar (*vyākaraṇa*), *prathamā* functions as a feminine noun denoting the "first case" or nominative case (which includes the vocative inflection).
+In standard Sanskrit lexicography and grammar, *prathamā* (Sanskrit: प्रथमा) is the feminine form of the adjective *prathama* (प्रथम), which signifies "first," "earliest," "original," "prior," or "foremost/chief". As a technical term in Sanskrit grammar (*vyākaraṇa*), *prathamā* functions as a feminine noun denoting the "first case" or nominative case (which includes the vocative inflection).
 
-In the *Māṇḍūkya Upaniṣad*, *prathamā* occurs as a key technical designation within the analytical exposition of the sacred syllable *AUM* (OM) and its symbolic identification with the states of consciousness (*Ātman*). Specifically, in Mantra 9, *prathamā* qualifies *mātrā* (a mora, constituent sound-measure, or letter unit), forming the compound phrase *prathamā mātrā* ("the first mora" or "first letter"). This refers to the vowel *akāra* (the letter 'A'), which constitutes the initial phonetic element of *AUM*.
+In the *Māṇḍūkya Upaniṣad*, *prathamā* occurs as a key technical designation within the analytical exposition of the sacred syllable *AUM* (OM) and its symbolic identification with the states of consciousness (*Ātman*). Specifically, in verse 9, *prathamā* qualifies *mātrā* (a mora, constituent sound-measure, or letter unit), forming the compound phrase *prathamā mātrā* ("the first mora" or "first letter"). This refers to the vowel *akāra* (the letter 'A'), which constitutes the initial phonetic element of *AUM*.
 
-The *Māṇḍūkya Upaniṣad* correlates this first mora (*prathamā mātrā*, 'A') with the first quarter of the Self (*prathamaḥ pādaḥ*), identified as *Vaiśvānara* (or *Viśva*), whose sphere of activity is the waking state (*jāgaritasthāna*) and whose experience consists of gross material objects. The text and Śaṅkara’s commentary establish this equivalence on two shared features (*sāmānya*):
+The *Māṇḍūkya Upaniṣad* correlates this first mora (*prathamā mātrā*, 'A') with the first quarter of the Self (*prathamaḥ pādaḥ*), identified as *Vaiśvānara* (or *Viśva*), whose sphere of activity is the waking state (*jāgarita-sthāna*) and whose experience consists of gross material objects. The text and Śaṅkara’s commentary establish this equivalence on two shared features (*sāmānya*):
 
 1. **All-pervasiveness** (*āpti*), because the sound 'A' pervades all speech and vocal sound, just as *Vaiśvānara* pervades the entire waking universe.
 2. **Having a beginning** (*ādimattva*), as 'A' is the initial sound of the alphabet, just as *Vaiśvānara* is the initial manifestation of consciousness in empirical experience.

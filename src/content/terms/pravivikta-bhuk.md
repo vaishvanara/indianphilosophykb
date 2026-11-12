@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-13-26"
 title: "Pravivikta-Bhuk (प्रविविक्तभुक्)"
 devanagari: "प्रविविक्तभुक्"
 iast: "Pravivikta-Bhuk"
@@ -17,9 +17,9 @@ See: [Mandukya Upanishad (Verse 4)](mandukyopanisat.md)
 
 ## Definition
 
-Literally, *pravivikta-bhuk* (प्रविविक्तभुक्) signifies an "enjoyer or experiencer of that which is fine, isolated, or subtle". In its primary philosophical and lexical context within the *Māṇḍūkya Upaniṣad* (Mantra IV), the term designates the second quarter or aspect (*pāda*) of the Self (*Ātman*), known as *Taijasa* ("the luminous"), whose sphere of activity is the dream state (*svapna-sthāna*). 
+Literally, *pravivikta-bhuk* (Sanskrit: प्रविविक्तभुक्) signifies an "enjoyer or experiencer of that which is fine, isolated, or subtle". In its primary philosophical and lexical context within the *Māṇḍūkya Upaniṣad* (verse IV), the term designates the second quarter or aspect (*pāda*) of the Self (*Ātman*), known as *Taijasa* ("the luminous"), whose sphere of activity is the dream state (*svapna-sthāna*). 
 
-While waking consciousness (*Viśva*) experiences gross, external material objects, *pravivikta-bhuk* refers to the consciousness that turns inward (*antaḥprajña*) to experience subtle objects (*pravivikta*). These subtle objects consist of internal mental representations, fancies, and impressions (*vāsanās*) derived from previous waking experiences, projected by the mind during sleep when external sense organs are inactive. Figuratively, the term denotes the subjective self-effulgent witness (*sākṣin*) that illumines and consumes these fine mental modifications as its objective field.
+While waking consciousness (*Viśva*) experiences gross, external material objects, *pravivikta-bhuk* refers to the consciousness that turns inward (*antaḥ-prajña*) to experience subtle objects (*pravivikta*). These subtle objects consist of internal mental representations, fancies, and impressions (*vāsanā*s) derived from previous waking experiences, projected by the mind during sleep when external sense organs are inactive. Figuratively, the term denotes the subjective self-effulgent witness (*sākṣin*) that illumines and consumes these fine mental modifications as its objective field.
 
 ---
 

@@ -182,7 +182,7 @@ Hy-Ānanda-Bhuk Ceto-Mukhaḥ Prājñas-Tṛtīyaḥ Pādaḥ.*
 **Translation**
 
 Where one asleep neither desires anything nor sees any dream—that is deep sleep.
-In the state of deep sleep experience is unified, a mass of consciousness, verily of the form of bliss, verily enjoying bliss, and whose mouth is consciousness—the Self in the state of deep sleep (*Prājña*) is the third quarter.
+In the state of deep sleep experience is unified, a mass of consciousness, verily of the form of bliss, verily enjoying bliss, and whose mouth is consciousness—the Self in the state of deep sleep (*Prajña*) is the third quarter.
 
 **Word-for-word meaning**
 
