@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-12-26"
 title: "Pāda (पाद)"
 devanagari: "पाद"
 iast: "Pāda"
@@ -16,14 +16,16 @@ See: [Mandukya Upanishad (Verse 3, 4, 5, 8)](mandukyopanisat.md)
 
 ## Definition
 
-The Sanskrit term *pāda* (पाद) primarily denotes the physical "foot" or "leg" of human beings, animals, or inanimate objects such as tables and posts. By lexical extension, it designates a "foot" as a unit of linear measurement, the root of a tree (*pādapa*), the base or spur of a mountain, a ray of light (conceived as the foot of a celestial body), or a single step/tread. In Sanskrit prosody (*chandas*), *pāda* refers to a quarter-verse or single line of a four-lined stanza, determined either by syllabic count (*akṣara*) or metrical instants (*mātrā*). Derived from the four-limbed structure of quadrupeds, *pāda* also standardly signifies a "quarter" or a one-fourth fraction (1/4) of any whole.
+The Sanskrit term *pāda* (Sanskrit: पाद) primarily denotes the physical "foot" or "leg" of human beings, animals, or inanimate objects such as tables and posts. By lexical extension, it designates a "foot" as a unit of linear measurement, the root of a tree (*pādapa*), the base or spur of a mountain, a ray of light (conceived as the foot of a celestial body), or a single step/tread. 
 
-In the specific philosophical context of the *Māṇḍūkya Upaniṣad* (Mantra 2: *so 'yam ātmā catuṣpāt*), *pāda* is employed metaphorically to describe the four "quarters" or dimensions of the Self (*Ātman*) and ultimate Reality (*Brahman*). These four quarters comprise the three relative states of experience—the waking state (*Viśva* / *Vaiśvānara*), the dream state (*Taijasa*), and the deep-sleep state (*Prajñā*)—and the unconditioned fourth state (*Turīya*), which is partless, serene, and the sublation of all phenomenal duality (*prapañcopaśama*).
+In Sanskrit prosody (*chandas*), *pāda* refers to a quarter-verse or single line of a four-lined stanza, determined either by syllabic count (*akṣara*) or metrical instants (*mātrā*). Derived from the four-limbed structure of quadrupeds, *pāda* also standardly signifies a "quarter" or a one-fourth fraction (1/4) of any whole.
 
-In his commentary (*Bhāṣya*), Śaṅkarācārya clarifies the hermeneutical function of *pāda* in the *Māṇḍūkya* by contrasting two analogies:
+In the specific philosophical context of the *Māṇḍūkya Upaniṣad* (verse 2: *so 'yam ātmā catuṣpāt*), *pāda* is employed metaphorically to describe the four "quarters" or dimensions of the Self (*Ātman*) and ultimate Reality (*Brahman*). These four quarters comprise the three relative states of experience, namely the waking state (*Viśva* / *Vaiśvānara*), the dream state (*Taijasa*), and the deep-sleep state (*Prajñā*), and the unconditioned fourth state (*Turīya*), which is partless, serene, and the sublation of all phenomenal duality (*prapañcopaśama*).
 
-1. **The Cow Analogy (*Gao-vat*)**: *Ātman* does not possess four *pādas* like the physical feet of a cow, which exist simultaneously as separate, independent limbs.
-2. **The Currency Coin Analogy (*Kārṣāpaṇa-vat*)**: Rather, *pāda* operates like the four quarters of a currency coin (a *kārṣāpaṇa*). Just as a quarter-coin is absorbed into a half-coin, a half into three-quarters, and three-quarters into the full coin, the waking quarter (*Viśva*) is merged into the dream quarter (*Taijasa*), dream into deep sleep (*Prajñā*), and deep sleep into the non-dual fourth quarter (*Turīya*).
+In his commentary (*Bhāṣya*), Śaṅkarācārya clarifies the hermeneutical function of *pāda* in the *Māṇḍūkya Upaniṣad* by contrasting two analogies:
+
+1. **Cow analogy (*gao-vat*):** *Ātman* does not possess four *pādas* like the physical feet of a cow, which exist simultaneously as separate, independent limbs.
+2. **Currency coin analogy (*kārṣāpaṇa-vat*):** Rather, *pāda* operates like the four quarters of a currency coin (a *kārṣāpaṇa*). Just as a quarter-coin is absorbed into a half-coin, a half into three-quarters, and three-quarters into the full coin, the waking quarter (*Viśva*) is merged into the dream quarter (*Taijasa*), dream into deep sleep (*Prajñā*), and deep sleep into the non-dual fourth quarter (*Turīya*).
 
 Śaṅkara further explains that the term *pāda* fulfills a dual semantic role: in the first three states, it functions as an **instrument** (*karaṇa*)—the means by which the succeeding quarter is attained and merged—whereas in *Turīya*, it signifies the ultimate **object** (*karma* or *gantavya*) to be realized. This contrasts with earlier Upaniṣadic contexts (such as *Chāndogya Upaniṣad* III.18.2 or *Brahmasūtra* III.2.33), where four "feet" (such as speech, breath, eye, and ear) are assigned to *Brahman* as symbolic aids for devout meditation (*upāsanā*). In the *Māṇḍūkya*, the division into four *pādas* is a pedagogical method of superimposition and sublation (*adhyāropa-apavāda*) leading directly to non-dual realization.
 
