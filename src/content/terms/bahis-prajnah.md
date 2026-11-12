@@ -19,7 +19,7 @@ See: [Mandukya Upanishad (Verse 3)](mandukyopanisat.md)
 
 In lexical and ordinary Sanskrit usage, *bahiṣ-prajñaḥ* (Sanskrit: बहिष्प्रज्ञः) is an adjectival compound literally meaning "outwardly conscious," "having consciousness directed outward," or "cognizant of external objects." It combines the indeclinable particle *bahiḥ* ("out," "outside," "externally") with *prajñā* / *prajña* ("consciousness," "cognition," "awareness").
 
-In Upaniṣadic literature and classical Vedāntic philosophy, most prominently in verse 3 of the *Māṇḍūkya Upaniṣad*, *bahiṣ-prajñaḥ* serves as a key technical term designating the cognitive mode of *Vaiśvānara* (or *Viśva*), the first quarter (*pāda*) of the Self (*Ātman*). It characterizes awareness oriented toward external physical objects (*sthūla-viṣaya*) during the waking state (*jāgrat-sthāna*), distinguishing it from dream consciousness (*antaḥ-prajñaḥ*, "inwardly conscious") and deep sleep (*prājña*, "unified mass of consciousness").
+In Upaniṣadic literature and classical Vedantic philosophy, most prominently in verse 3 of the *Māṇḍūkya Upaniṣad*, *bahiṣ-prajñaḥ* serves as a key technical term designating the cognitive mode of *Vaiśvānara* (or *Viśva*), the first quarter (*pāda*) of the Self (*Ātman*). It characterizes awareness oriented toward external physical objects (*sthūla-viṣaya*) during the waking state (*jāgrat-sthāna*), distinguishing it from dream consciousness (*antaḥ-prajñaḥ*, "inwardly conscious") and deep sleep (*prājña*, "unified mass of consciousness").
 
 ---
 
