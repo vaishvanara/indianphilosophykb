@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-26-26"
+lastUpdated: "11-13-26"
 title: "Tad (तद्)"
 devanagari: "तद्"
 iast: "Tad"
@@ -30,13 +30,13 @@ The neuter nominative and accusative singular form *tad* (or *tat*) functions as
 
 The base *tad-* / *ta-* forms the constituent basis for numerous technical compound terms and secondary derivatives (*taddhita*):
 
-- *Tatpuruṣa* (तत्पुरुष): "his man" (*tasya puruṣaḥ*), serving as the classic exemplar and technical designation for determinative noun compounds.
-- *Taddhita* (तद्धित): "good for that/him" (*tat-hita*), the technical term for secondary nominal suffixes and words derived through them.
-- *Tattva* (तत्त्व): "that-ness," denoting essential truth, reality, or fundamental principle.
-- *Tādātmya* (तादात्म्य): "identity of nature" or "essential identity," formed from *tad-ātman*.
-- *Tādrūpya* (ताद्रूप्य): "identity of form" or "truth".
-- *Tādṛś* (तादृश्) / Tādṛśa (तादृश): "such" or "of such a kind," formed with the suffix *-dṛś* / *-dṛśa*.
-- *Tāvat* (तावत्): "so much" or "so many".
+- ***Tatpuruṣa* (तत्पुरुष):** "his man" (*tasya puruṣaḥ*), serving as the classic exemplar and technical designation for determinative noun compounds.
+- ***Taddhita* (तद्धित):** "good for that/him" (*tat-hita*), the technical term for secondary nominal suffixes and words derived through them.
+- ***Tattva* (तत्त्व):** "that-ness," denoting essential truth, reality, or fundamental principle.
+- ***Tādātmya* (तादात्म्य):** "identity of nature" or "essential identity," formed from *tad-ātman*.
+- ***Tādrūpya* (ताद्रूप्य):** "identity of form" or "truth".
+- ***Tādṛś* (तादृश्) / Tādṛśa (तादृश):** "such" or "of such a kind," formed with the suffix *-dṛś* / *-dṛśa*.
+- ***Tāvat* (तावत्):** "so much" or "so many".
 
 Additionally, adverbial derivatives formed from the base *ta-* include *tatas* ("thence", "thereupon", formed with the ablative suffix *-tas*), *tatra* ("there", "in that place", formed with *-tra*), *tadā* ("then", "at that time"), *tarhi* ("at that time", "then"), and the adverbial ablative singular *tasmāt* ("therefore", "on that account").
 
