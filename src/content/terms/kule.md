@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-12-26"
 title: "Kule (कुले)"
 devanagari: "कुले"
 iast: "Kule"
@@ -16,17 +16,15 @@ See: [Mandukya Upanishad (Verse 10)](mandukyopanisat.md)
 
 ## Definition
 
-The Sanskrit term ***kula*** (कुल) primarily denotes a herd, flock, swarm, multitude, race, family, community, guild, abode, or house. The inflected form ***kule*** (कुले) is the locative singular case of *kula*, literally meaning "in a family," "in the house," or "in the lineage". 
+The Sanskrit term *kula* (कुल) primarily denotes a herd, flock, swarm, multitude, race, family, community, guild, abode, or house. The inflected form *kule* (कुले) is the locative singular case of *kula*, literally meaning "in a family," "in the house," or "in the lineage". 
 
 In broader Indian philosophical literature, *kula* extends beyond its primary domestic and social senses to signify any unit of empirical manifestation, anything possessing name and form, condensation, solidification, the human body, a state of being, the world, the universe, the embodied cosmos, or divine creative energy. 
-
-Regarding the *Māṇḍūkya Upaniṣad*, the text of the Upaniṣad consists of twelve concise prose mantras examining the sacred syllable *AUM*, the four states or quarters of *Ātman* (*Vaiśvānara*, *Taijasa*, *Prājña*, and *Turīya*), and the nature of ultimate non-dual Reality. The inflected form *kule* does not occur in the twelve mantras of the *Māṇḍūkya Upaniṣad*.
 
 ---
 
 ## Etymology
 
-The noun *kula* is derived from the Sanskrit verbal root ***kul*** (कुल्), which means "to gather" or "to group together". 
+The noun *kula* is derived from the Sanskrit verbal root *kul* (कुल्), which means "to gather" or "to group together". 
 
 Grammatically, *kula* is a neuter noun, and *kule* represents its locative singular inflected form. The root *kul* serves as the base for several compound structures in classical Sanskrit, such as *kuladevatā* (family deity), *kulaguru* (family priest or head of a family), *kulapati* (head of a house or community), and *gurukula* (the residence or school of a spiritual teacher).
 

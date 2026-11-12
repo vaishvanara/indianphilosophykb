@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-12-26"
 title: "Kāmayate Na (कामयते न)"
 devanagari: "कामयते न"
 iast: "Kāmayate Na"
@@ -16,26 +16,27 @@ See: [Mandukya Upanishad (Verse 5)](mandukyopanisat.md)
 
 ## Definition
 
-Lexically, *kāmayate na* (कामयते न) is a negative verbal phrase consisting of the verb *kāmayate* ("desires," "wishes," or "longs for") and the negative particle *na* ("not" or "no"). Literally translated, the phrase means "does not desire" or "desires not."
+Lexically, *kāmayate na* (Sanskrit कामयते न) is a negative verbal phrase consisting of the verb *kāmayate* ("desires," "wishes," or "longs for") and the negative particle *na* ("not" or "no"). Literally translated, the phrase means "does not desire" or "desires not."
 
-In the specific textual context of the *Māṇḍūkya Upaniṣad* (Mantra 5), *kāmayate na* occurs within the principal definition of the third quarter (*tṛtīyaḥ pādaḥ*) of *Ātman*, identified as *prājña* operating in the sphere of deep sleep (*suṣuptasthāna*):
+In the specific textual context of the *Māṇḍūkya Upaniṣad* (verse 5), *kāmayate na* occurs within the principal definition of the third quarter (*tṛtīyaḥ pādaḥ*) of *Ātman*, identified as *Prājña* operating in the sphere of deep sleep (*suṣuptasthāna*):
+
 > *yatra supto na kaṃcana kāmaṃ kāmayate na kaṃcana svapnaṃ paśyati tat suṣuptam...*
 > ("That is deep sleep wherein the sleeper desires no desire whatsoever and sees no dream...")
 
 Contextually and philosophically, *kāmayate na* marks the crucial boundary between waking/dream consciousness and causal deep sleep. In the waking state (*jāgarita*) and dream state (*svapna*), consciousness is active, fragmented, and outwardly or inwardly directed through desires for gross and subtle objects. In deep sleep (*suṣupti*), all subject-object duality, mental projections, and specific desires cease, merging into an undifferentiated mass of consciousness (*prajñāna-ghana*). 
 
-Vedāntic exegesis distinguishes this absence of desire (*kāmayate na*) in deep sleep—where desires remain dormant in causal seed form (*bīja-nidrā*)—from the absolute desirelessness of *turīya* (the Fourth), which transcends both causal ignorance and phenomenal manifestation.
+Vedantic exegesis distinguishes this absence of desire (*kāmayate na*) in deep sleep, where desires remain dormant in causal seed form (*bīja-nidrā*), from the absolute desirelessness of *Turīya* (the Fourth), which transcends both causal ignorance and phenomenal manifestation.
 
 ---
 
 ## Etymology
 
-Grammatically, *kāmayate na* (कामयते न) is a two-word verbal expression comprising an inflected middle-voice verb and an indeclinable negative particle:
+Grammatically, *kāmayate na* is a two-word verbal expression comprising an inflected middle-voice verb and an indeclinable negative particle:
 
-1. *kāmayate* (कामयते): The third person singular present indicative form of the derivative or causative verbal stem *kāmaya-*, derived from the primary Sanskrit verbal root √*kam* (कम्), meaning "to desire," "to wish," or "to love." The stem *kāmaya-* is formed by attaching the nominal/causative affix *-aya-* to the root √*kam*, causing *vṛddhi* lengthening of the radical short vowel *-a-* to *-ā-*. It takes the *Ātmanepada* (middle voice) third person singular inflectional ending *-te*.
-2. *na* (न): An indeclinable negative particle (*avyaya*) meaning "not" or "no."
+1. ***kāmayate* (कामयते):** The third person singular present indicative form of the derivative or causative verbal stem *kāmaya-*, derived from the primary Sanskrit verbal root √*kam* (कम्), meaning "to desire," "to wish," or "to love." The stem *kāmaya-* is formed by attaching the nominal/causative affix *-aya-* to the root √*kam*, causing *vṛddhi* lengthening of the radical short vowel *-a-* to *-ā-*. It takes the *Ātmanepada* (middle voice) third person singular inflectional ending *-te*.
+2. ***na* (न):** An indeclinable negative particle (*avyaya*) meaning "not" or "no."
 
-Syntactically, in Mantra 5 of the *Māṇḍūkya Upaniṣad*, *kāmayate* is modified by *na* and governs the cognate accusative direct object *kāmam* ("desire"), reinforced by the indefinite pronoun *kaṃcana* ("any whatever"), forming the emphatic clause *na kaṃcana kāmaṃ kāmayate* ("does not entertain any desire whatsoever").
+Syntactically, in verse 5 of the *Māṇḍūkya Upaniṣad*, *kāmayate* is modified by *na* and governs the cognate accusative direct object *kāmam* ("desire"), reinforced by the indefinite pronoun *kaṃcana* ("any whatever"), forming the emphatic clause *na kaṃcana kāmaṃ kāmayate* ("does not entertain any desire whatsoever").
 
 ---
 
