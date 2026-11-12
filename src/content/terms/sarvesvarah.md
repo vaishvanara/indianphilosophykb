@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-13-26"
 title: "Sarveśvaraḥ (सर्वेश्वरः)"
 devanagari: "सर्वेश्वरः"
 iast: "Sarveśvaraḥ"
@@ -17,17 +17,20 @@ See: [Mandukya Upanishad (Verse 6)](mandukyopanisat.md)
 
 ## Definition
 
-Lexically, *sarveśvara* denotes the "lord of all" or an almighty, supreme ruler. In the *Māṇḍūkya Upaniṣad* (mantra 6), the inflected form *sarveśvaraḥ* occurs as an epithet characterizing the third quarter (*pāda*) of the Self (*Ātman*), designated as *Prājña*, whose domain is the state of deep dreamless sleep (*suṣupti*). 
+Lexically, the Sanskrit term *sarveśvara* (Sanskrit: सर्वेश्वरः) denotes the "lord of all" or an almighty, supreme ruler. In the *Māṇḍūkya Upaniṣad* (verse 6), the inflected form *sarveśvaraḥ* occurs as an epithet characterizing the third quarter (*pāda*) of the Self (*Ātman*), designated as *Prājña*, whose domain is the state of deep dreamless sleep (*suṣupti*). 
 
-In its literal sense, the term signifies the sovereign possessor of all dominion. In the extended metaphysical framework of Advaita Vedānta, Śaṅkara explains that *sarveśvara* refers to the Lord (*Īśvara*) presiding over the totality of both the physical and super-physical universe in the unmanifest causal condition. Rather than representing an extra-cosmic creator detached from nature, *sarveśvara* is non-different from the universe; He is the omniscient inner controller (*antaryāmin*) who permeates all entities from within and constitutes the common womb (*yoni*) from which all manifold beings emerge and into which they ultimately dissolve. Associated philosophical literature similarly identifies this principle with Pure Consciousness conditioned by the aggregate of cosmic ignorance (*māyā* / *ajñāna*), endowed with universal lordship (*sarveśvaratva*), omniscience, and world-governing potency.
+In its literal sense, the term signifies the sovereign possessor of all dominion. In the extended metaphysical framework of Advaita Vedānta, Śaṅkara explains that *sarveśvara* refers to the Lord (*Īśvara*) presiding over the totality of both the physical and super-physical universe in the unmanifest causal condition. Rather than representing an extra-cosmic creator detached from nature, *sarveśvara* is non-different from the universe; He is the omniscient inner controller (*antaryāmin*) who permeates all entities from within and constitutes the common womb (*yoni*) from which all manifold beings emerge and into which they ultimately dissolve. 
+
+Associated philosophical literature similarly identifies this principle with Pure Consciousness conditioned by the aggregate of cosmic ignorance (*māyā* / *ajñāna*), endowed with universal lordship (*sarveśvaratva*), omniscience, and world-governing potency.
 
 ---
 
 ## Etymology
 
 The term *sarveśvara* is a nominal compound composed of two elements:
-- *sarva* (adjective): "all," "whole," "entire".
-- *īśvara* (masculine substantive): "owner," "ruler," "lord," or "supreme god," derived from the verbal root *īś* (Class II Ātmanepada *īṣṭe*, meaning "to possess," "own," "rule," or "be master of") with the primary nominal suffix *-vara*.
+
+- ***Sarva* (adjective):** "all," "whole," "entire".
+- ***Īśvara* (masculine substantive):** "owner," "ruler," "lord," or "supreme god," derived from the verbal root *īś* (Class II *Ātmanepada* *īṣṭe*, meaning "to possess," "own," "rule," or "be master of") with the primary nominal suffix *-vara*.
 
 Grammatically, the word is structured as a genitive determinative compound (*ṣaṣṭhī-tatpuruṣa*), resolving analytically to *sarveṣām īśvaraḥ* ("the lord/ruler of all"). The junction of the final vowel *-a* of *sarva* and the initial vowel *ī-* of *īśvara* follows the standard rule of *guṇa* vowel sandhi (*a* + *ī* → *e*), yielding *sarveśvara*. 
 

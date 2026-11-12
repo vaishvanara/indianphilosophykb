@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-13-26"
 title: "Śiva (शिव)"
 devanagari: "शिव"
 iast: "Śiva"
@@ -17,19 +17,22 @@ See: [Mandukya Upanishad (Verses 7, 12)](mandukyopanisat.md)
 
 ## Definition
 
-In its primary lexical sense, *Śiva* denotes that which is auspicious, propitious, benign, or gracious, as well as welfare, happiness, and final emancipation. The term evolved from a Vedic adjectival epithet applied propitiatingly to the fierce divinity Rudra into the proper name of the supreme deity associated with cosmic dissolution, regeneration, and ascetic transcendence. 
+In its primary lexical sense, *śiva* (Sanskrit: शिव) denotes that which is auspicious, propitious, benign, or gracious, as well as welfare, happiness, and final emancipation. The term evolved from a Vedic adjectival epithet applied propitiatingly to the fierce divinity Rudra into the proper name of the supreme deity associated with cosmic dissolution, regeneration, and ascetic transcendence. 
 
-In extended philosophical discourse, *Śiva* shifts from a personal deity to denote pure, unconditioned Consciousness (*cit*, *caitanya*), the changeless substratum and witness of all manifestation. In non-dual Tantric metaphysics and Śaivism, *Śiva* designates the ultimate, formless reality (*paramaśiva*, *nirguṇa-śiva*) prior to all polarization into subject and object, contrasted with and complemented by *Śakti*, the dynamic, creative power that brings forth the cosmos. Figuratively, the term is also used to signify the state of spiritual liberation (*mokṣa*), the sacred sign of the formless absolute (*śivaliṅga*), and the perfected soul that has realized identity with the supreme principle.
+In extended philosophical discourse, *Śiva* shifts from a personal deity to denote pure, unconditioned Consciousness (*cit*, *caitanya*), the changeless substratum and witness of all manifestation. In non-dual Tantric metaphysics and Śaivism, *Śiva* designates the ultimate, formless reality (*paramaśiva*, *nirguṇa-śiva*) prior to all polarization into subject and object, contrasted with and complemented by *Śakti*, the dynamic, creative power that brings forth the cosmos. 
+
+Figuratively, the term is also used to signify the state of spiritual liberation (*mokṣa*), the sacred sign of the formless absolute (*śivaliṅga*), and the perfected soul that has realized identity with the supreme principle.
 
 ---
 
 ## Etymology
 
-Grammatically, *Śiva* is an *a*-stem masculine noun (nominative singular *śivaḥ*) or adjective (*śiva*, feminine *śivā*, neuter *śivam*). Traditional indigenous etymologies preserve two primary derivations:
+Grammatically, *śiva* is an *a*-stem masculine noun (nominative singular *śivaḥ*) or adjective (*śiva*, feminine *śivā*, neuter *śivam*). Traditional indigenous etymologies preserve two primary derivations:
+
 1. Classical grammarians and lexicographers derive the term from the verbal root *śī* (शी, "to lie down," "to rest," or "in whom all things lie or repose") via the *uṇādi* affix *van*, signifying the peaceful, immutable substratum in which the entire universe rests upon dissolution.
 2. Alternatively, ancient etymological glosses connect it with the root *śvi* (श्वि, "to swell," "to prosper," or "to increase"), highlighting the auspicious potency of growth, well-being, and graciousness.
 
-In Tantric esoteric etymology, *Śiva* is associated with the seed-syllables and phonetic elements of the Sanskrit alphabet, where the letter *ha* (*hakāra*) represents the supreme spirit or masculine divine principle (*Śiva*), in contrast to *sa* (*sakāra*) representing *Śakti*. When shorn of dynamic vitality (*śakti*), the consonantal base is symbolically characterized as *śava* ("a corpse"), demonstrating that within the tradition's semantic logic, *Śiva* embodies the illumination of consciousness whose active manifestation is entirely dependent upon *Śakti*.
+In Tantric esoteric etymology, *śiva* is associated with the seed-syllables and phonetic elements of the Sanskrit alphabet, where the letter *ha* (*hakāra*) represents the supreme spirit or masculine divine principle (*Śiva*), in contrast to *sa* (*sakāra*) representing *Śakti*. When shorn of dynamic vitality (*śakti*), the consonantal base is symbolically characterized as *śava* ("a corpse"), demonstrating that within the tradition's semantic logic, *Śiva* embodies the illumination of consciousness whose active manifestation is entirely dependent upon *Śakti*.
 
 ---
 
@@ -37,8 +40,8 @@ In Tantric esoteric etymology, *Śiva* is associated with the seed-syllables and
 
 In Śākta Tantra and Kuṇḍalinī Yoga, *Śiva* represents pure transcendental consciousness, the static, unchanging pole of reality (*prakāśa*), whereas *Śakti* constitutes its dynamic, kinetic, and self-referential power (*vimarśa*). The school affirms a non-dual monism (*advaita*) wherein *Śiva* and *Śakti* are inseparably united (*yamalarūpa*), like a grain of gram (*caṇaka*) containing two cotyledons enclosed in a single sheath. *Śiva* exists in two fundamental aspects:
 
-1. *Niṣkala* (or *Nirguṇa*) *Śiva*: The transcendent, undivided absolute devoid of manifested *śakti*, existing as pure Being-Consciousness-Bliss (*sat-cit-ānanda*).
-2. *Sakala* (or *Saguṇa*) *Śiva*: The immanent Lord accompanied by kinetic energy, functioning as the source of cosmic sound (*śabdabrahman*), categories (*tattva*s), and cosmic manifestation.
+1. ***Niṣkala* (or *Nirguṇa*) *Śiva*:** The transcendent, undivided absolute devoid of manifested *śakti*, existing as pure Being-Consciousness-Bliss (*sat-cit-ānanda*).
+2. ***Sakala* (or *Saguṇa*) *Śiva*:** The immanent Lord accompanied by kinetic energy, functioning as the source of cosmic sound (*śabdabrahman*), categories (*tattva*s), and cosmic manifestation.
 
 Cosmologically, in *Mahānirvāṇa Tantra*, *Paramaśiva* manifests as a septenary hierarchy beginning with *Śambhu* (the associate of time), followed by *Sadāśiva*, *Īśāna*, and the triad *Rudra*, *Viṣṇu*, and *Brahmā*. Together with *Īśāna* and *Sadāśiva*, these constitute the five *Śiva*s known as the *mahāpreta*, who form the base and seat upon which the transcendent *Devī* unites with *Paramaśiva*. 
 
@@ -55,7 +58,7 @@ The mechanics of Kuṇḍalinī Yoga (*ṣaṭcakrabheda* or *layayoga*) consist
 
 In the broader schools of Śaivism, *Śiva* is the foundational reality, but the traditions differ on ontology:
 
-- In dualistic Śaiva Siddhānta, *Śiva* is the efficient cause of the cosmos and the supreme soul who remains distinct from bound individual souls (*paśu*) and the material world (*pāśa*). The connection between *Śiva* and the soul is structured through the six pathways (*ṣaḍ-adhvan*): *mantra*, *varṇa*, *pada*, *bhuvana*, *tattva*, and *kalā*. Bondage is caused by innate impurities (*mala*s)—namely *āṇava*, *māyā*, and *karma*—which veil the soul's innate *śivatva* (Śiva-nature) until *Śiva*'s descent of grace (*śaktipāta*) effects release.
+- In dualistic Śaiva Siddhānta, *Śiva* is the efficient cause of the cosmos and the supreme soul who remains distinct from bound individual souls (*paśu*) and the material world (*pāśa*). The connection between *Śiva* and the soul is structured through the six pathways (*ṣaḍ-adhvan*): *mantra*, *varṇa*, *pada*, *bhuvana*, *tattva*, and *kalā*. Bondage is caused by innate impurities (*mala*s), namely *āṇava*, *māyā*, and *karma*, which veil the soul's innate *śivatva* (Śiva-nature) until *Śiva*'s descent of grace (*śaktipāta*) effects release.
 - In non-dual Kashmir Śaivism (*Trika*), *Śiva* is the autonomous, self-luminous absolute (*parasaṃvit*, *prakāśa*) whose innate freedom (*svātantrya*) radiates as cosmic manifestation through His own *śakti*. The universe is not an external creation but an expansion (*prasāra*) of *Śiva* Himself. Through five divine coverings (*kañcuka*s: *kāla*, *niyati*, *rāga*, *vidyā*, and *kalā*), *Śiva* freely contracts Himself into the limited individual soul (*jīva* or *aṇu*). Liberation is the spontaneous recognition (*pratyabhijñā*) that one's true identity has always been *Śiva*.
 
 ---
@@ -68,19 +71,29 @@ Within classical Nyāya and Vaiśeṣika, the concept of God (*Īśvara*) was hi
 
 ## Primary texts and commentaries
 
-Primary textual traditions and their traditional commentaries provide specific technical elaborations of *Śiva*:
+Primary textual traditions and their traditional commentaries provide specific technical elaborations of *Śiva*
 
-- **Ṣaṭ-Cakra-Nīrūpaṇa of Pūrṇānanda Svāmī**:
-  - *Verse 29*: Describes *Sadāśiva* in the *viśuddha-cakra* as five-faced, ten-armed, snow-white, united with *Girijā* (Pārvatī), and clothed in a tiger skin (*sadāpūrvo devaḥ śiva iti ca samākhyānasiddhaḥ prasiddhaḥ*).
-  - *Verse 42*: Details the subtle *bindu* in the *sahasrāra*, identifying it as the abode of the deity known to all as *Paramaśiva*, the supreme *Brahman* and *Ātman* of all beings (*paramashiva-samākhyāna-siddha*).
-  - *Verse 49*: Celebrates the immaculate, eternal abode of *Śiva* (*śivapadam amalam*), called *Nityānanda*, pure consciousness itself (*śuddhabodhasvarūpaṃ*), where the soul attains liberation.
-  - *Verse 51*: Details the culminating union where the ascending *Devī* reaches the flame-like *Śiva* of supreme bliss (*paramasukha-rūpa-śiva*) to generate the bliss of liberation.
-- **Traditional Commentaries on Ṣaṭ-Cakra-Nīrūpaṇa**:
-  - *Śaṅkara* (Tāntrika commentator) and *Viśvanātha*: Both commentators clarify that the forms of *Śiva* in the lower centers (such as the *svayambhūliṅga* in *mūlādhāra* and *ardhanārīśvara* in *viśuddha*) are conditioned manifestations (*aṃśa*) of the unconditioned *Paramaśiva* residing in the *sahasrāra*. Viśvanātha glosses the non-difference between *Śiva* and *Śaktī* as *śivābhedajñāna*.
-- **Mahānirvāṇa Tantra**:
-  - Chapter 1 and Chapter 3 formulate the theological nature of *Paramaśiva* as the transcendent, unchangeable, self-manifest witness (*sākṣin*) of the cosmos, from whose will *Brahmā*, *Viṣṇu*, and *Rudra* perform creation, preservation, and destruction under the impulse of *Śakti*.
-- **Modern Scholarship**:
-  - Sir John Woodroffe (Arthur Avalon) analyzes the Tantrik polar conception of reality, elucidating how *Śiva* represents the static background of unpolarized consciousness without which kinetic cosmic manifestation (*Śakti*) cannot occur. Woodroffe contextualizes this dynamic in relation to non-dual Vedānta, showing that while Advaita treats cosmic manifestation as inexplicable appearance (*māyā* / *vivarta*), Śākta philosophy treats it as the real projection of *Śiva*'s inherent power (*śakti*).
+### Ṣaṭ-Cakra-Nīrūpaṇa of Pūrṇānanda Svāmī
+  
+Verse 29 describes *Sadāśiva* in the *viśuddha-cakra* as five-faced, ten-armed, snow-white, united with *Girijā* (Pārvatī), and clothed in a tiger skin (*sadāpūrvo devaḥ śiva iti ca samākhyānasiddhaḥ prasiddhaḥ*).
+  
+Verse 42 details the subtle *bindu* in the *sahasrāra*, identifying it as the abode of the deity known to all as *Paramaśiva*, the supreme *Brahman* and *Ātman* of all beings (*paramashiva-samākhyāna-siddha*).
+  
+Verse 49 celebrates the immaculate, eternal abode of *Śiva* (*śivapadam amalam*), called *Nityānanda*, pure consciousness itself (*śuddhabodhasvarūpaṃ*), where the soul attains liberation.
+  
+Verse 51 details the culminating union where the ascending *Devī* reaches the flame-like *Śiva* of supreme bliss (*paramasukha-rūpa-śiva*) to generate the bliss of liberation.
+
+### Traditional commentaries on Ṣaṭ-Cakra-Nīrūpaṇa
+  
+*Śaṅkara* (Tāntrika commentator) and *Viśvanātha* both clarify that the forms of *Śiva* in the lower centers (such as the *svayambhūliṅga* in *mūlādhāra* and *ardhanārīśvara* in *viśuddha*) are conditioned manifestations (*aṃśa*) of the unconditioned *Paramaśiva* residing in the *sahasrāra*. Viśvanātha glosses the non-difference between *Śiva* and *Śaktī* as *śivābhedajñāna*.
+
+### Mahānirvāṇa Tantra
+  
+Chapter 1 and Chapter 3 formulate the theological nature of *Paramaśiva* as the transcendent, unchangeable, self-manifest witness (*sākṣin*) of the cosmos, from whose will *Brahmā*, *Viṣṇu*, and *Rudra* perform creation, preservation, and destruction under the impulse of *Śakti*.
+
+### Modern scholarship
+  
+Sir John Woodroffe (Arthur Avalon) analyzes the Tantrik polar conception of reality, elucidating how *Śiva* represents the static background of unpolarized consciousness without which kinetic cosmic manifestation (*Śakti*) cannot occur. Woodroffe contextualizes this dynamic in relation to non-dual Vedānta, showing that while Advaita treats cosmic manifestation as inexplicable appearance (*māyā* / *vivarta*), Śākta philosophy treats it as the real projection of *Śiva*'s inherent power (*śakti*).
 
 ---
 
@@ -88,39 +101,31 @@ Primary textual traditions and their traditional commentaries provide specific t
 
 Significant doctrinal and textual disputes surround the conception of *Śiva*:
 
-1. **Monism vs. Dualism / Pluralism**: A major sectarian debate exists between the non-dualism of Kashmir Śaivism and Śākta Tantra versus the pluralistic realism of Śaiva Siddhānta and Nyāya-Vaiśeṣika. Śākta Tantrikas and Trika Śaivas maintain that *Śiva* is both transcendent consciousness and the material and efficient cause of the universe through His inseparable *Śakti*. In contrast, Śaiva Siddhānta insists on an irreducible ontological distinction between Lord (*pati*), soul (*paśu*), and matter (*pāśa*), denying that the world is an emanation of *Śiva*'s substance. Nyāya theologians similarly restrict *Śiva* to the role of an operative/efficient cause (*nimittakāraṇa*), rejecting pantheistic identity with creation.
-2. **Primacy of Śiva vs. Primacy of Śakti**: In Śākta traditions, although *Śiva* is recognized as the ultimate witness consciousness, He is functionally inactive without *Śakti* (*śivaḥ śaktyā yukto yadi bhavati śaktaḥ prabhavituṃ / na ced evaṃ devo na khalu kuśalaḥ spanditum api*). Some Śākta texts subordinate *Śiva* to the position of a passive pedestal or couch (*mahāpreta*) for the Goddess, whereas orthodox Śaiva schools maintain the absolute ontological supremacy of *Śiva*, regarding *Śakti* merely as His dependent attribute or power.
+1. **Monism vs. dualism / pluralism**: A major sectarian debate exists between the non-dualism of Kashmir Śaivism and Śākta Tantra versus the pluralistic realism of Śaiva Siddhānta and Nyāya-Vaiśeṣika. Śākta Tantrikas and Trika Śaivas maintain that *Śiva* is both transcendent consciousness and the material and efficient cause of the universe through His inseparable *Śakti*. In contrast, Śaiva Siddhānta insists on an irreducible ontological distinction between Lord (*pati*), soul (*paśu*), and matter (*pāśa*), denying that the world is an emanation of *Śiva*'s substance. Nyāya theologians similarly restrict *Śiva* to the role of an operative/efficient cause (*nimittakāraṇa*), rejecting pantheistic identity with creation.
+2. **Primacy of Śiva vs. primacy of Śakti**: In Śākta traditions, although *Śiva* is recognized as the ultimate witness consciousness, He is functionally inactive without *Śakti* (*śivaḥ śaktyā yukto yadi bhavati śaktaḥ prabhavituṃ / na ced evaṃ devo na khalu kuśalaḥ spanditum api*). Some Śākta texts subordinate *Śiva* to the position of a passive pedestal or couch (*mahāpreta*) for the Goddess, whereas orthodox Śaiva schools maintain the absolute ontological supremacy of *Śiva*, regarding *Śakti* merely as His dependent attribute or power.
 3. **Nomenclature of the Supreme Abode**: Commentaries on *Ṣaṭ-Cakra-Nīrūpaṇa* (verse 49) acknowledge disputes among different sects regarding the nature of the *sahasrāra*: Śaivas designate it as the place of *Śiva* (*śivasthāna*), Śāktas as the place of *Devī*, Vaiṣṇavas as the abode of *Viṣṇu* or *Parama-puruṣa*, and Vedāntins as *Brahman*, though the text harmonizes these as sectarian designations for the one ineffable state of liberation.
 
 ---
 
 ## Related terms
 
-- Adhvan (अध्वन्)
-- Ādinātha (आदिनाथ)
-- Ardhanārīśvara (अर्धनारीश्वर)
-- Bhairava (भैरव)
-- Bindu (बिन्दु)
-- Cit (चित्)
+- [Ādinātha (आदिनाथ)](adinatha.md)
+- [Bindu (बिन्दु)](bindu.md)
+- [Cit (चित्)](cit.md)
 - Cit-śakti (चित्शक्ति)
 - Īśāna (ईशान)
-- Īśvara (ईश्वर)
+- [Īśvara (ईश्वर)](isvara.md)
 - Kañcuka (कञ्चुक)
-- Kuṇḍalinī (कुण्डलिनी)
+- [Kuṇḍalinī (कुण्डलिनी)](kundalini.md)
 - Liṅga (लिङ्ग)
-- Mahādeva (महादेव)
-- Maheśvara (महेश्वर)
+- [Mahādeva (महादेव)](mahadeva.md)
+- [Maheśvara (महेश्वर)](mahesvara.md)
 - Niṣkala (निष्कल)
 - Paramaśiva (परमशिव)
-- Prakāśa (प्रकाश)
 - Rudra (रुद्र)
 - Sadāśiva (सदाशिव)
-- Sahasrāra (सहस्रार)
-- Śakti (शक्ति)
-- Śambhu (शम्भु)
-- Sāmarasya (सामरस्य)
-- Svātantrya (स्वातन्त्र्य)
-- Vimarśa (विमर्श)
+- [Sahasrāra (सहस्रार)](sahasrara.md)
+- [Śakti (शक्ति)](sakti.md)
 
 ---
 

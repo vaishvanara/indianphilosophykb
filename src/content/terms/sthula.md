@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-13-26"
 title: "Sthūla (सथूल)"
 devanagari: "सथूल"
 iast: "Sthūla"
@@ -16,9 +16,9 @@ See: [Mandukya Upanishad (Verse 3)](mandukyopanisat.md)
 
 ## Definition
 
-In general Sanskrit lexicography, the primary adjective *sthūla* (स्थूल) literally denotes that which is thick, bulky, large, stout, or massive. In extended and figurative contexts, it conveys the sense of coarse, unrefined, or, when applied to mental faculties (*sthūla-buddhi*, *sthūla-mati*), dull and stupid. In technical philosophical terminology, *sthūla* denotes that which is material, physical, and tangible, standing in systematic opposition to *sūkṣma* (subtle). When substantivized in the neuter gender (*sthūlam*), the word signifies the gross material body (*sthūla-śarīra*) or physical matter.
+In general Sanskrit lexicography, the primary adjective *sthūla* (Sanskrit: स्थूल) literally denotes that which is thick, bulky, large, stout, or massive. In extended and figurative contexts, it conveys the sense of coarse, unrefined, or, when applied to mental faculties (*sthūla-buddhi*, *sthūla-mati*), dull and stupid. In technical philosophical terminology, *sthūla* denotes that which is material, physical, and tangible, standing in systematic opposition to *sūkṣma* (subtle). When substantivized in the neuter gender (*sthūlam*), the word signifies the gross material body (*sthūla-śarīra*) or physical matter.
 
-Within the *Māṇḍūkya Upaniṣad*, *sthūla* occurs in the third mantra as part of the compound *sthūlabhuk* ("experiencer of gross objects"), describing *Vaiśvānara*, the first quarter (*prathamaḥ pādaḥ*) of the Self (*Ātman*). In this context, *sthūla* defines the field of experience proper to the waking state (*jāgaritasthāna*), wherein consciousness is turned outward (*bahiṣprajña*). According to Śaṅkara’s commentary on this mantra, *sthūla* designates external, physical objects (*sthūla-viṣaya*)—such as sound, touch, color, taste, and smell—experienced through nineteen instruments of perception and action: the five sense-organs (*buddhindriya*), the five motor organs (*karmendriya*), the five vital breaths (*prāṇa*), the mind (*manas*), the intellect (*buddhi*), egoity (*ahaṅkāra*), and mind-stuff (*citta*). 
+Within the *Māṇḍūkya Upaniṣad*, *sthūla* occurs in the verse 3 as part of the compound *sthūla-bhuk* ("experiencer of gross objects"), describing *Vaiśvānara*, the first quarter (*prathamaḥ pādaḥ*) of the Self (*Ātman*). In this context, *sthūla* defines the field of experience proper to the waking state (*jāgaritasthāna*), wherein consciousness is turned outward (*bahiṣ-prajña*). According to Śaṅkara’s commentary on this verse, *sthūla* designates external, physical objects (*sthūla-viṣaya*), such as sound, touch, color, taste, and smell, experienced through nineteen instruments of perception and action: the five sense-organs (*buddhindriya*), the five motor organs (*karmendriya*), the five vital breaths (*prāṇa*), the mind (*manas*), the intellect (*buddhi*), egoity (*ahaṅkāra*), and mind-stuff (*citta*). 
 
 Gauḍapāda’s *Kārikā* (1.3, 1.5) similarly identifies the gross (*sthūla*) as that which sustains and satisfies the waking Self (*Viśva* or *Vaiśvānara*), distinguishing it from the subtle (*pravivikta* or *sūkṣma*) objects of dream consciousness (*Taijasa*), which consist solely of internal mental impressions (*vāsanā*). Furthermore, in the non-dual exegetical framework of the *Māṇḍūkya Upaniṣad*, *sthūla* encompasses the totality of the physical cosmos (*Virāṭ* or *sthūla-prapañca*), with which the individual waking experiencer is shown to be non-different to demonstrate non-duality (*advaita*).
 
@@ -30,7 +30,7 @@ Grammatically, *sthūla* is a primary adjective inflected in three genders (*sth
 
 In the comparative and superlative degrees, *sthūla* drops the suffix *-la* and takes the stem *sthav-*, yielding the comparative *sthavīyas* ("thicker, stouter, grosser") and the superlative *sthaviṣṭha* ("thickest, largest, grossest").
 
-In the *Māṇḍūkya Upaniṣad* (mantra 3), the word appears in the compound *sthūlabhuk* (nominative singular of *sthūlabhuj*). This compound is an accusative dependent determinative (*dvitīyā-tatpuruṣa*), combining the adjective or substantive *sthūla* ("gross [objects]") with the root noun *-bhuk* (from *√bhuj*, "to eat, enjoy, experience," with the zero suffix *kvip*), literally signifying "one who experiences or consumes gross objects".
+In the *Māṇḍūkya Upaniṣad* (verse 3), the word appears in the compound *sthūla-bhuk* (nominative singular of *sthūla-bhuj*). This compound is an accusative dependent determinative (*dvitīyā-tatpuruṣa*), combining the adjective or substantive *sthūla* ("gross objects") with the root noun *-bhuk* (from *√bhuj*, "to eat, enjoy, experience," with the zero suffix *kvip*), literally signifying "one who experiences or consumes gross objects".
 
 ---
 

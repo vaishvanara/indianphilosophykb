@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-13-26"
 title: "Sarvaṃ (सर्वं)"
 devanagari: "सर्वं"
 iast: "Sarvaṃ"
@@ -16,26 +16,27 @@ See: [Mandukya Upanishad (Verses 1, 2, 9, 11)](mandukyopanisat.md)
 
 ## Definition
 
-Lexically, *sarva* is a pronominal adjective signifying "all," "every," "whole," or "entire". In its neuter nominative and accusative singular form, *sarvam* (सर्वम् / सर्वं), it is used substantively to mean "everything," "the whole," or "totality".
+Lexically, *sarva* (Sanskrit: सर्व) is a pronominal adjective signifying "all," "every," "whole," or "entire". In its neuter nominative and accusative singular form, *sarvam* (Sanskrit: सर्वम् / सर्वं), it is used substantively to mean "everything," "the whole," or "totality".
 
 In the *Māṇḍūkya Upaniṣad*, the term *sarvaṃ* appears at the beginning of the text as an essential ontological designation:
 
-1. **Mantra 1:** *om ity etad akṣaram idaṃ sarvam* ("*Aum*, the word, is all this").
-2. **Mantra 2:** *sarvaṃ hy etad brahma* ("All this is, indeed, *Brahman*").
+1. **Verse 1:** *om ity etad akṣaram idaṃ sarvam* ("*Aum*, the word, is all this").
+2. **Verse 2:** *sarvaṃ hy etad brahma* ("All this is, indeed, *Brahman*").
 
-Philosophically, the Upanisad and its classical commentaries distinguish between the literal and extended metaphysical meanings of the term:
+Philosophically, the *Upanisad* and its classical commentaries distinguish between the literal and extended metaphysical meanings of the term:
 
-* **Literal meaning:** *Sarvaṃ* denotes the empirical aggregate of all diversified objects, names, forms, and temporal distinctions. In Mantra 1, the demonstrative phrase *idaṃ sarvam* ("all this") encompasses the totality of phenomenal existence—all that is past, present, and future, as well as whatever lies beyond the threefold division of time (the unmanifested, *avyākṛta*).
-* **Extended / Metaphysical meaning in Advaita:** In his commentary on Mantras 1 and 2, Śaṅkarācārya explains that *sarvam* does not designate an ultimate multiplicity of independently existing entities. Empirical objects are non-different from their identifying names; all names and sounds are non-different from their matrix sound *Aum*; and *Aum* is non-different from *Brahman*. Therefore, when the Upanisad proclaims that "all this is verily *Brahman*" (*sarvaṃ hy etad brahma*), the apparent totality (*sarvam*) is sublated into its underlying, non-dual substratum (*adhiṣṭhāna*). The universe denoted by *sarvam* has no reality separate from Consciousness (*Ātman* / *Brahman*).
+- **Literal meaning:** *Sarvaṃ* denotes the empirical aggregate of all diversified objects, names, forms, and temporal distinctions. In verse 1, the demonstrative phrase *idaṃ sarvam* ("all this") encompasses the totality of phenomenal existence: all that is past, present, and future, as well as whatever lies beyond the threefold division of time (the unmanifested, *avyākṛta*).
+- **Extended / metaphysical meaning in Advaita:** In his commentary on verses 1 and 2, Śaṅkarācārya explains that *sarvam* does not designate an ultimate multiplicity of independently existing entities. Empirical objects are non-different from their identifying names; all names and sounds are non-different from their matrix sound *Aum*; and *Aum* is non-different from *Brahman*. Therefore, when the *Upanisad* proclaims that "all this is verily *Brahman*" (*sarvaṃ hy etad brahma*), the apparent totality (*sarvam*) is sublated into its underlying, non-dual substratum (*adhiṣṭhāna*). The universe denoted by *sarvam* has no reality separate from Consciousness (*Ātman* / *Brahman*).
 
 ---
 
 ## Etymology
 
-* **Part of speech and grammatical category:** Neuter nominative/accusative singular of the pronominal adjective stem *sarva*.
-* **Classification in Sanskrit grammar:** The base *sarva* heads the class of thirty-five pronominal words known technically as *sarvanāman* (pronouns / pronominal adjectives), in accordance with the rule *sarvādīni sarvanāmāni* (Pāṇini I.1.27).
-* **Inflectional features:** Pronouns ending in *-a* follow pronominal declension (taking terminations such as *-smai*, *-smāt*, and *-smin*), but in the neuter nominative and accusative singular, *sarva* takes the standard neuter case termination *-m*, yielding *sarvam* (with neuter dual *sarve* and plural *sarvāṇi*).
-* **Root derivation:** Unlike secondary verbal derivatives (*kṛdanta*), *sarva* functions in classical Sanskrit grammar and lexicography as an underived pronominal stem; the selected sources treat its base form without tracing it to an established verbal root, leaving its ultimate primitive derivation uncertain.
+Grammatically, the term *sarvaṃ* represents the neuter nominative or accusative singular of the pronominal adjective stem *sarva*. In Sanskrit grammar, this base heads the group of thirty-five pronominal words technically designated as *sarvanāman* (pronouns or pronominal adjectives), in accordance with Pāṇini’s rule *sarvādīni sarvanāmāni* (I.1.27). 
+
+Although *-a*-stem pronouns generally follow a distinct pronominal declension, taking characteristic endings such as *-smai*, *-smāt*, and *-smin*, in the neuter nominative and accusative singular, *sarva* assumes the standard neuter case termination *-m*, yielding *sarvam* (alongside the neuter dual *sarve* and plural *sarvāṇi*). 
+
+Unlike secondary verbal derivatives (*kṛdanta*), *sarva* functions in classical Sanskrit grammar and lexicography as an underived pronominal stem; because authoritative sources treat the base without linking it to an established verbal root, its ultimate primitive derivation remains uncertain.
 
 ---
 
