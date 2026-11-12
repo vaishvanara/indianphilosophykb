@@ -1,5 +1,5 @@
 ---
-lastUpdated: "11-09-26"
+lastUpdated: "11-12-26"
 title: "Māṇḍūkya (माण्डूक्य)"
 devanagari: "माण्डूक्य"
 iast: "Māṇḍūkya"
@@ -8,7 +8,7 @@ aliases:
   - "माण्डूक्य"
 ---
 
-Meaning: relating to the sage *Maṇḍūka* or his Vedic lineage; specifically denoting the *Māṇḍūkya Upaniṣad* of the Atharva Veda expounding *AUM* and *Ātman*.
+Meaning: relating to the sage Maṇḍūka or his Vedic lineage; specifically denoting the *Māṇḍūkya Upaniṣad* of the Atharva Veda expounding *AUM* and *Ātman*.
 
 See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
 
@@ -16,12 +16,13 @@ See: [Mandukya Upanishad (Verse 1)](mandukyopanisat.md)
 
 ## Definition
 
-*Māṇḍūkya* (माण्डूक्य) is a Sanskrit nominal adjective and proper noun literally meaning "belonging to, derived from, or pertaining to Maṇḍūka" (मण्डूक) or the Maṇḍūka school (*māṇḍūka-śākhā*) of the Atharva Veda.
+*Māṇḍūkya* (Sanskrit: माण्डूक्य) is a Sanskrit nominal adjective and proper noun literally meaning "belonging to, derived from, or pertaining to Maṇḍūka" (मण्डूक) or the Maṇḍūka school (*māṇḍūka-śākhā*) of the Atharva Veda.
 
-In classical Indian philosophy and sacred literature, the term primarily designates the *Māṇḍūkya Upaniṣad*, one of the principal twelve Upaniṣads. Though comprising only twelve concise prose mantras, it holds a central position in Advaita Vedānta for its systematic exposition of the sacred monosyllable *AUM* (ॐ) and the four quarters (*pāda*) of the Self (*Ātman*):
-1. *Viśva* – the waking state (*jāgaritasthāna*), represented by the letter *A* (*akāra*).
-2. *Taijasa* – the dream state (*svapnasthāna*), represented by the letter *U* (*ukāra*).
-3. *Prājña* – the dreamless deep sleep state (*suṣuptasthāna*), represented by the letter *M* (*makāra*).
+In classical Indian philosophy and sacred literature, the term primarily designates the *Māṇḍūkya Upaniṣad*, one of the principal twelve Upanishads. Though comprising only twelve concise prose verses, it holds a central position in Advaita Vedānta for its systematic exposition of the sacred monosyllable *AUM* (ॐ) and the four quarters (*pāda*) of the Self (*Ātman*):
+
+1. *Viśva* – the waking state (*jāgarita-sthāna*), represented by the letter *A* (*akāra*).
+2. *Taijasa* – the dream state (*svapna-sthāna*), represented by the letter *U* (*ukāra*).
+3. *Prājña* – the dreamless deep sleep state (*suṣupta-sthāna*), represented by the letter *M* (*makāra*).
 4. *Turīya* – the unconditioned, non-dual Fourth state, represented by the soundless measure (*amātra*).
 
 Literally, the base nominal stem *maṇḍūka* (मण्डूक) denotes a "frog." In traditional and pedagogical lore, an extended figurative association is sometimes made with *maṇḍūka-pluti* ("frog-leap"), representing the intuitive leap of consciousness from relative states directly to the unconditioned Absolute (*Turīya*), or with a lineage of Vedic ascetics (*ṛṣi*) carrying the name Maṇḍūka.
@@ -30,11 +31,11 @@ Literally, the base nominal stem *maṇḍūka* (मण्डूक) denotes a "
 
 ## Etymology
 
-Grammatically, *māṇḍūkya* (माण्डूक्य) functions as a masculine or neuter adjective used as a proper noun (*māṇḍūkyam* / *māṇḍūkya-upaniṣad*). It is formed through secondary nominal derivation (*taddhita*) from the nominal stem *maṇḍūka* (मण्डूक, "frog" or the proper name of a Vedic sage):
+Grammatically, *māṇḍūkya* functions as a masculine or neuter adjective used as a proper noun (*māṇḍūkyam* / *māṇḍūkya-upaniṣad*). It is formed through secondary nominal derivation (*taddhita*) from the nominal stem *maṇḍūka* ("frog" or the proper name of a Vedic sage):
 
-1. **Base Stem**: *Maṇḍūka* (मण्डूक), a masculine noun. In Vedic teacher genealogies (*vaṃśa*), such as that preserved in the *Bṛhadāraṇyaka Upaniṣad* (VI.5.4), related patronymic lineages such as *Māṇḍūkayani* and *Māṇḍūkeya* are explicitly recorded.
-2. **Suffixation and Vṛddhi**: The term is formed by adding the patronymic/relational secondary suffix *-ya* (या) or *-ṇya*, which induces *vṛddhi* (first-degree lengthening) of the initial vowel *a* to *ā* in the first syllable (*ma-* → *mā-*), yielding *māṇḍūkya* ("belonging to the descendants or school of Maṇḍūka").
-3. **Cognate Derivatives**: Related grammatical derivatives in classical lexicography (such as Macdonell's *Sanskrit-English Dictionary*) include *māṇḍūka* (माण्डूक, "derived from the Maṇḍūkas; a Vedic school"), *māṇḍūkāyana* (माण्डूकायन, "a school of the Maṇḍūkas"), and *māṇḍūkeya* (माण्डूकेय, "patronymic descendant of Maṇḍūka").
+1. **Base stem**: *Maṇḍūka* (मण्डूक), a masculine noun. In Vedic teacher genealogies (*vaṃśa*), such as that preserved in the *Bṛhadāraṇyaka Upaniṣad* (VI.5.4), related patronymic lineages such as *Māṇḍūkayani* and *Māṇḍūkeya* are explicitly recorded.
+2. **Suffixation and *vṛddhi***: The term is formed by adding the patronymic/relational secondary suffix *-ya* (या) or *-ṇya*, which induces *vṛddhi* (first-degree lengthening) of the initial vowel *a* to *ā* in the first syllable (*ma-* → *mā-*), yielding *māṇḍūkya* ("belonging to the descendants or school of Maṇḍūka").
+3. **Cognate derivatives**: Related grammatical derivatives in classical lexicography (such as Macdonell's *Sanskrit-English Dictionary*) include *māṇḍūka* (माण्डूक, "derived from the Maṇḍūka; a Vedic school"), *māṇḍūkāyana* (माण्डूकायन, "a school of the Maṇḍūka"), and *māṇḍūkeya* (माण्डूकेय, "patronymic descendant of Maṇḍūka").
 
 While the derivation of *māṇḍūkya* from *maṇḍūka* via *vṛddhi* suffixation is well established in Sanskrit grammar (*vyākaraṇa*), the ultimate etymological root of the underlying nominal stem *maṇḍūka* itself remains uncertain in formal linguistics. Traditional sources link it onomatopoetically to the verbal sound *maka-makāya* ("to croak") or to the root *maṇḍ* ("to adorn" or "gladden"), but these remain speculative derivations rather than strictly established root etymologies.
 

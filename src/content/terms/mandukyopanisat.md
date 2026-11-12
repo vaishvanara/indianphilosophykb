@@ -1,5 +1,5 @@
 ---
-lastUpdated: "10-21-26"
+lastUpdated: "11-12-26"
 title: "Māṇḍūkyopaniṣat (माण्डूक्योपनिषत्)"
 devanagari: "माण्डूक्योपनिषत्"
 iast: "Māṇḍūkyopaniṣat"
@@ -123,7 +123,7 @@ Sthūla-Bhug-Vaiśvānaraḥ Prathamaḥ Pādaḥ.*
 **Translation**
 
 In the waking state, consciousness is outward.
-Seven-limbed, nineteen-mouthed, enjoyer of material objects—the Self of the waking state (*Vaiśvānara*) is the first quarter.
+Seven-limbed, nineteen-mouthed, enjoyer of material objects—the Self in the waking state (*Vaiśvānara*) is the first quarter.
 
 **Word-for-word meaning**
 
@@ -133,7 +133,7 @@ Seven-limbed, nineteen-mouthed, enjoyer of material objects—the Self of the wa
 4. [Ekonaviṃśati-Mukhaḥ - एकोनविंशतिमुखः](ekonavimsati-mukhah.md) - nineteen mouthed  
 5. [Sthūla - सथूल](sthula.md) - material objects  
 6. [Bhug - भुग्](bhug.md) - enjoyer  
-7. [Vaiśvānara - वैश्वानर](vaisvanara.md) - the Self of the waking state  
+7. [Vaiśvānara - वैश्वानर](vaisvanara.md) - the Self in the waking state  
 8. [Prathamā - प्रथमा](prathama.md) - the first  
 9. [Pāda - पाद](pada.md) - quarter
 
@@ -141,7 +141,7 @@ Seven-limbed, nineteen-mouthed, enjoyer of material objects—the Self of the wa
 
 ## Verse 4 
 
-स्वप्नस्थानोऽन्तःप्रज्ञः
+स्वप्नस्थानोऽन्तःप्रज्ञः ।
 सप्ताङग एकोनविंशतिमुखः
 प्रविविक्तभुक्तैजसो द्वितीय पादः ॥ ४ ॥
 
@@ -152,7 +152,7 @@ Pravivikta-Bhuk-Taijaso Dvitīya Pādaḥ.*
 **Translation**
 
 In the dream state, consciousness is inward.
-Seven-limbed, nineteen-mouthed, enjoyer of subtle objects—the Self of the dream state (*Taijasa*) is the second quarter.
+Seven-limbed, nineteen-mouthed, enjoyer of subtle objects—the Self in the dream state (*Taijasa*) is the second quarter.
 
 **Word-for-word meaning**
 
@@ -161,7 +161,7 @@ Seven-limbed, nineteen-mouthed, enjoyer of subtle objects—the Self of the drea
 3. [Saptāṅga - सप्ताङग](saptanga.md) - seven-limbed  
 4. [Ekonaviṃśati-Mukhaḥ - एकोनविंशतिमुखः](ekonavimsati-mukhah.md) - nineteen mouthed  
 5. [Pravivikta-Bhuk - प्रविविक्तभुक्](pravivikta-bhuk.md) - enjoyer of subtle objects  
-6. [Taijasa - तैजस](taijasa.md) - the Self of the dream state  
+6. [Taijasa - तैजस](taijasa.md) - the Self in the dream state  
 7. [Dvitīya - द्वितीय](dvitiya.md) - the second  
 8. [Pāda - पाद](pada.md) - quarter
 
@@ -182,7 +182,7 @@ Hy-Ānanda-Bhuk Ceto-Mukhaḥ Prājñas-Tṛtīyaḥ Pādaḥ.*
 **Translation**
 
 Where one asleep neither desires anything nor sees any dream—that is deep sleep.
-In the state of deep sleep experience is unified, a mass of consciousness, verily of the form of bliss, verily enjoying bliss, and whose mouth is consciousness—wisdom/the Self of the sleep state (*Prājña*) is the third quarter.
+In the state of deep sleep experience is unified, a mass of consciousness, verily of the form of bliss, verily enjoying bliss, and whose mouth is consciousness—the Self in the state of deep sleep (*Prājña*) is the third quarter.
 
 **Word-for-word meaning**
 
@@ -204,7 +204,7 @@ In the state of deep sleep experience is unified, a mass of consciousness, veril
 16. [Hi - हि](hi.md) - verily  
 17. [Ānanda-Bhuk - आनन्दभुक्](ananda-bhuk.md) - enjoyer of bliss  
 18. [Ceto-Mukhaḥ - चेतोमुखः](ceto-mukhah.md) - whose mouth is consciousness  
-19. [Prajñā - प्रज्ञा](prajna.md) - wisdom/the Self of the sleep state  
+19. [Prajñā - प्रज्ञा](prajna.md) - wisdom/the Self in the state of deep sleep  
 20. [Tṛtīya - तृतीय](trtiya.md) - the third  
 21. [Pāda - पाद](pada.md) - quarter
 
@@ -325,7 +325,7 @@ Sarvān-Kāmān-Ādiś-Ca Bhavati Ya Evaṃ Veda.*
 
 **Translation**
 
-In the waking state, *Vaiśvānara* is A, the first measure because it is all-pervading or because it is the first.
+*Vaiśvānara* (whose field is the waking state) is A, the first measure because it is all-pervading or because it is the first.
 Verily, he who knows thus attains all desires and becomes the first.
 
 **Word-for-word meaning**
@@ -363,7 +363,7 @@ Nāsyā-Brahma-Vit-Kule Bhavati Ya Evaṃ Veda.*
 
 **Translation** 
 
-In the dream state, *Taijasa* is U, the second measure, because it is superior or because it is in between.
+*Taijasa* (whose field is the dream state) is U, the second measure, because it is superior or because it is in between.
 Verily, he who knows thus increases the flow of knowledge and becomes equalized; no person ignorant of *Brahman* is born in his family.
 
 **Word-for-word meaning**
@@ -403,18 +403,18 @@ Minoti Ha Vā Idaṃ Sarvam-Apītiś-Ca Bhavati Ya Evaṃ Veda.*
 
 **Translation**
 
-In the state of deep sleep, *Prājña* is M, the third measure, because it is the measure or the last.
+*Prājña* (whose field is the state of deep sleep) is M, the third measure, on account of it being the measure or the last.
 Verily, he who knows this measures all this and becomes the place of merger/dissolution.
 
 **Word-for-word meaning**
 
-1. [Suṣupta-Sthāna - सुषुप्तस्थान](susupta-sthana.md) - the state of deep sleep  
+1. [Suṣupta-Sthāna - सुषुप्तस्थान](susupta-sthana.md) - whose field is the state of deep sleep  
 2. [Prajñā - प्रज्ञा](prajna.md) - wisdom/the Self of the sleep state  
 3. [Makāra - मकार](makara.md) - the letter M  
 4. [Tṛtīya - तृतीय](trtiya.md) - the third  
 5. [Mātrā - मात्रा](matra.md) - measure  
-6. [Miteḥ - मितेः](miteh.md) - from its being a measure  
-7. [Apīteḥ - अपीतेः](apiteh.md) - on account of its being the final  
+6. [Miteḥ - मितेः](miteh.md) - on account of it being the measure  
+7. [Apīteḥ - अपीतेः](apiteh.md) - on account of it being the last  
 8. [Vā - वा](va.md) - or  
 9. [Minoti - मिनोति](minoti.md) - measures  
 10. [Ha Vai - ह वै](ha-vai.md) - verily  
